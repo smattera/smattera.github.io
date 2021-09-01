@@ -1,0 +1,282 @@
+/* CSS Document */
+body {
+	margin-top: 60px;
+}
+header {
+  position: relative;
+  background-color: black;
+  height: 95vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.25;
+  z-index: 1;
+}
+
+nav.bg-dark {
+	background-color: #37353C !important;
+}
+
+body {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: #f4e5a1;
+}
+
+nav.navbar.fixed-top.navbar-expand-lg.navbar-dark.bg-dark {
+	/* border-bottom: thick solid #f4e5a1; */
+	border-bottom: 5px solid;
+	border-image-slice: 0 0 1 0;
+	border-image-source: linear-gradient(to right, #D0A641, #f4e5a1, #D0A641);
+}
+
+.navbar-dark .navbar-toggler {
+color: #f4e5a1;
+border-color: #f4e5a1;
+}
+
+.navbar-dark .navbar-toggler-icon {
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(244, 229, 161, 0.96)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.btn-sm, .btn-group-sm > .btn {
+padding: 0.5rem 0.5rem 0.45rem 0.5rem;
+font-size: 1rem;
+line-height: 1;
+border-radius: 0.2rem;
+margin: 0px 10px 0px 0px;
+}
+
+.btn-outline-secondary {
+color: #f4e5a1;
+border-color: #f4e5a1;
+}
+
+.jumbotron {
+	margin-bottom: 0 !important;
+}
+
+.jumbotron-gray {
+	background: url("../images/chahtaimmi.svg") center repeat, linear-gradient(to right, #37353C, #777, #37353C);
+	background-size: 160px 100px, cover;
+}
+
+.jumbotron-red {
+	background: url("../images/diamond3.svg") center repeat, radial-gradient(#F15B40, #EE3124, #9E0B0F);
+	background-size: 400px 400px, cover;
+	color: #fff;
+}
+
+.jumbotron-basket {
+	background: url("../images/weave02.svg") center repeat, linear-gradient(to bottom, yellow, red, blue);
+	background-size: 360px 240px, cover;
+}
+
+.jumbotron-gold {
+	background:linear-gradient(to bottom, #f4e5a1, #D0A641);
+	margin: 0px;
+	padding: 20px;
+}
+
+.jumbotron-gold2 {
+	background:linear-gradient(to right, #D0A641, #f4e5a1, #D0A641);
+	margin: 0px;
+	padding: 20px;
+}
+
+.card-gold-border {
+	border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+	border-image-source: linear-gradient(to bottom, #f4e5a1, #D0A641);
+	/* border:thick solid #f4e5a1; */
+	/* border-image: linear-gradient(90deg, rgba(208,166,65,1) 0%, rgba(244,229,161,1) 50%, rgba(208,166,65,1) 100%); */
+}
+
+.diamond-narrow {
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-bottom: 70px solid red;
+  position: relative;
+  top: -50px;
+}
+.diamond-narrow:after {
+  content: '';
+  position: absolute;
+  left: -50px;
+  top: 70px;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-top: 70px solid red;
+}
+
+.card-header-gray {
+	background: #37353C;
+	color: #f4e5a1;
+	padding:10px 0px 0px 0px;
+}
+
+.card-header-gold {
+	background: linear-gradient(to bottom, #D0A641, #f4e5a1);
+	color: #000;
+}
+
+.card-header {
+	border-radius: 0 !important;
+}
+
+.card-body-gray {
+	background: linear-gradient(to bottom, #fff, #fff, #aaa);
+}
+
+.card-transparent {
+	background: none;
+	border: none;
+}
+
+.card-platinum {
+	background: linear-gradient(to bottom, #888, #ddd, #bbb);
+	/* background: linear-gradient(to bottom, #d6d5d3, #e5e4e2, #a6a5a3, #e5e4e2, #858482, #555452); */
+}
+
+.card-gold {
+	background: linear-gradient(to bottom, #D0A641, #ffefaf, #f4e5a1);
+	/* background: linear-gradient(to bottom, #FCF6BA, #BF953F, #FBF5B7, #BF953F, #B38728, #AA771C); */
+}
+
+.card-silver {
+	background: linear-gradient(to bottom, #666, #bbb, #999);
+}
+.card-bronze {
+	background: linear-gradient(to bottom, #844400, #FACC66, #FACC66);
+}
+
+.card-img-top {
+	margin-bottom: 20px;
+}
+
+.h1-outline {
+	-webkit-text-stroke: 0.5px white;
+   color: white;
+   text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+.h5-outline {
+	-webkit-text-stroke: 0.25px white;
+   color: white;
+   text-shadow:
+       2px 2px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+.golden-moon {
+	-webkit-filter: drop-shadow(1px 1px 0 white)
+                  drop-shadow(-1px -1px 0 white)
+				  drop-shadow(1px -1px 0 white)
+				  drop-shadow(-1px 1px 0 white);
+  filter: drop-shadow(1px 1px 0 white) 
+          drop-shadow(-1px -1px 0 white)
+	  	  drop-shadow(1px -1px 0 white)
+	  	  drop-shadow(-1px 1px 0 white);
+}
+
+.footer-gray {
+	background: #37353C;
+}
+
+/* Media Query for devices withi coarse pointers and no hover functionality */
+
+/* This will use a fallback image instead of a video for devices that commonly do not support the HTML5 video element */
+
+@media (pointer: coarse) and (hover: none) {
+  header {
+    background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
+  }
+
+  header video {
+    display: none;
+  }
+}
+
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{   }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+}	
+
+@media (max-width: 768px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+/* display 3 */
+@media (min-width: 768px) {
+    
+    .carousel-inner .carousel-item-right.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(33.333%);
+    }
+    
+    .carousel-inner .carousel-item-left.active, 
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-33.333%);
+    }
+}
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left{ 
+  transform: translateX(0);
+}
+
