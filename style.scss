@@ -1,0 +1,266 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+.map-container {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+  iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    }
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #d9bc64;
+  &:hover {
+    color: #f4e5a1;
+  }
+}
+
+.link-white a {
+  color: #d9bc64;
+  &:hover {
+    color: #f4e5a1;
+  }
+}
+
+.bg-dark {
+  background-color: cmyk(14%, 13%, 4%, 89%) !important;
+}
+
+header {
+  position: relative;
+  background-color: black;
+  height: 85vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+  video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+  }
+  .container {
+    position: relative;
+    z-index: 2;
+  }
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.25;
+    z-index: 1;
+  }
+}
+
+/* Media Query for devices withi coarse pointers and no hover functionality */
+
+/* This will use a fallback image instead of a video for devices that commonly do not support the HTML5 video element */
+
+@media (pointer: coarse) and (hover: none) {
+  header {
+    background: url("/img/CIF-bg.jpg") black
+      no-repeat center center scroll;
+    video {
+        display: none;
+    }
+  }
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.diamond-bg {
+  background: url("/img/diamond-bg.svg") center repeat,
+    linear-gradient(
+      30deg,
+      #550000,
+      maroon,
+      #550000,
+      maroon,
+      #550000,
+      maroon,
+      #550000
+    );
+  background-size: 700px 700px, cover;
+  background-attachment: fixed, fixed;
+}
+
+.diamond-bg2 {
+  background: url("/img/diamond-bg.svg") center repeat,
+    linear-gradient(
+      30deg,
+      #18181B,
+      #424349,
+      #18181B,
+      #424349,
+      #18181B,
+      #424349,
+      #18181B
+    );
+  background-size: 700px 700px, cover;
+  background-attachment: fixed, fixed;
+}
+
+.diamond-bg3 {
+  background: url("/img/diamond-bg.svg") center repeat,
+    linear-gradient(
+      30deg,
+      #B09136,
+      #D9BC64,
+      #B09136,
+      #D9BC64,
+      #B09136,
+      #D9BC64,
+      #B09136
+    );
+  background-size: 700px 700px, cover;
+  background-attachment: fixed, fixed;
+}
+
+.card-bg1 {
+    background: url("/img/princess.jpg") center no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.card-bg2 {
+  background: url("/img/princess.jpg") center no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+.card-bg3 {
+  background: url("/img/princess.jpg") center no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+.card-bg4 {
+  background: url("/img/princess.jpg") center no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+.card-gold-border {
+	border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+	border-image-source: linear-gradient(to bottom, #f4e5a1, #D0A641);
+	/* border:thick solid #f4e5a1; */
+	/* border-image: linear-gradient(90deg, rgba(208,166,65,1) 0%, rgba(244,229,161,1) 50%, rgba(208,166,65,1) 100%); */
+}
+
+.opaque {
+  color: #fff;
+  &:hover {
+    color: #fff;
+    opacity: 0.75;
+  }
+}
+
+@media (max-width: 767px) {
+  .carousel-inner .carousel-item > div {
+      display: none;
+      margin: auto;
+  }
+  .carousel-inner .carousel-item > div:first-child {
+      display: block;
+  }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+  display: flex;
+}
+
+/* medium and up screens */
+@media (min-width: 768px) {
+  
+  .carousel-inner .carousel-item-end.active,
+  .carousel-inner .carousel-item-next {
+    transform: translateX(25%);
+  }
+  
+  .carousel-inner .carousel-item-start.active, 
+  .carousel-inner .carousel-item-prev {
+    transform: translateX(-25%);
+  }
+}
+
+.carousel-inner .carousel-item-end,
+.carousel-inner .carousel-item-start { 
+transform: translateX(0);
+}
+
+.card-platinum {
+	background: linear-gradient(to bottom, #888, #ddd, #bbb);
+	/* background: linear-gradient(to bottom, #d6d5d3, #e5e4e2, #a6a5a3, #e5e4e2, #858482, #555452); */
+}
+
+.card-gold {
+	background: linear-gradient(to bottom, #D0A641, #ffefaf, #f4e5a1);
+	/* background: linear-gradient(to bottom, #FCF6BA, #BF953F, #FBF5B7, #BF953F, #B38728, #AA771C); */
+}
+
+.card-silver {
+	background: linear-gradient(to bottom, #666, #bbb, #999);
+}
+.card-bronze {
+	background: linear-gradient(to bottom, #844400, #FACC66, #FACC66);
+}
+
+.card-img, .card-img-bottom {
+  border-bottom-right-radius: 0%;
+  border-bottom-left-radius: 0%;
+}
+
+.card-img, .card-img-top {
+  border-top-left-radius: 0%;
+  border-top-right-radius: 0%;
+}
+
+.footer .container a {
+  color: #d9bc64;
+  text-decoration: none;
+}
+
+.btn-outline-secondary {
+  color: #d9bc64;
+  border-color: #d9bc64;
+  &:hover {
+    color: #333;
+    background-color: #f4e5a1;
+    border-color: #f4e5a1;
+  }
+}
