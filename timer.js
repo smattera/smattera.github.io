@@ -3,7 +3,7 @@ var countDownDate = new Date("July 14, 2022 10:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
-
+var y;
   // Get today's date and time
   var now = new Date().getTime();
 
