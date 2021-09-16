@@ -13,3 +13,6 @@ twitter_username: MsChoctawFair
 youtube_channel: Choctawindianfair39350
 
 show_excerpts: true 
+
+sass:
+    sass_dir: _sass
