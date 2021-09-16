@@ -87,7 +87,7 @@ header .overlay {
 /* This will use a fallback image instead of a video for devices that commonly do not support the HTML5 video element */
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: url("/img/CIF-bg.jpg") black no-repeat center center scroll;
+    background: url("/assets/img/CIF-bg.jpg") black no-repeat center center scroll;
   }
   header video {
     display: none;
@@ -101,43 +101,43 @@ header .overlay {
 }
 
 .diamond-bg {
-  background: url("/img/diamond-bg.svg") center repeat, linear-gradient(30deg, #550000, maroon, #550000, maroon, #550000, maroon, #550000);
+  background: url("/assets/img/diamond-bg.svg") center repeat, linear-gradient(30deg, #550000, maroon, #550000, maroon, #550000, maroon, #550000);
   background-size: 700px 700px, cover;
   background-attachment: fixed, fixed;
 }
 
 .diamond-bg2 {
-  background: url("/img/diamond-bg.svg") center repeat, linear-gradient(30deg, #18181B, #424349, #18181B, #424349, #18181B, #424349, #18181B);
+  background: url("/assets/img/diamond-bg.svg") center repeat, linear-gradient(30deg, #18181B, #424349, #18181B, #424349, #18181B, #424349, #18181B);
   background-size: 700px 700px, cover;
   background-attachment: fixed, fixed;
 }
 
 .diamond-bg3 {
-  background: url("/img/diamond-bg.svg") center repeat, linear-gradient(30deg, #B09136, #D9BC64, #B09136, #D9BC64, #B09136, #D9BC64, #B09136);
+  background: url("/assets/img/diamond-bg.svg") center repeat, linear-gradient(30deg, #B09136, #D9BC64, #B09136, #D9BC64, #B09136, #D9BC64, #B09136);
   background-size: 700px 700px, cover;
   background-attachment: fixed, fixed;
 }
 
 .card-bg1 {
-  background: url("/img/events2.jpg") center no-repeat;
+  background: url("/assets/img/events2.jpg") center no-repeat;
   background-size: cover;
   height: 600px;
 }
 
 .card-bg2 {
-  background: url("/img/stickball2.jpg") center no-repeat;
+  background: url("/assets/img/stickball2.jpg") center no-repeat;
   background-size: cover;
   height: 600px;
 }
 
 .card-bg3 {
-  background: url("/img/princess.jpg") center no-repeat;
+  background: url("/assets/img/princess.jpg") center no-repeat;
   background-size: cover;
   height: 600px;
 }
 
 .card-bg4 {
-  background: url("/img/competitions2.jpg") center no-repeat;
+  background: url("/assets/img/competitions2.jpg") center no-repeat;
   background-size: cover;
   height: 600px;
 }
