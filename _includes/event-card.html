@@ -1,9 +1,13 @@
 ---
 ---
-<figure>
-    <a href="{{ include.url }}">
-    <img src="{{ include.file }}" style="max-width: {{ include.max-width }};"
-       alt="{{ include.alt }}"/>
-    </a>
-    <figcaption>{{ include.caption }}</figcaption>
- </figure>
+ <div class="carousel-item active">
+    <div class="col-md-3">
+      <a href="{{ include.url }}" target="_blank">
+        <div class="card card-gold-border opaque">
+          <div class="card-img card-platinum">
+            <img src="{{ include.file }}" class="img-fluid" alt="{{ include.alt }}">
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
