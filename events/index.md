@@ -2,8 +2,8 @@
 layout: default
 title: Events
 ---
-<section class="mt-5">
-  <div class="container" style="background-color:black">
+<section class="mt-5" style="background-color:black">
+  <div class="container">
     <h1>Hello, World!</h1>
   </div>
 </section>
