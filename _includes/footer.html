@@ -6,72 +6,12 @@
         <div id="recipeCarousel" class="carousel slide"
           data-bs-ride="carousel">
           <div class="carousel-inner" role="listbox">
-            <div class="carousel-item active">
-              <div class="col-md-3">
-                <a href="https://www.pearlriverresort.com" target="_blank">
-                  <div class="card card-gold-border opaque">
-                    <div class="card-img card-platinum">
-                      <img src="/assets/sponsors/pearlriver2.png" class="img-fluid" alt="Pearl River Resort">
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <div class="col-md-3">
-                <a href="http://www.engservice.com" target="_blank">
-                  <div class="card card-gold-border opaque">
-                    <div class="card-img card-platinum">
-                      <img src="/assets/sponsors/engineeringservice.png" class="img-fluid" alt="Engineering Service">
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <div class="col-md-3">
-                <a href="http://pryormorrow.com" target="_blank">
-                  <div class="card card-gold-border opaque">
-                    <div class="card-img card-platinum">
-                      <img src="/assets/sponsors/pryormorrow.png" class="img-fluid" alt="Pryor Morrow">
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <div class="col-md-3">
-                <a href="https://southernresearchgroup.com" target="_blank">
-                  <div class="card card-gold-border opaque">
-                    <div class="card-img card-platinum">
-                      <img src="/assets/sponsors/srg.png" class="img-fluid" alt="SRG">
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <div class="col-md-3">
-                <a href="https://www.unum.com" target="_blank">
-                  <div class="card card-gold-border opaque">
-                    <div class="card-img card-platinum">
-                      <img src="/assets/sponsors/sis.png" class="img-fluid" alt="Walt Schrimpf (SIS-UNUM)">
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <div class="col-md-3">
-                <a href="https://www.bancorpsouth.com/insurance" target="_blank">
-                  <div class="card card-gold-border opaque">
-                    <div class="card-img card-gold">
-                      <img src="/assets/sponsors/bxs.png" class="img-fluid" alt="BXS">
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
+            {% include sponsor-plat.html url="https://www.pearlriverresort.com" file="/assets/sponsors/pearlriver2.png" alt="Pearl River Resort" %}
+            {% include sponsor-plat.html url="http://www.engservice.com" file="/assets/sponsors/engineeringservice.png" alt="Engineering Service" %}
+            {% include sponsor-plat.html url="http://pryormorrow.com" file="/assets/sponsors/pryormorrow.png" alt="Pryor Morrow" %}
+            {% include sponsor-plat.html url="https://southernresearchgroup.com" file="/assets/sponsors/srg.png" alt="SRG" %}
+            {% include sponsor-plat.html url="https://www.unum.com" file="/assets/sponsors/sis.png" alt="Walt Schrimpf (SIS-UNUM" %}
+            {% include sponsor-gold.html url="https://www.bancorpsouth.com/insurance" file="/assets/sponsors/bxs.png" alt="BXS" %}
             <div class="carousel-item">
               <div class="col-md-3">
                 <a href="https://yates.doitbest.com" target="_blank">
