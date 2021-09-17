@@ -2,12 +2,7 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../../Creative Cloud Files/Dreamweaver Sites"
 		}
 	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "choctaw_indian_fair"
-	}
+	"settings": {}
 }
