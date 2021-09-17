@@ -1,9 +1,12 @@
- <div class="carousel-item active">
+ <div class="carousel-item {{ include.class }}">
     <div class="col-md-3">
       <a href="{{ include.url }}" target="_blank">
-        <div class="card card-gold-border opaque">
-          <div class="card-img card-platinum">
-            <img src="{{ include.file }}" class="img-fluid" alt="{{ include.alt }}">
+        <div class="card bg-dark text-white">
+          <img src="{{ include.img }}" class="card-img" alt="{{ include.alt }}">
+          <div class="card-img-overlay">
+            <p class="card-text">{{ include.time }}</p>
+            <h5 class="card-title">{{ include.title }}</h5>
+            <p class="card-text">{{ include.location }}</p>
           </div>
         </div>
       </a>

@@ -1,4 +1,4 @@
-  <section class="diamond-bg3 text-light py-5 text-center">
+  <section class="diamond-bg3 mt-4 text-light py-5 text-center">
     <div class="container px-0">
       <h1 class="pb-2">Events</h1>
       <h2 class="pb-2">Wednesday, July 07, 20201</h2>
@@ -6,7 +6,14 @@
         <div id="recipeCarousel" class="carousel slide"
           data-bs-ride="carousel">
           <div class="carousel-inner" role="listbox">
-            {% include event-card.html url="https://www.pearlriverresort.com" file="/assets/sponsors/pearlriver2.png" alt="Pearl River Resort" %}
+            {% include event-card.html
+              url="https://www.pearlriverresort.com"
+              img="/assets/img/stickball2.png"
+              alt="Fallen Tushka Ceremony"
+              time="6:00 PM"
+              loc="Warrior Stadium"
+            %}
+            
             <div class="carousel-item">
               <div class="col-md-3">
                 <a href="http://www.engservice.com" target="_blank">
