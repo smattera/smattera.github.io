@@ -1,15 +1,11 @@
- <div class="carousel-item {{ include.class }}">
-    <div class="col-md-3">
-      <a href="{{ include.url }}" target="_blank">
-        <div class="card bg-dark text-white">
-          <img src="{{ include.img }}" class="card-img" alt="{{ include.alt }}">
-          <div class="card-img-overlay">
-            <p class="card-text">{{ include.time }}</p>
-            <h5 class="card-title">{{ include.title }}</h5>
-            <p class="card-text">{{ include.location }}</p>
-            <p class="card-text">Click for details</p>
-          </div>
+<div class="carousel-item {{ include.class }}">
+  <div class="col-md-3">
+    <a href="{{ include.url }}" target="_blank">
+      <div class="card card-gold-border opaque">
+        <div class="card-img card-{{ include.level }}">
+          <img src="{{ include.file }}" class="img-fluid" alt="{{ include.alt }}">
         </div>
-      </a>
-    </div>
+      </div>
+    </a>
   </div>
+</div>
