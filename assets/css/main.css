@@ -224,4 +224,14 @@ header .overlay {
   background-color: #f4e5a1;
   border-color: #f4e5a1;
 }
+
+.event-title {
+  font-size: calc(1.525rem + 3.3vw);
+}
+
+@media (min-width: 1200px) {
+  .event-title {
+    font-size: 4rem;
+  }
+}
 /*# sourceMappingURL=main.css.map */
