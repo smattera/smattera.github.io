@@ -2,7 +2,7 @@
     <div class="container px-0">
       <h1 class="pb-2">Thank You To Our Sponsors</h1>
       <div class="row mx-auto my-auto justify-content-center px-0">
-        <div id="sponsorCarousel" class="carousel carousel-sponsor slide">
+        <div id="sponsorCarousel" class="carousel slide">
           <div class="carousel-inner" role="listbox">
 
             {% include sponsor.html level="platinum" url="https://www.pearlriverresort.com" file="pearlriver2" alt="Pearl River Resort" class="active"%}
@@ -70,15 +70,4 @@
   crossorigin="anonymous"></script>
 <script src="/assets/js/search-form.js"></script>
 <script src="/assets/js/timer.js"></script>
-<script src="/assets/js/sponsor-carousel.js"></script>
-<script src="/assets/js/event-carousel.js"></script>
-<script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
-<script>
-  mapboxgl.accessToken = 'pk.eyJ1Ijoic21hdHRlcmEiLCJhIjoiY2t0NGdjMTJ0MTcyOTJwcGt4czZlc3k1aSJ9.BFef4Lsdaa-GM2lE4Xdq_w';
-  var map = new mapboxgl.Map({
-    container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v11',
-    center: [32.783, -89.223],
-    zoom: 17.23,
-  });
-</script>
+<script src="/assets/js/bt5carousel.js"></script>
