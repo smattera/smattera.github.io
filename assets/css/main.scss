@@ -244,13 +244,11 @@ body::before {
       border-color: #f4e5a1;
     }
   }
-  @media (min-width: 0px) {
+  @media (max-width: 751px) {
     .event-title {
       font-size: 20vw;
     }
   }
-  @media (min-width: 768px) {
     .event-title {
-      font-size: 2vw;
-    }
+    font-size: 2vw;
   }
