@@ -12,12 +12,20 @@
           {% include event-card.html file="/assets/img/stickball2.jpg" alt="Stickball" %}
           
         </div>
-        <a class="carousel-control-prev bg-transparent w-aut" href="#dayOneCarousel" role="button" data-bs-slide="prev">
+        <button class="carousel-control-prev" type="button" data-bs-target="#dayOneCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#dayOneCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+        <!-- <a class="carousel-control-prev bg-transparent w-aut" href="#dayOneCarousel" role="button" data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         </a>
         <a class="carousel-control-next bg-transparent w-aut" href="#dayOneCarousel" role="button" data-bs-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        </a>
+        </a> -->
       </div>
     </div>
   </div>
