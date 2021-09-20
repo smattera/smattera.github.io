@@ -226,12 +226,12 @@ header .overlay {
 }
 
 .event-title {
-  font-size: calc(1.525rem + 3.3vw);
+  font-size: calc(1rem + 1vw);
 }
 
 @media (min-width: 1200px) {
   .event-title {
-    font-size: 4rem;
+    font-size: 1rem;
   }
 }
 /*# sourceMappingURL=main.css.map */
