@@ -225,7 +225,15 @@ header .overlay {
   border-color: #f4e5a1;
 }
 
-.event-title {
-  font-size: 2vw;
+@media (min-width: 0px) {
+  .event-title {
+    font-size: 20vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .event-title {
+    font-size: 2vw;
+  }
 }
 /*# sourceMappingURL=main.css.map */
