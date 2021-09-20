@@ -1,9 +1,21 @@
-<div class="carousel-item {{ include.class }}">
+<!-- <div class="carousel-item {{ include.class }}">
   <div class="col-md-3">
       <div class="card border-dark">
         <div class="card-img">
           <img src="{{ include.file }}" class="img-fluid" alt="{{ include.alt }}">
         </div>
       </div>
+  </div>
+</div> -->
+
+<div class="carousel-item {{ include.class }}">
+  <div class="col-md-3">
+    <div class="card bg-dark text-white">
+      <img src="{{ include.file }}" alt="{{ include.alt }}">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead.</p>
+      </div>
+    </div>
   </div>
 </div>
