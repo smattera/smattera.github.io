@@ -226,7 +226,7 @@ header .overlay {
 }
 
 .event-title {
-  font-size: calc(1rem + 1vw);
+  font-size: calc(15vw);
 }
 
 @media (min-width: 1200px) {
