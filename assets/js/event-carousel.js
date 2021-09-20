@@ -8,8 +8,8 @@ events.forEach((el) => {
             // wrap carousel by using first child
         	nextEvent = events[0]
       	}
-        let cloneEventChild = nextEvent.cloneNode(true)
-        el.appendChild(cloneEventChild.children[0])
+        let cloneChild = nextEvent.cloneNode(true)
+        el.appendChild(cloneChild.children[0])
         nextEvent = nextEvent.nextElementSibling
     }
 })
