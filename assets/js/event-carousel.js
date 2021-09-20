@@ -1,4 +1,4 @@
-let items = document.querySelectorAll('.carousel-event .carousel-event-item')
+let items = document.querySelectorAll('.carousel-events .carousel-events-item')
 
 items.forEach((el) => {
     const minPerSlide = 4
