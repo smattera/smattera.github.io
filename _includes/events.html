@@ -1,7 +1,29 @@
 <section class="diamond-bg2 text-light py-5 px-2 text-center">
-  <div>
-    <h1 class="py-2">Events</h1>
-
+  <div class="container">
+    <div class="card bg-transparent text-center">
+      <div class="card-header">
+        <ul class="nav nav-tabs card-header-tabs">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="true" href="#">WED JULY 07</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">THU JULY 08</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">FRI JULY 09</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">SAT JULY 10</a>
+          </li>
+        </ul>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Special title treatment</h5>
+        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
     <!-- <h2 class="pt-3 pb-1 ms-2 text-start">Wednesday, July 07, 2021</h2>
     <div class="row mx-auto my-auto justify-content-center px-0">
       <div id="dayOneCarousel" class="carousel slide" data-bs-interval="false">
@@ -38,284 +60,4 @@
         </button>
       </div>
     </div> -->
-
-    <h2 class="pt-3 pb-1 ms-2 text-start">Thursday, July 08, 2021</h2>
-    <div class="row mx-auto my-auto justify-content-center px-0">
-      <div id="dayTwoCarousel" class="carousel slide" data-bs-interval="false">
-        <div class="carousel-inner">
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Opens" 
-            time="5:00 PM" 
-            loc="Midway" 
-            class="active" %}
-          {% include event-card.html 
-            file="stickball2" 
-            alt="Stickball" 
-            div="Pushmataha:"
-            title="G1: Pearl River vs Nanih Waiya Attitude" 
-            time="5:00 PM" 
-            loc="Warrior Stadium" %}
-          {% include event-card.html 
-            file="stickball2" 
-            alt="Stickball" 
-            div="Pushmataha:"
-            title="G2: Koni Osi vs Bok Cito" 
-            time="6:00 PM" 
-            loc="Warrior Stadium" %}
-          {% include event-card.html 
-            file="stickball2" 
-            alt="Stickball" 
-            div="50 and over Men's:"
-            title="North vs South" 
-            time="8:00 PM" 
-            loc="Warrior Stadium" %}
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Closes" 
-            time="12:00 AM" 
-            loc="Midway" %}
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#dayTwoCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#dayTwoCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
-    </div>
-
-    <!-- <h2 class="pt-3 pb-1 ms-2 text-start">Friday, July 09, 2021</h2>
-    <div class="row mx-auto my-auto justify-content-center px-0">
-      <div id="dayThreeCarousel" class="carousel slide" data-bs-interval="false">
-        <div class="carousel-inner">
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Opens" 
-            time="5:00 PM" 
-            loc="Midway" 
-            class="active" %}
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Closes" 
-            time="12:00 AM" 
-            loc="Midway" %}
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#dayThreeCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#dayThreeCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
-    </div>
-
-    <h2 class="pt-3 pb-1 ms-2 text-start">Saturday, July 10, 2021</h2>
-    <div class="row mx-auto my-auto justify-content-center px-0">
-      <div id="dayFourCarousel" class="carousel slide" data-bs-interval="false">
-        <div class="carousel-inner">
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Opens" 
-            time="5:00 PM" 
-            loc="Midway" 
-            class="active" %}
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Closes" 
-            time="12:00 AM" 
-            loc="Midway" %}
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#dayFourCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#dayFourCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
-    </div>
-
-    <h2 class="pt-3 pb-1 ms-2 text-start">Monday, July 12, 2021</h2>
-    <div class="row mx-auto my-auto justify-content-center px-0">
-      <div id="dayFiveCarousel" class="carousel slide" data-bs-interval="false">
-        <div class="carousel-inner">
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Opens" 
-            time="5:00 PM" 
-            loc="Midway" 
-            class="active" %}
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Closes" 
-            time="12:00 AM" 
-            loc="Midway" %}
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#dayFiveCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#dayFiveCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
-    </div>
-
-    <h2 class="pt-3 pb-1 ms-2 text-start">Tuesday, July 13, 2021</h2>
-    <div class="row mx-auto my-auto justify-content-center px-0">
-      <div id="daySixCarousel" class="carousel slide" data-bs-interval="false">
-        <div class="carousel-inner">
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Opens" 
-            time="5:00 PM" 
-            loc="Midway" 
-            %}
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Closes" 
-            time="12:00 AM" 
-            loc="Midway" %}
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#daySixCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#daySixCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
-    </div>
-
-    <h2 class="pt-3 pb-1 ms-2 text-start">Wednesday, July 14, 2021</h2>
-    <div class="row mx-auto my-auto justify-content-center px-0">
-      <div id="daySevenCarousel" class="carousel slide" data-bs-interval="false">
-        <div class="carousel-inner">
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Opens" 
-            time="3:00 PM" 
-            loc="Midway" %}
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Closes" 
-            time="1:00 AM" 
-            loc="Midway" %}
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#daySevenCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#daySevenCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
-    </div>
-
-    <h2 class="pt-3 pb-1 ms-2 text-start">Thursday, July 15, 2021</h2>
-    <div class="row mx-auto my-auto justify-content-center px-0">
-      <div id="dayEightCarousel" class="carousel slide" data-bs-interval="false">
-        <div class="carousel-inner">
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Opens" 
-            time="3:00 PM" 
-            loc="Midway" %}
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Closes" 
-            time="1:00 AM" 
-            loc="Midway" %}
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#dayEightCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#dayEightCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
-    </div>
-
-    <h2 class="pt-3 pb-1 ms-2 text-start">Friday, July 16, 2021</h2>
-    <div class="row mx-auto my-auto justify-content-center px-0">
-      <div id="dayNineCarousel" class="carousel slide" data-bs-interval="false">
-        <div class="carousel-inner">
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Opens" 
-            time="3:00 PM" 
-            loc="Midway" %}
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Closes" 
-            time="1:00 AM" 
-            loc="Midway" %}
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#dayNineCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#dayNineCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
-    </div>
-
-    <h2 class="pt-3 pb-1 ms-2 text-start">Saturday, July 17, 2021</h2>
-    <div class="row mx-auto my-auto justify-content-center px-0">
-      <div id="dayTenCarousel" class="carousel slide" data-bs-interval="false">
-        <div class="carousel-inner">
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Opens" 
-            time="12:00 PM" 
-            loc="Midway" %}
-          {% include event-card.html 
-            file="midway" 
-            alt="Midway" 
-            title="Midway Closes" 
-            time="2:00 AM" 
-            loc="Midway" %}
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#dayTenCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#dayTenCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
-    </div> -->
-
-  </div>
 </section>
