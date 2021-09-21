@@ -1,3 +1,7 @@
+body {
+  background-color: cmyk(14%, 13%, 4%, 89%) !important;
+}
+
 body::before {
     display: block;
     content: "";
