@@ -5,17 +5,17 @@
     <div class="row">
       <div class="col-md">
         <img src="../assets/img/jimmieallen.png" alt="Jimmie Allen" class="img-fluid py-2">
-        <h3>Jimmie Allen</h3>
+        <h3 class="fw-bold">Jimmie Allen</h3>
         <h4>Thursday, July 07, 2021<br/>8:30 PM</h4>
       </div>
       <div class="col-md">
         <img src="../assets/img/zachwilliams.png" alt="Zach Williams" class="img-fluid py-2">
-        <h3>Zach Williams</h3>
+        <h3 class="fw-bold">Zach Williams</h3>
         <h4>Friday, July 08, 2021<br/>8:30 PM</h4>
       </div>
       <div class="col-md">
         <img src="../assets/img/brettyoung.png" alt="Brett Young" class="img-fluid py-2">
-        <h3>Brett Young</h3>
+        <h3 class="fw-bold">Brett Young</h3>
         <h4>Saturday, July 09, 2021<br/>8:30 PM</h4>
       </div>
     </div>
@@ -24,7 +24,7 @@
 
 <section class="diamond-bg2 text-light py-5 text-center">
   <div class="container">
-    <h2 class="py-2">Fair Schedule</h2>
+    <h2 class="pb-2">Fair Schedule</h2>
 
     <ul class="nav nav-pills nav-fill" id="myTab" role="tablist">
       {% include event-tab.html class="active" day="dayOne" date="Wed, July 07" %}
@@ -40,120 +40,99 @@
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade show active" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
-        <div class="row">
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" div="35 & over Women's" title="North vs South" time="7:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" div="50 & over Men's" title="North vs South" time="8:00 PM" loc="Warrior Stadium" %}
-        </div>  
+          {% include event-card.html file="stickball2" alt="Stickball" div="50 & over Men's" title="North vs South" time="8:00 PM" loc="Warrior Stadium" %}  
       </div>
       <div class="tab-pane fade" id="dayTwo" role="tabpanel" aria-labelledby="dayTwo-tab">
-        <div class="row">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
           {% include event-card.html file="midway" alt="Midway" title="Midway Opens" time="5:00 PM" loc="Midway" %}
           {% include event-card.html file="stickball2" alt="Stickball" div="Pushmataha" title="G1: Pearl River vs Nanih Waiya Attitude" time="5:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" div="Pushmataha" title="G2: Koni Osi vs Bok Cito" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
-        <div class="row">
+          {% include event-card.html file="stickball2" alt="Stickball" div="Pushmataha" title="G2: Koni Osi vs Bok Cito" time="6:00 PM" loc="Warrior Stadium" %}nclude event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+        </div>
       </div>
       <div class="tab-pane fade" id="dayThree" role="tabpanel" aria-labelledby="dayThree-tab">
-        <div class="row">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
-        <div class="row">
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+        </div>
       </div>
       <div class="tab-pane fade" id="dayFour" role="tabpanel" aria-labelledby="dayFour-tab">
-        <div class="row">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
-        <div class="row">
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+        </div>
       </div>
       <div class="tab-pane fade" id="dayFive" role="tabpanel" aria-labelledby="dayFive-tab">
-        <div class="row">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
-        <div class="row">
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+        </div>
       </div>
       <div class="tab-pane fade" id="daySix" role="tabpanel" aria-labelledby="daySix-tab">
-        <div class="row">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
-        <div class="row">
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+        </div>
       </div>
       <div class="tab-pane fade" id="daySeven" role="tabpanel" aria-labelledby="daySeven-tab">
-        <div class="row">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
-        <div class="row">
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+        </div>
       </div>
       <div class="tab-pane fade" id="dayEight" role="tabpanel" aria-labelledby="dayEight-tab">
-        <div class="row">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
-        <div class="row">
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+        </div>
       </div>
       <div class="tab-pane fade" id="dayNine" role="tabpanel" aria-labelledby="dayNine-tab">
-        <div class="row">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
-        <div class="row">
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+        </div>
       </div>
       <div class="tab-pane fade" id="dayTen" role="tabpanel" aria-labelledby="dayTen-tab">
-        <div class="row">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
-        <div class="row">
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-        </div>  
+          {% include event-card.html file="stickball2" alt="Stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+        </div>
       </div>
     </div>
 
