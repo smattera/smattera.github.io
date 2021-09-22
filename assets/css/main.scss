@@ -256,3 +256,13 @@ body::before {
     .event-title {
     font-size: 2vw;
   }
+  .nav-pills .nav-link {
+    background-color: cmyk(14%, 13%, 4%, 89%);
+    color: #d9bc64;
+    border-color: #d9bc64;
+  }
+  .nav-pills .nav-link.active {
+    background-color: #d9bc64;
+    color: #333;
+    border-color: #333;
+  }
