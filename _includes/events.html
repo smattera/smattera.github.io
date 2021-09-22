@@ -3,33 +3,15 @@
 
     <ul class="nav nav-tabs" id="myTab" role="tablist">
       {% include event-nav.html class="active" day="dayOne" date="Wednesday<br/>July 07, 2021" %}
-      <li class="nav-item" role="presentation">
-        <button class="nav-link" id="dayTwo-tab" data-bs-toggle="tab" data-bs-target="#dayTwo" type="button" role="tab" aria-controls="dayTwo" aria-selected="false">Thursday<br/>July 08, 2021</button>
-      </li>
-      <li class="nav-item" role="presentation">
-        <button class="nav-link" id="dayThree-tab" data-bs-toggle="tab" data-bs-target="#dayThree" type="button" role="tab" aria-controls="dayThree" aria-selected="false">Friday<br/>July 09, 2021</button>
-      </li>
-      <li class="nav-item" role="presentation">
-        <button class="nav-link" id="dayFour-tab" data-bs-toggle="tab" data-bs-target="#dayFour" type="button" role="tab" aria-controls="dayFour" aria-selected="false">Saturday<br/>July 10, 2021</button>
-      </li>
-      <li class="nav-item" role="presentation">
-        <button class="nav-link" id="dayFive-tab" data-bs-toggle="tab" data-bs-target="#dayFive" type="button" role="tab" aria-controls="dayFive" aria-selected="false">Monday<br/>July 12, 2021</button>
-      </li>
-      <li class="nav-item" role="presentation">
-        <button class="nav-link" id="daySix-tab" data-bs-toggle="tab" data-bs-target="#daySix" type="button" role="tab" aria-controls="daySix" aria-selected="false">Tuesday<br/>July 13, 2021</button>
-      </li>
-      <li class="nav-item" role="presentation">
-        <button class="nav-link" id="daySeven-tab" data-bs-toggle="tab" data-bs-target="#daySeven" type="button" role="tab" aria-controls="daySeven" aria-selected="false">Wednesday<br/>July 14, 2021</button>
-      </li>
-      <li class="nav-item" role="presentation">
-        <button class="nav-link" id="dayEight-tab" data-bs-toggle="tab" data-bs-target="#dayEight" type="button" role="tab" aria-controls="dayEight" aria-selected="false">Thursday<br/>July 15, 2021</button>
-      </li>
-      <li class="nav-item" role="presentation">
-        <button class="nav-link" id="dayNine-tab" data-bs-toggle="tab" data-bs-target="#dayNine" type="button" role="tab" aria-controls="dayNine" aria-selected="false">Friday<br/>July 16, 2021</button>
-      </li>
-      <li class="nav-item" role="presentation">
-        <button class="nav-link" id="dayTen-tab" data-bs-toggle="tab" data-bs-target="#dayTen" type="button" role="tab" aria-controls="dayTen" aria-selected="false">Saturday<br/>July 17, 2021</button>
-      </li>
+      {% include event-nav.html day="dayTwo date="Thursday<br/>July 08, 2021" %}
+      {% include event-nav.html day="dayTwo date="Friday<br/>July 09, 2021" %}
+      {% include event-nav.html day="dayTwo date="Saturday<br/>July 10, 2021" %}
+      {% include event-nav.html day="dayTwo date="Monday<br/>July 12, 2021" %}
+      {% include event-nav.html day="dayTwo date="Tuesday<br/>July 13, 2021" %}
+      {% include event-nav.html day="dayTwo date="Wednesday<br/>July 14, 2021" %}
+      {% include event-nav.html day="dayTwo date="Thursday<br/>July 15, 2021" %}
+      {% include event-nav.html day="dayTwo date="Friday<br/>July 16, 2021" %}
+      {% include event-nav.html day="dayTwo date="Saturday<br/>July 17, 2021" %}
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade show active" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
