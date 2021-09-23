@@ -27,16 +27,16 @@
     <h2 class="pb-2">2021 Fair Schedule</h2>
 
     <ul class="nav nav-pills nav-fill" id="myTab" role="tablist">
-      {% include event-tab.html class="active" day="dayOne" date="Wed, July 07" %}
-      {% include event-tab.html day="dayTwo" date="Thu, July 08" %}
-      {% include event-tab.html day="dayThree" date="Fri, July 09" %}
-      {% include event-tab.html day="dayFour" date="Sat, July 10" %}
-      {% include event-tab.html day="dayFive" date="Mon, July 12" %}
-      {% include event-tab.html day="daySix" date="Tue, July 13" %}
-      {% include event-tab.html day="daySeven" date="Wed, July 14" %}
-      {% include event-tab.html day="dayEight" date="Thu, July 15" %}
-      {% include event-tab.html day="dayNine" date="Fri, July 16" %}
-      {% include event-tab.html day="dayTen" date="Sat, July 17" %}
+      {% include event-tab.html class="active" day="dayOne" title="Wed, July 07" %}
+      {% include event-tab.html day="dayTwo" title="Thu, July 08" %}
+      {% include event-tab.html day="dayThree" title="Fri, July 09" %}
+      {% include event-tab.html day="dayFour" title="Sat, July 10" %}
+      {% include event-tab.html day="dayFive" title="Mon, July 12" %}
+      {% include event-tab.html day="daySix" title="Tue, July 13" %}
+      {% include event-tab.html day="daySeven" title="Wed, July 14" %}
+      {% include event-tab.html day="dayEight" title="Thu, July 15" %}
+      {% include event-tab.html day="dayNine" title="Fri, July 16" %}
+      {% include event-tab.html day="dayTen" title="Sat, July 17" %}
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade show active" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
@@ -48,93 +48,95 @@
       </div>
       <div class="tab-pane fade" id="dayTwo" role="tabpanel" aria-labelledby="dayTwo-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-          {% include event-card.html file="midway" alt="Midway" title="Midway Opens" time="5:00 PM" loc="Midway" %}
+          {% include event-card.html file="midway" title="Midway Opens" time="5:00 PM" loc="Midway" %}
           {% include event-card.html file="stickball" div="Pushmataha" title="G1: Pearl River vs Nanih Waiya Attitude" time="5:00 PM" loc="Warrior Stadium" %}
           {% include event-card.html file="stickball" div="Pushmataha" title="G2: Koni Osi vs Bok Cito" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
-          {% include event-card.html file="midway" alt="Midway" title="Midway Closes" time="12:00 AM" loc="Midway" %}
+          {% include event-card.html file="stickball" div="35 & over Men's" title="G1: Beaver Dam vs Independents" time="7:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Women's" title="G1: Beaver Dam vs Oka Homma Ohoyo" time="8:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Men's" title="G1: Unified vs Beaver Dam" time="9:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Closes" time="12:00 AM" loc="Midway" %}
         </div>
       </div>
       <div class="tab-pane fade" id="dayThree" role="tabpanel" aria-labelledby="dayThree-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Opens" time="5:00 PM" loc="Midway" %}
+          {% include event-card.html file="stickball" div="Pushmataha" title="G3: Bok Cito vs Oka Homma" time="5:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Tulli Okchi Ishko" title="G1: Bok Cito vs Tiak Hikiya" time="6:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="35 & over Men's" title="G2: Tvshka Homma vs Konihata" time="7:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="stickball" div="Women's" title="G2: Natives vs Tali Ohoyo" time="8:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Men's" title="G2: Warriors vs Bok Cito" time="9:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Men's" title="G3: Koni Hata vs Oka Homma" time="10:30 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="midway" title="Midway Closes" time="12:00 AM" loc="Midway" %}
         </div>
       </div>
       <div class="tab-pane fade" id="dayFour" role="tabpanel" aria-labelledby="dayFour-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Opens" time="5:00 PM" loc="Midway" %}
+          {% include event-card.html file="stickball" div="Tulli Okchi Ishko" title="G2: Warriors vs Beaver Dam" time="5:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Women's" title="G3: Tiak Hikiya Ohoyo vs Koni Hata Ohoyo" time="6:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Men's" title="G4: Tvshka Homma vs Tucker Alhiha" time="7:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="stickball" div="Women's" title="G5: Bok Cito Ohoyo vs G1 Winner" time="8:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Men's" title="G4: Pearl River vs Tvshka Homma" time="9:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Men's" title="G5: Wolfpack vs Beaver Dam" time="10:30 PM" loc="Warrior Stadium" %} 
+          {% include event-card.html file="midway" title="Midway Closes" time="12:00 AM" loc="Midway" %}
         </div>
       </div>
       <div class="tab-pane fade" id="dayFive" role="tabpanel" aria-labelledby="dayFive-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Opens" time="5:00 PM" loc="Midway" %}
+          {% include event-card.html file="stickball" div="Pushmataha" title="G4: Fani Lakna Osi vs Warriors" time="5:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Tulli Okchi Ishko" title="G3: Koni Hata Himitta vs Oka Homma" time="6:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Women's" title="G6: Pearl River vs Natives" time="7:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="stickball" div="35 & over Men's" title="G3: Oka Homma vs Beaver Dam" time="8:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Women's" title="G7: Lady Warriors vs Tiak Hikiya Ohoyo" time="9:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Men's" title="G6: Tucker vs Bok Cito" time="10:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Closes" time="12:00 AM" loc="Midway" %}
         </div>
       </div>
       <div class="tab-pane fade" id="daySix" role="tabpanel" aria-labelledby="daySix-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Opens" time="5:00 PM" loc="Midway" %}
+          {% include event-card.html file="stickball" div="Pushmataha" title="G5: Tiak Hikiya Osi vs Pearl River" time="6:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Women's" title="G8: Bok Cito Ohoyo vs Tvshka Homma" time="7:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="35 & over Men's" title="G4: Koni Hata vs Bok Cito" time="8:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="stickball" div="Women's" title="G9: Pearl River vs Lady Warriors" time="9:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Men's" title="G7: Tiak Hikiya vs Koni Hata" time="10:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="midway" title="Midway Closes" time="12:00 AM" loc="Midway" %}
         </div>
       </div>
       <div class="tab-pane fade" id="daySeven" role="tabpanel" aria-labelledby="daySeven-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Opens" time="3:00 PM" loc="Midway" %}
+          {% include event-card.html file="stickball" div="Pushmataha" title="G6: Tiak Hikiya Osi vs Koni Osi" time="5:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Tulli Okchi Ishko" title="G4: Pearl River vs Bok Cito" time="6:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Men's" title="G8: Beaver Dam vs Pearl River" time="10:15 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Closes" time="1:00 AM" loc="Midway" %}
         </div>
       </div>
       <div class="tab-pane fade" id="dayEight" role="tabpanel" aria-labelledby="dayEight-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Opens" time="3:00 PM" loc="Midway" %}
+          {% include event-card.html file="stickball" div="Pushmataha" title="G7: Beaver Dam vs Fani Lakna Osi" time="5:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Tulli Okchi Ishko" title="G5: Beaver Dam vs Koni Hata Himitta" time="6:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Men's" title="G9: Bok Cito vs Koni Hata" time="10:15 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Closes" time="1:00 AM" loc="Midway" %}
         </div>
       </div>
       <div class="tab-pane fade" id="dayNine" role="tabpanel" aria-labelledby="dayNine-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Opens" time="3:00 PM" loc="Midway" %}
+          {% include event-card.html file="stickball" div="Pushmataha" title="G8: Koni Osi vs Beaver Dam" time="5:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="Tulli Okchi Ishko" title="G6: Pearl River vs Beaver Dam" time="6:00 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="stickball" div="35 & over Men's" title="G5: Beaver Dam vs Koni Hata" time="10:15 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="stickball" div="Women's" title="G10: Bok Cito Ohoyo vs Pearl River" time="11:30 PM" loc="Warrior Stadium" %} 
+          {% include event-card.html file="midway" title="Midway Closes" time="1:00 AM" loc="Midway" %}
         </div>
       </div>
       <div class="tab-pane fade" id="dayTen" role="tabpanel" aria-labelledby="dayTen-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
-          {% include event-card.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}  
+          {% include event-card.html file="midway" title="Midway Opens" time="12:00 PM" loc="Midway" %}
+          {% include event-card.html file="stickball" div="Men's" title="G10: Pearl River vs Bok Cito" time="10:15 PM" loc="Warrior Stadium" %}
+          {% include event-card.html file="midway" title="Midway Closes" time="2:00 AM" loc="Midway" %}
         </div>
       </div>
     </div>
