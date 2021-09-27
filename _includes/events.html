@@ -26,19 +26,17 @@
   <div class="container">
     <h2 class="pb-2">2021 Fair Schedule</h2>
 
-    {% assign siteTime = site.time | date_to_string %}
     <ul class="nav nav-pills nav-fill" id="myTab" role="tablist">
-      {% include event-tab.html day="dayOne" title="Wed, July 07" date="27 Sep 2021" %}
-      {% include event-tab.html day="dayTwo" title="Thu, July 08" date="08 Jul 2021" %}
-      {% include event-tab.html day="dayThree" title="Fri, July 09" date="08 Jul 2021" %}
-      {% include event-tab.html day="dayFour" title="Sat, July 10" date="08 Jul 2021" %}
-      {% include event-tab.html day="dayFive" title="Mon, July 12" date="08 Jul 2021" %}
-      {% include event-tab.html day="daySix" title="Tue, July 13" date="08 Jul 2021" %}
-      {% include event-tab.html day="daySeven" title="Wed, July 14" date="08 Jul 2021" %}
-      {% include event-tab.html day="dayEight" title="Thu, July 15" date="08 Jul 2021" %}
-      {% include event-tab.html day="dayNine" title="Fri, July 16" date="08 Jul 2021" %}
-      {% include event-tab.html day="dayTen" title="Sat, July 17" date="08 Jul 2021" %}
-      {{ site.time | date_to_string }}
+      {% include event-tab.html day="dayOne" title="Wed, July 07" %}
+      {% include event-tab.html day="dayTwo" title="Thu, July 08" %}
+      {% include event-tab.html day="dayThree" title="Fri, July 09" %}
+      {% include event-tab.html day="dayFour" title="Sat, July 10" %}
+      {% include event-tab.html day="dayFive" title="Mon, July 12" %}
+      {% include event-tab.html day="daySix" title="Tue, July 13" %}
+      {% include event-tab.html day="daySeven" title="Wed, July 14" %}
+      {% include event-tab.html day="dayEight" title="Thu, July 15" %}
+      {% include event-tab.html day="dayNine" title="Fri, July 16" %}
+      {% include event-tab.html day="dayTen" title="Sat, July 17" %}
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade show active" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
