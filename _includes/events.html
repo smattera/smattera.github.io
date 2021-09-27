@@ -41,7 +41,7 @@
       {% include eventTab.html day="dayTen" date="2021-07-17" %}
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-07' %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2021-07-07' %}{% if cachedNow <= '2021-07-07' %}show active %}{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4">
           {% include eventCard.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include eventCard.html file="stickball" div="Women's (35+)" title="North vs South" time="7:00 PM" loc="Warrior Stadium" %}
@@ -141,7 +141,7 @@
           {% include eventCard.html file="midway" title="Midway Closes" time="1:00 AM" loc="Midway" %}
         </div>
       </div>
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-17' %}" id="dayTen" role="tabpanel" aria-labelledby="dayTen-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2021-07-17' %}{% if cachedNow >= '2021-07-17' %}show active{% endif %}" id="dayTen" role="tabpanel" aria-labelledby="dayTen-tab">
         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-4 g-4">
           {% include eventCard.html file="midway" title="Midway Opens" time="12:00 PM" loc="Midway" %}
           {% include eventCard.html file="cornhole" title="CIF Open Cornhole Tournament" time="10:00 AM" loc="CCHS Gymnasium" %}
