@@ -29,7 +29,7 @@
     {% assign cachedNow = 'now' | date: '%Y-%m-%d' %}
     
     <ul class="nav nav-pills nav-fill" id="myTab" role="tablist">
-      {% include eventTab.html day="dayOne" date="2021-07-07" %}
+      {% include eventTabFirst.html day="dayOne" date="2021-07-07" %}
       {% include eventTab.html day="dayTwo" date="2021-07-08" %}
       {% include eventTab.html day="dayThree" date="2021-07-09" %}
       {% include eventTab.html day="dayFour" date="2021-07-10" %}
@@ -38,7 +38,7 @@
       {% include eventTab.html day="daySeven" date="2021-07-14" %}
       {% include eventTab.html day="dayEight" date="2021-07-15" %}
       {% include eventTab.html day="dayNine" date="2021-07-16" %}
-      {% include eventTab.html day="dayTen" date="2021-07-17" %}
+      {% include eventTabLast.html day="dayTen" date="2021-07-17" %}
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade {% include eventActive.html date='2021-07-07' %}{% if cachedNow <= '2021-07-07' %}show active %}{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
