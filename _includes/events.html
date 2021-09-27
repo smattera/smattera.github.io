@@ -37,7 +37,7 @@
       {% include event-tab.html day="dayEight" title="Thu, July 15" %}
       {% include event-tab.html day="dayNine" title="Fri, July 16" %}
       {% include event-tab.html day="dayTen" title="Sat, July 17" %}
-      {{ site.time }}
+      {{ site.time | date_to_string }}
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade show active" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
