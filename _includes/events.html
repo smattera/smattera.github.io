@@ -29,16 +29,16 @@
     {% assign cachedNow = 'now' | date:'%Y%m%d' %}
 
     <ul class="nav nav-pills nav-fill" id="myTab" role="tablist">
-      {% include event-tab.html day="dayOne" title="Wed, July 07" %}
-      {% include event-tab.html day="dayTwo" title="Thu, July 08" date="20210927" %}
-      {% include event-tab.html day="dayThree" title="Fri, July 09" %}
-      {% include event-tab.html day="dayFour" title="Sat, July 10" %}
-      {% include event-tab.html day="dayFive" title="Mon, July 12" %}
-      {% include event-tab.html day="daySix" title="Tue, July 13" %}
-      {% include event-tab.html day="daySeven" title="Wed, July 14" %}
-      {% include event-tab.html day="dayEight" title="Thu, July 15" %}
-      {% include event-tab.html day="dayNine" title="Fri, July 16" %}
-      {% include event-tab.html day="dayTen" title="Sat, July 17" %}
+      {% include event-tab.html day="dayOne" date="20210707" %}
+      {% include event-tab.html day="dayTwo" date="20210708" %}
+      {% include event-tab.html day="dayThree" date="20210709" %}
+      {% include event-tab.html day="dayFour" date="20210710" %}
+      {% include event-tab.html day="dayFive" date="20210712" %}
+      {% include event-tab.html day="daySix" date="20210713" %}
+      {% include event-tab.html day="daySeven" date="20210714" %}
+      {% include event-tab.html day="dayEight" date="20210715" %}
+      {% include event-tab.html day="dayNine" date="20210716" %}
+      {% include event-tab.html day="dayTen" date="20210717" %}
       {{ cachedNow | date: "%a, %b %d" }}
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
