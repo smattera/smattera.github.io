@@ -26,6 +26,8 @@
   <div class="container">
     <h2 class="pb-2">2021 Fair Schedule</h2>
 
+    {% assign cachedNow = 'now' | date:'%Y%m%d' %}
+
     <ul class="nav nav-pills nav-fill" id="myTab" role="tablist">
       {% include event-tab.html day="dayOne" title="Wed, July 07" %}
       {% include event-tab.html day="dayTwo" title="Thu, July 08" date="20210927" %}
