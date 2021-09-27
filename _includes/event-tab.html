@@ -1,3 +1,3 @@
   <li class="nav-item" role="presentation">
-    <button class="nav-link {% if cachedNow <= include.date %}active{% endif %}" id="{{ include.day }}-tab" data-bs-toggle="tab" data-bs-target="#{{ include.day }}" type="button" role="tab" aria-controls="{{ include.day }}" aria-selected="true">{{ include.date | date: "%a, %b %d" }}</button>
+    <button class="nav-link {% if cachedNow == include.date %}active{% endif %}" id="{{ include.day }}-tab" data-bs-toggle="tab" data-bs-target="#{{ include.day }}" type="button" role="tab" aria-controls="{{ include.day }}" aria-selected="true">{{ include.date | date: "%a, %b %d" }}</button>
   </li>
