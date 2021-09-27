@@ -1,3 +1,6 @@
+  {% assign cachedNow = 'now' | date:'%Y%m%d' | abs %}
+  {% assign compareDate = {{ include.date }} %}
+
   <li class="nav-item" role="presentation">
-    <button class="nav-link {{ include.class }}" id="{{ include.day }}-tab" data-bs-toggle="tab" data-bs-target="#{{ include.day }}" type="button" role="tab" aria-controls="{{ include.day }}" aria-selected="true">{{ include.title }}</button>
+    <button class="nav-link {%if cachedNow == compareDate %}active{% endif %}" id="{{ include.day }}-tab" data-bs-toggle="tab" data-bs-target="#{{ include.day }}" type="button" role="tab" aria-controls="{{ include.day }}" aria-selected="true">{{ include.title }}</button>
   </li>
