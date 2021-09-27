@@ -37,6 +37,7 @@
       {% include event-tab.html day="dayEight" title="Thu, July 15" date="20210715" %}
       {% include event-tab.html day="dayNine" title="Fri, July 16" date="20210716" %}
       {% include event-tab.html day="dayTen" title="Sat, July 17" date="20210717" %}
+      {{ 'now' | date: "%Y%m%d" }}
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade {% if 'now' | date: '%Y%m%d' == '20210923' %} show active {% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
