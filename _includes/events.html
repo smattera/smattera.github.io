@@ -26,6 +26,7 @@
   <div class="container">
     <h2 class="pb-2">2021 Fair Schedule</h2>
 
+    {% assign siteTime = site.time | date_to_string %}
     <ul class="nav nav-pills nav-fill" id="myTab" role="tablist">
       {% include event-tab.html day="dayOne" title="Wed, July 07" date="27 Sep 2021" %}
       {% include event-tab.html day="dayTwo" title="Thu, July 08" date="08 Jul 2021" %}
