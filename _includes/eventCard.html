@@ -1,10 +1,12 @@
 <div class="col">
-  <div class="card bg-dark text-white" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#{{ include.id }}">
-    <img src="/assets/img/{{ include.file }}.jpg" alt="{{ include.file }}" class="img-fluid rounded-3" style="filter: brightness(50%)">
-    <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-      <h6><span class="badge bg-white text-dark">{{ include.div}}</span></h6>
-      <h5 class="card-title fw-bold">{{ include.title }}</h5>
-      <p class="card-text">{{ include.time }}<br/>{{ include.loc }}</p>
+  <a data-bs-toggle="modal" href="#{{ include.id }}" role="button">
+    <div class="card bg-dark text-white">
+      <img src="/assets/img/{{ include.file }}.jpg" alt="{{ include.file }}" class="img-fluid rounded-3" style="filter: brightness(50%)">
+      <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
+        <h6><span class="badge bg-white text-dark">{{ include.div}}</span></h6>
+        <h5 class="card-title fw-bold">{{ include.title }}</h5>
+        <p class="card-text">{{ include.time }}<br/>{{ include.loc }}</p>
+      </div>
     </div>
-  </div>
+  </a>
 </div>
