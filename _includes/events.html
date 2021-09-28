@@ -41,9 +41,9 @@
       {% include eventTabLast.html day="dayTen" date="2021-07-17" %}
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
-      <!--<div class="tab-pane fade {% include eventActive.html date='2021-07-07' %}{% if cachedNow <= '2021-07-07' %}show active %}{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2021-07-07' %}{% if cachedNow <= '2021-07-07' %}show active %}{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4">
-          {% include eventCard.html id="staticBackdrop" file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
+          {% include eventCard.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include eventCard.html file="stickball" div="WSS: Women's (35+)" title="North vs South" time="7:00 PM" loc="Warrior Stadium" %}
           {% include eventCard.html file="stickball" div="WSS: Men's (50+)" title="North vs South" time="8:00 PM" loc="Warrior Stadium" %}  
         </div>
@@ -107,7 +107,7 @@
           {% include eventCard.html file="stickball" div="Men's" title="G7: Tiak Hikíya vs Koni Hata" time="10:00 PM" loc="Warrior Stadium" %}
           {% include eventCard.html file="midway" title="Midway Closes" time="12:00 AM" loc="Midway" %}
         </div>
-      </div>-->
+      </div>
       <div class="tab-pane fade {% include eventActive.html date='2021-07-14' %}" id="daySeven" role="tabpanel" aria-labelledby="daySeven-tab">
         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-4 g-4">
           {% include eventCard.html file="opening" title="Gates Open" time="11:00 AM" loc="Fairgrounds" %}
@@ -133,10 +133,10 @@
           {% include eventCard.html file="opening" title="Gates Open" time="11:00 AM" loc="Fairgrounds" %}
           {% include eventCard.html file="danceground" div="Choctaw Social Dancing" title="Bell Family" time="11:00 AM" loc="Dance Grounds" %}
           {% include eventCard.html file="danceground" title="Introduction of 2021-2022 Choctaw Indian Princess Shemah Ladania Crosby" time="11:45 AM" loc="Dance Grounds" %}
-          {% include eventCard.html file="danceground" div="Choctaw Social Dancing" title="Kabotcah Bóli" time="12:00 PM" loc="Dance Grounds" %}
+          {% include eventCard.html file="danceground" div="Choctaw Social Dancing" title="Kabotcha Bóli" time="12:00 PM" loc="Dance Grounds" %}
           {% include eventCard.html file="danceground" title="Introduction of Visiting Princesses" time="12:45 PM" loc="Dance Grounds" %}
           {% include eventCard.html file="danceground" div="Choctaw Social Dancing" title="Standing Pine Social Dancers" time="1:00 PM" loc="Dance Grounds" %}
-          {% include eventCard.html file="ironwarrior" div="Iron Warrior" title="Women's Time Trials Begin" time="1:00 PM" loc="In Front of Exhibit Hall" %}
+          {% include eventCard.html file="ironwarrior" div="Iron Warrior" title="Women's Time Trials Begins" time="1:00 PM" loc="In Front of Exhibit Hall" %}
           {% include eventCard.html file="danceground" title="Cultural Demonstration" time="1:45 PM" loc="Dance Grounds" %}
           {% include eventCard.html file="danceground" div="Choctaw Social Dancing" title="Pearl River Youth Dancers" time="2:00 PM" loc="Dance Grounds" %}
           {% include eventCard.html file="danceground" title="Cultural Demonstration" time="2:45 PM" loc="Dance Grounds" %}
@@ -171,9 +171,6 @@
         </div>
       </div>
     </div>
-
-    <!-- Event Modals -->
-    {% include eventModal.html id="staticBackdrop" title="Modal title" }
 
   </div>
 </section>
