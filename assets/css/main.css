@@ -76,7 +76,7 @@ header .overlay {
 /* This will use a fallback image instead of a video for devices that commonly do not support the HTML5 video element */
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: url("/assets/img/CIF-bg.jpg") black no-repeat center center scroll;
+    background: url("/assets/img/CIFVideoWeb.gif") black no-repeat center center scroll;
   }
   header video {
     display: none;
