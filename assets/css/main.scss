@@ -130,6 +130,12 @@ body::before {
     background-size: 700px 700px, cover;
     background-attachment: fixed, fixed;
   }
+
+  .camo-bg {
+    background: url("/assets/img/camo.svg") center repeat, #fffac4;
+    background-size: 750px 600px, cover;
+    background-attachment: fixed, fixed;
+  }
   
   .card-bg1 {
       background: url("/assets/img/events.jpg") center no-repeat;

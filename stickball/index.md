@@ -2,4 +2,4 @@
 layout: default
 title: Stickball
 ---
-# Stickball
+{% include stickball.html %}
