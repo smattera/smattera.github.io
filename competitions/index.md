@@ -2,4 +2,4 @@
 layout: default
 title: Competitions
 ---
-# Competitions
+{% include competitions.html %}
