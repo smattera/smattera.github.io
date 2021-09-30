@@ -101,14 +101,20 @@ header .overlay {
   background-attachment: fixed, fixed;
 }
 
+.camo-bg {
+  background: url("/assets/img/camo.svg") center repeat, #fffac4;
+  background-size: 750px 600px, cover;
+  background-attachment: fixed, fixed;
+}
+
 .card-bg1 {
-  background: url("/assets/img/events2.jpg") center no-repeat;
+  background: url("/assets/img/events.jpg") center no-repeat;
   background-size: cover;
   height: 600px;
 }
 
 .card-bg2 {
-  background: url("/assets/img/stickball2.jpg") center no-repeat;
+  background: url("/assets/img/stickball.jpg") center no-repeat;
   background-size: cover;
   height: 600px;
 }
@@ -120,7 +126,7 @@ header .overlay {
 }
 
 .card-bg4 {
-  background: url("/assets/img/competitions2.jpg") center no-repeat;
+  background: url("/assets/img/competitions.jpg") center no-repeat;
   background-size: cover;
   height: 600px;
 }
