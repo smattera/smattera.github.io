@@ -77,6 +77,7 @@ header .overlay {
 @media (pointer: coarse) and (hover: none) {
   header {
     background: url("/assets/img/CIFVideoWeb.gif") black no-repeat center center scroll;
+    background-size: cover;
   }
   header video {
     display: none;
