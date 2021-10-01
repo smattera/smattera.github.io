@@ -75,11 +75,10 @@ header {
 
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: url("/assets/img/CIFVideoWeb.gif") black no-repeat center center
-      scroll;
-    background-size: cover;
+    background: url("/assets/img/CIF-bg.jpg") black
+      no-repeat center center scroll;
     video {
-      display: none;
+        display: none;
     }
   }
 }
@@ -273,4 +272,9 @@ header {
   background-color: #d9bc64;
   color: #333;
   border-color: #333;
+}
+
+.img-gray {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ 
+  filter: grayscale(100%);
 }
