@@ -108,6 +108,11 @@ header .overlay {
   background-attachment: fixed, fixed;
 }
 
+.basket-bg {
+  background: url("/assets/img/weave02.svg") center repeat, -webkit-gradient(linear, left top, left bottom, from(yellow), color-stop(red), to(blue));
+  background: url("/assets/img/weave02.svg") center repeat, linear-gradient(yellow, red, blue);
+}
+
 .card-bg1 {
   background: url("/assets/img/events.jpg") center no-repeat;
   background-size: cover;
