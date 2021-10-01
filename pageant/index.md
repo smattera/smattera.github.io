@@ -2,4 +2,4 @@
 layout: default
 title: Pageant
 ---
-# Pageant
+{% include pageant.html %}
