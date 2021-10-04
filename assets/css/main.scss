@@ -1,5 +1,5 @@
 body {
-  background-color: #18181b !important;
+  background-color: #212529 !important;
   padding-top: 30px;
 }
 
@@ -27,10 +27,6 @@ body::before {
   &:hover {
     color: #f4e5a1;
   }
-}
-
-.bg-dark {
-  background-color: cmyk(14%, 13%, 4%, 89%) !important;
 }
 
 header {
