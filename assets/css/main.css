@@ -115,6 +115,12 @@ header .overlay {
   background-attachment: fixed, fixed;
 }
 
+.stickball-bg {
+  background: url("/assets/img/stickballweave.svg") center repeat, #8c6239;
+  background-size: 61px 160px, cover;
+  background-attachment: fixed, fixed;
+}
+
 .card-bg1 {
   background: url("/assets/img/events.jpg") center no-repeat;
   background-size: cover;
