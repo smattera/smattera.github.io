@@ -116,7 +116,7 @@ header .overlay {
 }
 
 .stickball-bg {
-  background: url("/assets/img/stickballweave.svg") center repeat, darkgray;
+  background: url("/assets/img/stickballweave.svg") center repeat, #333;
   background-size: 61px 160px, cover;
   background-attachment: fixed, fixed;
 }
