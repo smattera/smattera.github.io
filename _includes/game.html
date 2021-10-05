@@ -1,11 +1,16 @@
 <div class="col">
-    <div class="card bg-dark text-white">
-      <img src="/assets/img/{{ include.file }}.jpg" alt="{{ include.file }}" class="img-fluid rounded-3" style="filter: brightness(50%)">
-      <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-        <h6><span class="badge bg-white text-dark">{{ include.div}}</span></h6>
-        <h5 class="card-title fw-bold">{{ include.title }}</h5>
-        <p class="card-text">{{ include.time }}<br/>{{ include.loc }}</p>
+  <div class="card bg-dark text-white fw-bold">
+    <div class="card-body position-relative p-2" style="background: linear-gradient(130deg, {{ include.t1c }}, {{ include.t1c }}, {{ include.t2c }}, {{ include.t2c }});">
+      <div class="position-relative" style="height: 100px;">
+        <div class="position-absolute top-0 start-0" style="color: {{ include.t1c2 }};">{{ include.t1 }}</div>
+        <div class="position-absolute top-50 end-0 translate-middle-y" style="color: {{ include.t1c2 }}">{{ include.t1s }}</div>
+        <div class="position-absolute top-50 start-50 translate-middle">VS</div>
+        <div class="position-absolute bottom-0 end-0" style="color: {{ include.t2c2 }};">{{ include.t2 }}</div>
+        <div class="position-absolute top-50 start-0 translate-middle-y" style="color: {{ include.t2c2 }};">{{ include.t2s }}</div>
       </div>
     </div>
+    <div class="card-footer text-center">
+      Game {{ include.game }}: {{ include.time }}
+    </div>
   </div>
-  
+</div>
