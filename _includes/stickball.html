@@ -1,52 +1,65 @@
 <section class="stickball-bg py-5 text-center">
-    <div class="container">
-      <h1>World Series of Stickball</h1>
+  <div class="container">
+    <h1>World Series of Stickball</h1>
 
-      <h2 class="text-start">Men's</h2>
-      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-        {% include game.html g="1" d="Thu, Jul 08" hr="9:00 PM" t1="UNIFIED" t1c="#355E3B" t1c2="orange" t1s="0" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="3" %}
-        {% include game.html g="2" d="Fri, Jul 09" hr="9:00 PM" t1="WARRIORS" t1c="maroon" t1c2="white" t1s="1" t2="BÓK ČITO" t2c="white" t2c2="red" t2s="9" %}
-        {% include game.html g="3" d="Fri, Jul 09" hr="10:30 PM" t1="KONI HATA" t1c="blue" t1c2="white" t1s="4" t2="OKA HOMMA" t2c="yellow" t2c2="red" t2s="1" %}
-        {% include game.html g="4" d="Sat, Jul 10" hr="9:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="8" t2="TVSHKAHOMMA" t2c="#4169E1" t2c2="#7C3030" t2s="0" %}
-        {% include game.html g="5" d="Sat, Jul 10" hr="10:30 PM" t1="WOLFPACK" t1c="black" t1c2="#39FF14" t1s="0" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="11" %}
-        {% include game.html g="6" d="Mon, Jul 12" hr="10:00 PM" t1="TUCKER" t1c="green" t1c2="yellow" t1s="2" t2="BÓK ČITO" t2c="white" t2c2="red" t2s="5" %}
-        {% include game.html g="7" d="Tue, Jul 13" hr="10:00 PM" t1="TIAK HIKÍYA" t1c="purple" t1c2="yellow" t1s="0" t2="KONI HATA" t2c="blue" t2c2="white" t2s="7" %}
-        {% include game.html g="8" d="Wed, Jul 14" hr="10:15 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="0" t2="PEARL RIVER" t2c="darkblue" t2c2="white" t2s="4" %}
-        {% include game.html g="9" d="Thu, Jul 15" hr="10:15 PM" t1="BÓK ČITO" t1c="white" t1c2="red" t1s="2" t2="KONI HATA" t2c="blue" t2c2="white" t2s="1" %}
-        {% include game.html g="10" d="Sat, Jul 17" hr="10:15 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="5" t2="BÓK ČITO" t2c="white" t2c2="red" t2s="6" %}
-      </div>
-
-      <h2 class="text-start pt-5">Women's</h2>
-      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-        {% include game.html g="1" d="Thu, Jul 08" hr="8:00 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="3" t2="OKA HOMMA OHÓYO" t2c="yellow" t2c2="red" t2s="0" %}
-        {% include game.html g="2" d="Fri, Jul 09" hr="8:00 PM" t1="NATIVES" t1c="lightblue" t1c2="black" t1s="2" t2="TALI OHÓYO" t2c="orange" t2c2="#355E3B" t2s="1" %}
-        {% include game.html g="3" d="Sat, Jul 10" hr="6:00 PM" t1="TIAK HIKÍYA OHÓYO" t1c="purple" t1c2="yellow" t1s="2" t2="KONI HATA OHÓYO" t2c="blue" t2c2="white" t2s="1" %}
-        {% include game.html g="4" d="Sat, Jul 10" hr="7:00 PM" t1="TVSHKAHOMMA" t1c="#4169E1" t1c2="#7C3030" t1s="4" t2="TUCKER ALHÍHA" t2c="green" t2c2="yellow" t2s="0" %}
-        {% include game.html g="5" d="Sat, Jul 10" hr="8:00 PM" t1="BÓK ČITO OHÓYO" t1c="white" t1c2="red" t1s="3" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="2" %}
-        {% include game.html g="6" d="Mon, Jul 12" hr="7:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="6" t2="NATIVES" t2c="lightblue" t2c2="black" t2s="0" %}
-        {% include game.html g="7" d="Mon, Jul 12" hr="9:00 PM" t1="LADY WARRIORS" t1c="maroon" t1c2="white" t1s="1" t2="TIAK HIKÍYA OHÓYO" t2c="purple" t2c2="yellow" t2s="0" %}
-        {% include game.html g="8" d="Tue, Jul 13" hr="7:00 PM" t1="BÓK ČITO OHÓYO" t1c="white" t1c2="red" t1s="2" t2="TVSHKAHOMMA" t2c="#4169E1" t2c2="#7C3030" t2s="1" %}
-        {% include game.html g="9" d="Tue, Jul 13" hr="9:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="5" t2="LADY WARRIORS" t2c="maroon" t2c2="white" t2s="0" %}
-        {% include game.html g="10" d="Fri, Jul 16" hr="11:30 PM" t1="BÓK ČITO OHÓYO" t1c="white" t1c2="red" t1s="0" t2="PEARL RIVER" t2c="darkblue" t2c2="white" t2s="3" %}
-      </div>
-
-      <h2 class="text-start pt-5">Men's (35+)</h2>
-      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-        {% include game.html g="1" d="Thu, Jul 08" hr="7:00 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="7" t2="INDEPENDENTS" t2c="grey" t2c2="black" t2s="0" %}
-        {% include game.html g="2" d="Fri, Jul 09" hr="7:00 PM" t1="TVSHKAHOMMA" t1c="#4169E1" t1c2="#7C3030" t1s="0" t2="KONI HATA" t2c="blue" t2c2="white" t2s="8" %}
-        {% include game.html g="3" d="Mon, Jul 12" hr="8:00 PM" t1="OKA HOMMA" t1c="yellow" t1c2="red" t1s="1" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="0" %}
-        {% include game.html g="4" d="Tue, Jul 13" hr="8:00 PM" t1="KONI HATA" t1c="blue" t1c2="white" t1s="1" t2="BÓK ČITO" t2c="white" t2c2="red" t2s="0" %}
-        {% include game.html g="5" d="Fri, Jul 16" hr="10:15 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="0" t2="KONI HATA" t2c="blue" t2c2="white" t2s="4" %}
-      </div>
-
-      <h2 class="text-start pt-5">Tulli Okchi Ishko (14-17)</h2>
-      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-        {% include game.html g="1" d="Fri, Jul 09" hr="6:00 PM" t1="BÓK ČITO" t1c="white" t1c2="red" t1s="7" t2="TIAK HIKÍYA" t2c="purple" t2c2="yellow" t2s="0" %}
-        {% include game.html g="2" d="Sat, Jul 10" hr="5:00 PM" t1="WARRIORS" t1c="maroon" t1c2="white" t1s="1" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="10" %}
-        {% include game.html g="3" d="Mon, Jul 12" hr="6:00 PM" t1="KONI HATA HIMITTA" t1c="blue" t1c2="white" t1s="2" t2="OKA HOMMA" t2c="yellow" t2c2="red" t2s="1" %}
-        {% include game.html g="4" d="Wed, Jul 14" hr="6:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="4" t2="BÓK ČITO" t2c="white" t2c2="red" t2s="1" %}
-        {% include game.html g="5" d="Thu, Jul 15" hr="6:00 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="5" t2="KONI HATA HIMITTA" t2c="blue" t2c2="white" t2s="2" %}
-        {% include game.html g="6" d="Fri, Jul 16" hr="6:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="4" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="2" %}
-      </div>
+    <h2 class="text-start">Men's</h2>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      {% include game.html g="1" d="Thu, Jul 08" hr="9:00 PM" t1="UNIFIED" t1c="#355E3B" t1c2="orange" t1s="0" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="3" %}
+      {% include game.html g="2" d="Fri, Jul 09" hr="9:00 PM" t1="WARRIORS" t1c="maroon" t1c2="white" t1s="1" t2="BÓK ČITO" t2c="white" t2c2="red" t2s="9" %}
+      {% include game.html g="3" d="Fri, Jul 09" hr="10:30 PM" t1="KONI HATA" t1c="blue" t1c2="white" t1s="4" t2="OKA HOMMA" t2c="yellow" t2c2="red" t2s="1" %}
+      {% include game.html g="4" d="Sat, Jul 10" hr="9:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="8" t2="TVSHKAHOMMA" t2c="#4169E1" t2c2="#7C3030" t2s="0" %}
+      {% include game.html g="5" d="Sat, Jul 10" hr="10:30 PM" t1="WOLFPACK" t1c="black" t1c2="#39FF14" t1s="0" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="11" %}
+      {% include game.html g="6" d="Mon, Jul 12" hr="10:00 PM" t1="TUCKER" t1c="green" t1c2="yellow" t1s="2" t2="BÓK ČITO" t2c="white" t2c2="red" t2s="5" %}
+      {% include game.html g="7" d="Tue, Jul 13" hr="10:00 PM" t1="TIAK HIKÍYA" t1c="purple" t1c2="yellow" t1s="0" t2="KONI HATA" t2c="blue" t2c2="white" t2s="7" %}
+      {% include game.html g="8" d="Wed, Jul 14" hr="10:15 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="0" t2="PEARL RIVER" t2c="darkblue" t2c2="white" t2s="4" %}
+      {% include game.html g="9" d="Thu, Jul 15" hr="10:15 PM" t1="BÓK ČITO" t1c="white" t1c2="red" t1s="2" t2="KONI HATA" t2c="blue" t2c2="white" t2s="1" %}
+      {% include game.html g="10" d="Sat, Jul 17" hr="10:15 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="5" t2="BÓK ČITO" t2c="white" t2c2="red" t2s="6" %}
     </div>
-  </section>
+
+    <h2 class="text-start pt-5">Women's</h2>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      {% include game.html g="1" d="Thu, Jul 08" hr="8:00 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="3" t2="OKA HOMMA OHÓYO" t2c="yellow" t2c2="red" t2s="0" %}
+      {% include game.html g="2" d="Fri, Jul 09" hr="8:00 PM" t1="NATIVES" t1c="lightblue" t1c2="black" t1s="2" t2="TALI OHÓYO" t2c="orange" t2c2="#355E3B" t2s="1" %}
+      {% include game.html g="3" d="Sat, Jul 10" hr="6:00 PM" t1="TIAK HIKÍYA OHÓYO" t1c="purple" t1c2="yellow" t1s="2" t2="KONI HATA OHÓYO" t2c="blue" t2c2="white" t2s="1" %}
+      {% include game.html g="4" d="Sat, Jul 10" hr="7:00 PM" t1="TVSHKAHOMMA" t1c="#4169E1" t1c2="#7C3030" t1s="4" t2="TUCKER ALHÍHA" t2c="green" t2c2="yellow" t2s="0" %}
+      {% include game.html g="5" d="Sat, Jul 10" hr="8:00 PM" t1="BÓK ČITO OHÓYO" t1c="white" t1c2="red" t1s="3" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="2" %}
+      {% include game.html g="6" d="Mon, Jul 12" hr="7:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="6" t2="NATIVES" t2c="lightblue" t2c2="black" t2s="0" %}
+      {% include game.html g="7" d="Mon, Jul 12" hr="9:00 PM" t1="LADY WARRIORS" t1c="maroon" t1c2="white" t1s="1" t2="TIAK HIKÍYA OHÓYO" t2c="purple" t2c2="yellow" t2s="0" %}
+      {% include game.html g="8" d="Tue, Jul 13" hr="7:00 PM" t1="BÓK ČITO OHÓYO" t1c="white" t1c2="red" t1s="2" t2="TVSHKAHOMMA" t2c="#4169E1" t2c2="#7C3030" t2s="1" %}
+      {% include game.html g="9" d="Tue, Jul 13" hr="9:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="5" t2="LADY WARRIORS" t2c="maroon" t2c2="white" t2s="0" %}
+      {% include game.html g="10" d="Fri, Jul 16" hr="11:30 PM" t1="BÓK ČITO OHÓYO" t1c="white" t1c2="red" t1s="0" t2="PEARL RIVER" t2c="darkblue" t2c2="white" t2s="3" %}
+    </div>
+
+    <h2 class="text-start pt-5">Men's (35+)</h2>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      {% include game.html g="1" d="Thu, Jul 08" hr="7:00 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="7" t2="INDEPENDENTS" t2c="grey" t2c2="black" t2s="0" %}
+      {% include game.html g="2" d="Fri, Jul 09" hr="7:00 PM" t1="TVSHKAHOMMA" t1c="#4169E1" t1c2="#7C3030" t1s="0" t2="KONI HATA" t2c="blue" t2c2="white" t2s="8" %}
+      {% include game.html g="3" d="Mon, Jul 12" hr="8:00 PM" t1="OKA HOMMA" t1c="yellow" t1c2="red" t1s="1" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="0" %}
+      {% include game.html g="4" d="Tue, Jul 13" hr="8:00 PM" t1="KONI HATA" t1c="blue" t1c2="white" t1s="1" t2="BÓK ČITO" t2c="white" t2c2="red" t2s="0" %}
+      {% include game.html g="5" d="Fri, Jul 16" hr="10:15 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="0" t2="KONI HATA" t2c="blue" t2c2="white" t2s="4" %}
+    </div>
+
+    <h2 class="text-start pt-5">Tulli Okchi Ishko (14-17)</h2>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      {% include game.html g="1" d="Fri, Jul 09" hr="6:00 PM" t1="BÓK ČITO" t1c="white" t1c2="red" t1s="7" t2="TIAK HIKÍYA" t2c="purple" t2c2="yellow" t2s="0" %}
+      {% include game.html g="2" d="Sat, Jul 10" hr="5:00 PM" t1="WARRIORS" t1c="maroon" t1c2="white" t1s="1" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="10" %}
+      {% include game.html g="3" d="Mon, Jul 12" hr="6:00 PM" t1="KONI HATA HIMITTA" t1c="blue" t1c2="white" t1s="2" t2="OKA HOMMA" t2c="yellow" t2c2="red" t2s="1" %}
+      {% include game.html g="4" d="Wed, Jul 14" hr="6:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="4" t2="BÓK ČITO" t2c="white" t2c2="red" t2s="1" %}
+      {% include game.html g="5" d="Thu, Jul 15" hr="6:00 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="5" t2="KONI HATA HIMITTA" t2c="blue" t2c2="white" t2s="2" %}
+      {% include game.html g="6" d="Fri, Jul 16" hr="6:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="4" t2="BEAVER DAM" t2c="red" t2c2="white" t2s="2" %}
+    </div>
+
+    <h2 class="text-start pt-5">Pushmataha (10-13)</h2>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      {% include game.html g="1" d="Thu, Jul 08" hr="5:00 PM" t1="PEARL RIVER" t1c="darkblue" t1c2="white" t1s="4" t2="NANIH WAIYA ATTITUDE" t2c="black" t2c="white" t2s="1" %}
+      {% include game.html g="2" d="Thu, Jul 08" hr="6:00 PM" t1="KONI OSI" t1c="blue" t1c2="white" t1s="5" t2="BÓK ČITO" t2c="white" t2c="red" t2s="4" %}
+      {% include game.html g="3" d="Fri, Jul 09" hr="5:00 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="5" t2="OKA HOMMA" t2c="yellow" t2c="red" t2s="0" %}
+      {% include game.html g="4" d="Mon, Jul 12" hr="5:00 PM" t1="FANI LAKNA OSI" t1c="green" t1c2="yellow" t1s="6" t2="WARRIORS" t2c="maroon" t2c="white" t2s="4" %}
+      {% include game.html g="5" d="Tue, Jul 13" hr="6:00 PM" t1="TIAK HIKÍYA OSI" t1c="purple" t1c2="yellow" t1s="6" t2="PEARL RIVER" t2c="darkblue" t2c="white" t2s="4" %}
+      {% include game.html g="6" d="Wed, Jul 14" hr="5:00 PM" t1="TIAK HIKÍYA OSI" t1c="purple" t1c2="yellow" t1s="2" t2="KONI OSI" t2c="blue" t2c="white" t2s="4" %}
+      {% include game.html g="7" d="Thu, Jul 15" hr="5:00 PM" t1="BEAVER DAM" t1c="red" t1c2="white" t1s="9" t2="FANI LAKNA OSI" t2c="green" t2c="yellow" t2s="0" %}
+      {% include game.html g="8" d="Fri, Jul 16" hr="5:00 PM" t1="KONI OSI" t1c="blue" t1c2="white" t1s="0" t2="BEAVER DAM" t2c="red" t2c="white" t2s="4" %}
+    </div>
+
+  </div>
+</section>
