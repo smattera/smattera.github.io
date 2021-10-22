@@ -184,6 +184,13 @@ header {
   /* border-image: linear-gradient(90deg, rgba(208,166,65,1) 0%, rgba(244,229,161,1) 50%, rgba(208,166,65,1) 100%); */
 }
 
+.card-red-border {
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to bottom, #ff0000, #990000);
+}
+
 .opaque {
   color: #fff;
   &:hover {
