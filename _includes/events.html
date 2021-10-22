@@ -24,11 +24,11 @@
 
 <section class="diamond-bg text-light py-5 text-center">
   <div class="container">
-    <h2 class="pb-2">2021 Fair Schedule</h2>
+    <h2 class="pb-2 bebas" style="font-size:4rem;">2021 Fair Schedule</h2>
 
     {% assign cachedNow = 'now' | date: '%Y-%m-%d' %}
     
-    <ul class="nav nav-pills nav-fill" id="myTab" role="tablist">
+    <ul class="nav nav-pills nav-fill" id="myTab" role="tablist" class="bebas" style="font-size:1.5rem;">
       {% include eventTabFirst.html day="dayOne" date="2021-07-07" %}
       {% include eventTab.html day="dayTwo" date="2021-07-08" %}
       {% include eventTab.html day="dayThree" date="2021-07-09" %}
