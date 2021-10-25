@@ -43,7 +43,7 @@ h4, .h4 {
 h5, .h5 {
   font-family: 'Bebas Neue', cursive;
   font-size: 1.25rem;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 @media (min-width: 768px) {
