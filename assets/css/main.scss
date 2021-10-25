@@ -12,16 +12,19 @@ body::before {
 h1, .h1 {
   font-family: 'Bebas Neue', cursive;
   font-size: 6rem;
+  font-weight: bold;
 }
 
 h2, .h2 {
   font-family: 'Bebas Neue', cursive;
   font-size: 4rem;
+  font-weight: bold;
 }
 
 h3, .h3 {
   font-family: 'Bebas Neue', cursive;
   font-size: 2rem;
+  font-weight: bold;
 }
 
 @media (min-width: 768px) {
