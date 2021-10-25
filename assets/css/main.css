@@ -23,6 +23,12 @@ h2, .h2 {
 
 h3, .h3 {
   font-family: 'Bebas Neue', cursive;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+h4, .h4 {
+  font-family: 'Bebas Neue', cursive;
   font-size: 2rem;
   font-weight: bold;
 }
