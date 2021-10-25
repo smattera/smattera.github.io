@@ -9,6 +9,10 @@ body::before {
   height: 60px;
 }
 
+section {
+  padding: 3rem, 0rem !important;
+}
+
 h1, .h1 {
   font-family: 'Bebas Neue', cursive;
   font-size: 6rem;
