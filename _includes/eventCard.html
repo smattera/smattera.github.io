@@ -1,8 +1,9 @@
 <div class="col">
   <div class="card bg-dark text-white">
+    <div class="card-title bg-white text-dark h6">{{ include.div }}</div>
     <img src="/assets/img/{{ include.file }}.jpg" alt="{{ include.file }}" class="img-fluid rounded-3" style="filter: brightness(50%)">
     <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-      <span class="badge rounded-pill bg-white text-dark h6">{{ include.div}}</span>
+      <!--<span class="badge rounded-pill bg-white text-dark h6">{{ include.div}}</span>-->
       <p class="h5 card-title">{{ include.title }}</p>
       <p class="card-text">{{ include.time }}<br/>{{ include.loc }}</p>
     </div>
