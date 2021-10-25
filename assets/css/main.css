@@ -9,6 +9,16 @@ body::before {
   height: 60px;
 }
 
+h1, .h1 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 6rem;
+}
+
+h2, .h2 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 4rem;
+}
+
 @media (min-width: 768px) {
   .news-input {
     width: 50%;
