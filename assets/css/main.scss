@@ -191,6 +191,13 @@ header {
   border-image-source: linear-gradient(to bottom, #ff0000, #990000);
 }
 
+.card-black-border {
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to bottom, #999, #333)
+}
+
 .opaque {
   color: #fff;
   &:hover {
