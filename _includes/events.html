@@ -24,11 +24,11 @@
 
 <section class="diamond-bg">
   <div class="container">
-    <h2 class="pb-2">2021 Fair Schedule</h2>
+    <h2>2021 Fair Schedule</h2>
 
     {% assign cachedNow = 'now' | date: '%Y-%m-%d' %}
     
-    <ul class="nav nav-pills nav-fill bebas" id="myTab" role="tablist" style="font-size: 1.5rem;">
+    <ul class="nav nav-pills nav-fill h5" id="myTab" role="tablist">
       {% include eventTabFirst.html day="dayOne" date="2021-07-07" %}
       {% include eventTab.html day="dayTwo" date="2021-07-08" %}
       {% include eventTab.html day="dayThree" date="2021-07-09" %}
@@ -42,7 +42,7 @@
     </ul>
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade {% include eventActive.html date='2021-07-07' %}{% if cachedNow <= '2021-07-07' %}show active %}{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           {% include eventCard.html file="stickball" title="Fallen Tushka Ceremony" time="6:00 PM" loc="Warrior Stadium" %}
           {% include eventCard.html file="stickball" div="WSS: Women's (35+)" title="North vs South" time="7:00 PM" loc="Warrior Stadium" %}
           {% include eventCard.html file="stickball" div="WSS: Men's (50+)" title="North vs South" time="8:00 PM" loc="Warrior Stadium" %}  
