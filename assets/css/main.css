@@ -189,8 +189,8 @@ header .overlay {
 }
 
 .beadwork-bg {
-  background: url("/assets/img/beadwork.svg") center repeat, repeating-linear-gradient(30deg, #72037c, #662d91, purple, purple, #9e005d, #1b1464);
-  background-size: 20px 16px, cover;
+  background: url("/assets/img/beadwork.svg") center repeat, linear-gradient(30deg, #72037c, #662d91, purple, purple, #9e005d, #1b1464, #72037c, #662d91, purple, purple, #9e005d, #1b1464, #72037c, #662d91, purple, purple, #9e005d, #1b1464);
+  background-size: 40px 32px, cover;
   background-attachment: fixed, fixed;
 }
 
