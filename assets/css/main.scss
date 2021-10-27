@@ -222,6 +222,12 @@ header {
   height: 600px;
 }
 
+.beadwork-bg {
+  background: url("/assets/img/beadwork.svg") center repeat, repeating-linear-gradient(30deg,rgb(114,3,124),rgb(102,45,145),rgb(128,0,128),rgb(128,0,128),rgb(158,0,93),rgb(27,20,100));
+  background-size: 20px 16px, cover;
+  background-attachment: fixed, fixed;
+}
+
 .card-gold-border {
   border: 10px solid;
   border-image-slice: 1;

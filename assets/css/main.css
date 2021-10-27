@@ -188,6 +188,12 @@ header .overlay {
   height: 600px;
 }
 
+.beadwork-bg {
+  background: url("/assets/img/beadwork.svg") center repeat, repeating-linear-gradient(30deg, #72037c, #662d91, purple, purple, #9e005d, #1b1464);
+  background-size: 20px 16px, cover;
+  background-attachment: fixed, fixed;
+}
+
 .card-gold-border {
   border: 10px solid;
   border-image-slice: 1;
