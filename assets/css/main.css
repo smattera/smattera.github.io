@@ -189,7 +189,9 @@ header .overlay {
 }
 
 .beadwork-bg {
-  background: linear-gradient(30deg, #72037c, #662d91, purple, purple, #9e005d, #1b1464, #72037c, #662d91, purple, purple, #9e005d, #1b1464, #72037c, #662d91, purple, purple, #9e005d, #1b1464);
+  background: url("/assets/img/bead.svg"), linear-gradient(30deg, #72037c, #662d91, purple, purple, #9e005d, #1b1464, #72037c, #662d91, purple, purple, #9e005d, #1b1464, #72037c, #662d91, purple, purple, #9e005d, #1b1464);
+  background-size: 45px 35px, cover;
+  background-attachment: fixed, fixed;
 }
 
 .card-gold-border {
