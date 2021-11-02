@@ -1,13 +1,9 @@
 <div class="col">
-  <div class="card h-100 bg-dark text-white">
-    <div class="card-header text-white bg-dark h4 pt-3">{{ include.time }}</div>
-    <img src="/assets/img/{{ include.file }}.jpg" alt="{{ include.file }}" class="img-fluid" style="filter: brightness(50%)">
-    <div class="card-img-overlay h-100 d-flex flex-column justify-content-center">
-      <!--<span class="badge rounded-pill bg-white text-dark h6">{{ include.div}}</span>-->
-      <p class="h4 card-title">{{ include.title }}</p>
-    </div>
-    <div class="card-footer text-white bg-dark h5 pt-3">
-      {{ include.loc }}
+  <div class="card h-100 card-gold-border" style="background: linear-gradient(#550000, #800000);">
+    <div class="card-body">
+      <p class="h4">{{ include.title }}</p>
+      <p class="h4">{{ include.time }}</p>
+      <p class="h5">{{ include.loc }}</p>
     </div>
   </div>
 </div>
