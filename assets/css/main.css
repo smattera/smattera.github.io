@@ -227,6 +227,13 @@ header .overlay {
   border-image-source: linear-gradient(to bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0));
 }
 
+.card-rose-border {
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to bottom, #ffdae7, #b86b77);
+}
+
 .opaque {
   color: #fff;
 }
