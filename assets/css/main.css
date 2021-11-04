@@ -343,8 +343,8 @@ header .overlay {
 
 .nav-pills .nav-link {
   background-color: cmyk(14%, 13%, 4%, 89%);
-  color: #d9bc64;
-  border-color: #d9bc64;
+  color: #f4e5a1;
+  border-color: #f4e5a1;
 }
 
 .nav-pills .nav-link.active {
