@@ -150,7 +150,7 @@ header .overlay {
 }
 
 .camo-bg {
-  background: url("/assets/img/camo.svg") center repeat, #fff;
+  background: url("/assets/img/camo.svg") center repeat, #ccc;
   background-size: 750px 600px, cover;
   background-attachment: fixed, fixed;
 }
