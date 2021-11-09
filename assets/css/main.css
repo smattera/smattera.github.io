@@ -217,7 +217,7 @@ header .overlay {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #ff9999, #cc3333);
+  border-image-source: linear-gradient(to bottom, #ff9999, #fcc, #cc3333);
 }
 
 .card-black-border {
