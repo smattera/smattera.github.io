@@ -234,6 +234,13 @@ header .overlay {
   border-image-source: linear-gradient(to bottom, #ffeedd, #ddaa99);
 }
 
+.card-blue-border {
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to bottom, #ccf, #669);
+}
+
 .opaque {
   color: #fff;
 }
