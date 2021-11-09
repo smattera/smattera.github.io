@@ -231,7 +231,7 @@ header .overlay {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #fcf, #969);
+  border-image-source: linear-gradient(to bottom, #fcc, #969);
 }
 
 .card-blue-border {
