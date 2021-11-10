@@ -151,13 +151,13 @@ header {
   background: url("/assets/img/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
-      #18181b,
-      #424349,
-      #18181b,
-      #424349,
-      #18181b,
-      #424349,
-      #18181b
+      #111,
+      #444,
+      #111,
+      #444,
+      #111,
+      #444,
+      #111
     );
   background-size: 700px 700px, cover;
   background-attachment: fixed, fixed;
@@ -167,13 +167,13 @@ header {
   background: url("/assets/img/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
-      #b09136,
-      #d9bc64,
-      #b09136,
-      #d9bc64,
-      #b09136,
-      #d9bc64,
-      #b09136
+      #b93,
+      #db6,
+      #b93,
+      #db6,
+      #b93,
+      #db6,
+      #b93
     );
   background-size: 700px 700px, cover;
   background-attachment: fixed, fixed;
@@ -235,7 +235,7 @@ header {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #f4e5a1, #d0a641);
+  border-image-source: linear-gradient(to bottom, #fea, #cee,#da4);
   /* border:thick solid #f4e5a1; */
   /* border-image: linear-gradient(90deg, rgba(208,166,65,1) 0%, rgba(244,229,161,1) 50%, rgba(208,166,65,1) 100%); */
 }
@@ -244,14 +244,14 @@ header {
   border: 15px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #f4e5a1, #d0a641);
+  border-image-source: linear-gradient(to bottom, #fea, #cee,#da4);
 }
 
 .card-red-border {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #ff9999,#fcc,#cc3333);
+  border-image-source: linear-gradient(to bottom, #f99,#fcc,#c33);
 }
 
 .card-black-border {
