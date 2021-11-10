@@ -201,14 +201,14 @@ header .overlay {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #fea, #cee, #da4);
+  border-image-source: linear-gradient(to bottom, #fea, #dff, #da4);
 }
 
 .card-gold-border2 {
   border: 15px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #fea, #cee, #da4);
+  border-image-source: linear-gradient(to bottom, #fea, #dff, #da4);
 }
 
 .card-red-border {
@@ -292,8 +292,8 @@ header .overlay {
 }
 
 .card-gold {
-  background: -webkit-gradient(linear, left top, left bottom, from(#da4), color-stop(#cee), to(#fea));
-  background: linear-gradient(to bottom, #da4, #cee, #fea);
+  background: -webkit-gradient(linear, left top, left bottom, from(#da4), color-stop(#dff), to(#fea));
+  background: linear-gradient(to bottom, #da4, #dff, #fea);
 }
 
 .card-silver {
