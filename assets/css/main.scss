@@ -63,16 +63,16 @@ h6, .h6 {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: #d9bc64;
+  color: #db6;
   &:hover {
-    color: #f4e5a1;
+    color: #fea;
   }
 }
 
 .link-white a {
-  color: #d9bc64;
+  color: #db6;
   &:hover {
-    color: #f4e5a1;
+    color: #fea;
   }
 }
 
@@ -236,7 +236,7 @@ header {
   border-image-slice: 1;
   border-width: 5px;
   border-image-source: linear-gradient(to bottom, #fea, #cee,#da4);
-  /* border:thick solid #f4e5a1; */
+  /* border:thick solid #fea; */
   /* border-image: linear-gradient(90deg, rgba(208,166,65,1) 0%, rgba(244,229,161,1) 50%, rgba(208,166,65,1) 100%); */
 }
 
@@ -258,7 +258,7 @@ header {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #dfd,#fff,#779);
+  border-image-source: linear-gradient(to bottom, #fff,#dfd,#779);
 }
 
 .card-rose-border {
@@ -272,7 +272,7 @@ header {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #bff, #069);
+  border-image-source: linear-gradient(to bottom, #bff, #ffd, #069);
 }
 
 .opaque {
@@ -318,20 +318,18 @@ header {
 }
 
 .card-platinum {
-  background: linear-gradient(to bottom, #888, #ddd, #bbb);
-  /* background: linear-gradient(to bottom, #d6d5d3, #e5e4e2, #a6a5a3, #e5e4e2, #858482, #555452); */
+  background: linear-gradient(to bottom, #9aa, #fff, #bba);
 }
 
 .card-gold {
-  background: linear-gradient(to bottom, #d0a641, #ffefaf, #f4e5a1);
-  /* background: linear-gradient(to bottom, #FCF6BA, #BF953F, #FBF5B7, #BF953F, #B38728, #AA771C); */
+  background: linear-gradient(to bottom, #da4, #cee, #fea);
 }
 
 .card-silver {
-  background: linear-gradient(to bottom, #666, #bbb, #999);
+  background: linear-gradient(to bottom, #667, #ffe, #889);
 }
 .card-bronze {
-  background: linear-gradient(to bottom, #844400, #facc66, #facc66);
+  background: linear-gradient(to bottom, #840, #eff, #fc6);
 }
 
 .card-img,
@@ -347,17 +345,17 @@ header {
 }
 
 .footer .container a {
-  color: #d9bc64;
+  color: #db6;
   text-decoration: none;
 }
 
 .btn-outline-secondary {
-  color: #d9bc64;
-  border-color: #d9bc64;
+  color: #db6;
+  border-color: #db6;
   &:hover {
     color: #333;
-    background-color: #f4e5a1;
-    border-color: #f4e5a1;
+    background-color: #fea;
+    border-color: #fea;
   }
 }
 @media (max-width: 751px) {
@@ -370,11 +368,11 @@ header {
 }
 .nav-pills .nav-link {
   background-color: cmyk(14%, 13%, 4%, 89%);
-  color: #f4e5a1;
-  border-color: #f4e5a1;
+  color: #fea;
+  border-color: #fea;
 }
 .nav-pills .nav-link.active {
-  background: linear-gradient(#d9bc64,#f4e5a1);
+  background: linear-gradient(#db6,#fea);
   color: #333;
   border-color: #333;
 }
