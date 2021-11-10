@@ -187,11 +187,7 @@ header {
 
 .basket-bg {
   background: url("/assets/img/weave02.svg") center repeat, 
-  linear-gradient(
-    yellow,
-    red,
-    blue
-  );
+  linear-gradient(to right, purple, red, pink, red, purple);
   background-size: 360px 240px, cover;
   background-attachment: fixed, scroll;
 }
@@ -236,8 +232,6 @@ header {
   border-image-slice: 1;
   border-width: 5px;
   border-image-source: linear-gradient(to bottom, #fea, #cee,#da4);
-  /* border:thick solid #fea; */
-  /* border-image: linear-gradient(90deg, rgba(208,166,65,1) 0%, rgba(244,229,161,1) 50%, rgba(208,166,65,1) 100%); */
 }
 
 .card-gold-border2 {
