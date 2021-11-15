@@ -1,5 +1,5 @@
 body {
-  background-color: #212529 !important;
+  background-color: #222 !important;
   padding-top: 30px;
 }
 
@@ -12,12 +12,12 @@ body::before {
 section {
   padding-top: 3rem!important;
   padding-bottom: 3rem!important;
-  color: #f8f9fa !important;
+  color: #fff !important;
   text-align: center !important;
 }
 
 a:hover {
-  color: #f8f9fa;
+  color: #fff;
 }
 
 h1, .h1 {
@@ -135,13 +135,13 @@ header {
   background: url("/assets/img/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
-      #550000,
+      #500,
       maroon,
-      #550000,
+      #500,
       maroon,
-      #550000,
+      #500,
       maroon,
-      #550000
+      #500
     );
   background-size: 700px 700px, cover;
   background-attachment: fixed, fixed;
