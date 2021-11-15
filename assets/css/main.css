@@ -222,7 +222,7 @@ header .overlay {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #ddf, #fff, #779);
+  border-image-source: linear-gradient(to bottom, #efe, #fff, #779);
 }
 
 .card-rose-border {
