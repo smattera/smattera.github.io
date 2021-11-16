@@ -1,4 +1,4 @@
-  <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
+  <nav class="navbar navbar-expand-xl bg-dark navbar-dark py-3 fixed-top">
     <div class="container">
       <a href="/index.html" class="navbar-brand">
         <img src="/assets/img/icon.png" alt="Choctaw Indian Fair" height="50" width="auto">
@@ -7,9 +7,12 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navmenu">
-        <ul class="navbar-nav">
+        <ul class="navbar-nav h5 pt-1">
           <li class="nav-item">
             <a href="/events/" class="nav-link {% if page.url == '/events/' %}active{% endif %}">Events</a>
+          </li>
+          <li class="nav-item">
+            <a href="/culture/" class="nav-link {% if page.url == '/culture/' %}active{% endif %}">Culture</a>
           </li>
           <li class="nav-item">
             <a href="/stickball/" class="nav-link {% if page.url == '/stickball/' %}active{% endif %}">Stickball</a>
@@ -26,11 +29,11 @@
         </ul>
         <ul class="navbar-nav ms-auto">
           <li class="nav-item h4 link-white pt-md-1">
-            <a href="https://www.facebook.com/ChoctawIndianFair"><i class="bi bi-facebook"></i></a>
-            <a href="https://www.youtube.com/c/Choctawindianfair39350"><i class="bi bi-youtube mx-1"></i></a>
-            <a href="https://twitter.com/mschoctawfair"><i class="bi bi-twitter"></i></a>
+            <a href="https://www.facebook.com/ChoctawIndianFair" target="_blank"><i class="bi bi-facebook"></i></a>
+            <a href="https://www.youtube.com/c/Choctawindianfair39350" target="_blank"><i class="bi bi-youtube mx-1"></i></a>
+            <a href="https://twitter.com/mschoctawfair" target="_blank"><i class="bi bi-twitter"></i></a>
           </li>
-          <form class="d-flex" role="search" id="search-form">
+          <form class="d-flex bebas" role="search" id="search-form">
             <input class="form-control mx-lg-2 me-2" type="search" placeholder="Search" aria-label="Search" id="search-query">
             <button class="btn btn-outline-secondary" type="submit">Search</button>
           </form>

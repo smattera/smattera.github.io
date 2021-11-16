@@ -1,5 +1,5 @@
 body {
-  background-color: #212529 !important;
+  background-color: #222 !important;
   padding-top: 30px;
 }
 
@@ -9,6 +9,53 @@ body::before {
   height: 60px;
 }
 
+section {
+  padding-top: 3rem!important;
+  padding-bottom: 3rem!important;
+  color: #fff !important;
+  text-align: center !important;
+}
+
+a:hover {
+  color: #fff;
+}
+
+h1, .h1 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 6rem;
+  font-weight: normal;
+}
+
+h2, .h2 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 4rem;
+  font-weight: normal;
+}
+
+h3, .h3 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 3rem;
+  font-weight: normal;
+}
+
+h4, .h4 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h5, .h5 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 1.45rem;
+  font-weight: normal;
+}
+
+h6, .h6 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
 @media (min-width: 768px) {
   .news-input {
     width: 50%;
@@ -16,16 +63,16 @@ body::before {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: #d9bc64;
+  color: #db6;
   &:hover {
-    color: #f4e5a1;
+    color: #fea;
   }
 }
 
 .link-white a {
-  color: #d9bc64;
+  color: #db6;
   &:hover {
-    color: #f4e5a1;
+    color: #fea;
   }
 }
 
@@ -66,6 +113,10 @@ header {
   }
 }
 
+.card {
+  border:none;
+}
+
 /* Media Query for devices withi coarse pointers and no hover functionality */
 
 /* This will use a fallback image instead of a video for devices that commonly do not support the HTML5 video element */
@@ -84,13 +135,13 @@ header {
   background: url("/assets/img/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
-      #550000,
+      #500,
       maroon,
-      #550000,
+      #500,
       maroon,
-      #550000,
+      #500,
       maroon,
-      #550000
+      #500
     );
   background-size: 700px 700px, cover;
   background-attachment: fixed, fixed;
@@ -100,13 +151,13 @@ header {
   background: url("/assets/img/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
-      #18181b,
-      #424349,
-      #18181b,
-      #424349,
-      #18181b,
-      #424349,
-      #18181b
+      #111,
+      #444,
+      #111,
+      #444,
+      #111,
+      #444,
+      #111
     );
   background-size: 700px 700px, cover;
   background-attachment: fixed, fixed;
@@ -116,33 +167,29 @@ header {
   background: url("/assets/img/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
-      #b09136,
-      #d9bc64,
-      #b09136,
-      #d9bc64,
-      #b09136,
-      #d9bc64,
-      #b09136
+      #b93,
+      #db6,
+      #b93,
+      #db6,
+      #b93,
+      #db6,
+      #b93
     );
   background-size: 700px 700px, cover;
   background-attachment: fixed, fixed;
 }
 
 .camo-bg {
-  background: url("/assets/img/camo.svg") center repeat, #fffac4;
+  background: url("/assets/img/camo.svg") center repeat, #ccc;
   background-size: 750px 600px, cover;
   background-attachment: fixed, fixed;
 }
 
 .basket-bg {
   background: url("/assets/img/weave02.svg") center repeat, 
-  linear-gradient(
-    yellow,
-    red,
-    blue
-  );
+  linear-gradient(to right, purple, red, pink, red, purple);
   background-size: 360px 240px, cover;
-  background-attachment: fixed, fixed;
+  background-attachment: fixed, scroll;
 }
 
 .stickball-bg {
@@ -175,13 +222,51 @@ header {
   height: 600px;
 }
 
+.beadwork-bg {
+  background: url("/assets/img/bead.png");
+  background-size: 100px 100px;
+}
+
 .card-gold-border {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 5px;
-  border-image-source: linear-gradient(to bottom, #f4e5a1, #d0a641);
-  /* border:thick solid #f4e5a1; */
-  /* border-image: linear-gradient(90deg, rgba(208,166,65,1) 0%, rgba(244,229,161,1) 50%, rgba(208,166,65,1) 100%); */
+  border-image-source: linear-gradient(to bottom, #fea, #dff,#da4);
+}
+
+.card-gold-border2 {
+  border: 15px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to bottom, #fea, #dff,#da4);
+}
+
+.card-red-border {
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to bottom, #fcc,#ffeeee,#c33);
+}
+
+.card-black-border {
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to bottom, #efe,#fff,#779);
+}
+
+.card-rose-border {
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to bottom, #fcc,#ffd,#969);
+}
+
+.card-blue-border {
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to bottom, #bff, #ffd, #069);
 }
 
 .opaque {
@@ -227,20 +312,18 @@ header {
 }
 
 .card-platinum {
-  background: linear-gradient(to bottom, #888, #ddd, #bbb);
-  /* background: linear-gradient(to bottom, #d6d5d3, #e5e4e2, #a6a5a3, #e5e4e2, #858482, #555452); */
+  background: linear-gradient(to bottom, #9aa, #fff, #bba);
 }
 
 .card-gold {
-  background: linear-gradient(to bottom, #d0a641, #ffefaf, #f4e5a1);
-  /* background: linear-gradient(to bottom, #FCF6BA, #BF953F, #FBF5B7, #BF953F, #B38728, #AA771C); */
+  background: linear-gradient(to bottom, #da4, #dff, #fea);
 }
 
 .card-silver {
-  background: linear-gradient(to bottom, #666, #bbb, #999);
+  background: linear-gradient(to bottom, #667, #ffe, #889);
 }
 .card-bronze {
-  background: linear-gradient(to bottom, #844400, #facc66, #facc66);
+  background: linear-gradient(to bottom, #840, #eff, #fc6);
 }
 
 .card-img,
@@ -256,17 +339,17 @@ header {
 }
 
 .footer .container a {
-  color: #d9bc64;
+  color: #db6;
   text-decoration: none;
 }
 
 .btn-outline-secondary {
-  color: #d9bc64;
-  border-color: #d9bc64;
+  color: #db6;
+  border-color: #db6;
   &:hover {
     color: #333;
-    background-color: #f4e5a1;
-    border-color: #f4e5a1;
+    background-color: #fea;
+    border-color: #fea;
   }
 }
 @media (max-width: 751px) {
@@ -279,16 +362,48 @@ header {
 }
 .nav-pills .nav-link {
   background-color: cmyk(14%, 13%, 4%, 89%);
-  color: #d9bc64;
-  border-color: #d9bc64;
+  color: #fea;
+  border-color: #fea;
 }
 .nav-pills .nav-link.active {
-  background-color: #d9bc64;
+  background: linear-gradient(#db6,#fea);
   color: #333;
   border-color: #333;
 }
-
 .img-gray {
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ 
   filter: grayscale(100%);
+}
+.lighten {
+  mix-blend-mode: lighten;
+}
+.bebas {
+  font-family:  'Bebas Neue', cursive;
+}
+.archivo {
+  font-family: 'Archivo Black', sans-serif;
+}
+.shadow-text {
+  text-shadow: 0 1px 0 #aaa,
+               0 2px 0 #a9a9a9,
+               0 3px 0 #999,
+               0 4px 0 #999999,
+               0 5px 0 #888,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+}
+
+.title {
+  font-size: calc(1.525rem + 3.3vw);
+}
+
+@media (min-width: 1200px) {
+  .title {
+    font-size: 4rem;
+  }
 }
