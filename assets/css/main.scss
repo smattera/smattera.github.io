@@ -179,6 +179,22 @@ header {
   background-attachment: fixed, fixed;
 }
 
+.diamond-bg4 {
+  background: url("/assets/img/diamond-bg.svg") center repeat,
+    linear-gradient(
+      30deg,
+      #046,
+      #069,
+      #046,
+      #069,
+      #046,
+      #069,
+      #046
+    );
+  background-size: 700px 700px, cover;
+  background-attachment: fixed, fixed;
+}
+
 .camo-bg {
   background: url("/assets/img/camo.svg") center repeat, #ccc;
   background-size: 750px 600px, cover;
