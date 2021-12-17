@@ -155,6 +155,10 @@ header .overlay {
   background-attachment: fixed, fixed;
 }
 
+.diamond-bg5 {
+  background: url("/assets/img/diamond-bg.svg") center repeat, linear-gradient(30deg, #404, #909, #404, #909, #404, #909, #404);
+}
+
 .camo-bg {
   background: url("/assets/img/camo.svg") center repeat, #ccc;
   background-size: 750px 600px, cover;
