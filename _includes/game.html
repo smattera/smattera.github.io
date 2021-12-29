@@ -30,10 +30,10 @@
             </div>
             <div class="modal-body text-dark">
               {{ include.t1 }}<br>
-              {% include "prefix/{{ r1 | append: \".html\"}}" %}<br>
+              {% include "rosters/{{r1 | append: \".html\"}}" %}<br>
               <hr>
               {{ include.t2 }}<br>
-              {% include "prefix/{{ r1 | append: \".html\"}}" %}
+              {% include "rosters/{{r1 | append: \".html\"}}" %}
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
