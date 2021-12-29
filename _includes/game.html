@@ -32,6 +32,8 @@
               {{ include.t1 }}<br>
               {% include_relative rosters/{{ include.r1 }}/.html %}<br>
               {% include_relative rosters/{{r1 | append: ".html"}} %}<br>
+              {% include_relative rosters/mens-unified.html %}<br>
+              {% include_relative ../rosters/mens-unified.html %}<br>
               <hr>
               {{ include.t2 }}<br>
               {% include "rosters/{{include.r1 | append: \".html\"}}" %}
