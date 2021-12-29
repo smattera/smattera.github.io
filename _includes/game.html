@@ -31,6 +31,8 @@
             <div class="modal-body text-dark">
               {{ include.t1 }}<br>
               {% include "rosters/{{include.r1 | append: \".html\"}}" %}<br>
+              {% include rosters/{{ include.r1 }}/.html %}<br>
+              {% include rosters/{{r1 | append: ".html"}} %}<br>
               <hr>
               {{ include.t2 }}<br>
               {% include "rosters/{{include.r1 | append: \".html\"}}" %}
