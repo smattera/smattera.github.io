@@ -10,7 +10,7 @@
               <div style="background: white; color: #555;">
                 <p class="h4 mb-0 pt-1">GAME {{ include.g }}</p>
               </div>
-              <p class="card-text h4 pt-1" style="font-size:1.7rem;">{{ include.d }}<br>{{ include.hr }}</p>
+              <p class="card-text h4 pt-1" style="font-size:1.6rem;">{{ include.d }}<br>{{ include.hr }}</p>
             </div>
             <div class="col-4 card mt-0 position-relative" style="background: linear-gradient(130deg, rgba({{ include.t2c2 }}, 0), rgba({{ include.t2c2 }}, 0.3), rgba({{ include.t2c2 }}, 0), rgba({{ include.t2c2 }}, 0), rgba({{ include.t2c2 }}, 0.3), rgba({{ include.t2c2 }}, 0.3), rgba({{ include.t2c2 }}, 0)), rgba({{ include.t2c }}, 1); color: rgba({{ include.t2c2 }},1); border: 4px solid rgba({{ include.t2c2 }}, 0.25);">
               <div class="card-head pt-3 h5" style="font-size:1.35rem;">{{ include.t2 }}</div>
@@ -30,10 +30,10 @@
             </div>
             <div class="modal-body text-dark">
               {{ include.t1 }}<br>
-              {{% include.{{ include.div }}-{{ include.t1}}.html %}}<br>
+              {{% include {{ include.r1 }}.html %}}<br>
               <hr>
               {{ include.t2 }}<br>
-              {{% include.{{ include.div }}-{{ include.t2}}.html %}}
+              {{% include {{ include.r2 }}.html %}}
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
