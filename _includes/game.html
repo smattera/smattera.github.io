@@ -19,28 +19,3 @@
           </div>
         </a>
       </div>
-
-      <!-- Modal -->
-      <div class="modal fade" id="{{ include.div }}-g{{ include.g }}" tabindex="-1" aria-labelledby="{{ include.div }}-g{{ include.g }}" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title text-dark" id="exampleModalLabel">GAME {{ include.g }} TEAM ROSTERS</h5>
-              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body text-dark">
-              {{ include.t1 }}<br>
-              {% include_relative rosters/{{ include.r1 }}/.html %}<br>
-              {% include_relative rosters/{{r1 | append: ".html"}} %}<br>
-              {% include_relative rosters/mens-unified.html %}<br>
-              {% include_relative ../rosters/mens-unified.html %}<br>
-              <hr>
-              {{ include.t2 }}<br>
-              {% include "rosters/{{include.r1 | append: \".html\"}}" %}
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-            </div>
-          </div>
-        </div>
-      </div>
