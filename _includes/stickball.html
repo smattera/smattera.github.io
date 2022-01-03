@@ -7,15 +7,17 @@
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% include game.html div="mens" div="mens" g="1" d="Thu, Jul 08" hr="9:00 PM" t1="unified" t1c="0,100,0" t1c2="255,165,0" t1s="0" t2="beaver dam" t2c="255,0,0" t2c2="255,255,255" t2s="3" %}
 
+      
+
       <!-- Modal -->
       <div class="modal fade" id="mens-g1" tabindex="-1" aria-labelledby="mens-g1Label" aria-hidden="true">
         <div class="modal-dialog">
-          <div class="modal-content" style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
+          <div class="modal-content card-black-border" style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
             <div class="modal-header">
               <h5 class="modal-title" id="mens-g1Label">MEN'S - GAME 1 TEAM ROSTERS</h5>
-              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
-            <div class="modal-body modal-lg">
+            <div class="modal-body modal-lg modal-dialog-scrollable">
               <div class="row justify-content-center">
                 <div class="col-12 col-sm-6">
                   {% include rosters/mens-beaverdam.html %}
@@ -25,9 +27,6 @@
                   {% include rosters/mens-beaverdam.html %}
                 </div>
               </div>
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
             </div>
           </div>
         </div>
