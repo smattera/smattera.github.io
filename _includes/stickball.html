@@ -16,11 +16,17 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                   </div>
                   <div class="modal-body text-dark">
-                    <p>UNIFIED</p>
-                    {% include rosters/mens-unified.html %}
-                    <hr>
-                    <p>BEAVER DAM</p>
-                    {% include rosters/mens-unified.html %}
+                    <div class="row">
+                      <div class="col-12 col-sm-6">
+                        <p>UNIFIED</p>
+                        {% include rosters/mens-unified.html %}
+                      </div>
+                      <hr class="d-block d-md-none">
+                      <div class="col-12 col-sm-6">
+                        <p>BEAVER DAM</p>
+                        {% include rosters/mens-unified.html %}
+                      </div>
+                    </div>
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
