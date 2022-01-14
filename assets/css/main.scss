@@ -132,7 +132,7 @@ header {
 }
 
 .diamond-bg {
-  background: url("/assets/img/diamond-bg.svg") center repeat,
+  background: url("/assets/img/svg/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
       #500,
@@ -148,7 +148,7 @@ header {
 }
 
 .diamond-bg2 {
-  background: url("/assets/img/diamond-bg.svg") center repeat,
+  background: url("/assets/img/svg/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
       #111,
@@ -164,7 +164,7 @@ header {
 }
 
 .diamond-bg3 {
-  background: url("/assets/img/diamond-bg.svg") center repeat,
+  background: url("/assets/img/svg/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
       #b93,
@@ -180,7 +180,7 @@ header {
 }
 
 .diamond-bg4 {
-  background: url("/assets/img/diamond-bg.svg") center repeat,
+  background: url("/assets/img/svg/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
       #046,
@@ -196,7 +196,7 @@ header {
 }
 
 .diamond-bg5 {
-  background: url("/assets/img/diamond-bg.svg") center repeat,
+  background: url("/assets/img/svg/diamond-bg.svg") center repeat,
     linear-gradient(
       30deg,
       #505,
@@ -212,13 +212,13 @@ header {
 }
 
 .camo-bg {
-  background: url("/assets/img/camo.svg") center repeat, #ccc;
+  background: url("/assets/img/svg/camo.svg") center repeat, #ccc;
   background-size: 750px 600px, cover;
   background-attachment: fixed, fixed;
 }
 
 .basket-bg {
-  background: url("/assets/img/weave02.svg") center repeat, 
+  background: url("/assets/img/svg/weave02.svg") center repeat, 
   linear-gradient(to right, purple, red, pink, red, purple);
   background-size: 360px 240px, cover;
   background-attachment: fixed, scroll;
@@ -228,35 +228,6 @@ header {
   background: url("/assets/img/stickballweave.svg") center repeat, #666;
   background-size: 61px 160px, cover;
   background-attachment: fixed, fixed;
-}
-
-.card-bg1 {
-  background: url("/assets/img/events.jpg") center no-repeat;
-  background-size: cover;
-  height: 600px;
-}
-
-.card-bg2 {
-  background: url("/assets/img/stickball.jpg") center no-repeat;
-  background-size: cover;
-  height: 600px;
-}
-
-.card-bg3 {
-  background: url("/assets/img/princess.jpg") center no-repeat;
-  background-size: cover;
-  height: 600px;
-}
-
-.card-bg4 {
-  background: url("/assets/img/competitions.jpg") center no-repeat;
-  background-size: cover;
-  height: 600px;
-}
-
-.beadwork-bg {
-  background: url("/assets/img/bead.png");
-  background-size: 100px 100px;
 }
 
 .card-gold-border {
