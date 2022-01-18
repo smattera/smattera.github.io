@@ -174,12 +174,6 @@ header .overlay {
   background-attachment: fixed, scroll;
 }
 
-.stickball-bg {
-  background: url("/assets/img/stickballweave.svg") center repeat, #666;
-  background-size: 61px 160px, cover;
-  background-attachment: fixed, fixed;
-}
-
 .card-gold-border {
   border: 10px solid;
   border-image-slice: 1;
