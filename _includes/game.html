@@ -3,7 +3,7 @@
           <div class="row row-cols-3 g-1 p-1 card-black-border" style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
             <div class="col-4 card mt-0 position-relative" style="background: linear-gradient(130deg, rgba({{ include.t1c2 }}, 0), rgba({{ include.t1c2 }}, 0.3), rgba({{ include.t1c2 }}, 0), rgba({{ include.t1c2 }}, 0), rgba({{ include.t1c2 }}, 0.3), rgba({{ include.t1c2 }}, 0.3), rgba({{ include.t1c2 }}, 0)), rgba({{ include.t1c }}, 1); color: rgba({{ include.t1c2 }},1); border: 4px solid rgba({{ include.t1c2 }}, 0.25);">
               <div class="card-head pt-3 h5" style="font-size:1.35rem;">{{ include.t1 }}</div>
-              <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap" style="background: transparent; font-size: 120px; border: none;">{% if t1s == blank %}x{% else %}{{ include.t1s }}{% endif %}</div>
+              <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap" style="background: transparent; font-size: 120px; border: none;">{% if t1s == "" %}x{% else %}{{ include.t1s }}{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
               <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
@@ -14,7 +14,7 @@
             </div>
             <div class="col-4 card mt-0 position-relative" style="background: linear-gradient(130deg, rgba({{ include.t2c2 }}, 0), rgba({{ include.t2c2 }}, 0.3), rgba({{ include.t2c2 }}, 0), rgba({{ include.t2c2 }}, 0), rgba({{ include.t2c2 }}, 0.3), rgba({{ include.t2c2 }}, 0.3), rgba({{ include.t2c2 }}, 0)), rgba({{ include.t2c }}, 1); color: rgba({{ include.t2c2 }},1); border: 4px solid rgba({{ include.t2c2 }}, 0.25);">
               <div class="card-head pt-3 h5" style="font-size:1.35rem;">{{ include.t2 }}</div>
-              <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap" style="background: transparent; font-size: 120px; border: none;">{% if t2s == blank %}x{% else %}{{ include.t2s }}{% endif %}</div>
+              <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap" style="background: transparent; font-size: 120px; border: none;">{% if t2s == "" %}x{% else %}{{ include.t2s }}{% endif %}</div>
             </div>
           </div>
         </a>
