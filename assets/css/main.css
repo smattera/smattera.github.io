@@ -283,6 +283,13 @@ header .overlay {
   background: linear-gradient(to bottom, #840, #eff, #fc6);
 }
 
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
 .card-img,
 .card-img-bottom {
   border-bottom-right-radius: 0%;
