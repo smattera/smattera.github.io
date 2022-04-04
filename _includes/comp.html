@@ -1,0 +1,18 @@
+<div class="col">
+    <div class="card card-red-border card-platinum text-dark h-100">
+      <img src="../assets/img/logos/{{ include.img }}.webp" class="card-img-top" alt="{{ include.title }}">
+      <div class="card-body">
+        <p class="card-title">{{ include.title }}</p>
+        <p class="card-text">{{ include.desc }}</p>
+        <p class="card-text">For more information, please call {{ include.contact }} at 
+          <a href="tel:{{ include.phone | replace: '-', '' }}">{{ include.phone }}</a></p>
+      </div>
+      <div class="card-footer">
+        <div class="d-grid gap-2 d-md-block">
+          <button href="{{ include.firstLink }}" class="btn btn-light" type="button"
+            style="background: linear-gradient(#aaa,#fff);">{{ include.firstAction }}</button>
+          <button href="{{ include.secondLink }}" class="btn btn-danger" type="button" style="background: linear-gradient(#c33,#f99);">{{ include.secondAction }}</button>
+        </div>
+      </div>
+    </div>
+  </div>
