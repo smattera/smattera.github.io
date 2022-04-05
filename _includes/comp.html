@@ -13,10 +13,15 @@
           <a href="tel:{{ include.phone | replace: '-', '' }}">{{ include.phone }}</a></p>
       </div>
       <div class="card-footer">
+        {% if include.alert %}
+          <div class="alert alert-danger" role="alert">
+            {{ include.alert }}
+          </div>
+        {% endif %}
+        
         <div class="d-grid gap-2 d-md-block">
-          <button href="{{ include.firstLink }}" class="btn btn-light" type="button"
-            style="background: linear-gradient(#aaa,#fff);">{{ include.firstAction }}</button>
-          <button href="{{ include.secondLink }}" class="btn btn-danger" type="button" style="background: linear-gradient(#c33,#f99);">{{ include.secondAction }}</button>
+          <a href="{{ include.firstLink }}" class="btn btn-light">{{ include.firstAction }}</a>
+          <a href="{{ include.secondLink }}" class="btn btn-danger">{{ include.secondAction }}</a>
         </div>
       </div>
     </div>

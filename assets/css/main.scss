@@ -357,6 +357,14 @@ header {
   }
 }
 
+.btn-light {
+  background: linear-gradient(#aaa,#fff);
+}
+
+.btn-danger {
+  background: linear-gradient(#c33, #f99);
+}
+
 @media (max-width: 751px) {
   .event-title {
     font-size: 10vw;
