@@ -2,15 +2,10 @@
     <div class="card card-red-border card-platinum text-dark h-100">
       <img src="../assets/img/logos/{{ include.img }}.webp" class="card-img-top" alt="{{ include.title }}">
       <div class="card-body">
-        {% if include.alert %}
-          <div class="alert alert-danger" role="alert">
-            {{ include.alert }}
-          </div>
-        {% endif %}
         <p class="card-title">{{ include.title }}</p>
         <p class="card-text">{{ include.desc }}</p>
         <p class="card-text">For more information, please call {{ include.contact }} at 
-          <a href="tel:{{ include.phone | replace: '-', '' }}">{{ include.phone }}</a></p>
+          <a href="tel:{{ include.phone | replace: '-', '' }}" class="text-nowrap">{{ include.phone }}</a></p>
       </div>
       <div class="card-footer">
         {% if include.alert %}
@@ -18,7 +13,6 @@
             {{ include.alert }}
           </div>
         {% endif %}
-        
         <div class="d-grid gap-2 d-md-block">
           <a href="{{ include.firstLink }}" class="btn btn-light">{{ include.firstAction }}</a>
           <a href="{{ include.secondLink }}" class="btn btn-danger">{{ include.secondAction }}</a>
