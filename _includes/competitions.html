@@ -18,89 +18,44 @@
         secondAction="Registration Form"
          %}
       
-      <!-- <div class="col">
-        <div class="card card-red-border card-platinum text-dark h-100">
-          <img src="../assets/img/logos/rezrun.webp" class="card-img-top" alt="Rez Run">
-          <div class="card-body">
-            <p class="card-title">Rez Run</p>
-            <p class="card-text">The run is held in Choctaw, MS and trails through the reservation of the Mississippi
-              Choctaw and the Choctaw Indian fairgrounds. The Mississippi Band of Choctaw Indians proudly welcomes all
-              runners and visitors to the 71st Annual Choctaw Indian Fair.</p>
-            <p class="card-text">For more information, please call John Ferguson at 
-              <a href="tel:6016501765">601-650-1765</a></p>
-          </div>
-          <div class="card-footer">
-            <div class="d-grid gap-2 d-md-block">
-              <button href="#" class="btn btn-light" type="button"
-                style="background: linear-gradient(#aaa,#fff);">Register Online</button>
-              <button href="#" class="btn btn-danger" type="button" style="background: linear-gradient(#c33,#f99);">Registration Form</button>
-            </div>
-          </div>
-        </div>
-      </div> -->
-      <div class="col">
-        <div class="card card-red-border card-platinum text-dark h-100">
-          <img src="../assets/img/logos/ironwarrior.webp" class="card-img-top" alt="Rez Run">
-          <div class="card-body">
-            <p class="card-title">Iron Warrior</p>
-            <p class="card-text">Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and
-              truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order
-              to be called the 2021 IRON WARRIOR!</p>
-            <div class="alert alert-danger" role="alert">
-              Pre-register for $25 by June 30, 2020.<br />Pre-registered competitors are guaranteed an official Iron
-              Warrior t-shirt.
-            </div>
-            <p class="card-text">For more information, please contact Sam Farve at
-              <a href="tel:6016560620">601-656-0620</a></p>
-          </div>
-          <div class="card-footer">
-            <div class="d-grid gap-2 d-md-block">
-              <button href="#" class="btn btn-light" type="button"
-                style="background: linear-gradient(#aaa,#fff);">Download Flyer</button>
-              <button href="#" class="btn btn-danger" type="button"
-                style="background: linear-gradient(#cc3333,#ff9999);">Registration Form</button>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card card-red-border card-platinum text-dark h-100">
-          <img src="../assets/img/logos/lil-pageant.webp" class="card-img-top" alt="Little Mr. & Miss. Choctaw Indian Fair Pageant">
-          <div class="card-body">
-            <p class="card-title">Little Mr. & Miss. Choctaw Indian Fair Pageant</p>
-            <p class="card-text">In this inaugural Little Mr. & Miss. Choctaw Indian Fair Pageant, participants will compete in their traditional attire. 
-              The age divisions are: 0-23 months, 2-4 yrs, 5-8 yrs, and 9-12 yrs.</p>
-            <p class="card-text">For more information, please contact Krystal Robinson at 
-              <a href="tel:6016637790">601-663-7790</a></p>
-          </div>
-          <div class="card-footer">
-            <div class="d-grid gap-2 d-md-block">
-              <button href="#" class="btn btn-light" type="button"
-                style="background: linear-gradient(#aaa,#fff);">Download Flyer</button>
-              <button href="#" class="btn btn-danger" type="button"
-                style="background: linear-gradient(#cc3333,#ff9999);">Registration Form</button>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card card-red-border card-platinum text-dark h-100">
-          <img src="../assets/img/logos/lil-pageant.webp" class="card-img-top" alt="Little Mr. & Miss. Choctaw Indian Fair Pageant">
-          <div class="card-body">
-            <p class="card-title">Fry Bread Contest</p>
-            <p class="card-text">Contest is open to all individuals. There will be an on-site registration area so sign up and submit your fry bread. A panel of judges will review the submission and present awards for OVERALL BIGGEST, OVERALL FLUFFIEST, and OVERALL GOLDEN FRY BREAD.</p>
-            <!-- <p class="card-text">For more information, please contact Krystal Robinson at 
-              <a href="tel:6016637790">601-663-7790</a></p> -->
-          </div>
-          <div class="card-footer">
-            <div class="d-grid gap-2 d-md-block">
-              <button href="#" class="btn btn-light" type="button"
-                style="background: linear-gradient(#aaa,#fff);">Download Flyer</button>
-            </div>
-          </div>
-        </div>
-      </div>
-
+      {% include comp.html
+        img="ironwarrior"
+        title="Iron Warrior"
+        desc="Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and
+        truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order
+        to be called the 2021 IRON WARRIOR!"
+        contact="Sam Farve"
+        phone="601-656-0620"
+        firstLink="#"
+        firstAction="Download Flyer"
+        secondLink="#"
+        secondAction="Registration Form"
+         %}
+      
+      {% include comp.html
+        img="lil-pageant"
+        title="Little Mr. & Miss. Choctaw Indian Fair Pageant"
+        desc="In this inaugural Little Mr. & Miss. Choctaw Indian Fair Pageant, participants will compete in their traditional attire. 
+        The age divisions are: 0-23 months, 2-4 yrs, 5-8 yrs, and 9-12 yrs."
+        contact="Krystal Robinson"
+        phone="601-663-7790"
+        firstLink="#"
+        firstAction="Download Flyer"
+        secondLink="#"
+        secondAction="Registration Form"
+         %}
+      
+      {% include comp.html
+        img="frybread"
+        title="Fry Bread Making Contest"
+        desc="Contest is open to all individuals. There will be an on-site registration area so sign up and submit your fry bread. A panel of judges will review the submission and present awards for OVERALL BIGGEST, OVERALL FLUFFIEST, and OVERALL GOLDEN FRY BREAD."
+        contact="Krystal Robinson"
+        phone="601-663-7790"
+        firstLink="#"
+        firstAction="Download Flyer"
+        secondLink="#"
+        secondAction="Registration Form"
+         %}
     </div>
 
   </div>
