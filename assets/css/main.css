@@ -382,4 +382,8 @@ header .overlay {
     font-size: 4rem;
   }
 }
+
+#map {
+  height: 100%;
+}
 /*# sourceMappingURL=main.css.map */
