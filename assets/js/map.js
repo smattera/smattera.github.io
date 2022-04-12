@@ -10,7 +10,7 @@ function initMap() {
     "../img/markers/fair.png";
 
   const fairMarker = new google.maps.Marker({
-    position: {lat: 59.327, lng: 18.067},
+    position: {lat: 32.77929, lng: -89.22484},
     map,
     icon: logoImage,
     animation: google.maps.Animation.DROP,
