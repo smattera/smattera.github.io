@@ -6,6 +6,7 @@ function initMap() {
     zoom: 15
   });
 
+<<<<<<< HEAD
   const logoImage =
     "../img/markers/fair.png";
 
@@ -15,4 +16,21 @@ function initMap() {
     icon: logoImage,
     animation: google.maps.Animation.DROP,
   });
+=======
+  marker = new google.maps.Marker({
+    map,
+    draggable: false,
+    animation: google.maps.Animation.DROP,
+    position: { lat: 32.77929, lng: -89.22484 },
+  });
+  marker.addListener("click", toggleBounce);
+}
+
+function toggleBounce() {
+  if (marker.getAnimation() !== null) {
+    marker.setAnimation(null);
+  } else {
+    marker.setAnimation(google.maps.Animation.BOUNCE);
+  }
+>>>>>>> 49fa50e59dd59759a1db4056ac4f7f8249786844
 }
