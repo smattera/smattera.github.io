@@ -7,7 +7,7 @@ function initMap() {
   });
 
   const logoImage =
-    "../img/markers/fair.png";
+    "https://smattera.github.io/assets/img/markers/fair.png";
 
   const fairMarker = new google.maps.Marker({
     position: {lat: 32.77929, lng: -89.22484},
