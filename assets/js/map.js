@@ -16,3 +16,12 @@ function initMap() {
     animation: google.maps.Animation.DROP,
   });
 }
+
+const styles = {
+  default: [
+    {
+      featureType: "poi.business",
+      stylers: [{ visibility: "off" }],
+    },
+  ],
+};
