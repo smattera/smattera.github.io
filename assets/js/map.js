@@ -9,6 +9,6 @@ function initMap() {
   marker = new google.maps.Marker({
     map,
     animation: google.maps.Animation.DROP,
-    position: {lat: 32.77929, lng: -89.22484},
+    position: { lat: 59.327, lng: 18.067 },
   });
 }
