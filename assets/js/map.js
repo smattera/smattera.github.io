@@ -6,19 +6,13 @@ function initMap() {
     zoom: 15
   });
 
-  marker = new google.maps.Marker({
-    map,
-    draggable: false,
-    animation: google.maps.Animation.DROP,
-    position: { lat: 59.327, lng: 18.067 },
-  });
-  marker.addListener("click", toggleBounce);
-}
+  const logoImage =
+    "../img/markers/fair.png";
 
-function toggleBounce() {
-  if (marker.getAnimation() !== null) {
-    marker.setAnimation(null);
-  } else {
-    marker.setAnimation(google.maps.Animation.BOUNCE);
-  }
+  const fairMarker = new google.maps.Marker({
+    position: {lat: 59.327, lng: 18.067},
+    map,
+    icon: logoImage,
+    animation: google.maps.Animation.DROP,
+  });
 }
