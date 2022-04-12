@@ -3,7 +3,8 @@ let marker;
 function initMap() {
   const map = new google.maps.Map(document.getElementById('map'), {
     center: {lat: 32.77929, lng: -89.22484},
-    zoom: 15
+    zoom: 15,
+    styles: myStyles
   });
 
   const logoImage =
@@ -17,11 +18,12 @@ function initMap() {
   });
 }
 
-const styles = {
-  default: [
-    {
-      featureType: "poi.business",
-      stylers: [{ visibility: "off" }],
-    },
-  ],
-};
+var myStyles =[
+  {
+      featureType: "poi",
+      elementType: "labels",
+      stylers: [
+            { visibility: "off" }
+      ]
+  }
+];
