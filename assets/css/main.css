@@ -161,6 +161,18 @@ header .overlay {
   background-attachment: fixed, fixed;
 }
 
+.diamond-bg6 {
+  background: url("/assets/img/svg/diamond-bg.svg") center repeat, linear-gradient(30deg, #ccc, #666, #ccc, #666, #ccc, #666, #ccc);
+  background-size: 700px 700px, cover;
+  background-attachment: fixed, fixed;
+}
+
+.diamond-bg7 {
+  background: url("/assets/img/svg/diamond-bg.svg") center repeat, linear-gradient(30deg, #0a0, #060, #0a0, #060, #0a0, #060, #0a0);
+  background-size: 700px 700px, cover;
+  background-attachment: fixed, fixed;
+}
+
 .camo-bg {
   background: url("/assets/img/svg/camo.svg") center repeat, #ccc;
   background-size: 750px 600px, cover;
