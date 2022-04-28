@@ -3,6 +3,9 @@
     <h1 class="shadow-text lh-1">World Series Stickball</h1>
     <!--<img src="../assets/img/stickball-banner.webp" class="img-fluid">-->
 
+    {% assign cachedNow = "now" %}
+
+    {% if cachedNow < "2022-07-13 10:00" %}
     <div class="row align-items-center">
       <div class="col-md">
         <p class="h3 shadow-text">Countdown to <span class="text-nowrap">2022 Bracket Day</span>:</p>
@@ -11,6 +14,7 @@
         <p id="timer2" class="h2 bg-light text-dark pt-2 mb-3"></p>
       </div>
     </div><!-- end row -->
+    {% endif %}
 
     <h2 class="shadow-text pt-5">2021 Men's Division</h2>
 
