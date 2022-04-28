@@ -4,14 +4,17 @@
     <!--<img src="../assets/img/stickball-banner.webp" class="img-fluid">-->
 
     {% assign cachedNow = "now" %}
+    {% assign endDate = "2022-06-06 18:00" %}
 
-    {% if cachedNow < "2021-07-13 10:00" %}
+    {{ endDate | minus: cachedNow | date_diff: "hours" | round: 0 | pluralize: "hour", "hours" }}
+
+    {% if cachedNow < "2022-06-06 18:00" %}
     <div class="row align-items-center">
       <div class="col-md">
         <p class="h3 shadow-text">Countdown to <span class="text-nowrap">2022 Bracket Day</span>:</p>
       </div>
       <div class="col-md">
-        <p id="timer2" class="h2 bg-light text-dark pt-2 mb-3"></p>
+        <p class="h2 bg-light text-dark pt-2 mb-3">{{ endDate | minus: cachedNow | date: "%H:$M:$S" }}</p>
       </div>
     </div><!-- end row -->
     {% endif %}
