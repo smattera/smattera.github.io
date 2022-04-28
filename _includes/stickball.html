@@ -3,50 +3,6 @@
     <h1 class="shadow-text lh-1">World Series Stickball</h1>
     <!--<img src="../assets/img/stickball-banner.webp" class="img-fluid">-->
 
-    <!--{% assign cachedNow = cache.get('now') %}
-    {% if cachedNow %}
-      {% assign now = cachedNow %}
-    {% else %}
-      {% assign now = date('Y-m-d H:i:s') %}
-      {% cache 'now' now %}
-    {% endif %}
-
-    {% assign cachedStart = cache.get('start') %}
-    {% if cachedStart %}
-      {% assign start = cachedStart %}
-    {% else %}
-      {% assign start = '2022-07-13 10:00:00' %}
-      {% cache 'start' start %}
-    {% endif %}
-
-    {% assign cachedEnd = cache.get('end') %}
-    {% if cachedEnd %}
-      {% assign end = cachedEnd %}
-    {% else %}
-      {% assign end = '2022-07-16 23:59:59' %}
-      {% cache 'end' end %}
-    {% endif %}
-
-    {% if now < start %}
-      <div class="row">
-        <div class="col-12">
-          <h2 class="shadow-text lh-1">Registration is not yet open.</h2>
-        </div>
-      </div>
-    {% elseif now > end %}
-      <div class="row">
-        <div class="col-12">
-          <h2 class="shadow-text lh-1">Registration is closed.</h2>
-        </div>
-      </div>
-    {% else %}
-      <div class="row">
-        <div class="col-12">
-          <h2 class="shadow-text lh-1">Registration is open.</h2>
-        </div>
-      </div>
-    {% endif %}-->
-
     {% assign cachedNow = 'now' %}
 
     {% if cachedNow < '2022-06-06 18:00:00' %}
