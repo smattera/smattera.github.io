@@ -37,6 +37,55 @@
     {% else %}
         <title>Choctaw Indian Fair</title>
     {% endif %}
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Event",
+          "name": "Choctaw Indian Fair",
+          "eventSchedule": {
+            "@type": "EventSchedule",
+            "startDate": "2022-07-13",
+            "endDate": "2022-07-16",
+            "startTime": "10:00",
+            "endTime": "24:00",
+            "timezone": "America/Chicago"
+          },
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "location": {
+            "@type": "Place",
+            "name": "Choctaw Indian Fair",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "101 Industrial Rd",
+              "addressLocality": "Choctaw",
+              "postalCode": "39350",
+              "addressRegion": "MS",
+              "addressCountry": "US"
+            }
+          },
+          "image": [
+            "https://www.choctawindianfair.com/assets/img/social.webp",
+            "https://www.choctawindianfair.com/assets/img/animal.webp",
+            "https://www.choctawindianfair.com/assets/img/war.webp",
+           ],
+          "description": "We invite you to join us July 13-16 for our 72nd annual Choctaw Indian Fair. 
+          The fair takes place on our centuries-old homeland in beautiful Choctaw, Mississippi.",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://www.etix.com/ticket/p/8573400",
+            "price": "20",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "validFrom": "2022-06-13T08:00"
+          },
+          "organizer": {
+            "@type": "Organization",
+            "name": "Choctaw Indian Fair",
+            "url": "https://www.choctawindianfair.com"
+          }
+        }
+        </script>
     </head>
 <body>
   {% include nav.html %}
