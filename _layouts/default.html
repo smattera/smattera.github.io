@@ -38,44 +38,63 @@
         <title>Choctaw Indian Fair</title>
     {% endif %}
     <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Event",
+      {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "Choctaw Indian Fair",
+        "description": "We invite you to join us July 13-16 for our 72nd annual Choctaw Indian Fair. The fair takes place on our centuries-old homeland in beautiful Choctaw, Mississippi.",
+        "image": "https://www.choctawindianfair.com/assets/img/CIF-bg.webp",
+        "startDate": "2022-07-13T10:00",
+        "endDate": "2022-07-16T23:00",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "location": {		
+          "@type": "Place",
           "name": "Choctaw Indian Fair",
-          "startDate": "2020-07-13T10:00-06:00",
-          "endDate": "2020-07-16T23:00-06:00",
-          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-          "eventStatus": "https://schema.org/EventScheduled",
-          "location": {
-            "@type": "Place",
-            "name": "Choctaw Indian Fair",
-            "address": {
-              "@type": "PostalAddress",
-              "streetAddress": "101 Industrial Rd",
-              "addressLocality": "Choctaw",
-              "postalCode": "39350",
-              "addressRegion": "MS",
-              "addressCountry": "US"
-            }
-          },
-          "image": "https://www.choctawindianfair.com/assets/img/CIF-bg.webp",
-          "description": "We invite you to join us July 13-16 for our 72nd annual Choctaw Indian Fair. 
-          The fair takes place on our centuries-old homeland in beautiful Choctaw, Mississippi.",
-          "offers": {
-            "@type": "Offer",
-            "url": "https://www.etix.com/ticket/p/8573400",
-            "price": "20",
-            "priceCurrency": "USD",
-            "availability": "https://schema.org/InStock",
-            "validFrom": "2022-06-13T08:00"
-          },
-          "organizer": {
-            "@type": "Organization",
-            "name": "Choctaw Indian Fair",
-            "url": "https://www.choctawindianfair.com"
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "101 Industrial Rd",
+            "addressLocality": "Choctaw",
+            "addressRegion": "MS",
+            "postalCode": "39350",
+            "addressCountry": "US"
           }
-        }
-        </script>
+        },
+        "offers": [{
+          "@type": "Offer",
+          "name": "Adult Season Pass",
+          "price": "20",
+          "priceCurrency": "USD",
+          "validFrom": "2022-06-13",
+          "url": "https://www.etix.com/ticket/p/8573400",
+          "availability": "https://schema.org/InStock"
+        },{
+          "@type": "Offer",
+          "name": "Adult Day Pass",
+          "price": "12",
+          "priceCurrency": "USD",
+          "validFrom": "2022-06-13",
+          "url": "https://www.etix.com/ticket/p/8573400",
+          "availability": "https://schema.org/InStock"
+        },{
+          "@type": "Offer",
+          "name": "Student Season Pass",
+          "price": "10",
+          "priceCurrency": "USD",
+          "validFrom": "2022-06-13",
+          "url": "https://www.etix.com/ticket/p/8573400",
+          "availability": "https://schema.org/InStock"
+        },{
+          "@type": "Offer",
+          "name": "Student Day Pass",
+          "price": "7",
+          "priceCurrency": "USD",
+          "validFrom": "2022-06-13",
+          "url": "https://www.etix.com/ticket/p/8573400",
+          "availability": "https://schema.org/InStock"
+        }]
+      }
+      </script>
     </head>
 <body>
   {% include nav.html %}
