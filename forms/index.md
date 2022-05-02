@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
-meta: home
+title: Forms
 ---
 {% include forms.html %}
