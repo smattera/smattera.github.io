@@ -62,28 +62,40 @@ body {
     color: #fff;
   }
   
-  .display-1 {
+  h1, .h1 {
     font-family: 'Bebas Neue', cursive;
+    font-size: 6rem;
+    font-weight: normal;
   }
   
-  .display-2 {
+  h2, .h2 {
     font-family: 'Bebas Neue', cursive;
+    font-size: 4rem;
+    font-weight: normal;
   }
   
-  .display-3 {
+  h3, .h3 {
     font-family: 'Bebas Neue', cursive;
+    font-size: 3rem;
+    font-weight: normal;
   }
   
-  .display-4 {
+  h4, .h4 {
     font-family: 'Bebas Neue', cursive;
+    font-size: 2rem;
+    font-weight: normal;
   }
   
-  .display-5 {
+  h5, .h5 {
     font-family: 'Bebas Neue', cursive;
+    font-size: 1.45rem;
+    font-weight: normal;
   }
   
-  .display-6 {
+  h6, .h6 {
     font-family: 'Bebas Neue', cursive;
+    font-size: 1.25rem;
+    font-weight: normal;
   }
   
   @media (min-width: 768px) {
