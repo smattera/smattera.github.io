@@ -432,11 +432,11 @@ body {
   }
   
   .btn-light {
-    background: linear-gradient(#aaa,#fff, #aaa);
+    background: linear-gradient(#fff, #aaa, #fff);
   }
   
   .btn-danger {
-    background: linear-gradient(#c33, #f99, #c33);
+    background: linear-gradient(#f99, #c33, #f99);
   }
   
   @media (max-width: 751px) {
