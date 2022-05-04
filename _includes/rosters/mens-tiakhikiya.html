@@ -2,58 +2,11 @@
 <h6>COACHES: CARL HICKMAN, KIRK MCMILLAN</h6>
 <table class="table table-dark table-striped">
     <tbody>
-        <tr><th scope="row">0</th><td>JOSHUA JIM</td></tr>
-        <tr><th scope="row">1</th><td>MERRICK HICKMAN</td></tr>
-        <tr><th scope="row">2</th><td>ERIC HICKMAN, JR.</td></tr>
-        <tr><th scope="row">3</th><td>WESLEY PROCTOR</td></tr>
-        <tr><th scope="row">4</th><td>TERRY STEVE</td></tr>
-        <tr><th scope="row">5</th><td>ISAIAH COTTON</td></tr>
-        <tr><th scope="row">6</th><td>JACKSON THOMPSON, JR.</td></tr>
-        <tr><th scope="row">7</th><td>JAWARRICK HICKMAN</td></tr>
-        <tr><th scope="row">8</th><td>RYLAND WESLEY</td></tr>
-        <tr><th scope="row">9</th><td>JARED GREENWOOD</td></tr>
-        <tr><th scope="row">11</th><td>GRANDALE TUBBY</td></tr>
-        <tr><th scope="row">12</th><td>LUTHER AMOS</td></tr>
-        <tr><th scope="row">13</th><td>CARL HICKMAN</td></tr>
-        <tr><th scope="row">14</th><td>JOSIAH TUBBY</td></tr>
-        <tr><th scope="row">15</th><td>DEMARCUS JOHN</td></tr>
-        <tr><th scope="row">16</th><td>CODY STOLIBY</td></tr>
-        <tr><th scope="row">17</th><td>ALDRECA HICKMAN</td></tr>
-        <tr><th scope="row">18</th><td>GENIS SHUMAKE</td></tr>
-        <tr><th scope="row">19</th><td>WAYLON SQUIRREL</td></tr>
-        <tr><th scope="row">20</th><td>DUSTIN POLK</td></tr>
-        <tr><th scope="row">21</th><td>GERIC HICKMAN</td></tr>
-        <tr><th scope="row">22</th><td>LARINDO BEN</td></tr>
-        <tr><th scope="row">23</th><td>SHUNRAY POLK</td></tr>
-        <tr><th scope="row">24</th><td>DESHANE FARMER</td></tr>
-        <tr><th scope="row">25</th><td>JERIMIAH SAM</td></tr>
-        <tr><th scope="row">27</th><td>DEXTER MINGO</td></tr>
-        <tr><th scope="row">28</th><td>TRUMAN LEWIS, JR.</td></tr>
-        <tr><th scope="row">30</th><td>ROMEO FARVE</td></tr>
-        <tr><th scope="row">31</th><td>TOMMY FRAZIER, JR.</td></tr>
-        <tr><th scope="row">32</th><td>BRAY FARVE</td></tr>
-        <tr><th scope="row">33</th><td>LOUIE CHARLIE</td></tr>
-        <tr><th scope="row">34</th><td>DANTAE FRAZIER</td></tr>
-        <tr><th scope="row">35</th><td>CEDRICK HICKMAN, SR.</td></tr>
-        <tr><th scope="row">36</th><td>DYLAN BEN</td></tr>
-        <tr><th scope="row">38</th><td>DERIC HICKMAN</td></tr>
-        <tr><th scope="row">39</th><td>JONATHAN DENSON</td></tr>
-        <tr><th scope="row">40</th><td>CHEBON HARJO</td></tr>
-        <tr><th scope="row">41</th><td>MALCOLM YORK</td></tr>
-        <tr><th scope="row">42</th><td>JAMIESON WILSON</td></tr>
-        <tr><th scope="row">44</th><td>JAMES ROLLAND</td></tr>
-        <tr><th scope="row">45</th><td>BENJAMIN FARVE</td></tr>
-        <tr><th scope="row">46</th><td>ERIC HICKMAN, SR.</td></tr>
-        <tr><th scope="row">50</th><td>KRIK MCMILLAN</td></tr>
-        <tr><th scope="row">51</th><td>RALPH ISAAC</td></tr>
-        <tr><th scope="row">52</th><td>WILLIAM ISAAC</td></tr>
-        <tr><th scope="row">61</th><td>RIC GREENWOOD</td></tr>
-        <tr><th scope="row">64</th><td>ALEX FRAZIER</td></tr>
-        <tr><th scope="row">66</th><td>DEON LEWIS</td></tr>
-        <tr><th scope="row">69</th><td>MARCUS TUBBY, JR.</td></tr>
-        <tr><th scope="row">84</th><td>JEREMIAH TUBBY</td></tr>
-        <tr><th scope="row">88</th><td>KYLE THOMPSON</td></tr>
-        <tr><th scope="row">90</th><td>MARLON BELL</td></tr>
-        <tr><th scope="row">98</th><td>ISRAEL WILLIS</td></tr>
+        {% for mens-tiakhikiya-player in site.data.mens-tiakhikiya-players %}
+            <tr>
+                <th scope="row">{{ mens-tiakhikiya-player.num }}</th>
+                <td>{{ mens-tiakhikiya-player.name }}</td>
+            </tr>
+        {% endfor %}
     </tbody>
 </table>
