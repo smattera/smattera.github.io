@@ -1,11 +1,18 @@
 <h5>TIAK HIKÍYA</h5>
-<h6>COACHES: CARL HICKMAN, KIRK MCMILLAN</h6>
+<h6>COACHES: 
+    {% for coache in site.data.mens.tiakhikiya.coaches %}
+    {{ coache.name }}
+    {% unless forloop.last %}
+    ,&nbsp;
+    {% endunless %}
+    {% endfor %}
+</h6>
 <table class="table table-dark table-striped">
     <tbody>
-        {% for mens-tiakhikiya-player in site.data.mens-tiakhikiya-players %}
+        {% for player in site.data.mens.tiakhikiya.players %}
             <tr>
-                <th scope="row">{{ mens-tiakhikiya-player.num }}</th>
-                <td>{{ mens-tiakhikiya-player.name }}</td>
+                <th scope="row">{{ player.num }}</th>
+                <td>{{ player.name }}</td>
             </tr>
         {% endfor %}
     </tbody>
