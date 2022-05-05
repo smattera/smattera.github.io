@@ -1,12 +1,10 @@
 <h5>KONI HATA</h5>
 <h6>COACHES: 
     {% for coache in site.data.mens.konihata.coaches %}
-    {
     {{ coache.name }}
     {% unless forloop.last %}
-    }, 
+    },&nbsp;
     {% else %}
-    }
     {% endunless %}
     {% endfor %}
     <!--{% for coache in site.data.mens.konihata.coaches %}
