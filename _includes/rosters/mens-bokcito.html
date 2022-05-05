@@ -1,5 +1,12 @@
 <h5>BÓK ČITO</h5>
-<h6>COACHES: {% for coache in site.data.mens.bokcito.coaches %}{{ coache.name }}, {% endfor %}</h6>
+<h6>COACHES: 
+    {% for coache in site.data.mens.bokcito.coaches %}
+    {{ coache.name }}
+    {% unless forloop.last %}
+    ,&nbsp;
+    {% endunless %}
+    {% endfor %}
+</h6>
 <table class="table table-dark table-striped">
     <tbody>
         {% for player in site.data.mens.bokcito.players %}

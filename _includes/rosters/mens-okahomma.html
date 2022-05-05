@@ -1,11 +1,18 @@
 <h5>OKA HOMMA</h5>
-<h6>COACH: SAM JOHN</h6>
+<h6>COACH: 
+    {% for coache in site.data.mens.okahomma.coaches %}
+    {{ coache.name }}
+    {% unless forloop.last %}
+    ,&nbsp;
+    {% endunless %}
+    {% endfor %}
+</h6>
 <table class="table table-dark table-striped">
     <tbody>
-        {% for mens-okahomma-player in site.data.mens-okahomma-players %}
+        {% for player in site.data.mens.okahomma.players %}
             <tr>
-                <th scope="row">{{ mens-okahomma-player.num }}</th>
-                <td>{{ mens-okahomma-player.name }}</td>
+                <th scope="row">{{ player.num }}</th>
+                <td>{{ player.name }}</td>
             </tr>
         {% endfor %}
     </tbody>

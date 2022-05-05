@@ -5,15 +5,16 @@
 
     {% assign cachedNow = 'now' | date: '%F %T' %}
 
-    {% if cachedNow < '2022-06-06 18:00:00' %} <div class="row align-items-center">
+    {% if cachedNow < '2022-06-06 18:00:00' %} 
+    <div class="row align-items-center">
       <div class="col-md">
         <p class="h3 display-3 shadow-text">Countdown to <span class="text-nowrap">2022 Bracket Day</span>:</p>
       </div>
       <div class="col-md">
         <p id="timer2" class="h2 bg-light text-dark pt-2 mb-3"></p>
       </div>
-  </div>
-  {% endif %}
+    </div>
+    {% endif %}
 
   <h2 class="display-2 shadow-text pt-5">2021 Men's Division</h2>
 
@@ -37,7 +38,7 @@
               </div>
               <hr class="d-block d-md-none">
               <div class="col-12 col-sm-6">
-                {% include rosters/mens-beaverdam.html %}
+                {% include site.data.mens.beaverdam.roster.html %}
               </div>
             </div>
           </div>

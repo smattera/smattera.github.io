@@ -1,11 +1,18 @@
 <h5>PEARL RIVER</h5>
-<h6>COACHES: JIMMY VAUGHN, JR., RANDY JIMMIE, TY KEAMS, JOHN WAHWASUCK, DELANIE HICKMAN</h6>
+<h6>COACHES: 
+    {% for coache in site.data.mens.pearlriver.coaches %}
+    {{ coache.name }}
+    {% unless forloop.last %}
+    ,&nbsp;
+    {% endunless %}
+    {% endfor %}
+</h6>
 <table class="table table-dark table-striped">
     <tbody>
-        {% for mens-pearlriver-player in site.data.mens-pearlriver-players %}
+        {% for player in site.data.mens.pearlriver.players %}
             <tr>
-                <th scope="row">{{ mens-pearlriver-player.num }}</th>
-                <td>{{ mens-pearlriver-player.name }}</td>
+                <th scope="row">{{ player.num }}</th>
+                <td>{{ player.name }}</td>
             </tr>
         {% endfor %}
     </tbody>
