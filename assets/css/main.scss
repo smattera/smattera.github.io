@@ -485,17 +485,3 @@ body {
                  0 10px 10px rgba(0,0,0,.2),
                  0 20px 20px rgba(0,0,0,.15);
   }
-  
-  .title {
-    font-size: calc(1.525rem + 3.3vw);
-  }
-  
-  @media (min-width: 1200px) {
-    .title {
-      font-size: 4rem;
-    }
-  }
-  #map {
-    height: 800px;
-  }
-  
