@@ -19,8 +19,41 @@
   <h2 class="display-2 shadow-text pt-5">2021 Men's Division</h2>
 
   <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
-    {% include game.html div="mens" g="1" d="Thu, Jul 08" hr="9:00 PM" t1="unified" t1c="0,100,0" t1c2="255,165,0"
-    t1s="0" t2="beaver dam" t2c="255,0,0" t2c2="255,255,255" t2s="3" %}
+
+    {% for card in site.data.games.mens.cards %}
+      
+      <div class="col">
+        <a type="button" data-bs-toggle="modal" data-bs-target="#mens-g{{ card.g }}"
+          style="text-decoration: none;">
+          <div class="row row-cols-3 g-1 p-1 card-black-border"
+            style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
+            <div class="col-4 card mt-0 position-relative"
+              style="background: linear-gradient(130deg, rgba({{ card.t1c2 }}, 0), rgba({{ card.t1c2 }}, 0.3), rgba({{ card.t1c2 }}, 0), rgba({{ card.t1c2 }}, 0), rgba({{ card.t1c2 }}, 0.3), rgba({{ card.t1c2 }}, 0.3), rgba({{ card.t1c2 }}, 0)), rgba({{ card.t1c }}, 1); color: rgba({{ card.t1c2 }},1); border: 4px solid rgba({{ card.t1c2 }}, 0.25);">
+              <div class="card-head pt-3 h5" style="font-size:1.2rem;">{{ card.t1 }}</div>
+              <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
+                style="background: transparent; font-size: 120px; border: none;">{{ card.t1s }}</div>
+            </div>
+            <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
+              <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
+              <div style="background: white; color: #555;">
+                <p class="h4 mb-0 pt-1">GAME {{ card.g }}</p>
+              </div>
+              <p class="card-text h4 pt-1" style="font-size:1.6rem;">{{ card.d }}<br>{{ card.hr }}</p>
+            </div>
+            <div class="col-4 card mt-0 position-relative"
+              style="background: linear-gradient(130deg, rgba({{ card.t2c2 }}, 0), rgba({{ card.t2c2 }}, 0.3), rgba({{ card.t2c2 }}, 0), rgba({{ card.t2c2 }}, 0), rgba({{ card.t2c2 }}, 0.3), rgba({{ card.t2c2 }}, 0.3), rgba({{ card.t2c2 }}, 0)), rgba({{ card.t2c }}, 1); color: rgba({{ card.t2c2 }},1); border: 4px solid rgba({{ card.t2c2 }}, 0.25);">
+              <div class="card-head pt-3 h5" style="font-size:1.2rem;">{{ card.t2 }}</div>
+              <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
+                style="background: transparent; font-size: 120px; border: none;">{{ card.t2s }}</div>
+            </div>
+          </div>
+        </a>
+      </div>
+
+    {% endfor %}
+
+    <!-- {% include game.html div="mens" g="1" d="Thu, Jul 08" hr="9:00 PM" t1="unified" t1c="0,100,0" t1c2="255,165,0"
+    t1s="0" t2="beaver dam" t2c="255,0,0" t2c2="255,255,255" t2s="3" %}-->
     {% include modal/mens/game01.html %}
     {% include game.html div="mens" g="2" d="Fri, Jul 09" hr="9:00 PM" t1="warriors" t1c="128,0,0" t1c2="255,255,255"
     t1s="1" t2="bók čito" t2c="255,255,255" t2c2="255,0,0" t2s="9" %}
