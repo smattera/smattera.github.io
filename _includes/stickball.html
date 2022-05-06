@@ -22,29 +22,7 @@
     {% include game.html div="mens" div="mens" g="1" d="Thu, Jul 08" hr="9:00 PM" t1="unified" t1c="0,100,0"
     t1c2="255,165,0" t1s="0" t2="beaver dam" t2c="255,0,0" t2c2="255,255,255" t2s="3" %}
 
-    <!-- Modal -->
-    <div class="modal fade" id="mens-g1" tabindex="-1" aria-labelledby="mens-g1Label" aria-hidden="true">
-      <div class="modal-dialog modal-lg modal-dialog-scrollable">
-        <div class="modal-content card-black-border"
-          style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
-          <div class="modal-header">
-            <h5 class="modal-title" id="mens-g1Label">MEN'S - GAME 1 TEAM ROSTERS</h5>
-            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div class="modal-body">
-            <div class="row justify-content-center">
-              <div class="col-12 col-sm-6">
-                {% include rosters/mens-unified.html %}
-              </div>
-              <hr class="d-block d-md-none">
-              <div class="col-12 col-sm-6">
-                {% include rosters/mens-beaverdam.html %}
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    {% include modal/mens/game01.html %}
 
     {% include game.html div="mens" g="2" d="Fri, Jul 09" hr="9:00 PM" t1="warriors" t1c="128,0,0" t1c2="255,255,255"
     t1s="1" t2="bók čito" t2c="255,255,255" t2c2="255,0,0" t2s="9" %}
