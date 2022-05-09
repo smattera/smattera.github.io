@@ -1,4 +1,4 @@
-- game: 01
+- game: 1
 
   date: Thu, Jul 08
 
@@ -217,25 +217,3 @@
   team2color2: 255, 0, 0
   
   team2score: 6
-
-- game: 11
-
-  date: Sun, Jul 18
-
-  hour: 10:15 PM
-
-  team1: Game 9 Winner
-
-  team1color: 0, 0, 0
-
-  team1color2: 255, 255, 255
-
-  team1score: X
-
-  team2: Game 10 Winner
-
-  team2color: 0, 0, 0
-
-  team2color2: 255, 255, 255
-
-  team2score: X
