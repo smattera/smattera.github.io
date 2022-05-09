@@ -6,17 +6,13 @@
 
   team1: unified
 
-  team1color: 0, 100, 0
-
-  team1color2: 255, 165, 0
+  team1color: unified
 
   team1score: 0
 
   team2: beaver dam
 
-  team2color: 255, 0, 0
-
-  team2color2: 255, 255, 255
+  team2color: beaverdam
 
   team2score: 3
 
@@ -28,17 +24,13 @@
 
   team1: warriors
 
-  team1color: 128, 0, 0
-
-  team1color2: 255, 255, 255
+  team1color: warriors
 
   team1score: 1
   
   team2: bók čito
   
-  team2color: 255, 255, 255
-  
-  team2color2: 255, 0, 0
+  team2color: bokcito
   
   team2score: 9
 
@@ -50,17 +42,13 @@
 
   team1: koni hata
 
-  team1color: 0, 0, 255
-
-  team1color2: 255, 255, 255
+  team1color: konihata
 
   team1score: 4
   
   team2: oka homma
   
-  team2color: 255, 255, 0
-  
-  team2color2: 255, 0, 0
+  team2color: okahomma
   
   team2score: 1
 
@@ -72,17 +60,13 @@
 
   team1: pearl river
 
-  team1color: 0, 0, 128
-
-  team1color2: 255, 255, 255
+  team1color: pearlriver
     
   team1score: 8
   
   team2: tvshkahomma
   
-  team2color: 130, 158, 255
-  
-  team2color2: 128, 0, 0
+  team2color: tvshkahomma
   
   team2score: 0
 
@@ -94,17 +78,13 @@
 
   team1: wolfpack
 
-  team1color: 0, 0, 0
-
-  team1color2: 0, 255, 0
+  team1color: wolfpack
 
   team1score: 0
 
   team2: beaver dam
   
-  team2color: 255, 0, 0
-  
-  team2color2: 255, 255, 255
+  team2color: beaverdam
   
   team2score: 11
 
@@ -116,17 +96,13 @@
 
   team1: tucker
 
-  team1color: 0, 128, 0
-
-  team1color2: 255, 255, 0
+  team1color: tucker
     
   team1score: 2
   
   team2: bók čito
   
-  team2color: 255, 255, 255
-  
-  team2color2: 255, 0, 0
+  team2color: bokcito
   
   team2score: 5
 
@@ -138,17 +114,13 @@
 
   team1: tiak hikíya
 
-  team1color: 128, 0, 128
-
-  team1color2: 255, 255, 0
+  team1color: tiakhikiya
 
   team1score: 0
   
   team2: koni hata
   
-  team2color: 0, 0, 255
-  
-  team2color2: 255, 255, 255
+  team2color: konihata
   
   team2score: 7
 
@@ -160,17 +132,13 @@
 
   team1: beaver dam
 
-  team1color: 255, 0, 0
-
-  team1color2: 255, 255, 255
+  team1color: beaverdam
     
   team1score: 0
   
   team2: pearl river
   
-  team2color: 0, 0, 128
-  
-  team2color2: 255, 255, 255
+  team2color: pearlriver
   
   team2score: 4
 
@@ -182,17 +150,13 @@
 
   team1: bók čito
 
-  team1color: 255, 255, 255
-
-  team1color2: 255, 0, 0
+  team1color: bokcito
     
   team1score: 2
   
   team2: koni hata
   
-  team2color: 0, 0, 255
-  
-  team2color2: 255, 255, 255
+  team2color: konihata
   
   team2score: 1
 
@@ -204,16 +168,12 @@
 
   team1: pearl river
 
-  team1color: 0, 0, 128
-
-  team1color2: 255, 255, 255
+  team1color: pearlriver
 
   team1score: 5
   
   team2: bók čito
   
-  team2color: 255, 255, 255
-  
-  team2color2: 255, 0, 0
+  team2color: bokcito
   
   team2score: 6
