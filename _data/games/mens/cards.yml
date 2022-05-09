@@ -226,8 +226,16 @@
 
   team1: Game 9 Winner
 
+  team1color: 0, 0, 0
+
+  team1color2: 255, 255, 255
+
   team1score: X
 
   team2: Game 10 Winner
+
+  team1color: 0, 0, 0
+
+  team1color2: 255, 255, 255
 
   team2score: X
