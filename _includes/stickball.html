@@ -3,6 +3,8 @@
     <h1 class="display-1 shadow-text lh-1">World Series Stickball</h1>
     <!--<img src="../assets/img/stickball-banner.webp" class="img-fluid">-->
 
+    {% include countdown-timer.html title="Countdown to 2022 Bracket Day" end_date="Jun 06, 2022"%}
+    
     {% assign cachedNow = 'now' | date: '%F %T' %}
 
     {% if cachedNow < '2022-06-06 18:00:00' %} <div class="row align-items-center">
