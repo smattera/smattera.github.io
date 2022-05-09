@@ -20,7 +20,7 @@
 
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
 
-      <!--{% for card in site.data.games.mens.cards %}
+      {% for card in site.data.games.mens.cards %}
         
         <div class="col">
           <a type="button" data-bs-toggle="modal" data-bs-target="#mens-g{{ card.game }}"
@@ -50,7 +50,7 @@
           </a>
         </div>
 
-      {% endfor %}-->
+      {% endfor %}
 
       {% include modal/mens/game01.html %}
       {% include modal/mens/game02.html %}

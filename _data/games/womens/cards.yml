@@ -6,17 +6,17 @@
   
   team1: beaver dam
   
-  team1color: 255,0,0
+  team1color: 255, 0, 0
 
-  team1color2: 255,255,255
+  team1color2: 255, 255, 255
   
   team1score: 3
   
   team2: oka homma ohóyo
   
-  team2color: 255,255,0
+  team2color: 255, 255, 0
   
-  team2color2: 255,0,0
+  team2color2: 255, 0, 0
   
   team2score: 0
 
@@ -28,17 +28,17 @@
   
   team1: natives
   
-  team1color: 180,210,255
+  team1color: 180, 210, 255
 
-  team1color2: 0,0,0
+  team1color2: 0, 0, 0
   
   team1score: 2
   
   team2: tali ohóyo
   
-  team2color: 255,192,203
+  team2color: 255, 192, 203
   
-  team2color2: 0,0,128
+  team2color2: 0, 0, 128
   
   team2score: 1
 
@@ -50,17 +50,17 @@
   
   team1: tiak hikíya ohóyo
   
-  team1color: 128,0,128
+  team1color: 128, 0, 128
 
-  team1color2: 255,255,0
+  team1color2: 255, 255, 0
   
   team1score: 2
   
   team2: koni hata ohóyo
   
-  team2color: 0,0,255
+  team2color: 0, 0, 255
   
-  team2color2: 255,255,255
+  team2color2: 255, 255, 255
   
   team2score: 1
 
@@ -72,17 +72,17 @@
   
   team1: tvshkahomma
   
-  team1color: 130,158,255
+  team1color: 130, 158, 255
 
-  team1color2: 128,0,0
+  team1color2: 128, 0, 0
   
   team1score: 4
   
   team2: tucker alhíha
   
-  team2color: 0,128,0
+  team2color: 0, 128, 0
   
-  team2color2: 255,255,0
+  team2color2: 255, 255, 0
   
   team2score: 0
 
@@ -94,17 +94,17 @@
   
   team1: bók čito ohóyo
   
-  team1color: 255,255,255
+  team1color: 255, 255, 255
 
-  team1color2: 255,0,0
+  team1color2: 255, 0, 0
   
   team1score: 3
   
   team2: beaver dam
   
-  team2color: 255,0,0
+  team2color: 255, 0, 0
   
-  team2color2: 255,255,255
+  team2color2: 255, 255, 255
   
   team2score: 2
 
@@ -116,17 +116,17 @@
   
   team1: pearl river
   
-  team1color: 0,0,128
+  team1color: 0, 0, 128
 
-  team1color2: 255,255,255
+  team1color2: 255, 255, 255
   
   team1score: 6
   
   team2: natives
   
-  team2color: 180,210,255
+  team2color: 180, 210, 255
   
-  team2color2: 0,0,0
+  team2color2: 0, 0, 0
   
   team2score: 0
 
@@ -138,17 +138,17 @@
   
   team1: lady warriors
   
-  team1color: 128,0,0
+  team1color: 128, 0, 0
 
-  team1color2: 255,255,255
+  team1color2: 255, 255, 255
   
   team1score: 1
   
   team2: tiak hikíya ohóyo
   
-  team2color: 128,0,128
+  team2color: 128, 0, 128
   
-  team2color2: 255,255,0
+  team2color2: 255, 255, 0
   
   team2score: 0
 
@@ -160,17 +160,17 @@
   
   team1: bók čito ohóyo
   
-  team1color: 255,255,255
+  team1color: 255, 255, 255
 
-  team1color2: 255,0,0
+  team1color2: 255, 0, 0
   
   team1score: 2
   
   team2: tvshkahomma
   
-  team2color: 130,158,255
+  team2color: 130, 158, 255
   
-  team2color2: 128,0,0
+  team2color2: 128, 0, 0
   
   team2score: 1
 
@@ -182,17 +182,17 @@
   
   team1: pearl river
   
-  team1color: 0,0,128
+  team1color: 0, 0, 128
 
-  team1color2: 255,255,255
+  team1color2: 255, 255, 255
   
   team1score: 5
   
   team2: lady warriors
   
-  team2color: 128,0,0
+  team2color: 128, 0, 0
   
-  team2color2: 255,255,255
+  team2color2: 255, 255, 255
   
   team2score: 0
 
@@ -204,16 +204,16 @@
   
   team1: bók čito ohóyo
   
-  team1color: 255,255,255
+  team1color: 255, 255, 255
 
-  team1color2: 255,0,0
+  team1color2: 255, 0, 0
   
   team1score: 0
   
   team2: pearl river
   
-  team2color: 0,0,128
+  team2color: 0, 0, 128
   
-  team2color2: 255,255,255
+  team2color2: 255, 255, 255
   
   team2score: 3
