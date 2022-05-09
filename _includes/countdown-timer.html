@@ -72,7 +72,7 @@
         minute = second * 60,
         hour = minute * 60,
         day = hour * 24;
-    var countDown = new Date('{{- end_date -}}').getTime(),
+    var countDown = new Date('{{ include.end_date }}').getTime(),
         x = setInterval(function () {
             var now = new Date().getTime(),
                 distance = countDown - now;
