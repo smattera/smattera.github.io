@@ -8,9 +8,6 @@
                     aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <div class="ratio ratio-16x9">
-                    <iframe id="how-it-works-video" width="100%" height="100%" src="https://www.youtube.com/embed/BrD3abCyuzw" title="YouTube video player" frameborder="5" allowfullscreen></iframe>
-                </div>
                 <div class="row justify-content-center">
                     <div class="col-12 col-sm-6">
                         {% include rosters/mens/unified.html %}
@@ -24,19 +21,3 @@
         </div>
     </div>
 </div>
-
-<script>
-    $(document).ready(function() {
-      var url = $("#how-it-works-video").attr('src');
-    
-      $("#mens-g1").on('hide.bs.modal', function() {
-        $("#how-it-works-video").attr('src', '');
-            console.log('Unloaded')
-      });
-    
-      $("#mens-g1").on('shown.bs.modal', function() {
-        $("#how-it-works-video").attr('src', url);
-            console.log('Loaded')
-      });
-    });
-</script>

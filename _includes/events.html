@@ -13,7 +13,7 @@
 
     {% assign cachedNow = 'now' | date: '%Y-%m-%d' %}
     
-    <!--<ul class="nav nav-pills nav-fill h5" id="myTab" role="tablist">
+    <ul class="nav nav-pills nav-fill h5" id="myTab" role="tablist">
       {% include eventTabFirst.html day="dayOne" date="2021-07-07" %}
       {% include eventTab.html day="dayTwo" date="2021-07-08" %}
       {% include eventTab.html day="dayThree" date="2021-07-09" %}
@@ -24,18 +24,42 @@
       {% include eventTab.html day="dayEight" date="2021-07-15" %}
       {% include eventTab.html day="dayNine" date="2021-07-16" %}
       {% include eventTabLast.html day="dayTen" date="2021-07-17" %}
-    </ul>-->
+    </ul>
 
-    <!--<div class="tab-content pt-3" id="myTabContent">
+    <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade {% include eventActive.html date='2021-07-07' %}{% if cachedNow <= '2021-07-07' %}show active %}{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+
+          {% for event in site.data.schedule.day01.events %}
+        
+          <div class="col">
+            <div class="card card-{{ event.category }} h-100">
+              <div class="card-header pt-3">
+                <p class="h4">{{ event.hour }}</p>
+              </div>
+              <div class="card-body h-100 d-flex flex-column justify-content-center">
+                <a href="../{{ event.category }}/" class="text-dark" style="text-decoration: none;">
+                  <p class="h5">{{ event.category | capitalize }}</p>
+                  <p class="h4">{{ event.title }}</p>
+                </a>
+              </div>
+              <a href="../info/" class="text-white" style="text-decoration: none;">
+                <div class="card-footer pt-3">
+                  <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          {% endfor %}
+
           {% include eventBlack.html title="Fallen Tushka Ceremony" time="6:00 PM" %}
           {% include eventBlack.html title="Women's (35+) Division: North vs South" time="7:00 PM" %}
           {% include eventBlack.html title="Men's (50+) Division: North vs South" time="8:00 PM" %}  
         </div>
       </div>
 
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-08' %}" id="dayTwo" role="tabpanel" aria-labelledby="dayTwo-tab">
+      <!--<div class="tab-pane fade {% include eventActive.html date='2021-07-08' %}" id="dayTwo" role="tabpanel" aria-labelledby="dayTwo-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% include eventGold.html title="Midway Opens" time="5:00 PM" loc="Midway" %}
           {% include eventBlack.html title="Pushmataha (10-13) Division: Game 1" time="5:00 PM" %}
