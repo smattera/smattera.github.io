@@ -1,10 +1,10 @@
 {% if end_date != blank %}
 
-<div class="timer">
+<div class="timer card-black-border">
 
-    {% if title != blank %}<h4 class="timer__title">{{ include.title }}</h4>{% endif %}
+    {% if title != blank %}<h2 class="timer__title">{{ include.title }}</h2>{% endif %}
 
-    <div class="timer-display">
+    <div class="timer-display display-4">
         <div class="timer-block">
             <span class="timer-block__num js-timer-days">00</span>
             <span class="timer-block__unit">Days</span>
@@ -27,7 +27,7 @@
 
 <style>
     .timer {
-        background: #f6fafd;
+        background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));
         padding: 10px;
         margin: 10px 0;
     }
@@ -35,7 +35,8 @@
         display: none;
     }
     .timer__title {
-        @extend .paragraph;
+        @extend .display-2;
+        @extend .shadow-text;
         text-align: center;
     }
     .timer-display {
