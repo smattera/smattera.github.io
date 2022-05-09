@@ -429,14 +429,14 @@ header {
 }
 
 .card-stickball {
-  & > card-header, & > card-footer {
+  & > .card-header, & > .card-footer {
     border: 10px solid;
     border-image-slice: 1;
     border-width: 5px;
     border-image-source: linear-gradient(to bottom, #efe, #fff, #779);
     background: linear-gradient(#333, #800000)
   }
-  & > card-body {
+  & > .card-body {
     background: linear-gradient(#779, #fff, #efe);
   }
 }
