@@ -1,89 +1,49 @@
 - game: 1
-
   date: Thu, Jul 08
-  
   hour: 7:00 PM
-  
   team1: beaver dam
-  
   team1color: beaverdam
-  
   team1score: 7
-  
   team2: independents
-  
   team2color: independents
-  
   team2score: 0
 
 - game: 2
-
   date: Fri, Jul 09
-  
   hour: 7:00 PM
-  
   team1: tvshkahomma
-  
   team1color: tvshkahomma
-  
   team1score: 0
-  
   team2: koni hata
-  
   team2color: konihata
-  
   team2score: 8
 
 - game: 3
-
   date: Mon, Jul 12
-  
   hour: 8:00 PM
-  
   team1: oka homma
-  
   team1color: okahomma
-
   team1score: 1
-  
   team2: beaver dam
-  
   team2color: beaverdam
-  
   team2score: 0
 
 - game: 4
-
   date: Tue, Jul 13
-  
   hour: 8:00 PM
-  
   team1: koni hata
-  
   team1color: konihata
-
   team1score: 1
-  
   team2: bók čito
-  
   team2color: bokcito
-  
   team2score: 0
 
 - game: 5
-
   date: Fri, Jul 16
-  
   hour: 10:15 PM
-  
   team1: beaver dam
-  
   team1color: beaverdam
-  
   team1score: 0
-  
   team2: koni hata
-  
   team2color: konihata
-  
   team2score: 4
