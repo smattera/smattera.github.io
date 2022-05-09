@@ -2,7 +2,9 @@
 
   hour: 6:00 PM
 
-  category: stickball
+  category: world series stickball
+
+  style: stickball
 
   location: Warrior Stadium
 
@@ -10,7 +12,9 @@
 
   hour: 7:00 PM
 
-  category: stickball
+  category: world series stickball
+
+  style: stickball
 
   location: Warrior Stadium
 
@@ -18,6 +22,8 @@
 
   hour: 8:00 PM
 
-  category: stickball
+  category: world series stickball
+
+  style: stickball
 
   location: Warrior Stadium
