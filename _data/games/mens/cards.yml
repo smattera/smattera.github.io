@@ -1,219 +1,219 @@
-- g: 01
+- game: 01
 
-  d: Thu, Jul 08
+  date: Thu, Jul 08
 
-  hr: 9:00 PM
+  hour: 9:00 PM
 
-  t1: unified
+  team1: unified
 
-  t1c: 0, 100, 0
+  team1color: 0, 100, 0
 
-  t1c2: 255, 165, 0
+  team1color2: 255, 165, 0
 
-  t1s: 0
+  team1score: 0
 
-  t2: beaver dam
+  team2: beaver dam
 
-  t2c: 255, 0, 0
+  team2color: 255, 0, 0
 
-  t2c2: 255, 255, 255
+  team2color2: 255, 255, 255
 
-  t2s: 3
+  team2score: 3
 
-- g: 2
+- game: 2
 
-  d: Fri, Jul 09
+  date: Fri, Jul 09
 
-  hr: 9:00 PM
+  hour: 9:00 PM
 
-  t1: warriors
+  team1: warriors
 
-  t1c: 128, 0, 0
+  team1color: 128, 0, 0
 
-  t1c2: 255, 255, 255
+  team1color2: 255, 255, 255
 
-  t1s: 1
+  team1score: 1
   
-  t2: bók čito
+  team2: bók čito
   
-  t2c: 255, 255, 255
+  team2color: 255, 255, 255
   
-  t2c2: 255, 0, 0
+  team2color2: 255, 0, 0
   
-  t2s: 9
+  team2score: 9
 
-- g: 3
+- game: 3
 
-  d: Fri, Jul 09
+  date: Fri, Jul 09
 
-  hr: 10:30 PM
+  hour: 10:30 PM
 
-  t1: koni hata
+  team1: koni hata
 
-  t1c: 0, 0, 255
+  team1color: 0, 0, 255
 
-  t1c2: 255, 255, 255
+  team1color2: 255, 255, 255
 
-  t1s: 4
+  team1score: 4
   
-  t2: oka homma
+  team2: oka homma
   
-  t2c: 255, 255, 0
+  team2color: 255, 255, 0
   
-  t2c2: 255, 0, 0
+  team2color2: 255, 0, 0
   
-  t2s: 1
+  team2score: 1
 
-- g: 4
+- game: 4
 
-  d: Sat, Jul 10
+  date: Sat, Jul 10
 
-  hr: 9:00 PM
+  hour: 9:00 PM
 
-  t1: pearl river
+  team1: pearl river
 
-  t1c: 0, 0, 128
+  team1color: 0, 0, 128
 
-  t1c2: 255, 255, 255
+  team1color2: 255, 255, 255
     
-  t1s: 8
+  team1score: 8
   
-  t2: tvshkahomma
+  team2: tvshkahomma
   
-  t2c: 130, 158, 255
+  team2color: 130, 158, 255
   
-  t2c2: 128, 0, 0
+  team2color2: 128, 0, 0
   
-  t2s: 0
+  team2score: 0
 
-- g: 5
+- game: 5
 
-  d: Sat, Jul 10
+  date: Sat, Jul 10
 
-  hr: 10:30 PM
+  hour: 10:30 PM
 
-  t1: wolfpack
+  team1: wolfpack
 
-  t1c: 0, 0, 0
+  team1color: 0, 0, 0
 
-  t1c2: 0, 255, 0
+  team1color2: 0, 255, 0
 
-  t1s: 0
+  team1score: 0
 
-  t2: beaver dam
+  team2: beaver dam
   
-  t2c: 255, 0, 0
+  team2color: 255, 0, 0
   
-  t2c2: 255, 255, 255
+  team2color2: 255, 255, 255
   
-  t2s: 11
+  team2score: 11
 
-- g: 6
+- game: 6
 
-  d: Mon, Jul 12
+  date: Mon, Jul 12
 
-  hr: 10:00 PM
+  hour: 10:00 PM
 
-  t1: tucker
+  team1: tucker
 
-  t1c: 0, 128, 0
+  team1color: 0, 128, 0
 
-  t1c2: 255, 255, 0
+  team1color2: 255, 255, 0
     
-  t1s: 2
+  team1score: 2
   
-  t2: bók čito
+  team2: bók čito
   
-  t2c: 255, 255, 255
+  team2color: 255, 255, 255
   
-  t2c2: 255, 0, 0
+  team2color2: 255, 0, 0
   
-  t2s: 5
+  team2score: 5
 
-- g: 7
+- game: 7
 
-  d: Tue, Jul 13
+  date: Tue, Jul 13
 
-  hr: 10:00 PM
+  hour: 10:00 PM
 
-  t1: tiak hikíya
+  team1: tiak hikíya
 
-  t1c: 128, 0, 128
+  team1color: 128, 0, 128
 
-  t1c2: 255, 255, 0
+  team1color2: 255, 255, 0
 
-  t1s: 0
+  team1score: 0
   
-  t2: koni hata
+  team2: koni hata
   
-  t2c: 0, 0, 255
+  team2color: 0, 0, 255
   
-  t2c2: 255, 255, 255
+  team2color2: 255, 255, 255
   
-  t2s: 7
+  team2score: 7
 
-- g: 8
+- game: 8
 
-  d: Wed, Jul 14
+  date: Wed, Jul 14
 
-  hr: 10:15 PM
+  hour: 10:15 PM
 
-  t1: beaver dam
+  team1: beaver dam
 
-  t1c: 255, 0, 0
+  team1color: 255, 0, 0
 
-  t1c2: 255, 255, 255
+  team1color2: 255, 255, 255
     
-  t1s: 0
+  team1score: 0
   
-  t2: pearl river
+  team2: pearl river
   
-  t2c: 0, 0, 128
+  team2color: 0, 0, 128
   
-  t2c2: 255, 255, 255
+  team2color2: 255, 255, 255
   
-  t2s: 4
+  team2score: 4
 
-- g: 9
+- game: 9
 
-  d: Thu, Jul 15
+  date: Thu, Jul 15
 
-  hr: 10:15 PM
+  hour: 10:15 PM
 
-  t1: bók čito
+  team1: bók čito
 
-  t1c: 255, 255, 255
+  team1color: 255, 255, 255
 
-  t1c2: 255, 0, 0
+  team1color2: 255, 0, 0
     
-  t1s: 2
+  team1score: 2
   
-  t2: koni hata
+  team2: koni hata
   
-  t2c: 0, 0, 255
+  team2color: 0, 0, 255
   
-  t2c2: 255, 255, 255
+  team2color2: 255, 255, 255
   
-  t2s: 1
+  team2score: 1
 
-- g: 10
+- game: 10
 
-  d: Sat, Jul 17
+  date: Sat, Jul 17
 
-  hr: 10:15 PM
+  hour: 10:15 PM
 
-  t1: pearl river
+  team1: pearl river
 
-  t1c: 0, 0, 128
+  team1color: 0, 0, 128
 
-  t1c2: 255, 255, 255
+  team1color2: 255, 255, 255
 
-  t1s: 5
+  team1score: 5
   
-  t2: bók čito
+  team2: bók čito
   
-  t2c: 255, 255, 255
+  team2color: 255, 255, 255
   
-  t2c2: 255, 0, 0
+  team2color2: 255, 0, 0
   
-  t2s: 6
+  team2score: 6
