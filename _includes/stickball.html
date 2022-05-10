@@ -80,7 +80,7 @@
             {% else %}card-blank{% endif %}">
               <div class="card-head pt-3 h5" style="font-size:1.2rem;">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{{ card.team1score }}</div>
+                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}X{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
               <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
@@ -93,7 +93,7 @@
             {% else %}card-blank{% endif %}">
               <div class="card-head pt-3 h5" style="font-size:1.2rem;">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{{ card.team2score }}</div>
+                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}X{% endif %}</div>
             </div>
           </div>
         </a>
