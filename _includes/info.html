@@ -5,15 +5,4 @@
             <iframe src="https://www.google.com/maps/d/embed?mid=1e6Nvl9pSDrBdsh-9WWbGf3-QLdrcyGsm&ehbc=2E312F"></iframe>
         </div>
     </div>
-    <ul>
-        {% for org_hash in site.data.orgs %}
-        {% assign org = org_hash[1] %}
-          <li>
-            <a href="https://github.com/{{ org.username }}">
-              {{ org.name }}
-            </a>
-            ({{ org.members | size }} members)
-          </li>
-        {% endfor %}
-        </ul>
 </section>
