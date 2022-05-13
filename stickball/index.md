@@ -8,20 +8,15 @@ meta: stickball
     <h1 class="display-1 shadow-text lh-1 mb-5">World Series Stickball</h1>
     <!--<img src="../assets/img/stickball-banner.webp" class="img-fluid">-->
 
-    {% include countdown-timer.html title="Countdown to 2022 Bracket Day" end_date="June 6, 2022 18:00:00" border="black" %}
+    
 
-    <!--{% assign cachedNow = 'now' | date: '%F %T' %}
+    {% assign cachedNow = 'now' | date: '%F %T' %}
 
-    {% if cachedNow < '2022-06-06 18:00:00' %} <div class="row align-items-center">
-      <div class="col-md">
-        <p class="h3 display-3 shadow-text">Countdown to <span class="text-nowrap">2022 Bracket Day</span>:</p>
-      </div>
-      <div class="col-md">
-        <p id="timer2" class="h2 bg-light text-dark pt-2 mb-3"></p>
-      </div>
-    </div>
+    {% if cachedNow < '2022-06-06 18:00:00' %} 
+    
+      {% include countdown-timer.html title="Countdown to 2022 Bracket Day" end_date="June 6, 2022 18:00:00" border="black" %}
 
-    {% endif %}-->
+    {% endif %}
 
     <h2 class="display-2 shadow-text pt-5">2021 Men's Division</h2>
 
