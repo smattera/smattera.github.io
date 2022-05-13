@@ -3,4 +3,196 @@ layout: default
 title: Culture
 meta: culture
 ---
-{% include culture.html %}
+<section class="basket-bg">
+  <div class="container">
+    <h1 class="display-1 shadow-text lh-1">Cultural Activities</h1>
+    <!--<img src="../assets/img/culture-banner.webp" class="img-fluid pb-5">-->
+
+    <div class="card mb-3 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
+      <img src="../assets/img/logos/ayipa.webp" class="card-img-top" alt="Áyipa Village">
+      <div class="card-body text-center">
+        
+        <div class="row row-cols-1 row-cols-md-2 g-3">
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/stickball-demo.webp" class="card-img-top" alt="Stickball Demonstration">
+              <div class="card-body text-dark">
+                <h5 class="card-title">Stickball Demonstration</h5>
+                <p class="card-text">Members of the Stickball Field Crew will be demonstrating aspects of Choctaw Stickball, explaining the history and rules, how to handle the sticks during a game, and more. A "Stickball Shootout" will be held for visitors to participate in after the demonstration.</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/frybread-making.webp" class="card-img-top" alt="Frybread Demonstration">
+              <div class="card-body text-dark">
+                <h5 class="card-title">Frybread Demonstration</h5>
+                <p class="card-text">Local fry bread cooks will offer a step-by-step process of making fry bread. After the demonstration, those in attendance will have the opportunity to taste a delicious fry bread portion.</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/logos/cultural-video.webp" class="card-img-top" alt="Cultural Video Features">
+              <div class="card-body text-dark">
+                <h5 class="card-title">Cultural Video Features</h5>
+                <p class="card-text">The Mississippi Choctaws of today carry on the traditions left to them by their ancestors. Enjoy our series of videos highlighting cultural topics and learn more about the cultural life ways of the Mississippi Band of Choctaw Indians.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/passport.webp" class="card-img-top" alt="Passport">
+              <div class="card-body text-dark">
+                <h5 class="card-title">CIF Passport</h5>
+                <p class="card-text">The CIF Passport is a small keepsake post card for visitors to carry and have stamped at various locations throughout the fairgrounds. Participants will receive a "Fair Map" showing stamp locations, ensuring that everyone is able to engage in all Choctaw Indian Fair activities.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="card mb-3 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
+      <img src="../assets/img/svg/shawi.svg" class="card-img-top" alt="Shawi's Discovery Zone">
+      <div class="card-body text-center">
+        <div class="row row-cols-1 row-cols-md-2 g-3">
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/yamma.webp" class="card-img-top" alt="Yamma">
+              <div class="card-body text-dark">
+                <h5 class="card-title">YAMMA ÁCHI ÁWASHÓHA</h5>
+                <p class="card-text">Yamma Áchi Áwashóha is a twist on the classic Bingo game. YAMMA 4x4 game cards will feature bright Choctaw cultural pictures based on the daily theme. A Choctaw speaker will call out clues in the Choctaw language that match the pictures. Players will hear the Choctaw clues and mark their cards</p>
+              </div>
+            </div>
+          </div> <!--col-->
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/shawi.webp" class="card-img-top" alt="Shawi">
+              <div class="card-body text-dark">
+                <h5 class="card-title">OTHER FREE ACTIVITES</h5>
+                <p class="card-text">Other Shawi's Discovery Zone activities include: <strong>Bungee Trampoline, Bounce Houses, Rock Wall, Rock-It the Robot, and the CIF Kids Train</strong>.</p>
+              </div>
+            </div>
+          </div> <!--col-->
+
+        </div> <!--row-->
+      </div> <!--card-body-->
+    </div> <!--shawi card-->
+
+    <div class="card mb-3 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
+      <img src="../assets/img/svg/arts.svg" class="card-img-top" alt="Arts & Crafts">
+      <div class="card-body text-center">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/basket.webp" class="card-img-top" alt="Basketry">
+              <div class="card-body text-dark">
+                <h5 class="card-title">Basketry</h5>
+                <p class="card-text">When a present day basket maker seeks out, cuts and prepares her cane, she uses the same methods as generations of Choctaw women before her. For centuries, Choctaw basket makers have created works of art from the swamp cane that flourishes along Mississippi creek banks.</p>
+              </div>
+            </div>
+          </div> <!--col-->
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/beadwork.webp" class="card-img-top" alt="Beadwork">
+              <div class="card-body text-dark">
+                <h5 class="card-title">Beadwork</h5>
+                <p class="card-text">Men and women alike often wear decorative beadwork with traditional clothing. Designs and colors are the artist's preferences. A beadwork set for women often consists of a belt, medallion, collar necklaces, earrings, ribbon lapel pins, a handkerchief lapel pin, and a round comb.</p>
+              </div>
+            </div>
+          </div> <!--col-->
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/clothing.webp" class="card-img-top" alt="Clothing">
+              <div class="card-body text-dark">
+                <h5 class="card-title">Clothing</h5>
+                <p class="card-text">Most Choctaws today wear Choctaw dresses and shirts mainly for special occassions. They are made from cotton fabric, in solid colors with a contrasting trim. Occasionally, women choose silk or velvet fabric for traditional dresses, usually for events such as the Choctaw Indian Princess Pageant.</p>
+              </div>
+            </div>
+          </div> <!--col-->
+
+        </div> <!--row-->
+      </div> <!--card-body-->
+    </div> <!--arts card-->
+
+    <div class="card mb-3 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
+      <img src="../assets/img/svg/dancegrounds.svg" class="card-img-top" alt="Dance Grounds">
+      <div class="card-body text-center">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/war.webp" class="card-img-top" alt="War Dances">
+              <div class="card-body text-dark">
+                <h5 class="card-title">War Dances</h5>
+                <p class="card-text">War dances were used by early Choctaws to prepare for battle. Choctaw war dances are unusual in that the women join the men in dancing. In most other tribes, only men take part in the war dance.</p>
+              </div>
+            </div>
+          </div> <!--col-->
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/social.webp" class="card-img-top" alt="Social Dances">
+              <div class="card-body text-dark">
+                <h5 class="card-title">Social Dances</h5>
+                <p class="card-text">Social dances mark important aspects of life such as friendship, courtship and marriage. They include stealing partners, the friendship dance, and the wedding dance, among others.</p>
+              </div>
+            </div>
+          </div> <!--col-->
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/animal.webp" class="card-img-top" alt="Animal Dances">
+              <div class="card-body text-dark">
+                <h5 class="card-title">Animal Dances</h5>
+                <p class="card-text">Animal dances often mimic the behavior of their namesakes, with dancers darting in and out of the dance circle like playful raccoons in the raccoon dance or forming a line that coils and uncoils in the snake dance.</p>
+              </div>
+            </div>
+          </div> <!--col-->
+
+        </div> <!--row-->
+      </div> <!--card-body-->
+    </div> <!--traditional food card-->
+
+    <div class="card mb-3 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
+      <img src="../assets/img/svg/food.svg" class="card-img-top" alt="Traditional Food">
+      <div class="card-body text-center">
+        <div class="row row-cols-1 row-cols-md-2 g-3">
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/hominy.webp" class="card-img-top" alt="Hominy">
+              <div class="card-body text-dark">
+                <h5 class="card-title">HOMINY</h5>
+                <p class="card-text">Hominy is made from corn that is dried in the husk. The traditional cooking process takes several hours, with the hominy simmering in a large iron pot over an open fire.</p>
+              </div>
+            </div>
+          </div> <!--col-->
+
+          <div class="col">
+            <div class="card card-gold-border h-100" style="background:linear-gradient(#da4,#dff,#fea);">
+              <img src="../assets/img/frybread.webp" class="card-img-top" alt="Fry Bread">
+              <div class="card-body text-dark">
+                <h5 class="card-title">FRY BREAD</h5>
+                <p class="card-text">Fry bread is a flat dough pan fried or deep fried in oil, shortening, or lard. Traditional fry bread can be eaten alone or eaten as an Indian Taco with beef and other toppings.</p>
+              </div>
+            </div>
+          </div> <!--col-->
+
+        </div> <!--row-->
+      </div> <!--card-body-->
+    </div> <!--traditional food card-->
+
+  </div> <!--container-->
+</section>

@@ -25,47 +25,6 @@
 
 </div>
 
-<style>
-    .timer {
-        background: linear-gradient(#333, #800000);
-        padding: 10px;
-        font-family: "Bebas Neue", cursive;
-    }
-    .timer--expired {
-        display: none;
-    }
-    .timer__title {
-        text-align: center;
-    }
-    .timer-display {
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-        -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-        justify-content: space-between;
-        margin-top: 5px;
-    }
-    .timer-block {
-        position: relative;
-        width: 25%;
-        padding: 0 10px;
-        &:not(:last-child):after {
-            content: ':';
-            position: absolute;
-            right: 0;
-            top: 3px;
-        }
-    }
-    .timer-block__num,
-    .timer-block__unit {
-        display: block;
-        text-align: center;
-    }
-</style>
-
 <script type="text/javascript">
     var second = 1000,
         minute = second * 60,

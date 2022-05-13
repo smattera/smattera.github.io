@@ -2,4 +2,168 @@
 layout: default
 title: Forms
 ---
-{% include forms.html %}
+
+<section class="diamond-bg">
+    <div class="container">
+
+        <h1 class="display-1 shadow-text lh-1">2022 Forms</h1>
+            <p><a href="/assets/pdf/2022 CIF Notice of Taking of Bids.pdf" target="_blank"
+                    class="btn btn-warning btn-lg btn-block">2022 Choctaw Indian Fair Concessions and Parking Services
+                    bid
+                    information</a></p>
+
+            <p><a href="/assets/pdf/2022 Choctaw Indian Princess Pageant Application, Policy and Guidelines.pdf"
+                    target="_blank" class="btn btn-warning btn-lg btn-block">2022 Choctaw Indian Princess Pageant
+                    Application, Policy and Guidelines</a></p>
+
+            <p><a href="/assets/pdf/2022 Choctaw Princess Pageant Escort Application.pdf" target="_blank"
+                    class="btn btn-warning btn-lg btn-block">2022 Choctaw Indian Princess Pageant Escort Application</a>
+            </p>
+
+            <p><a href="/assets/pdf/2022 CIF Social Dance Group Registraion Form Fillables.pdf" target="_blank"
+                    class="btn btn-warning btn-lg btn-block">2022 CIF Social Dance Group Registration Form</a></p>
+
+            <p><a href="/assets/pdf/2022 CIF Dance Group Song List and Chanter's Information Form Fillables.pdf"
+                    target="_blank" class="btn btn-warning btn-lg btn-block">2022 CIF Dance Group Song List and
+                    Chanter's
+                    Information Form</a></p>
+
+            <p><a href="/assets/pdf/2022 Rez Run Registration.pdf" target="_blank"
+                    class="btn btn-warning btn-lg btn-block">2022 Rez Run Registration Form</a></p>
+
+            <p><a href="/assets/pdf/2022 Iron Warrior Registration.pdf" target="_blank"
+                    class="btn btn-warning btn-lg btn-block">2022 Iron Warrior Registration Form</a></p>
+
+            <p><a href="/assets/pdf/2022 CIF Arts & Crafts Pavilion Booth Application.pdf" target="_blank"
+                    class="btn btn-warning btn-lg btn-block">
+                    2022 CIF Arts & Crafts Pavilion Booth Application</a></p>
+
+        <div class="container bg-dark">
+            <h1 class="display-1 shadow-text lh-1">Important Dates</h1>
+            <div class="table-responsive text-start">
+                <table class="table table-dark table-striped">
+                    <tbody>
+                        <tr>
+                            <th scope="row">May 2</th>
+                            <td>6 PM</td>
+                            <td>Stickball Coaches Meeting @ Amphitheater</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">May 6</th>
+                            <td>1 PM</td>
+                            <td>Dance Group Entry Deadline @ CAP Office</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">May 7</th>
+                            <td>1 PM</td>
+                            <td>Dance Group Registration Deadline @ CAP Office</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">May 12</th>
+                            <td>6:30 PM</td>
+                            <td>Dance Group Drawing @ Office of Economic Development</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">May 16</th>
+                            <td>4 PM</td>
+                            <td>Adult Stickball Team Entry Deadline @ Amphitheater</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">May 19</th>
+                            <td>COB</td>
+                            <td>CIF T-Shirt Orders Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">May 20</th>
+                            <td>COB</td>
+                            <td>REZ RUN and IRON WARRIOR T-shirt Orders Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">May 27</th>
+                            <td>4:30 PM</td>
+                            <td>Choctaw Princess Contestant Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">May 27</th>
+                            <td>4:30 PM</td>
+                            <td>Choctaw Princess Pageant Escort Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">TBD</th>
+                            <td>TBD</td>
+                            <td>Youth Stickball Team Entry Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">June 6</th>
+                            <td>6 PM</td>
+                            <td>Stickball Bracket Day @ Amphitheater</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">June 8</th>
+                            <td>COB</td>
+                            <td>CIF Souvenir Program Book Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">June 10</th>
+                            <td>4:30 PM</td>
+                            <td>Intertribal Dancers Registration Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">June 13 - July 8</th>
+                            <td>8 AM - 4:30 PM</td>
+                            <td>4 H, Adult and Youth Division Pre-Registration. Register @ Natural Resources (Mon-Fri
+                                Only)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">June 24</th>
+                            <td>4:00 PM</td>
+                            <td>Choctaw Arts & Crafts Pavilion Booth Application Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">June 24</th>
+                            <td>COB</td>
+                            <td>Iron Warrior, $25 Pre-registration Deadline. Fee increases to $30 after this date</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">June 24</th>
+                            <td>COB</td>
+                            <td>Rez Run, Pre-registration Deadline for Rez Run shirt</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">June 25</th>
+                            <td></td>
+                            <td>SDPI Unity Walk on Recreation Road & Stage Event</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">July 4</th>
+                            <td>COB</td>
+                            <td>4 H, Adult, Youth Division Booth Completion Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">July 11</th>
+                            <td>9 AM - 8 PM</td>
+                            <td>Register Exhibit Items @ PR Gym</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">July 11</th>
+                            <td>COB</td>
+                            <td>Organization Exhibit Item Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">July 12</th>
+                            <td>8:30 AM - 11 AM</td>
+                            <td>Register Exhibit Items @ PR Gym</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">July 12</th>
+                            <td>1:30 PM</td>
+                            <td>Exhibit Judging</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+</section>

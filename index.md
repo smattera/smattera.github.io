@@ -3,4 +3,105 @@ layout: default
 title: Home
 meta: home
 ---
-{% include home.html %}
+<header>
+  <!-- This div is  intentionally blank. It creates the transparent black overlay over the video which you can modify in the CSS -->
+  <div class="overlay"></div>
+  <!-- The HTML5 video element that will create the background video on the header -->
+  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    <source src="/assets/img/CIFVideoWeb_1.mp4" type="video/mp4">
+  </video>
+  <!-- The header content -->
+  <div class="container h-100 d-block d-sm-none">
+    <div class="d-flex h-100 text-center align-items-center">
+      <div class="w-100 text-white">
+        <img src="/assets/img/logos/fairlogo.webp" alt="Choctaw Indian Fair Logo" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</header>
+
+<section class="diamond-bg">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-xl">
+        <img class="card-gold-border img-fluid" src="/assets/img/chiefprincess.webp" alt="Chief & Princess 2021"/>
+      </div>
+      <div class="col-xl">
+        <br class="d-xl-none"/>
+        <h1 class="display-1 mb-0 shadow-text">Halito!</h1>
+        <p class="lead my-1 mb-3">
+          Greetings from the Choctaw Indian Reservation. We invite you to join us <strong>July 13-16</strong> for our 72nd annual Choctaw Indian Fair. The fair takes place on our centuries-old homeland in beautiful Choctaw, Mississippi. We gather each July to celebrate our heritage and share our beautiful and vibrant culture with our friends and neighbors. This year’s fair theme is:
+        </p>
+        <p class="h3 display-3 mb-0">"The Choctaw Spirit Lives On"</p>
+        <p class="lead my-1 mb-3">
+          Fairgoers will experience the magnificent journey of our people through historical and cultural displays, social dancing, tribal arts &amp; crafts, Choctaw stickball – the granddaddy of all field sports – as well as the Choctaw Indian Princess Pageant and traditional Choctaw food. The fair also offers carnival rides and games for the young and old alike, Shawi’s Discovery Zone and chart-topping musical acts each night. There’s something for everyone at the Choctaw Indian Fair – we’ll see you soon!
+        </p>
+        <p class="h3 display-3">Yakoki!</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--<section class="diamond-bg2">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md">
+        <p class="h3 display-3 shadow-text">Countdown to the next <span class="text-nowrap">Choctaw Indian Fair</span>:</p>
+      </div>
+      <div class="col-md">
+        <p id="timer" class="h2 bg-light text-dark pt-2 mb-3"></p>
+      </div>
+    </div>
+  </div>
+</section>-->
+
+<section class="diamond-bg2">
+  <div class="container">
+    {% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 13, 2022 10:00:00" border="gold" %}
+    <row class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-0 card-gold-border mt-5">
+      <div class="col">
+        <a href="/events/">
+          <div class="card bg-transparent opaque">
+            <img src="../assets/img/svg/Events.svg" alt="Events">
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="/culture/">
+          <div class="card bg-transparent opaque">
+            <img src="../assets/img/svg/Culture.svg" alt="Culture">
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="/stickball/">
+          <div class="card bg-transparent opaque">
+            <img src="../assets/img/svg/Stickball.svg" alt="Stickball">
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="/pageant/">
+          <div class="card bg-transparent opaque">
+            <img src="../assets/img/svg/Pageant.svg" alt="Pageant">
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="/competitions/">
+          <div class="card bg-transparent opaque">
+            <img src="../assets/img/svg/Competitions.svg" alt="Competitions">
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="/info/">
+          <div class="card bg-transparent opaque">
+            <img src="../assets/img/svg/Visitor Info.svg" alt="Visitor Info">
+          </div>
+        </a>
+      </div>
+    </row>
+  </div>
+</section>
+
