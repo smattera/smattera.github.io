@@ -24,7 +24,7 @@ meta: home
   <div class="container">
     <div class="row align-items-center">
       <div class="col-xl">
-        <img class="card-gold-border img-fluid" src="/assets/img/chiefprincess.webp" alt="Chief & Princess 2021"/>
+        <img class="card-gold-border img-fluid  animate__animated animate__fadeInLeft" src="/assets/img/chiefprincess.webp" alt="Chief & Princess 2021"/>
       </div>
       <div class="col-xl">
         <br class="d-xl-none"/>
