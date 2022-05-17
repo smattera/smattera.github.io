@@ -61,42 +61,42 @@ meta: home
     <row class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-0 card-gold-border mt-5">
       <div class="col">
         <a href="/events/">
-          <div class="card bg-transparent opaque animate__animated animate__fadeInUp">
+          <div class="card bg-transparent opaque">
             <img src="../assets/img/svg/Events.svg" alt="Events">
           </div>
         </a>
       </div>
       <div class="col">
         <a href="/culture/">
-          <div class="card bg-transparent opaque animate__animated animate__fadeInUp animate__delay-1s">
+          <div class="card bg-transparent opaque">
             <img src="../assets/img/svg/Culture.svg" alt="Culture">
           </div>
         </a>
       </div>
       <div class="col">
         <a href="/stickball/">
-          <div class="card bg-transparent opaque animate__animated animate__fadeInUp animate__delay-2s">
+          <div class="card bg-transparent opaque">
             <img src="../assets/img/svg/Stickball.svg" alt="Stickball">
           </div>
         </a>
       </div>
       <div class="col">
         <a href="/pageant/">
-          <div class="card bg-transparent opaque animate__animated animate__fadeInUp animate__delay-3s">
+          <div class="card bg-transparent opaque">
             <img src="../assets/img/svg/Pageant.svg" alt="Pageant">
           </div>
         </a>
       </div>
       <div class="col">
         <a href="/competitions/">
-          <div class="card bg-transparent opaque animate__animated animate__fadeInUp animate__delay-4s">
+          <div class="card bg-transparent opaque">
             <img src="../assets/img/svg/Competitions.svg" alt="Competitions">
           </div>
         </a>
       </div>
       <div class="col">
         <a href="/info/">
-          <div class="card bg-transparent opaque animate__animated animate__fadeInUp animate__delay-5s">
+          <div class="card bg-transparent opaque">
             <img src="../assets/img/svg/Visitor Info.svg" alt="Visitor Info">
           </div>
         </a>
