@@ -42,6 +42,15 @@
 
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
 
+@font-face {
+  font-family: "Bebas Neue";
+  src: url('../fonts/bebasneue-regular-webfont.woff2') format('woff2'),
+       url('../fonts/bebasneue-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 body {
   background-color: #222 !important;
   padding-top: 30px;
