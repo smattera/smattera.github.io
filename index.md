@@ -24,7 +24,7 @@ meta: home
   <div class="container">
     <div class="row align-items-center">
       <div class="col-xl">
-        <img class="card-gold-border img-fluid  animate__animated animate__fadeInLeft" src="/assets/img/chiefprincess.webp" alt="Chief & Princess 2021"/>
+        <img class="card-gold-border img-fluid" src="/assets/img/chiefprincess.webp" alt="Chief & Princess 2021"/>
       </div>
       <div class="col-xl">
         <br class="d-xl-none"/>
@@ -61,42 +61,42 @@ meta: home
     <row class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-0 card-gold-border mt-5">
       <div class="col">
         <a href="/events/">
-          <div class="card bg-transparent opaque">
+          <div class="card bg-transparent opaque animate__animated animate__fadeInLeft">
             <img src="../assets/img/svg/Events.svg" alt="Events">
           </div>
         </a>
       </div>
       <div class="col">
         <a href="/culture/">
-          <div class="card bg-transparent opaque">
+          <div class="card bg-transparent opaque animate__animated animate__fadeInLeft animate__delay-1s">
             <img src="../assets/img/svg/Culture.svg" alt="Culture">
           </div>
         </a>
       </div>
       <div class="col">
         <a href="/stickball/">
-          <div class="card bg-transparent opaque">
+          <div class="card bg-transparent opaque animate__animated animate__fadeInLeft animate__delay-2s">
             <img src="../assets/img/svg/Stickball.svg" alt="Stickball">
           </div>
         </a>
       </div>
       <div class="col">
         <a href="/pageant/">
-          <div class="card bg-transparent opaque">
+          <div class="card bg-transparent opaque animate__animated animate__fadeInLeft animate__delay-3s">
             <img src="../assets/img/svg/Pageant.svg" alt="Pageant">
           </div>
         </a>
       </div>
       <div class="col">
         <a href="/competitions/">
-          <div class="card bg-transparent opaque">
+          <div class="card bg-transparent opaque animate__animated animate__fadeInLeft animate__delay-4s">
             <img src="../assets/img/svg/Competitions.svg" alt="Competitions">
           </div>
         </a>
       </div>
       <div class="col">
         <a href="/info/">
-          <div class="card bg-transparent opaque">
+          <div class="card bg-transparent opaque animate__animated animate__fadeInLeft animate__delay-5s">
             <img src="../assets/img/svg/Visitor Info.svg" alt="Visitor Info">
           </div>
         </a>
