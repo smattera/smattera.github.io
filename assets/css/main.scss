@@ -40,7 +40,7 @@
 @import "utilities/api";
 // scss-docs-end import-stack
 
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+// @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
 
 @font-face {
   font-family: "Bebas Neue";
@@ -746,3 +746,31 @@ header {
   display: block;
   text-align: center;
 }
+
+@font-face {
+  font-family: "bootstrap-icons";
+  src: url("../fonts/bootstrap-icons.woff2") format("woff2"),
+url("../fonts/bootstrap-icons.woff") format("woff");
+}
+
+.bi::before,
+[class^="bi-"]::before,
+[class*=" bi-"]::before {
+  display: inline-block;
+  font-display: block;
+  font-family: bootstrap-icons !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  vertical-align: -.125em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bi-exclamation-circle-fill::before { content: "\f332"; }
+.bi-facebook::before { content: "\f344"; }
+.bi-geo-alt-fill::before { content: "\f3e7"; }
+.bi-twitter::before { content: "\f5ef"; }
+.bi-youtube::before { content: "\f62b"; }
