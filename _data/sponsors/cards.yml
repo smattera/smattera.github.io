@@ -18,7 +18,8 @@
 - level: platinum
   url: https://www.unum.com
   file: sis
-  alt: Walt Schrimpf (SIS-UNUM
+  alt: Walt Schrimpf (SIS-UNUM)
+
 - level: gold
   url: https://www.bancorpsouth.com/insurance
   file: bxs
@@ -35,6 +36,7 @@
   url: https://www.ajg.com
   file: gallagher
   alt: AJ Gallagher
+
 - level: silver
   url: http://edwards-electric.com
   file: edwards
@@ -87,6 +89,7 @@
   url: https://www.trustmark.com
   file: trustmark
   alt: Trustmark Bank
+  
 - level: bronze
 #  url:
   file: bclean
