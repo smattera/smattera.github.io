@@ -32,7 +32,8 @@ meta: events
     </ul>
 
     <div class="tab-content pt-3" id="myTabContent">
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-07' %}{% if cachedNow <= '2021-07-07' %}show active %}{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
+      <div class="tab-pane fade{% include eventActive.html date='2021-07-07' %}
+      {% if cachedNow <= '2021-07-07' %} show active{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
 
           {% for event in site.data.schedule.day01.events %}
