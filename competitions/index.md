@@ -13,11 +13,13 @@ meta: competitions
         title="RezRun"
         desc="The run is held in Choctaw, MS and trails through the reservation of the Mississippi
         Choctaw and the Choctaw Indian fairgrounds. The Mississippi Band of Choctaw Indians proudly welcomes all
-        runners and visitors to the 72nd Annual Choctaw Indian Fair.<br><a href="https://raceroster.com/events/2022/60504/rez-run" target="_blank">Register online</a>"
+        runners and visitors to the 72nd Annual Choctaw Indian Fair."
         contact="John Ferguson"
         phone="601-650-1765"
         alert="Pre-register by June 24, 2022. Pre-registered competitors are guaranteed an official Rez Run t-shirt!"
-        secondLink="2022 Rez Run Registration"
+        firstLink="https://raceroster.com/events/2022/60504/rez-run"
+        firstAction="Register Online"
+        secondLink="../assets/pdf/2022 Rez Run Registration.pdf"
         secondAction="Registration Form"
          %}
       
@@ -30,9 +32,9 @@ meta: competitions
         contact="Sam Farve"
         phone="601-656-0620"
         alert="Pre-register for $25 by June 24, 2022. Pre-registered competitors are guaranteed an official Iron Warrior t-shirt!"
-        firstLink="2022 Iron Warrior Flyer"
+        firstLink="../assets/pdf/2022 Iron Warrior Flyer.pdf"
         firstAction="Download Flyer"
-        secondLink="2022 Iron Warrior Registration"
+        secondLink="../assets/pdf/2022 Iron Warrior Registration.pdf"
         secondAction="Registration Form"
          %}
       

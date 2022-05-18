@@ -17,10 +17,10 @@
         {% endif %}
         <div class="d-grid gap-2 d-md-block">
           {% if include.firstLink %}
-          <a href="../assets/pdf/{{ include.firstLink }}.pdf" class="btn btn-light" target="_blank">{{ include.firstAction }}</a>
+          <a href="{{ include.firstLink }}" class="btn btn-light" target="_blank">{{ include.firstAction }}</a>
           {% endif %}
           {% if include.secondLink %}
-            <a href="../assets/pdf/{{ include.secondLink }}.pdf" class="btn btn-danger" target="_blank">{{ include.secondAction }}</a>
+            <a href="{{ include.secondLink }}" class="btn btn-danger" target="_blank">{{ include.secondAction }}</a>
           {% endif %}
         </div>
       </div>

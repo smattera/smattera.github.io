@@ -1,6 +1,7 @@
+# PLATINUM SPONSORS
 - level: platinum
   url: https://www.pearlriverresort.com
-  file: pearlriver2
+  file: pearlriver
   alt: Pearl River Resort
   class: active
 - level: platinum
@@ -20,6 +21,7 @@
   file: sis
   alt: Walt Schrimpf (SIS-UNUM)
 
+# GOLD SPONSORS
 - level: gold
   url: https://www.bancorpsouth.com/insurance
   file: bxs
@@ -37,6 +39,7 @@
   file: gallagher
   alt: AJ Gallagher
 
+# SILVER SPONSORS
 - level: silver
   url: http://edwards-electric.com
   file: edwards
@@ -89,7 +92,8 @@
   url: https://www.trustmark.com
   file: trustmark
   alt: Trustmark Bank
-  
+
+# BRONZE SPONSORS
 - level: bronze
 #  url:
   file: bclean
