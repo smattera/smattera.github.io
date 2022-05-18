@@ -5,47 +5,21 @@
         <div id="sponsorCarousel" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner" role="listbox">
 
-            {% include sponsors.html level="platinum" url="https://www.pearlriverresort.com" file="pearlriver2" alt="Pearl River Resort" class="active"%}
-            {% include sponsors.html level="platinum" url="http://www.engservice.com" file="engineeringservice" alt="Engineering Service" %}
-            {% include sponsors.html level="platinum" url="http://pryormorrow.com" file="pryormorrow" alt="Pryor Morrow" %}
-            {% include sponsors.html level="platinum" url="https://southernresearchgroup.com" file="srg" alt="SRG" %}
-            {% include sponsors.html level="platinum" url="https://www.unum.com" file="sis" alt="Walt Schrimpf (SIS-UNUM" %}
+            {% for card in site.data.sponsors.cards %}
+      
+              <div class="carousel-item {% if card.class %}{{ card.class }}{% endif %}">
+                <div class="col-md-3">
+                  <a href="{% if card.url %}{{ card.url }}{% else %}#{% endif %}" target="_blank">
+                    <div class="card card-gold-border opaque">
+                      <div class="card-img card-{{ card.level }}">
+                        <img src="/assets/img/sponsors/{{ card.file }}.png" class="img-fluid" alt="{{ card.alt }}" loading="lazy" height="380" width="380">
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
 
-            {% include sponsors.html level="gold" url="https://www.bancorpsouth.com/insurance" file="bxs" alt="BXS" %}
-            {% include sponsors.html level="gold" url="https://yates.doitbest.com" file="yates" alt="Yates" %}
-            {% include sponsors.html level="gold" url="https://www.chahtaholdingroup.com/ikbi" file="ikbi" alt="IKBI" %}
-            {% include sponsors.html level="gold" url="https://www.ajg.com" file="gallagher" alt="AJ Gallagher" %}
-
-            {% include sponsors.html level="silver" url="http://edwards-electric.com" file="edwards" alt="Edwards Electric" %}
-            {% include sponsors.html level="silver" url="https://www.mclaininc.com" file="mclain" alt="McLain Plumbing" %}
-            {% include sponsors.html level="silver" url="https://www.sunburstresults.com" file="sunburst" alt="Sunburst Chemicals" %}
-            {% include sponsors.html level="silver" url="https://www.kirkauto.com" file="kirk" alt="Kirk Auto" %}
-            {% include sponsors.html level="silver" url="https://www.benchmarkms.com" file="benchmark" alt="Benchmark" %}
-            {% include sponsors.html level="silver" url="https://fintrustadvisors.com" file="fintrust" alt="Financial Trust" %}
-            {% include sponsors.html level="silver" url="http://www.glassworxllp.com" file="glassworx" alt="Glass Worx" %}
-            {% include sponsors.html level="silver" url="https://www.keyimpactstrategies.com" file="keyimpact" alt="Key Impact Strategies" %}
-            {% include sponsors.html level="silver" url="#" file="morton" alt="Morton Construction" %}
-            {% include sponsors.html level="silver" url="https://partridgepropane.com" file="partridge" alt="Partridge Propane" %}
-            {% include sponsors.html level="silver" url="http://www.pileum.com" file="pileum" alt="Pileum" %}
-            {% include sponsors.html level="silver" url="https://www.thecitizensbankphila.com" file="citizens" alt="Citizens Bank" %}
-            {% include sponsors.html level="silver" url="https://www.trustmark.com" file="trustmark" alt="Trustmark Bank" %}
-
-            {% include sponsors.html level="bronze" url="#" file="bclean" alt="B Clean" %}
-            {% include sponsors.html level="bronze" url="http://www.becomminc.com" file="bne" alt="B&E Communications" %}
-            {% include sponsors.html level="bronze" url="#" file="holisso" alt="Holisso" %}
-            {% include sponsors.html level="bronze" url="https://imperialdade.com" file="imperial" alt="Imperial Dade" %}
-            {% include sponsors.html level="bronze" url="http://www.interpestinc.com" file="interpest" alt="Interpest" %}
-            {% include sponsors.html level="bronze" url="https://www.memphispool.com" file="memphispool" alt="Memphis Pool" %}
-            {% include sponsors.html level="bronze" url="https://merchantsfoodservice.com" file="merchants" alt="Merchants Food Service" %}
-            {% include sponsors.html level="bronze" url="https://www.normanroofing.com" file="normanroofing" alt="Norman Roofing" %}
-            {% include sponsors.html level="bronze" url="https://www.trane.com/index.html" file="trane" alt="Trane" %}
-            {% include sponsors.html level="bronze" url="https://www.facebook.com/AandBMechanical/" file="abmechanical" alt="A & B Mechanical" %}
-            {% include sponsors.html level="bronze" url="https://www.andersonregional.org" file="anderson" alt="Anderson Regional" %}
-            {% include sponsors.html level="bronze" url="https://www.bcbsms.com" file="bluecross" alt="Blue Cross Blue Shield" %}
-            {% include sponsors.html level="bronze" url="https://www.cricpa.com" file="cri" alt="CRI PA" %}
-            {% include sponsors.html level="bronze" url="https://www.facebook.com/Matt-Boatner-Construction" file="mbc" alt="Matt Boatner Construction" %}
-            {% include sponsors.html level="bronze" url="https://www.neshobageneral.com" file="neshobageneral" alt="Neshoba General" %}
-            {% include sponsors.html level="bronze" url="https://wisecarter.com" file="wisecarter" alt="Wise Carter" %}
+            {% endfor %}
             
           </div>
           <a class="carousel-control-prev bg-transparent w-aut" href="#sponsorCarousel" role="button" data-bs-slide="prev">

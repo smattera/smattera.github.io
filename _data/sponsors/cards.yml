@@ -1,0 +1,153 @@
+- level: platinum
+  url: https://www.pearlriverresort.com
+  file: pearlriver2
+  alt: Pearl River Resort
+  class: active
+- level: platinum
+  url: http://www.engservice.com
+  file: engineeringservice
+  alt: Engineering Service
+- level: platinum
+  url: http://pryormorrow.com
+  file: pryormorrow
+  alt: Pryor Morrow
+- level: platinum
+  url: https://southernresearchgroup.com
+  file: srg
+  alt: SRG
+- level: platinum
+  url: https://www.unum.com
+  file: sis
+  alt: Walt Schrimpf (SIS-UNUM
+- level: gold
+  url: https://www.bancorpsouth.com/insurance
+  file: bxs
+  alt: BXS
+- level: gold
+  url: https://yates.doitbest.com
+  file: yates
+  alt: Yates
+- level: gold
+  url: https://www.chahtaholdingroup.com/ikbi
+  file: ikbi
+  alt: IKBI
+- level: gold
+  url: https://www.ajg.com
+  file: gallagher
+  alt: AJ Gallagher
+- level: silver
+  url: http://edwards-electric.com
+  file: edwards
+  alt: Edwards Electric
+- level: silver
+  url: https://www.mclaininc.com
+  file: mclain
+  alt: McLain Plumbing
+- level: silver
+  url: https://www.sunburstresults.com
+  file: sunburst
+  alt: Sunburst Chemicals
+- level: silver
+  url: https://www.kirkauto.com
+  file: kirk
+  alt: Kirk Auto
+- level: silver
+  url: https://www.benchmarkms.com
+  file: benchmark
+  alt: Benchmark
+- level: silver
+  url: https://fintrustadvisors.com
+  file: fintrust
+  alt: Financial Trust
+- level: silver
+  url: http://www.glassworxllp.com
+  file: glassworx
+  alt: Glass Worx
+- level: silver
+  url: https://www.keyimpactstrategies.com
+  file: keyimpact
+  alt: Key Impact Strategies
+- level: silver
+#  url:
+  file: morton
+  alt: Morton Construction
+- level: silver
+  url: https://partridgepropane.com
+  file: partridge
+  alt: Partridge Propane
+- level: silver
+  url: http://www.pileum.com
+  file: pileum
+  alt: Pileum
+- level: silver
+  url: https://www.thecitizensbankphila.com
+  file: citizens
+  alt: Citizens Bank
+- level: silver
+  url: https://www.trustmark.com
+  file: trustmark
+  alt: Trustmark Bank
+- level: bronze
+#  url:
+  file: bclean
+  alt: B Clean
+- level: bronze
+  url: http://www.becomminc.com
+  file: bne
+  alt: B&E Communications
+- level: bronze
+#  url: 
+  file: holisso
+  alt: Holisso
+- level: bronze
+  url: https://imperialdade.com
+  file: imperial
+  alt: Imperial Dade
+- level: bronze
+  url: http://www.interpestinc.com
+  file: interpest
+  alt: Interpest
+- level: bronze
+  url: https://www.memphispool.com
+  file: memphispool
+  alt: Memphis Pool
+- level: bronze
+  url: https://merchantsfoodservice.com
+  file: merchants
+  alt: Merchants Food Service
+- level: bronze
+  url: https://www.normanroofing.com
+  file: normanroofing
+  alt: Norman Roofing
+- level: bronze
+  url: https://www.trane.com/index.html
+  file: trane
+  alt: Trane
+- level: bronze
+  url: https://www.facebook.com/AandBMechanical/
+  file: abmechanical
+  alt: A & B Mechanical
+- level: bronze
+  url: https://www.andersonregional.org
+  file: anderson
+  alt: Anderson Regional
+- level: bronze
+  url: https://www.bcbsms.com
+  file: bluecross
+  alt: Blue Cross Blue Shield
+- level: bronze
+  url: https://www.cricpa.com
+  file: cri
+  alt: CRI PA
+- level: bronze
+  url: https://www.facebook.com/Matt-Boatner-Construction
+  file: mbc
+  alt: Matt Boatner Construction
+- level: bronze
+  url: https://www.neshobageneral.com
+  file: neshobageneral
+  alt: Neshoba General
+- level: bronze
+  url: https://wisecarter.com
+  file: wisecarter
+  alt: Wise Carter
