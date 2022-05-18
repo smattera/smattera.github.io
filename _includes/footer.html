@@ -9,7 +9,7 @@
       
               <div class="carousel-item {% if card.class %}{{ card.class }}{% endif %}">
                 <div class="col-md-3">
-                  <a href="{% if card.url %}{{ card.url }}{% else %}#{% endif %}" target="_blank">
+                  <a href="{% if card.url %}{{ card.url }}{% else %}#{% endif %}" target="_blank" style="text-decoration:none;color:transparent;">
                     <div class="card card-gold-border opaque">
                       <div class="card-img card-{{ card.level }}">
                         <img src="/assets/img/sponsors/{{ card.file }}.png" class="img-fluid" alt="{{ card.alt }}" loading="lazy" height="380" width="380">
