@@ -309,7 +309,7 @@ header {
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .carousel-inner .carousel-item > div {
     display: none;
     margin: auto;
@@ -326,7 +326,7 @@ header {
 }
 
 /* medium and up screens */
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .carousel-inner .carousel-item-end.active,
   .carousel-inner .carousel-item-next {
     transform: translateX(25%);
