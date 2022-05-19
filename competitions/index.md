@@ -10,7 +10,7 @@ meta: competitions
     <div class="row row-cols-1 row-cols-xl-2 row-cols-xxl-3 g-4">
       {% include comp.html 
         img="rezrun"
-        title="RezRun"
+        title="Rez Run"
         desc="The run is held in Choctaw, MS and trails through the reservation of the Mississippi
         Choctaw and the Choctaw Indian fairgrounds. The Mississippi Band of Choctaw Indians proudly welcomes all
         runners and visitors to the 72nd Annual Choctaw Indian Fair."
