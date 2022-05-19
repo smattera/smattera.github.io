@@ -45,6 +45,14 @@ meta: competitions
          %}
 
       {% include comp.html
+        img="gospel-night"
+        title="Gospel Night"
+        desc="Gospel Night is the first concert of the Choctaw Indian Fair where Christian music groups and soloists perform at Áyipa Village."
+        secondLink="../assets/pdf/2022 CIF Gospel Night Entry Form.pdf"
+        secondAction="Registration Form"
+         %}
+
+      {% include comp.html
         img="lil-pageant"
         title="Little Mr. & Miss. Choctaw Indian Fair Pageant"
         desc="In this inaugural Little Mr. & Miss. Choctaw Indian Fair Pageant, participants will compete in their traditional attire. 
