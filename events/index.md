@@ -19,21 +19,21 @@ meta: events
     {% assign cachedNow = 'now' | date: '%Y-%m-%d' %}
     
     <ul class="nav nav-pills nav-fill h5" id="myTab" role="tablist">
-      {% include eventTabFirst.html day="dayOne" date="2021-07-07" %}
-      {% include eventTab.html day="dayTwo" date="2021-07-08" %}
-      {% include eventTab.html day="dayThree" date="2021-07-09" %}
-      {% include eventTab.html day="dayFour" date="2021-07-10" %}
-      {% include eventTab.html day="dayFive" date="2021-07-12" %}
-      {% include eventTab.html day="daySix" date="2021-07-13" %}
-      {% include eventTab.html day="daySeven" date="2021-07-14" %}
-      {% include eventTab.html day="dayEight" date="2021-07-15" %}
-      {% include eventTab.html day="dayNine" date="2021-07-16" %}
-      {% include eventTabLast.html day="dayTen" date="2021-07-17" %}
+      {% include eventTabFirst.html day="dayOne" date="2022-07-06" %}
+      {% include eventTab.html day="dayTwo" date="2022-07-07" %}
+      {% include eventTab.html day="dayThree" date="2022-07-08" %}
+      {% include eventTab.html day="dayFour" date="2022-07-09" %}
+      {% include eventTab.html day="dayFive" date="2022-07-11" %}
+      {% include eventTab.html day="daySix" date="2022-07-12" %}
+      {% include eventTab.html day="daySeven" date="2022-07-13" %}
+      {% include eventTab.html day="dayEight" date="2022-07-14" %}
+      {% include eventTab.html day="dayNine" date="2022-07-15" %}
+      {% include eventTabLast.html day="dayTen" date="2022-07-16" %}
     </ul>
 
     <div class="tab-content pt-3" id="myTabContent">
-      <div class="tab-pane fade{% include eventActive.html date='2021-07-07' %}
-      {% if cachedNow <= '2021-07-07' %} show active{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
+      <div class="tab-pane fade{% include eventActive.html date='2022-07-06' %}
+      {% if cachedNow <= '2022-07-06' %} show active{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
 
           {% for event in site.data.schedule.day01.events %}
@@ -63,7 +63,7 @@ meta: events
       </div>
       
 
-      <!--<div class="tab-pane fade {% include eventActive.html date='2021-07-08' %}" id="dayTwo" role="tabpanel" aria-labelledby="dayTwo-tab">
+      <!--<div class="tab-pane fade {% include eventActive.html date='2022-07-07' %}" id="dayTwo" role="tabpanel" aria-labelledby="dayTwo-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% include eventGold.html title="Midway Opens" time="5:00 PM" loc="Midway" %}
           {% include eventBlack.html title="Pushmataha (10-13) Division: Game 1" time="5:00 PM" %}
@@ -75,7 +75,7 @@ meta: events
         </div>
       </div>
       
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-09' %}" id="dayThree" role="tabpanel" aria-labelledby="dayThree-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2022-07-08' %}" id="dayThree" role="tabpanel" aria-labelledby="dayThree-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% include eventGold.html title="Midway Opens" time="5:00 PM" loc="Midway" %}
           {% include eventBlack.html title="Pushmataha (10-13) Division: Game 3" time="5:00 PM" %}
@@ -88,7 +88,7 @@ meta: events
         </div>
       </div>
       
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-10' %}" id="dayFour" role="tabpanel" aria-labelledby="dayFour-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2022-07-09' %}" id="dayFour" role="tabpanel" aria-labelledby="dayFour-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% include eventGold.html title="Midway Opens" time="5:00 PM" loc="Midway" %}
           {% include eventBlack.html title="Tulli Okchi Ishko (14-17) Division: Game 2" time="5:00 PM" %}
@@ -101,7 +101,7 @@ meta: events
         </div>
       </div>
       
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-12' %}" id="dayFive" role="tabpanel" aria-labelledby="dayFive-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2022-07-11' %}" id="dayFive" role="tabpanel" aria-labelledby="dayFive-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% include eventGold.html title="Midway Opens" time="5:00 PM" loc="Midway" %}
           {% include eventBlack.html title="Pushmataha (10-13) Division: Game 4" time="5:00 PM" %}
@@ -114,7 +114,7 @@ meta: events
         </div>
       </div>
       
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-13' %}" id="daySix" role="tabpanel" aria-labelledby="daySix-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2022-07-12' %}" id="daySix" role="tabpanel" aria-labelledby="daySix-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% include eventBlue.html title="Intertribal Dancing" time="1:00 PM" loc="Dance Grounds" %}
           {% include eventGold.html title="Midway Opens" time="5:00 PM" loc="Midway" %}
@@ -128,7 +128,7 @@ meta: events
         </div>
       </div>
       
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-14' %}" id="daySeven" role="tabpanel" aria-labelledby="daySeven-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2022-07-13' %}" id="daySeven" role="tabpanel" aria-labelledby="daySeven-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% include eventGold.html title="Gates Open" time="11:00 AM" loc="Fairgrounds" %}
           {% include eventBlue.html title="Choctaw Traditional Social Dancers" time="11:00 AM" loc="Dance Grounds" %}
@@ -150,7 +150,7 @@ meta: events
         </div>
       </div>
       
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-15' %}" id="dayEight" role="tabpanel" aria-labelledby="dayEight-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2022-07-14' %}" id="dayEight" role="tabpanel" aria-labelledby="dayEight-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% include eventGold.html title="Gates Open" time="11:00 AM" loc="Fairgrounds" %}
           {% include eventBlue.html title="Bell Family Social Dance Group" time="11:00 AM" loc="Dance Grounds" %}
@@ -178,7 +178,7 @@ meta: events
         </div>
       </div>
       
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-16' %}" id="dayNine" role="tabpanel" aria-labelledby="dayNine-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2022-07-15' %}" id="dayNine" role="tabpanel" aria-labelledby="dayNine-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% include eventGold.html title="Gates Open" time="10:00 AM" loc="Fairgrounds" %}
           {% include eventBlue.html title="Chahta Alla Himittowa Alhíha Social Dance Group" time="10:00 AM" loc="Dance Grounds" %}
@@ -209,7 +209,7 @@ meta: events
         </div>
       </div>
       
-      <div class="tab-pane fade {% include eventActive.html date='2021-07-17' %}{% if cachedNow >= '2021-07-17' %}show active{% endif %}" id="dayTen" role="tabpanel" aria-labelledby="dayTen-tab">
+      <div class="tab-pane fade {% include eventActive.html date='2022-07-16' %}{% if cachedNow >= '2021-07-17' %}show active{% endif %}" id="dayTen" role="tabpanel" aria-labelledby="dayTen-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% include eventRed.html title="REZ RUN 2021" time="7:00 AM" loc="Warrior Stadium" %}
           {% include eventGold.html title="Gates Open" time="10:00 AM" loc="Fairgrounds" %}
