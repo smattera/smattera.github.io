@@ -40,15 +40,12 @@
 @import "utilities/api";
 // scss-docs-end import-stack
 
-// @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
-
 @font-face {
   font-family: "Bebas Neue";
   src: url('../fonts/bebasneue-regular-webfont.woff2') format('woff2'),
        url('../fonts/bebasneue-regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-
 }
 
 body {
@@ -434,6 +431,20 @@ header {
     0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2),
     0 5px 10px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.2),
     0 20px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-competition {
+  .card-header,
+  .card-footer {
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 5px;
+    border-image-source: linear-gradient(to bottom, #fcc, #fee, #c33);
+    background: linear-gradient(#333, #800000);
+  }
+  .card-body {
+    background: linear-gradient(to bottom, #c33, #fee #fcc);
+  }
 }
 
 .card-default {

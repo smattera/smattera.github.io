@@ -1,15 +1,15 @@
-# - title: Fallen Tushka Ceremony
-#   hour: 6:00 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
-# - title: Women's (35+) Division &#58; North vs South
-#   hour: 7:00 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
-# - title: Men's (50+) Division &#58; North vs South
-#   hour: 8:00 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
+- title: Gates Open
+  hour: 11:00 AM
+  category: 
+  style: default
+  location: Fairgrounds
+- title: Casting Crowns
+  hour: 8:30 PM
+  category: Live Entertainment
+  style: default
+  location: Main Stage
+- title: World Series Stickball
+  hour: 10:15 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
