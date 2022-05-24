@@ -68,12 +68,16 @@ meta: events
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           {% for event in site.data.schedule.day02.events %}
           <div class="col">
-            <div class="card card-{{ event.style }} h-100">
+            {% if event.style %}<div class="card card-{{ event.style }} h-100">
+            {% else %}<div class="card card-default h-100">
+            {% endif %}
               <div class="card-header pt-3">
                 <p class="h4">{{ event.hour }}</p>
               </div>
               <div class="card-body h-100 d-flex flex-column justify-content-center">
-                <a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% if event.style %}<a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% else %}<a href="#" class="text-dark" style="text-decoration: none;">
+                {% endif %}
                   <p class="h5">{{ event.category }}</p>
                   <p class="h4">{{ event.title }}</p>
                 </a>
@@ -94,12 +98,16 @@ meta: events
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           {% for event in site.data.schedule.day03.events %}
           <div class="col">
-            <div class="card card-{{ event.style }} h-100">
+            {% if event.style %}<div class="card card-{{ event.style }} h-100">
+            {% else %}<div class="card card-default h-100">
+            {% endif %}
               <div class="card-header pt-3">
                 <p class="h4">{{ event.hour }}</p>
               </div>
               <div class="card-body h-100 d-flex flex-column justify-content-center">
-                <a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% if event.style %}<a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% else %}<a href="#" class="text-dark" style="text-decoration: none;">
+                {% endif %}
                   <p class="h5">{{ event.category }}</p>
                   <p class="h4">{{ event.title }}</p>
                 </a>
@@ -120,12 +128,16 @@ meta: events
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           {% for event in site.data.schedule.day04.events %}
           <div class="col">
-            <div class="card card-{{ event.style }} h-100">
+            {% if event.style %}<div class="card card-{{ event.style }} h-100">
+            {% else %}<div class="card card-default h-100">
+            {% endif %}
               <div class="card-header pt-3">
                 <p class="h4">{{ event.hour }}</p>
               </div>
               <div class="card-body h-100 d-flex flex-column justify-content-center">
-                <a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% if event.style %}<a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% else %}<a href="#" class="text-dark" style="text-decoration: none;">
+                {% endif %}
                   <p class="h5">{{ event.category }}</p>
                   <p class="h4">{{ event.title }}</p>
                 </a>
@@ -146,12 +158,16 @@ meta: events
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           {% for event in site.data.schedule.day05.events %}
           <div class="col">
-            <div class="card card-{{ event.style }} h-100">
+            {% if event.style %}<div class="card card-{{ event.style }} h-100">
+            {% else %}<div class="card card-default h-100">
+            {% endif %}
               <div class="card-header pt-3">
                 <p class="h4">{{ event.hour }}</p>
               </div>
               <div class="card-body h-100 d-flex flex-column justify-content-center">
-                <a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% if event.style %}<a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% else %}<a href="#" class="text-dark" style="text-decoration: none;">
+                {% endif %}
                   <p class="h5">{{ event.category }}</p>
                   <p class="h4">{{ event.title }}</p>
                 </a>
@@ -172,12 +188,16 @@ meta: events
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           {% for event in site.data.schedule.day06.events %}
           <div class="col">
-            <div class="card card-{{ event.style }} h-100">
+            {% if event.style %}<div class="card card-{{ event.style }} h-100">
+            {% else %}<div class="card card-default h-100">
+            {% endif %}
               <div class="card-header pt-3">
                 <p class="h4">{{ event.hour }}</p>
               </div>
               <div class="card-body h-100 d-flex flex-column justify-content-center">
-                <a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% if event.style %}<a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% else %}<a href="#" class="text-dark" style="text-decoration: none;">
+                {% endif %}
                   <p class="h5">{{ event.category }}</p>
                   <p class="h4">{{ event.title }}</p>
                 </a>
@@ -198,12 +218,16 @@ meta: events
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           {% for event in site.data.schedule.day07.events %}
           <div class="col">
-            <div class="card card-{{ event.style }} h-100">
+            {% if event.style %}<div class="card card-{{ event.style }} h-100">
+            {% else %}<div class="card card-default h-100">
+            {% endif %}
               <div class="card-header pt-3">
                 <p class="h4">{{ event.hour }}</p>
               </div>
               <div class="card-body h-100 d-flex flex-column justify-content-center">
-                <a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% if event.style %}<a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% else %}<a href="#" class="text-dark" style="text-decoration: none;">
+                {% endif %}
                   <p class="h5">{{ event.category }}</p>
                   <p class="h4">{{ event.title }}</p>
                 </a>
@@ -224,12 +248,16 @@ meta: events
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           {% for event in site.data.schedule.day08.events %}
           <div class="col">
-            <div class="card card-{{ event.style }} h-100">
+            {% if event.style %}<div class="card card-{{ event.style }} h-100">
+            {% else %}<div class="card card-default h-100">
+            {% endif %}
               <div class="card-header pt-3">
                 <p class="h4">{{ event.hour }}</p>
               </div>
               <div class="card-body h-100 d-flex flex-column justify-content-center">
-                <a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% if event.style %}<a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% else %}<a href="#" class="text-dark" style="text-decoration: none;">
+                {% endif %}
                   <p class="h5">{{ event.category }}</p>
                   <p class="h4">{{ event.title }}</p>
                 </a>
@@ -250,12 +278,16 @@ meta: events
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           {% for event in site.data.schedule.day09.events %}
           <div class="col">
-            <div class="card card-{{ event.style }} h-100">
+            {% if event.style %}<div class="card card-{{ event.style }} h-100">
+            {% else %}<div class="card card-default h-100">
+            {% endif %}
               <div class="card-header pt-3">
                 <p class="h4">{{ event.hour }}</p>
               </div>
               <div class="card-body h-100 d-flex flex-column justify-content-center">
-                <a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% if event.style %}<a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% else %}<a href="#" class="text-dark" style="text-decoration: none;">
+                {% endif %}
                   <p class="h5">{{ event.category }}</p>
                   <p class="h4">{{ event.title }}</p>
                 </a>
@@ -276,12 +308,16 @@ meta: events
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
           {% for event in site.data.schedule.day10.events %}
           <div class="col">
-            <div class="card card-{{ event.style }} h-100">
+            {% if event.style %}<div class="card card-{{ event.style }} h-100">
+            {% else %}<div class="card card-default h-100">
+            {% endif %}
               <div class="card-header pt-3">
                 <p class="h4">{{ event.hour }}</p>
               </div>
               <div class="card-body h-100 d-flex flex-column justify-content-center">
-                <a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% if event.style %}<a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                {% else %}<a href="#" class="text-dark" style="text-decoration: none;">
+                {% endif %}
                   <p class="h5">{{ event.category }}</p>
                   <p class="h4">{{ event.title }}</p>
                 </a>
