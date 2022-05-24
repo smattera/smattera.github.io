@@ -12,7 +12,7 @@ meta: competitions
       {% for card in site.data.comp.cards %}
         <div class="col">
           <div class="card card-red-border card-platinum text-dark h-100">
-            <img src="../assets/img/logos/{{ card.img }}.webp" class="card-img-top" alt="{{ card.title }}">
+            <img src="../assets/img/logos/{{ card.image }}.webp" class="card-img-top" alt="{{ card.title }}">
             <div class="card-body">
               <p class="card-title">{{ card.title }}</p>
               <p class="card-text">{{ card.desc }}</p>
