@@ -61,6 +61,36 @@ meta: events
 
         </div>
       </div>
+
+      <div class="tab-pane fade{% include eventActive.html date='2022-07-13' %}
+      {% if cachedNow = '2022-07-13' %} show active{% endif %}" id="daySeven" role="tabpanel" aria-labelledby="daySeven-tab">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+
+          {% for event in site.data.schedule.day07.events %}
+        
+          <div class="col">
+            <div class="card card-{{ event.style }} h-100">
+              <div class="card-header pt-3">
+                <p class="h4">{{ event.hour }}</p>
+              </div>
+              <div class="card-body h-100 d-flex flex-column justify-content-center">
+                <a href="../{{ event.style }}/" class="text-dark" style="text-decoration: none;">
+                  <p class="h5">{{ event.category }}</p>
+                  <p class="h4">{{ event.title }}</p>
+                </a>
+              </div>
+              <a href="../info/" class="text-white" style="text-decoration: none;">
+                <div class="card-footer pt-3">
+                  <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          {% endfor %}
+
+        </div>
+      </div>
       
 
       <!--<div class="tab-pane fade {% include eventActive.html date='2022-07-07' %}" id="dayTwo" role="tabpanel" aria-labelledby="dayTwo-tab">

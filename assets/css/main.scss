@@ -436,6 +436,34 @@ header {
     0 20px 20px rgba(0, 0, 0, 0.15);
 }
 
+.card-default {
+  .card-header,
+  .card-footer {
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 5px;
+    border-image-source: linear-gradient(to bottom, #fea, #dff, #da4);
+    background: linear-gradient(#333, #800000);
+  }
+  .card-body {
+    background: linear-gradient(to bottom, #da4, #dff, #fea);
+  }
+}
+
+.card-pageant {
+  .card-header,
+  .card-footer {
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 5px;
+    border-image-source: linear-gradient(to bottom, #969, #ffd, #fcc);
+    background: linear-gradient(#333, #800000);
+  }
+  .card-body {
+    background: linear-gradient(to bottom, #fcc, #ffd, #969);
+  }
+}
+
 .card-stickball {
   .card-header,
   .card-footer {

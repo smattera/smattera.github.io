@@ -42,19 +42,6 @@ meta: home
   </div>
 </section>
 
-<!--<section class="diamond-bg2">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-md">
-        <p class="h3 display-3 shadow-text">Countdown to the next <span class="text-nowrap">Choctaw Indian Fair</span>:</p>
-      </div>
-      <div class="col-md">
-        <p id="timer" class="h2 bg-light text-dark pt-2 mb-3"></p>
-      </div>
-    </div>
-  </div>
-</section>-->
-
 <section class="diamond-bg2">
   <div class="container">
     {% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 13, 2022 10:00:00" border="gold" %}
@@ -104,4 +91,3 @@ meta: home
     </row>
   </div>
 </section>
-
