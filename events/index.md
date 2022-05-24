@@ -17,7 +17,7 @@ meta: events
     <h2 class="display-1 shadow-text pt-5">2022 Fair Schedule Coming Soon</h2>
 
     {% assign cachedNow = 'now' | date: '%Y-%m-%d' %}
-    
+     
     <ul class="nav nav-pills nav-fill h5" id="myTab" role="tablist">
       {% include eventTabFirst.html day="dayOne" date="2022-07-06" %}
       {% include eventTab.html day="dayTwo" date="2022-07-07" %}

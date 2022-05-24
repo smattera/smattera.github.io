@@ -2,6 +2,11 @@
   hour: 11:00 AM
   category: 
   location: Fairgrounds
+- title: Watermelon Eating Contest
+  hour: 1:00 PM
+  category: Competitions
+  style: competitions
+  location: Áyipa Village
 - title: Ryan Hurd
   hour: 8:30 PM
   category: Live Entertainment
