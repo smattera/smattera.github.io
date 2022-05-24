@@ -6,12 +6,10 @@
 - title: Gates Open
   hour: 10:00 AM
   category: 
-  style: default
   location: Fairgrounds
 - title: Casting Crowns
   hour: 8:30 PM
   category: Live Entertainment
-  style: default
   location: Main Stage
 - title: World Series Stickball
   hour: 10:15 PM
