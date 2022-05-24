@@ -63,7 +63,7 @@ meta: events
       </div>
 
       <div class="tab-pane fade{% include eventActive.html date='2022-07-13' %}
-      {% if cachedNow = '2022-07-13' %} show active{% endif %}" id="daySeven" role="tabpanel" aria-labelledby="daySeven-tab">
+      {% if cachedNow == '2022-07-13' %} show active{% endif %}" id="daySeven" role="tabpanel" aria-labelledby="daySeven-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
 
           {% for event in site.data.schedule.day07.events %}
