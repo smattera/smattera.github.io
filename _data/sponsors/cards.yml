@@ -104,18 +104,27 @@
   url: https://www.centerpointenergy.com/
   file: centerpoint
   alt: Centerpoint Energy
-# D&W Company
+- level: bronze
+  url: https://www.facebook.com/DandWTireandMuffler/
+  file: dnw
+  alt: D&W Tire & Muffler Center
 # Gilmer Electric
 - level: bronze
   url: https://www.facebook.com/Matt-Boatner-Construction
   file: mbc
   alt: Matt Boatner Construction
-# Miss Sports Medicine
+- level: bronze
+  url: https://www.mississippisportsmedicine.com
+  file: msm
+  alt: Mississippi Sports Medicine
 - level: bronze
   url: https://www.neshobageneral.com
   file: neshobageneral
   alt: Neshoba General
-# Peoples Building Services
+- level: bronze
+  url: https://www.facebook.com/Peoples-Building-Services-LLC-102949338856733
+  file: peoples
+  alt: Peoples Building Services, LLC
 
 # PREVIOUS SPONSORS
 # - level: platinum
