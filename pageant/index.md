@@ -22,8 +22,8 @@ meta: pageant
             </div>
             <div class="col-7 d-flex align-items-center" style="background: linear-gradient(#969,#ffd,#fcc);">
               <div class="card-body">
-                <p class="card-title h4 display-4 shadow-text">Contestant #{{ card.number }}</p>
-                <p class="card-text h5 display-5 shadow-text">{{ card.name }}</p>
+                <p class="card-text h5 display-5 shadow-text">Contestant #{{ card.number }}</p>
+                <p class="card-text h4 display-4 shadow-text">{{ card.name }}</p>
                 <p class="card-text"><small class="text-muted">Sponsored by<br>{{ card.sponsor }}</small></p>
               </div>
             </div>
