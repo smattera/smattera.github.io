@@ -110,6 +110,10 @@
   alt: D&W Tire & Muffler Center
 # Gilmer Electric
 - level: bronze
+#  url: 
+  file: gilmer
+  alt: Gilmer Electric
+- level: bronze
   url: https://www.facebook.com/Matt-Boatner-Construction
   file: mbc
   alt: Matt Boatner Construction
