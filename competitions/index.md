@@ -9,7 +9,7 @@ meta: competitions
     <!--<img src="../assets/img/competition-banner.png" class="img-fluid pb-5">-->
     <div class="row row-cols-1 row-cols-xl-2 row-cols-xxl-3 g-4">
 
-      {% for card in site.data.comp.cards %}
+      {% for card in site.data.competitions.cards %}
         <div class="col">
           <div class="card card-red-border card-platinum text-dark h-100">
             <img src="../assets/img/logos/{{ card.image }}.webp" class="card-img-top" alt="{{ card.title }}">

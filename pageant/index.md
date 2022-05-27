@@ -10,21 +10,28 @@ meta: pageant
     
     <h2 class="display-2 shadow-text pt-5">2022 Contestants Coming Soon</h2>
 
-    <!--<h2 class="shadow-text pt-5">2021 Contestants</h2>
+    <h2 class="shadow-text pt-5">2021 Contestants</h2>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4 mt-1">
-      {% include contestant.html img="charlita.gibson" num="1" name="Charlita Pauline Leila Gibson" sponsor="Choctaw Tribal Schools" %}
-      {% include contestant.html img="sydney.nickey" num="2" name="Sydney Briann Nickey" sponsor="Choctaw Health Center Employees Association" %}
-      {% include contestant.html img="taina.thompson" num="3" name="Taina DeAnne Thompson" sponsor="Crystal Ridge Development Club" %}
-      {% include contestant.html img="melanian.jimmie" num="4" name="Melanian Nicole Jimmie" sponsor="Pearl River Development Club" %}
-      {% include contestant.html img="jaeden.wesley" num="5" name="Jaeden Ariana Wesley" sponsor="Standing Pine Development Club" %}
-      {% include contestant.html img="lauren.ben" num="6" name="Lauren Raen Ben" sponsor="Pearl River Resort Gaming Properties" %}
-      {% include contestant.html img="shemah.crosby" num="7" name="Shemah Ladania Crosby" sponsor="Pearl River R.V. Park" %}
-      {% include contestant.html img="aahliya.jones" num="8" name="Aaliyah Marissa Jones" sponsor="Tucker Development Club" %}
-      {% include contestant.html img="iris.farve" num="9" name="Iris Ann Farve" sponsor="Tiak Hikiya Ohóyo Stickball Team" %}
-      {% include contestant.html img="alexis.smith" num="10" name="Alexis Laken Smith" sponsor="Bok Homa Casino" %}
-      {% include contestant.html img="audrianna.billy" num="11" name="Audrianna Pakali Lakna Billy" sponsor="Conehatta Development Club" %}
-      {% include contestant.html img="india.samuel" num="12" name="India Sky-Lyn Samuel" sponsor="Pearl River Resort Non-Gaming Properties" %}
-      {% include contestant.html img="beverly.billy" num="13" name="Beverly Dawn Billy" sponsor="Bogue Homa Development Club" %}
-    </div>-->
+
+      {% for card in site.data.contestants.cards %}
+      <div class="col">
+        <div class="card mb-3 card-rose-border mx-auto" style="max-width: 540px;">
+          <div class="row g-0">
+            <div class="col-5" style="background: transparent;">
+              <img src="/assets/img/contestants/{{ card.img }}.webp" class="img-fluid" alt="{{ card.name }}">
+            </div>
+            <div class="col-7 d-flex align-items-center" style="background: linear-gradient(#969,#ffd,#fcc);">
+              <div class="card-body">
+                <p class="card-title h4 display-4 shadow-text">Contestant #{{ card.number }}</p>
+                <p class="card-text h5 display-5 shadow-text">{{ card.name }}</p>
+                <p class="card-text"><small class="text-muted">Sponsored by<br>{{ card.sponsor }}</small></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
   </div>
 </section>
