@@ -5,39 +5,40 @@ title: Forms
 
 <section class="diamond-bg">
     <div class="container">
-
         <h1 class="display-1 shadow-text lh-1">2022 Forms</h1>
+
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                <div class="col">
+                    <a href="/assets/pdf/2022 CIF Notice of Taking of Bids.pdf" target="_blank">
+                        <div class="card text-dark text-center bg-warning mb-3" style="max-width: 18rem;">
+                            <div class="card-header"><i class="bi bi-file-earmark-pdf"></i></div>
+                            <div class="card-body">
+                                <h5 class="card-title">2022 Choctaw Indian Fair Concessions and Parking Services bid information</h5>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
             <p><a href="/assets/pdf/2022 CIF Notice of Taking of Bids.pdf" target="_blank"
                     class="btn btn-warning btn-lg btn-block">2022 Choctaw Indian Fair Concessions and Parking Services
-                    bid
-                    information</a></p>
-
+                    bid information</a></p>
             <p><a href="/assets/pdf/2022 Choctaw Indian Princess Pageant Application, Policy and Guidelines.pdf"
                     target="_blank" class="btn btn-warning btn-lg btn-block">2022 Choctaw Indian Princess Pageant
                     Application, Policy and Guidelines</a></p>
-
-            <p><a href="/assets/pdf/2022 Choctaw Princess Pageant Escort Application.pdf" target="_blank"
-                    class="btn btn-warning btn-lg btn-block">2022 Choctaw Indian Princess Pageant Escort Application</a>
-            </p>
-
             <p><a href="/assets/pdf/2022 CIF Social Dance Group Registraion Form Fillables.pdf" target="_blank"
                     class="btn btn-warning btn-lg btn-block">2022 CIF Social Dance Group Registration Form</a></p>
-
             <p><a href="/assets/pdf/2022 CIF Dance Group Song List and Chanter's Information Form Fillables.pdf"
                     target="_blank" class="btn btn-warning btn-lg btn-block">2022 CIF Dance Group Song List and
                     Chanter's
                     Information Form</a></p>
-
             <p><a href="/assets/pdf/2022 Rez Run Registration.pdf" target="_blank"
                     class="btn btn-warning btn-lg btn-block">2022 Rez Run Registration Form</a></p>
-
             <p><a href="/assets/pdf/2022 Iron Warrior Registration.pdf" target="_blank"
                     class="btn btn-warning btn-lg btn-block">2022 Iron Warrior Registration Form</a></p>
-
             <p><a href="/assets/pdf/2022 CIF Arts & Crafts Pavilion Booth Application.pdf" target="_blank"
                     class="btn btn-warning btn-lg btn-block">
                     2022 CIF Arts & Crafts Pavilion Booth Application</a></p>
-
         <div class="container bg-dark">
             <h1 class="display-1 shadow-text lh-1">Important Dates</h1>
             <div class="table-responsive text-start">
@@ -163,7 +164,5 @@ title: Forms
                 </table>
             </div>
         </div>
-
     </div>
-
 </section>
