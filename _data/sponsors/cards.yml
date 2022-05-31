@@ -60,7 +60,10 @@
   url: https://www.mclaininc.com
   file: mclain
   alt: McLain Plumbing
-# Ronnocco
+- level: silver
+  url: https://www.ronnoco.com
+  file: ronnoco
+  alt Ronnoco Beverage Solutions
 - level: silver
   url: https://fintrustadvisors.com
   file: fintrust
