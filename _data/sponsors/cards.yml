@@ -17,6 +17,10 @@
   file: pryormorrow
   alt: Pryor Morrow
 - level: platinum
+  url: https://www.trustmark.com
+  file: trustmark
+  alt: Trustmark Bank
+- level: platinum
   url: https://www.unum.com
   file: sis
   alt: Walt Schrimpf (SIS-UNUM)
@@ -26,6 +30,10 @@
   url: https://www.hnrsupply.com
   file: hotelsupply
   alt: Hotel & Restaurant Supply
+- level: gold
+  url: https://imperialdade.com
+  file: imperial
+  alt: Imperial Dade
 - level: gold
   url: https://www.chahtaholdingroup.com/ikbi
   file: ikbi
@@ -53,10 +61,6 @@
   file: ecolab
   alt: Ecolab
 - level: silver
-  url: https://imperialdade.com
-  file: imperial
-  alt: Imperial Dade
-- level: silver
   url: https://www.mclaininc.com
   file: mclain
   alt: McLain Plumbing
@@ -65,9 +69,29 @@
   file: ronnoco
   alt: Ronnoco Beverage Solutions
 - level: silver
+  url: https://www.btlaw.com
+  file: btlaw
+  alt: Barnes & Thornburg
+- level: silver
+  url: https://www.benchmarkms.com
+  file: benchmark
+  alt: Benchmark
+- level: silver
   url: https://fintrustadvisors.com
   file: fintrust
   alt: Financial Trust
+- level: silver
+  url: http://www.glassworxllp.com
+  file: glassworx
+  alt: Glass Worx
+- level: silver
+  url: https://www.keyimpactstrategies.com
+  file: keyimpact
+  alt: Key Impact Strategies
+- level: silver
+  url: https://partridgepropane.com
+  file: partridge
+  alt: Partridge Propane
 - level: silver
   url: https://www.thecitizensbankphila.com
   file: citizens
@@ -87,6 +111,10 @@
   file: jacksoncomm
   alt: Jackson Communications
 - level: bronze
+  url: https://www.mitchellsigns.com
+  file: mitchell
+  alt: Mitchell Signs
+- level: bronze
   url: https://www.ricoh-usa.com/en
   file: ricoh
   alt: Ricoh USA
@@ -94,6 +122,10 @@
   url: https://www.normanroofing.com
   file: normanroofing
   alt: Norman Roofing
+- level: bronze
+  url: https://www.venusgroup.com
+  file: venus
+  alt: Venus Group
 - level: bronze
   url: https://www.aflac.com
   file: aflac
@@ -119,6 +151,10 @@
   file: gilmer
   alt: Gilmer Electric
 - level: bronze
+  url: https://www.johnestephenschapel.com
+  file: johnstephens
+  alt: John Stephens Funeral Services
+- level: bronze
   url: https://www.facebook.com/Matt-Boatner-Construction
   file: mbc
   alt: Matt Boatner Construction
@@ -134,6 +170,16 @@
   url: https://www.facebook.com/Peoples-Building-Services-LLC-102949338856733
   file: peoples
   alt: Peoples Building Services, LLC
+- level: bronze
+  url: https://www.gopurvis.com
+  file: purvis
+  alt: Purvis Business Machines
+- level: bronze
+  url: https://shankcomm.com
+  file: shank
+  alt: Shank Communications
+# Williams Brothers
+# Arrington Enterprises (ServePro)
 
 # PREVIOUS SPONSORS
 # - level: platinum
@@ -156,26 +202,6 @@
 #   url: https://www.kirkauto.com
 #   file: kirk
 #   alt: Kirk Auto
-# - level: silver
-#   url: https://www.benchmarkms.com
-#   file: benchmark
-#   alt: Benchmark
-# - level: silver
-#   url: http://www.glassworxllp.com
-#   file: glassworx
-#   alt: Glass Worx
-# - level: silver
-#   url: https://www.keyimpactstrategies.com
-#   file: keyimpact
-#   alt: Key Impact Strategies
-# - level: silver
-#   url: https://partridgepropane.com
-#   file: partridge
-#   alt: Partridge Propane
-# - level: silver
-#   url: https://www.trustmark.com
-#   file: trustmark
-#   alt: Trustmark Bank
 # - level: bronze
 # #  url:
 #   file: bclean
