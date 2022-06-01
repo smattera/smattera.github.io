@@ -5,15 +5,15 @@
         <div id="sponsorCarousel" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner" role="listbox">
 
-            {% for sponsor in site.data.sponsors %}
+            {% for card in site.data.sponsors.cards %}
       
-              <div class="carousel-item {% if sponsor.class %}{{ sponsor.class }}{% endif %}">
+              <div class="carousel-item {% if card.class %}{{ card.class }}{% endif %}">
                 <div class="col-md-3">
-                  <a href="{% if sponsor.url %}{{ sponsor.url }}{% else %}#{% endif %}" target="_blank" style="text-decoration:none;color:transparent;">
+                  <a href="{% if card.url %}{{ card.url }}{% else %}#{% endif %}" target="_blank" style="text-decoration:none;color:transparent;">
                     <div class="card card-gold-border opaque">
-                      <div class="card-img card-{{ sponsor.level }}">
-                        <img src="/assets/img/sponsors/{{ sponsor.file }}.png" class="img-fluid" alt="{{ sponsor.alt }}" loading="lazy" height="350" width="380">
-                        <h5 class="display-5 shadow-text">{{ sponsor.level }} SPONSOR</h5>
+                      <div class="card-img card-{{ card.level }}">
+                        <img src="/assets/img/sponsors/{{ card.file }}.png" class="img-fluid" alt="{{ card.alt }}" loading="lazy" height="350" width="380">
+                        <h5 class="display-5 shadow-text">{{ card.level }} SPONSOR</h5>
                       </div>
                     </div>
                   </a>
