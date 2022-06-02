@@ -65,7 +65,7 @@ meta: events
 
       <div class="tab-pane fade
       {% if cachedNow == '2022-07-07' %} show active{% endif %}" id="dayTwo" role="tabpanel" aria-labelledby="dayTwo-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
           {% for event in site.data.schedule.day02.events %}
           <div class="col">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
@@ -95,7 +95,7 @@ meta: events
 
       <div class="tab-pane fade
       {% if cachedNow == '2022-07-08' %} show active{% endif %}" id="dayThree" role="tabpanel" aria-labelledby="dayThree-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
           {% for event in site.data.schedule.day03.events %}
           <div class="col">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
@@ -125,7 +125,7 @@ meta: events
 
       <div class="tab-pane fade
       {% if cachedNow == '2022-07-09' %} show active{% endif %}" id="dayFour" role="tabpanel" aria-labelledby="dayFour-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
           {% for event in site.data.schedule.day04.events %}
           <div class="col">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
@@ -155,7 +155,7 @@ meta: events
 
       <div class="tab-pane fade
       {% if cachedNow == '2022-07-11' %} show active{% endif %}" id="dayFive" role="tabpanel" aria-labelledby="dayFive-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
           {% for event in site.data.schedule.day05.events %}
           <div class="col">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
@@ -185,7 +185,7 @@ meta: events
 
       <div class="tab-pane fade
       {% if cachedNow == '2022-07-12' %} show active{% endif %}" id="daySix" role="tabpanel" aria-labelledby="daySix-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
           {% for event in site.data.schedule.day06.events %}
           <div class="col">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
@@ -215,7 +215,7 @@ meta: events
 
       <div class="tab-pane fade
       {% if cachedNow == '2022-07-13' %} show active{% endif %}" id="daySeven" role="tabpanel" aria-labelledby="daySeven-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
           {% for event in site.data.schedule.day07.events %}
           <div class="col">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
@@ -245,7 +245,7 @@ meta: events
 
       <div class="tab-pane fade
       {% if cachedNow == '2022-07-14' %} show active{% endif %}" id="dayEight" role="tabpanel" aria-labelledby="dayEight-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
           {% for event in site.data.schedule.day08.events %}
           <div class="col">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
@@ -275,7 +275,7 @@ meta: events
 
       <div class="tab-pane fade
       {% if cachedNow == '2022-07-15' %} show active{% endif %}" id="dayNine" role="tabpanel" aria-labelledby="dayNine-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
           {% for event in site.data.schedule.day09.events %}
           <div class="col">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
@@ -305,7 +305,7 @@ meta: events
 
       <div class="tab-pane fade
       {% if cachedNow >= '2022-07-16' %} show active{% endif %}" id="dayTen" role="tabpanel" aria-labelledby="dayTen-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
           {% for event in site.data.schedule.day10.events %}
           <div class="col">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
