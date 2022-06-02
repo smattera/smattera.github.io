@@ -71,8 +71,8 @@ title: Forms
                             <td>Choctaw Princess Pageant Escort Deadline</td>
                         </tr>
                         <tr>
-                            <th scope="row">TBD</th>
-                            <td>TBD</td>
+                            <th scope="row">June 1</th>
+                            <td>COB</td>
                             <td>Youth Stickball Team Entry Deadline</td>
                         </tr>
                         <tr>
@@ -81,9 +81,19 @@ title: Forms
                             <td>Stickball Bracket Day @ Amphitheater</td>
                         </tr>
                         <tr>
+                            <th scope="row">June 7</th>
+                            <td>10 AM</td>
+                            <td>CIF Food Concessions & Parking Bids Due</td>
+                        </tr>
+                        <tr>
                             <th scope="row">June 8</th>
                             <td>COB</td>
                             <td>CIF Souvenir Program Book Deadline</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">June 9</th>
+                            <td>10 AM</td>
+                            <td>Bid Opening Day @ Entertainment Trailer</td>
                         </tr>
                         <tr>
                             <th scope="row">June 10</th>
@@ -91,15 +101,25 @@ title: Forms
                             <td>Intertribal Dancers Registration Deadline</td>
                         </tr>
                         <tr>
-                            <th scope="row">June 13 - July 8</th>
+                            <th scope="row">June 17</th>
+                            <td>COB</td>
+                            <td>Deadline for Community Booths</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">June 20 - July 12</th>
                             <td>8 AM - 4:30 PM</td>
                             <td>4-H, Adult and Youth Division Pre-Registration. Register @ Natural Resources (Mon-Fri
                                 Only)</td>
                         </tr>
                         <tr>
+                            <th scope="row">June 22</th>
+                            <td>COB</td>
+                            <td>Deadline for Tent and Exhibit Hall Vendors</td>
+                        </tr>
+                        <tr>
                             <th scope="row">June 24</th>
                             <td>4:00 PM</td>
-                            <td>Choctaw Arts & Crafts Pavilion Booth Application Deadline</td>
+                            <td>Deadline for Arts & Crafts Pavilion Vendors</td>
                         </tr>
                         <tr>
                             <th scope="row">June 24</th>
@@ -117,7 +137,7 @@ title: Forms
                             <td>SDPI Unity Walk on Recreation Road & Stage Event</td>
                         </tr>
                         <tr>
-                            <th scope="row">July 8</th>
+                            <th scope="row">July 4</th>
                             <td>COB</td>
                             <td>4-H, Adult, Youth Division Booth Completion Deadline</td>
                         </tr>
