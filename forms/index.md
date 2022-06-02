@@ -4,9 +4,9 @@ title: Forms
 ---
 
 <section class="diamond-bg">
-    <div class="container pb-5">
+    <div class="container">
         <h1 class="display-1 shadow-text lh-1">2022 Forms</h1>
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4 pb-5">
         {% for card in site.data.forms.cards %}
             <div class="col">
                 <a href="../assets/pdf/{{ card.file }}.pdf" target="_blank" class="text-decoration-none">
