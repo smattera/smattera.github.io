@@ -11,7 +11,7 @@ title: Forms
                 <div class="col">
                     <a href="/assets/pdf/2022 CIF Notice of Taking of Bids.pdf" target="_blank">
                         <div class="card text-dark text-center bg-warning mb-3" style="max-width: 18rem;">
-                            <div class="card-header"><i class="bi bi-file-earmark-pdf"></i></div>
+                            <div class="card-header text-center"><i class="bi bi-file-earmark-pdf"></i></div>
                             <div class="card-body">
                                 <h5 class="card-title">2022 Choctaw Indian Fair Concessions and Parking Services bid information</h5>
                             </div>
@@ -112,7 +112,7 @@ title: Forms
                         <tr>
                             <th scope="row">June 13 - July 8</th>
                             <td>8 AM - 4:30 PM</td>
-                            <td>4 H, Adult and Youth Division Pre-Registration. Register @ Natural Resources (Mon-Fri
+                            <td>4-H, Adult and Youth Division Pre-Registration. Register @ Natural Resources (Mon-Fri
                                 Only)</td>
                         </tr>
                         <tr>
@@ -136,9 +136,9 @@ title: Forms
                             <td>SDPI Unity Walk on Recreation Road & Stage Event</td>
                         </tr>
                         <tr>
-                            <th scope="row">July 4</th>
+                            <th scope="row">July 8</th>
                             <td>COB</td>
-                            <td>4 H, Adult, Youth Division Booth Completion Deadline</td>
+                            <td>4-H, Adult, Youth Division Booth Completion Deadline</td>
                         </tr>
                         <tr>
                             <th scope="row">July 11</th>
