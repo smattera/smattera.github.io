@@ -9,10 +9,10 @@ title: Forms
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
         {% for card in site.data.forms.cards %}
             <div class="col">
-                <a href="/assets/pdf/{{ card.file }}.pdf" target="_blank">
+                <a href="../assets/pdf/{{ card.file }}.pdf" target="_blank" class="text-decoration-none">
                     <div class="card text-dark text-center bg-warning mb-3" style="max-width: 18rem;">
                         <div class="card-header text-center display-1"><i class="bi bi-file-earmark-pdf"></i></div>
-                        <div class="card-body text-decoration-none">
+                        <div class="card-body">
                             <h5 class="card-title">{{ card.title }}</h5>
                         </div>
                     </div>
