@@ -4,7 +4,7 @@ title: Forms
 ---
 
 <section class="diamond-bg">
-    <div class="container">
+    <div class="container pb-5">
         <h1 class="display-1 shadow-text lh-1">2022 Forms</h1>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
         {% for card in site.data.forms.cards %}
