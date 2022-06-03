@@ -182,7 +182,10 @@
   url: https://www.facebook.com/williamsbrothersgeneralstore
   file: williamsbrothers
   alt: Williams Brothers
-# Arrington Enterprises (ServePro)
+- level: bronze
+  url: https://www.servpro.com/locations/ms/servpro-of-meridian
+  file: servpro
+  alt: SERVPRO of Meridian
 
 # PREVIOUS SPONSORS
 # - level: platinum
