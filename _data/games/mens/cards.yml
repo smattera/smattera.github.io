@@ -14,7 +14,7 @@
   team1: warriors
   team1color: warriors
   team1score: 1
-  team2: bók čito  
+  team2: bók Čito  
   team2color: bokcito
   team2score: 9
 
@@ -54,7 +54,7 @@
   team1: tucker
   team1color: tucker
   team1score: 2
-  team2: bók čito
+  team2: bók Čito
   team2color: bokcito
   team2score: 5
 
@@ -81,7 +81,7 @@
 - game: 9
   date: Thu, Jul 15
   hour: 10:15 PM
-  team1: bók čito
+  team1: bók Čito
   team1color: bokcito
   team1score: 2
   team2: koni hata
@@ -94,6 +94,6 @@
   team1: pearl river
   team1color: pearlriver
   team1score: 5
-  team2: bók čito
+  team2: bók Čito
   team2color: bokcito
   team2score: 6
