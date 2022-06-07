@@ -177,7 +177,7 @@ header {
 
 /* This will use a fallback image instead of a video for devices that commonly do not support the HTML5 video element */
 
-@media (pointer: coarse) and (hover: none) {
+@media screen and (max-width: 991px) {
   header {
     background: url("/assets/img/CIF-bg.webp") black no-repeat center center
       scroll;
@@ -868,7 +868,7 @@ url("../fonts/bootstrap-icons.woff") format("woff");
     font-size: calc(1.2rem + .3vw);
   }
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1400px) {
   .team-title {
     font-size: 23px;
   }
