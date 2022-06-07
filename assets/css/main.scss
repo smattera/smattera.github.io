@@ -862,3 +862,7 @@ url("../fonts/bootstrap-icons.woff") format("woff");
 .icon-sticks:before {
   content: "\e900";
 }
+.icon-sticks {
+  position: relative;
+  top: 15px
+}
