@@ -24,7 +24,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head py-3 h5 team-title">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
               <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
@@ -37,7 +37,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head py-3 h5 team-title">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
         </a>
@@ -67,7 +67,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head py-3 h5 team-title">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
               <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
@@ -80,7 +80,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head py-3 h5 team-title">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
         </a>
@@ -110,7 +110,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head py-3 h5 team-title">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
               <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
@@ -123,7 +123,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head py-3 h5 team-title">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
         </a>
@@ -148,7 +148,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head py-3 h5 team-title">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
               <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
@@ -161,7 +161,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head py-3 h5 team-title">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
         </a>
@@ -181,7 +181,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head py-3 h5 team-title">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
               <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
@@ -194,7 +194,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head py-3 h5 team-title">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
         </a>
