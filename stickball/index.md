@@ -7,23 +7,14 @@ meta: stickball
   <div class="container">
     <h1 class="display-1 shadow-text lh-1 mb-5">World Series Stickball</h1>
     <!--<img src="../assets/img/stickball-banner.webp" class="img-fluid">-->
-
-    
-
     {% assign cachedNow = 'now' | date: '%F %T' %}
-
     {% if cachedNow < '2022-06-06 18:00:00' %} 
-    
       {% include countdown-timer.html title="Countdown to 2022 Bracket Day" end_date="June 6, 2022 18:00:00" border="black" %}
-
     {% endif %}
-
+    <!--Men's Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Men's Division</h2>
-
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
-
       {% for card in site.data.games.mens.cards %}
-      
       <div class="col">
         <a type="button" data-bs-toggle="modal" data-bs-target="#mens-g{{ card.game }}"
           style="text-decoration: none;">
@@ -46,14 +37,12 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head pt-3 h5" style="font-size:1.2rem;">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}X{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
         </a>
       </div>
-
       {% endfor %}
-
       {% include modal/mens/game01.html %}
       {% include modal/mens/game02.html %}
       {% include modal/mens/game03.html %}
@@ -64,15 +53,11 @@ meta: stickball
       {% include modal/mens/game08.html %}
       {% include modal/mens/game09.html %}
       {% include modal/mens/game10.html %}
-
     </div>
-
+    <!--Women's Division-->
     <h2 class="display-2 shadow-text pt-5">2021 Women's Division</h2>
-
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
-
       {% for card in site.data.games.womens.cards %}
-      
       <div class="col">
         <a type="button" data-bs-toggle="modal" data-bs-target="#womens-g{{ card.game }}"
           style="text-decoration: none;">
@@ -82,7 +67,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head pt-3 h5" style="font-size:1.2rem;">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}X{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
               <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
@@ -95,14 +80,12 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head pt-3 h5" style="font-size:1.2rem;">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}X{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
         </a>
       </div>
-
       {% endfor %}
-
       {% include modal/womens/game01.html %}
       {% include modal/womens/game02.html %}
       {% include modal/womens/game03.html %}
@@ -113,15 +96,11 @@ meta: stickball
       {% include modal/womens/game08.html %}
       {% include modal/womens/game09.html %}
       {% include modal/womens/game10.html %}
-
     </div>
-
+    <!--Men's (35+) Division-->
     <h2 class="display-2 shadow-text pt-5">2021 Men's (35+) Division</h2>
-
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
-      
       {% for card in site.data.games.mens35.cards %}
-      
       <div class="col">
         <a type="button" data-bs-toggle="modal" data-bs-target="#mens35-g{{ card.game }}"
           style="text-decoration: none;">
@@ -131,7 +110,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head pt-3 h5" style="font-size:1.2rem;">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}X{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
               <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
@@ -144,27 +123,23 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head pt-3 h5" style="font-size:1.2rem;">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}X{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
         </a>
       </div>
-
       {% endfor %}
-
       {% include modal/mens35/game01.html %}
       {% include modal/mens35/game02.html %}
       {% include modal/mens35/game03.html %}
       {% include modal/mens35/game04.html %}
       {% include modal/mens35/game05.html %}
-
     </div>
-
+    <!--Tulli Okchi Ishko (14-17) Division-->
     <h2 class="display-2 shadow-text pt-5">2021 Tulli Okchi Ishko (14-17) Division</h2>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% include game.html div="tulli" g="1" d="Fri, Jul 09" hr="6:00 PM" t1="bók čito" t1c="255,255,255" t1c2="255,0,0"
       t1s="7" t2="tiak hikíya" t2c="128,0,128" t2c2="255,255,0" t2s="0" %}
-
       <!-- Modal -->
       <div class="modal fade" id="tulli-g1" tabindex="-1" aria-labelledby="tulli-g1Label" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-scrollable">
@@ -188,10 +163,8 @@ meta: stickball
           </div>
         </div>
       </div>
-
       {% include game.html div="tulli" g="2" d="Sat, Jul 10" hr="5:00 PM" t1="warriors" t1c="128,0,0" t1c2="255,255,255"
       t1s="1" t2="beaver dam" t2c="255,0,0" t2c2="255,255,255" t2s="10" %}
-
       <!-- Modal -->
       <div class="modal fade" id="tulli-g2" tabindex="-1" aria-labelledby="tulli-g2Label" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-scrollable">
@@ -215,10 +188,8 @@ meta: stickball
           </div>
         </div>
       </div>
-
       {% include game.html div="tulli" g="3" d="Mon, Jul 12" hr="6:00 PM" t1="koni hata himitta" t1c="0,0,255"
       t1c2="255,255,255" t1s="2" t2="oka homma" t2c="255,255,0" t2c2="255,0,0" t2s="1" %}
-
       <!-- Modal -->
       <div class="modal fade" id="tulli-g3" tabindex="-1" aria-labelledby="tulli-g3Label" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-scrollable">
@@ -242,10 +213,8 @@ meta: stickball
           </div>
         </div>
       </div>
-
       {% include game.html div="tulli" g="4" d="Wed, Jul 14" hr="6:00 PM" t1="pearl river" t1c="0,0,128"
       t1c2="255,255,255" t1s="4" t2="bók čito" t2c="255,255,255" t2c2="255,0,0" t2s="1" %}
-
       <!-- Modal -->
       <div class="modal fade" id="tulli-g4" tabindex="-1" aria-labelledby="tulli-g4Label" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-scrollable">
@@ -269,10 +238,8 @@ meta: stickball
           </div>
         </div>
       </div>
-
       {% include game.html div="tulli" g="5" d="Thu, Jul 15" hr="6:00 PM" t1="beaver dam" t1c="255,0,0" t1c2="255,255,255"
       t1s="5" t2="koni hata himitta" t2c="0,0,255" t2c2="255,255,255" t2s="2" %}
-
       <!-- Modal -->
       <div class="modal fade" id="tulli-g5" tabindex="-1" aria-labelledby="tulli-g5Label" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-scrollable">
@@ -296,10 +263,8 @@ meta: stickball
           </div>
         </div>
       </div>
-
       {% include game.html div="tulli" g="6" d="Fri, Jul 16" hr="6:00 PM" t1="pearl river" t1c="0,0,128"
       t1c2="255,255,255" t1s="4" t2="beaver dam" t2c="255,0,0" t2c2="255,255,255" t2s="2" %}
-
       <!-- Modal -->
       <div class="modal fade" id="tulli-g6" tabindex="-1" aria-labelledby="tulli-g6Label" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-scrollable">
@@ -323,9 +288,8 @@ meta: stickball
           </div>
         </div>
       </div>
-
     </div>
-
+    <!--Pushmataha (10-13) Division-->
     <h2 class="display-2 shadow-text pt-5">2021 Pushmataha (10-13) Division</h2>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% include game.html div="pushmataha" g="1" d="Thu, Jul 08" hr="5:00 PM" t1="pearl river" t1c="0,0,128"
@@ -345,6 +309,5 @@ meta: stickball
       {% include game.html div="pushmataha" g="8" d="Fri, Jul 16" hr="5:00 PM" t1="koni osi" t1c="0,0,255"
       t1c2="255,255,255" t1s="0" t2="beaver dam" t2c="255,0,0" t2c2="255,255,255" t2s="4" %}
     </div>
-
   </div>
 </section>

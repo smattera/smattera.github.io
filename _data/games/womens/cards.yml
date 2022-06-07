@@ -36,74 +36,74 @@
   # team1score: 
   team2: natives
   team2color: natives
-  # team2score: 0
+  # team2score: 
 
 - game: 5
-  date: Sat, Jul 10
-  hour: 8:00 PM
+  date: Fri, Jul 8
+  hour: 7:00 PM
   team1: bók Čito ohóyo
   team1color: bokcito
-  team1score: 3
-  team2: beaver dam
-  team2color: beaverdam
-  team2score: 2
+  # team1score: 
+  team2: game 1 winner
+  # team2color: 
+  # team2score: 
 
 - game: 6
-  date: Mon, Jul 12
-  hour: 7:00 PM
-  team1: pearl river
-  team1color: pearlriver
-  team1score: 6
-  team2: natives
-  team2color: natives
-  team2score: 0
+  date: Fri, Jul 8
+  hour: 8:00 PM
+  team1: game 2 winner
+  # team1color: 
+  # team1score: 
+  team2: tali ohóyo
+  team2color: taliohoyo
+  # team2score: 
 
 - game: 7
-  date: Mon, Jul 12
+  date: Fri, Jul 8
   hour: 9:00 PM
-  team1: lady warriors
-  team1color: warriors
-  team1score: 1
-  team2: tiak hikíya ohóyo
-  team2color: tiakhikiya
-  team2score: 0
+  team1: Ilittiba Ohóyo
+  # team1color: 
+  # team1score: 
+  team2: game 3 winner
+  # team2color: 
+  # team2score: 
 
 - game: 8
-  date: Tue, Jul 13
-  hour: 7:00 PM
-  team1: bók Čito ohóyo
-  team1color: bokcito
-  team1score: 2
-  team2: tvshkahomma
-  team2color: tvshkahomma
-  team2score: 1
+  date: Sat, Jul 9
+  hour: 8:00 PM
+  team1: game 4 winner
+  # team1color: 
+  # team1score: 
+  team2: koni hata ohóyo
+  team2color: konihata
+  # team2score: 
 
 - game: 9
-  date: Tue, Jul 13
+  date: Mon, Jul 11
   hour: 9:00 PM
-  team1: pearl river
-  team1color: pearlriver
-  team1score: 5
-  team2: lady warriors
-  team2color: warriors
-  team2score: 0
+  team1: game 5 winner
+  # team1color: 
+  # team1score: 
+  team2: game 6 winner
+  # team2color: 
+  # team2score: 
 
 - game: 10
-  date: Fri, Jul 16
-  hour: 11:30 PM
-  team1: bók Čito ohóyo
-  team1color: bokcito
-  team1score: 0
-  team2: pearl river
-  team2color: pearlriver
-  team2score: 3
+  date: Tue, Jul 12
+  hour: 9:00 PM
+  team1: game 7 winner
+  # team1color: 
+  # team1score: 
+  team2: game 8 winner
+  # team2color: 
+  # team2score: 
 
 - game: 11
-  date: Fri, Jul 16
+  date: Fri, Jul 15
   hour: 11:30 PM
-  team1: bók Čito ohóyo
-  team1color: bokcito
-  team1score: 0
-  team2: pearl river
-  team2color: pearlriver
-  team2score: 3
+  team1: game 10 winner
+  # team1color: 
+  # team1score: 
+  team2: game 9 winner
+  # team2color: 
+  # team2score: 
