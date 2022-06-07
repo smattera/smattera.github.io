@@ -817,11 +817,11 @@ url("../fonts/bootstrap-icons.woff") format("woff");
 
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?swlmkn');
-  src:  url('fonts/icomoon.eot?swlmkn#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?swlmkn') format('truetype'),
-    url('fonts/icomoon.woff?swlmkn') format('woff'),
-    url('fonts/icomoon.svg?swlmkn#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot?swlmkn');
+  src:  url('../fonts/icomoon.eot?swlmkn#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?swlmkn') format('truetype'),
+    url('../fonts/icomoon.woff?swlmkn') format('woff'),
+    url('../fonts/icomoon.svg?swlmkn#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
