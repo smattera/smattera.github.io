@@ -33,7 +33,7 @@ meta: stickball
             {% else %}card-blank{% endif %}">
               <div class="card-head pt-3 h5" style="font-size:1.2rem;">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
-                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}X{% endif %}</div>
+                style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
             <div class="col-4 card text-white p-1" style="background: transparent;border:none;">
               <img class="img-fluid my-2 lighten" src="../assets/img/logos/wss.webp">
