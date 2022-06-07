@@ -22,7 +22,7 @@ meta: stickball
             style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
             <div class="col-4 card mt-0 position-relative {% if card.team1color %}card-{{ card.team1color }}
             {% else %}card-blank{% endif %}">
-              <div class="card-head py-3 h5" style="font-size: calc(1.2rem + .3vw);">{{ card.team1 }}</div>
+              <div class="card-head py-3 h5 team-title">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
                 style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
@@ -35,7 +35,7 @@ meta: stickball
             </div>
             <div class="col-4 card mt-0 position-relative {% if card.team2color %}card-{{ card.team2color }}
             {% else %}card-blank{% endif %}">
-              <div class="card-head py-3 h5" style="font-size: calc(1.2rem + .3vw);">{{ card.team2 }}</div>
+              <div class="card-head py-3 h5 team-title">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
                 style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
@@ -65,7 +65,7 @@ meta: stickball
             style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
             <div class="col-4 card mt-0 position-relative {% if card.team1color %}card-{{ card.team1color }}
             {% else %}card-blank{% endif %}">
-              <div class="card-head py-3 h5" style="font-size: calc(1.2rem + .3vw);">{{ card.team1 }}</div>
+              <div class="card-head py-3 h5 team-title">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
                 style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
@@ -78,7 +78,7 @@ meta: stickball
             </div>
             <div class="col-4 card mt-0 position-relative {% if card.team2color %}card-{{ card.team2color }}
             {% else %}card-blank{% endif %}">
-              <div class="card-head py-3 h5" style="font-size: calc(1.2rem + .3vw);">{{ card.team2 }}</div>
+              <div class="card-head py-3 h5 team-title">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
                 style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
@@ -108,7 +108,7 @@ meta: stickball
             style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
             <div class="col-4 card mt-0 position-relative {% if card.team1color %}card-{{ card.team1color }}
             {% else %}card-blank{% endif %}">
-              <div class="card-head py-3 h5" style="font-size: calc(1.2rem + .3vw);">{{ card.team1 }}</div>
+              <div class="card-head py-3 h5 team-title">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
                 style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
@@ -121,7 +121,7 @@ meta: stickball
             </div>
             <div class="col-4 card mt-0 position-relative {% if card.team2color %}card-{{ card.team2color }}
             {% else %}card-blank{% endif %}">
-              <div class="card-head py-3 h5" style="font-size: calc(1.2rem + .3vw);">{{ card.team2 }}</div>
+              <div class="card-head py-3 h5 team-title">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
                 style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
@@ -146,7 +146,7 @@ meta: stickball
             style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
             <div class="col-4 card mt-0 position-relative {% if card.team1color %}card-{{ card.team1color }}
             {% else %}card-blank{% endif %}">
-              <div class="card-head py-3 h5" style="font-size: calc(1.2rem + .3vw);">{{ card.team1 }}</div>
+              <div class="card-head py-3 h5 team-title">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
                 style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
@@ -159,7 +159,7 @@ meta: stickball
             </div>
             <div class="col-4 card mt-0 position-relative {% if card.team2color %}card-{{ card.team2color }}
             {% else %}card-blank{% endif %}">
-              <div class="card-head py-3 h5" style="font-size: calc(1.2rem + .3vw);">{{ card.team2 }}</div>
+              <div class="card-head py-3 h5 team-title">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
                 style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
@@ -179,7 +179,7 @@ meta: stickball
             style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
             <div class="col-4 card mt-0 position-relative {% if card.team1color %}card-{{ card.team1color }}
             {% else %}card-blank{% endif %}">
-              <div class="card-head py-3 h5" style="font-size: calc(1.2rem + .3vw);">{{ card.team1 }}</div>
+              <div class="card-head py-3 h5 team-title">{{ card.team1 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
                 style="background: transparent; font-size: 120px; border: none;">{% if card.team1score %}{{ card.team1score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
@@ -192,7 +192,7 @@ meta: stickball
             </div>
             <div class="col-4 card mt-0 position-relative {% if card.team2color %}card-{{ card.team2color }}
             {% else %}card-blank{% endif %}">
-              <div class="card-head py-3 h5" style="font-size: calc(1.2rem + .3vw);">{{ card.team2 }}</div>
+              <div class="card-head py-3 h5 team-title">{{ card.team2 }}</div>
               <div class="card-footer position-absolute bottom-0 start-50 translate-middle-x p-0 text-nowrap"
                 style="background: transparent; font-size: 120px; border: none;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>

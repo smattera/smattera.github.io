@@ -862,3 +862,14 @@ url("../fonts/bootstrap-icons.woff") format("woff");
 .icon-sticks:before {
   content: "\e900";
 }
+
+@media screen and (min-width: 320px) {
+  .team-title {
+    font-size: calc(1.2rem + .3vw);
+  }
+}
+@media screen and (min-width: 1000px) {
+  .team-title {
+    font-size: 23px;
+  }
+}
