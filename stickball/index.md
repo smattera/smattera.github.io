@@ -18,7 +18,7 @@ meta: stickball
 
     {% endif %}
 
-    <h2 class="display-2 shadow-text pt-5">2021 Men's Division</h2>
+    <h2 class="display-2 shadow-text pt-5">2022 Men's Division</h2>
 
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
 
