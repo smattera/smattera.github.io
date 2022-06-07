@@ -167,12 +167,6 @@ meta: stickball
         </a>
       </div>
       {% endfor %}
-      <!--{% include modal/tulli/game01.html %}
-      {% include modal/tulli/game02.html %}
-      {% include modal/tulli/game03.html %}
-      {% include modal/tulli/game04.html %}
-      {% include modal/tulli/game05.html %}
-      {% include modal/tulli/game06.html %}-->
     </div>
     <!--Pushmataha (10-13) Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Pushmataha (10-13) Division</h2>
