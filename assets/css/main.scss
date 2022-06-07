@@ -534,7 +534,23 @@ header {
     ),
     rgba(255, 255, 255, 1);
   color: rgba(255, 0, 0, 1);
-  border: 4px solid rgba(255, 0, 0, 0.25);
+  border: 4px solid #ff000040;
+}
+
+.card-ilittiba {
+  background: linear-gradient(
+      130deg,
+      rgba(50, 205, 50, 0),
+      rgba(50, 205, 50, 0.3),
+      rgba(50, 205, 50, 0),
+      rgba(50, 205, 50, 0),
+      rgba(50, 205, 50, 0.3),
+      rgba(50, 205, 50, 0.3),
+      rgba(50, 205, 50, 0)
+    ),
+    rgba(64, 224, 208, 1);
+  color: rgba(50, 205, 50, 1);
+  border: 4px solid rgba(50, 205, 50, 0);
 }
 
 .card-independents {
