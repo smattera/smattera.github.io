@@ -19,7 +19,7 @@
   # team2score: 
 
 - game: 3
-  date: Thu, Jul 7
+  date: Thu, Jul 07
   hour: 8:00 PM
   team1: oka homma ohóyo
   team1color: okahomma
@@ -29,7 +29,7 @@
   # team2score: 
 
 - game: 4
-  date: Thu, Jul 7
+  date: Thu, Jul 07
   hour: 9:00 PM
   team1: beaver dam
   team1color: beaverdam
@@ -39,7 +39,7 @@
   # team2score: 
 
 - game: 5
-  date: Fri, Jul 8
+  date: Fri, Jul 08
   hour: 7:00 PM
   team1: bók Čito ohóyo
   team1color: bokcito
@@ -49,7 +49,7 @@
   # team2score: 
 
 - game: 6
-  date: Fri, Jul 8
+  date: Fri, Jul 08
   hour: 8:00 PM
   team1: game 2 winner
   # team1color: 
@@ -59,7 +59,7 @@
   # team2score: 
 
 - game: 7
-  date: Fri, Jul 8
+  date: Fri, Jul 08
   hour: 9:00 PM
   team1: Il Ittiba Hikíya
   team1color: ilittiba
@@ -69,7 +69,7 @@
   # team2score: 
 
 - game: 8
-  date: Sat, Jul 9
+  date: Sat, Jul 09
   hour: 8:00 PM
   team1: game 4 winner
   # team1color: 
