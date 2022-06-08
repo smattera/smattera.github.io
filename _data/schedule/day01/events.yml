@@ -4,13 +4,18 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: Men's (50+) Division &#58; North vs South
+- title: Girls (14-17) Exhibition Game
   hour: 7:00 PM
   category: world series stickball
   style: stickball
-  location: Warrior Stadium
-- title: Women's (35+) Division &#58; North vs South
+  location: warrior stadium
+- title: Men's (50+) Exhibition Game &#58; North vs South
   hour: 8:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
+- title: Women's (35+) Exhibition Game &#58; North vs South
+  hour: 9:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
