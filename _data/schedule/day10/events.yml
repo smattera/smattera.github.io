@@ -8,6 +8,11 @@
   hour: 10:00 AM
   category: 
   location: Fairgrounds
+- title: Iron Warrior
+  hour: 1:00 PM
+  category: Competitions
+  style: competitions
+  location: In Front Of Exhibit Hall
 - title: Lady A
   hour: 8:30 PM
   category: Live Entertainment

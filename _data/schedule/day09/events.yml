@@ -3,6 +3,11 @@
   hour: 11:00 AM
   category: 
   location: Fairgrounds
+- title: Iron Warrior
+  hour: 1:00 PM
+  category: Competitions
+  style: competitions
+  location: In Front Of Exhibit Hall
 - title: Pushmataha (10-13) Division &#58; Championship
   hour: 5:00 PM
   category: world series stickball
