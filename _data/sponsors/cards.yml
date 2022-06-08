@@ -186,6 +186,14 @@
   url: https://www.servpro.com/locations/ms/servpro-of-meridian
   file: servpro
   alt: SERVPRO of Meridian
+- level: bronze
+  url: https://www.usfoods.com
+  file: usfoods
+  alt: US Foods
+- level: bronze
+#  url: 
+  file: erg
+  alt: Engineering Resource Group
 
 # PREVIOUS SPONSORS
 # - level: platinum
