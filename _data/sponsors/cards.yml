@@ -195,6 +195,10 @@
   file: pigglywiggly
   alt: Piggly Wiggly - Sebastopol
 - level: bronze
+  url: https://pmiconnect.com
+  file: pmi
+  alt: Purchasing Management International
+- level: bronze
   url: https://www.gopurvis.com
   file: purvis
   alt: Purvis Business Machines
