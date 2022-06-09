@@ -53,6 +53,10 @@
   file: concept3
   alt: Concept:3
 - level: silver
+  url: https://www.cspire.com
+  file: cspire
+  alt: C Spire
+- level: silver
   url: http://edwards-electric.com
   file: edwards
   alt: Edwards Electric
@@ -127,9 +131,17 @@
   file: mitchell
   alt: Mitchell Signs
 - level: bronze
+  url: https://pmiconnect.com
+  file: pmi
+  alt: Purchasing Management International
+- level: bronze
   url: https://www.ricoh-usa.com/en
   file: ricoh
   alt: Ricoh USA
+- level: bronze
+  url: https://www.robertsonproduce.com/
+  file: robertson
+  alt: Robertson Produce
 - level: bronze
   url: https://www.normanroofing.com
   file: normanroofing
@@ -146,6 +158,10 @@
   url: https://www.venusgroup.com
   file: venus
   alt: Venus Group
+- level: bronze
+  url: https://www.woodfruitticher.com
+  file: woodfruit
+  alt: Wood Fruitticher
 - level: bronze
   url: https://www.aflac.com
   file: aflac
@@ -195,17 +211,9 @@
   file: pigglywiggly
   alt: Piggly Wiggly - Sebastopol
 - level: bronze
-  url: https://pmiconnect.com
-  file: pmi
-  alt: Purchasing Management International
-- level: bronze
   url: https://www.gopurvis.com
   file: purvis
   alt: Purvis Business Machines
-- level: bronze
-  url: https://www.robertsonproduce.com/
-  file: robertson
-  alt: Robertson Produce
 - level: bronze
   url: https://shankcomm.com
   file: shank
@@ -214,11 +222,6 @@
   url: https://www.facebook.com/williamsbrothersgeneralstore
   file: williamsbrothers
   alt: Williams Brothers
-- level: bronze
-  url: https://www.woodfruitticher.com
-  file: woodfruit
-  alt: Wood Fruitticher
-
 
 # PREVIOUS SPONSORS
 # - level: platinum
@@ -257,10 +260,6 @@
 #   url: https://www.bcbsms.com
 #   file: bluecross
 #   alt: Blue Cross Blue Shield
-# - level: bronze
-#   url: https://www.cricpa.com
-#   file: cri
-#   alt: CRI PA
 # - level: bronze
 #   url: https://wisecarter.com
 #   file: wisecarter
