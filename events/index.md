@@ -29,7 +29,7 @@ meta: events
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade
       {% if cachedNow <= '2022-07-06' %} show active{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% for event in site.data.schedule.day01.events %}
           <div class="col">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
