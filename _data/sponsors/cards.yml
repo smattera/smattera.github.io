@@ -104,6 +104,14 @@
   url: https://www.thecitizensbankphila.com
   file: citizens
   alt: Citizens Bank
+- level: bronze
+  url: https://www.bcbsms.com
+  file: bluecross
+  alt: Blue Cross Blue Shield
+- level: silver
+  url: https://rpagency.com
+  file: romphpou
+  alt: Romph Pou Agency
 
 # BRONZE SPONSORS
 - level: bronze
@@ -256,10 +264,6 @@
 #   url: https://www.facebook.com/AandBMechanical/
 #   file: abmechanical
 #   alt: A & B Mechanical
-# - level: bronze
-#   url: https://www.bcbsms.com
-#   file: bluecross
-#   alt: Blue Cross Blue Shield
 # - level: bronze
 #   url: https://wisecarter.com
 #   file: wisecarter

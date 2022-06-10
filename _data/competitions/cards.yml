@@ -24,6 +24,12 @@
   title: Cornhole Tournament
   desc: Think you have good cornhole skills? Come to the Cornhole Tournament and compete against other players for cash prizes.
 
+- image: volleyball
+  title: Volleyball Tournament
+  desc: Join us for the first ever Choctaw Indian Fair Volleyball Tournament on July 8th and 9th at the Choctaw Central High School Gymnasium.
+  firstLink: ../assets/pdf/2022 Volleyball Tournament Flyer.pdf
+  firstAction: Download Flyer
+
 - image: gospel-night
   title: Gospel Night
   desc: Gospel Night is the first concert of the Choctaw Indian Fair where Christian music groups and soloists perform at Áyipa Village.
