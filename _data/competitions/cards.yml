@@ -26,7 +26,7 @@
   firstLink: ../assets/pdf/CornholeTournamentRegistrationFriJuly2022.pdf
   firstAction: Tribal Member Form
   secondLink: ../assets/pdf/CornholeTournamentRegistrationSatJuly2022.pdf
-  secondLink: Registration Form
+  secondAction: Registration Form
 
 - image: volleyball
   title: Volleyball Tournament
