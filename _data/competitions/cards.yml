@@ -23,6 +23,10 @@
 - image: cornhole
   title: Cornhole Tournament
   desc: Think you have good cornhole skills? Come to the Cornhole Tournament and compete against other players for cash prizes.
+  firstLink: ../assets/pdf/CornholeTournamentRegistrationFriJuly2022.pdf
+  firstAction: Tribal Member Form
+  secondLink: ../assets/pdf/CornholeTournamentRegistrationSatJuly2022.pdf
+  secondLink: Registration Form
 
 - image: volleyball
   title: Volleyball Tournament
