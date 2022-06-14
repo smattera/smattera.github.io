@@ -61,13 +61,17 @@
   file: concept3
   alt: Concept:3
 - level: silver
+  url: https://www.ecolab.com
+  file: ecolab
+  alt: Ecolab
+- level: silver
   url: http://edwards-electric.com
   file: edwards
   alt: Edwards Electric
 - level: silver
-  url: https://www.ecolab.com
-  file: ecolab
-  alt: Ecolab
+  url: http://www.engservice.com
+  file: engservice
+  alt: Engineering Service
 - level: silver
   url: https://www.mclaininc.com
   file: mclain
