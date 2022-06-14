@@ -389,6 +389,17 @@ header {
   }
 }
 
+.btn-warning {
+  color: #333;
+  background-color: #db6;
+  border-color: #db6;
+  &:hover {
+    color: #fea;
+    background-color: #333;
+    border-color: #fea;
+  }
+}
+
 .btn-light {
   background: linear-gradient(160deg, #fff, #aaa);
 }
