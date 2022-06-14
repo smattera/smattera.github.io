@@ -27,6 +27,10 @@
 
 # GOLD SPONSORS
 - level: gold
+  url: https://www.cspire.com
+  file: cspire
+  alt: C Spire
+- level: gold
   url: https://www.hnrsupply.com
   file: hotelsupply
   alt: Hotel & Restaurant Supply
@@ -52,10 +56,6 @@
   url: https://www.concept3lv.com
   file: concept3
   alt: Concept:3
-- level: silver
-  url: https://www.cspire.com
-  file: cspire
-  alt: C Spire
 - level: silver
   url: http://edwards-electric.com
   file: edwards
