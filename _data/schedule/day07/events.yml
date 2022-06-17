@@ -9,6 +9,9 @@
   style: culture
   location: Dancegrounds
 - title: Rock-It Robot
+  hour: 11:00 AM
+  category:
+  location: Fairgrounds
 - title: 2021-2022 Choctaw Indian Princess Shemah Ladania Crosby
   hour: 11:45 AM
   category: Farewell Visit
@@ -34,6 +37,10 @@
   category: Competitions
   style: competitions
   location: ÁYI̱PA VILLAGE
+- title: Rock-It Robot
+  hour: 1:00 PM
+  category:
+  location: Fairgrounds
 - title: Storytelling
   hour: 1:45 PM
   category:
@@ -64,22 +71,38 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: Rock-It Robot
+  hour: 4:00 PM
+  category:
+  location: Fairgrounds
+- title: Tulli Okchi Ishko (14-17) Division &#58; Game 4
+  hour: 5:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
 - title: Opening Ceremonies
   hour: 6:00 PM
   category: 
   location: Main Stage
-- title: Tulli Okchi Ishko (14-17) Division &#58; Game 4
+- title: Opening Ceremonies Watch Party
   hour: 6:00 PM
-  category: world series stickball
-  style: stickball
-  location: Warrior Stadium
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Choctaw Indian Princess Pageant
   hour: 7:00 PM
   category: 67th Annual
   style: pageant
   location: Main Stage
+- title: Choctaw Indian Princess Pageant Watch Party
+  hour: 7:00 PM
+  category: 67th Annual
+  location: ÁYI̱PA VILLAGE
 - title: Men's Division &#58; Game 7
   hour: 10:15 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: World Series Stickball Watch Party
+  hour: 10:15 PM
+  category:
+  location: ÁYI̱PA VILLAGE
