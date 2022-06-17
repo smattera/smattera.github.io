@@ -1,4 +1,13 @@
 # Tue, Jul 12, 2022
+- title: Inter-Tribal Dancing
+  hour: 4:30 PM
+  category:
+  style: culture
+  location: Dancegrounds
+- title: Midway Opens (Family Night)
+  hour: 5:00 PM
+  category:
+  location: Midway
 - title: Pushmataha (10-13) Division &#58; Game 3
   hour: 5:00 PM
   category: world series stickball
@@ -34,3 +43,7 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: Midway Closes
+  hour: 12:00 AM
+  category:
+  location: Midway
