@@ -500,6 +500,20 @@ header {
   }
 }
 
+.card-culture {
+  .card-header,
+  .card-footer {
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 5px;
+    border-image-source: linear-gradient(to bottom, #bff, #ffd, #069);
+    background: linear-gradient(#333, #800000);
+  }
+  .card-body {
+    background: linear-gradient(to bottom, #069, #ffd, #bff);
+  }
+}
+
 .card-beaverdam {
   background: linear-gradient(
       130deg,
