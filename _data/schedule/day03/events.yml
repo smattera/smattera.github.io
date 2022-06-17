@@ -1,4 +1,13 @@
 # Fri, Jul 08
+- title: Volleyball Tournament Begins
+  hour: 8:30 AM
+  category: Competitions
+  style: competitions
+  location: CCHS Gymnasium
+- title: Midway Opens
+  hour: 5:00 PM
+  category:
+  location: Midway
 - title: Pushmataha (10-13) Division &#58; Game 1
   hour: 6:00 PM
   category: world series stickball
@@ -24,3 +33,7 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: Midway Closes
+  hour: 12:00 AM
+  category:
+  location: Midway

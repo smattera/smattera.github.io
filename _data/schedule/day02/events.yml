@@ -1,4 +1,8 @@
 # Thu, Jul 07
+- title: Midway Opens
+  hour: 5:00 PM
+  category:
+  location: Midway
 - title: Women's Division &#58; Game 1
   hour: 6:00 PM
   category: world series stickball
@@ -24,3 +28,7 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: Midway Closes
+  hour: 12:00 AM
+  category:
+  location: Midway

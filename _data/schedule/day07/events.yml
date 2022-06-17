@@ -3,11 +3,66 @@
   hour: 11:00 AM
   category: 
   location: Fairgrounds
+- title: Standing Pine Social Dancers
+  hour: 11:00 AM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dancegrounds
+- title: Little Mr. & Miss Choctaw Indian Fair Pageant
+  hour: 11:00 AM
+  category: Registration Opens
+  style: competitions
+  location: Áyi̱pa Village
+- title: 2021-2022 Choctaw Indian Princess
+  hour: 11:45 AM
+  category: Farewell Visit
+  style: pageant
+  location: Dancegrounds
+- title: Big Spring Creek "HILHA ALHĪA"
+  hour: 12:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dancegrounds
+- title: 2021-2022 Choctaw Indian Princess Shemah Ladania Crosby
+  hour: 12:30 PM
+  category: Farewell Visit
+  style: pageant
+  location: Áyi̱pa Village
+- title: CHAHTA HILHA IK HAPIN KANIYO KIYA
+  hour: 1:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dancegrounds
 - title: Little Mr. & Miss. Choctaw Indian Fair Pageant
   hour: 1:00 PM
   category: Competitions
   style: competitions
-  location: Áyipa Village
+  location: Áyi̱pa Village
+- title: Storytelling
+  hour: 1:45 PM
+  category:
+  style: culture
+  location: Dancegrounds
+- title: HILHÁCHI ALHÍHA
+  hour: 2:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dancegrounds
+- title: Storytelling
+  hour: 2:45 PM
+  category:
+  style: culture
+  location: Dancegrounds
+- title: CONEHATTA SOCIAL DANCERS
+  hour: 3:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dancegrounds
+- title: BÓK ČITO YOUTH SOCIAL DANCERS
+  hour: 4:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dancegrounds
 - title: Pushmataha (10-13) Division &#58; Game 5
   hour: 4:00 PM
   category: world series stickball

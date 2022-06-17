@@ -3,6 +3,21 @@
   hour: 11:00 AM
   category: 
   location: Fairgrounds
+- title: BOGUE CHITTO SOCIAL DANCERS
+  hour: 11:00 AM
+  category: Social Dancing
+  style: culture
+  location: Dancegrounds
+- title: 2022-2023 CHOCTAW INDIAN PRINCESS
+  hour: 11:45 AM
+  category: INTRODUCTION OF
+  style: pageant
+  location: Dancegrounds
+- title: HILHÁCHI ALHÍHA
+  hour: 12:00 PM
+  category: Social Dancing
+  style: culture
+  location: Dancegrounds
 - title: Iron Warrior
   hour: 1:00 PM
   category: Competitions
@@ -12,7 +27,7 @@
   hour: 1:00 PM
   category: Competitions
   style: competitions
-  location: Áyipa Village
+  location: Áyi̱pa Village
 - title: Pushmataha (10-13) Division &#58; Game 6
   hour: 5:00 PM
   category: world series stickball

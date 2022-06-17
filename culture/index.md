@@ -8,7 +8,7 @@ meta: culture
     <h1 class="display-1 shadow-text lh-1">Cultural Activities</h1>
     <!--<img src="../assets/img/culture-banner.webp" class="img-fluid pb-5">-->
     <div class="card mb-3 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
-      <img src="../assets/img/logos/ayipa.webp" class="card-img-top" alt="Áyipa Village">
+      <img src="../assets/img/logos/ayipa.webp" class="card-img-top" alt="Áyi̱pa Village">
       <div class="card-body text-center">
         <div class="row row-cols-1 row-cols-md-3 g-3">
           <div class="col">
