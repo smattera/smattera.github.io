@@ -8,17 +8,26 @@
   category: Social Dancing
   style: culture
   location: Dancegrounds
+- title: Rock-It Robot
+  hour: 11:00 AM
+  category:
+  location: Fairgrounds
 - title: 2022-2023 CHOCTAW INDIAN PRINCESS
   hour: 11:45 AM
   category: INTRODUCTION OF
   style: pageant
   location: Dancegrounds
-- title: HILHÁCHI ALHÍHA
+- title: HILHA IM ACHOKMA ALHÍHA
   hour: 12:00 PM
   category: Social Dancing
   style: culture
   location: Dancegrounds
-- title: Iron Warrior
+- title: Visiting Princesses
+  hour: 12:45 PM
+  category: INTRODUCTION OF
+  style: pageant
+  location: Dancegrounds
+- title: Iron Warrior 
   hour: 1:00 PM
   category: Competitions
   style: competitions
@@ -28,12 +37,16 @@
   category: Competitions
   style: competitions
   location: ÁYI̱PA VILLAGE
-- title: Pushmataha (10-13) Division &#58; Game 6
+- title: Rock-It Robot
+  hour: 1:00 PM
+  category:
+  location: Fairgrounds
+- title: Pushmataha (10-13) Division&#58; Game 6
   hour: 5:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: Tulli Okchi Ishko (14-17) Division &#58; Game 5
+- title: Tulli Okchi Ishko (14-17) Division&#58; Game 5
   hour: 6:00 PM
   category: world series stickball
   style: stickball
@@ -42,7 +55,7 @@
   hour: 8:30 PM
   category: Live Entertainment
   location: Main Stage
-- title: Men's Division &#58; Game 8
+- title: Men's Division&#58; Game 8
   hour: 10:15 PM
   category: world series stickball
   style: stickball
