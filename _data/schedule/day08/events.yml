@@ -27,7 +27,7 @@
   category: INTRODUCTION OF
   style: pageant
   location: Dancegrounds
-- title: Iron Warrior 
+- title: Iron Warrior&#58; Women's Time Trials Begin
   hour: 1:00 PM
   category: Competitions
   style: competitions
@@ -41,16 +41,80 @@
   hour: 1:00 PM
   category:
   location: Fairgrounds
+- title: Storytelling
+  hour: 1:45 PM
+  category:
+  style: culture
+  location: Dancegrounds
+- title: TIAK HIKÍYA HIMITTOWA HILHA
+  hour: 2:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dancegrounds
+- title: Stickball Demonstration
+  hour: 2:00 PM
+  category:
+  style: culture
+  location: ÁYI̱PA VILLAGE
+- title: Storytelling
+  hour: 2:45 PM
+  category:
+  style: culture
+  location: Dancegrounds
+- title: Iron Warrior&#58; Men's Time Trials Begin
+  hour: 3:00 PM
+  category: Competitions
+  style: competitions
+  location: In Front Of Exhibit Hall
+- title: Frybread Making Demonstration
+  hour: 3:00 PM
+  category:
+  style: culture
+  location: ÁYI̱PA VILLAGE
+- title: BOGUE HOMA DANCE GROUP
+  hour: 3:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dancegrounds
+- title: Rock-It Robot
+  hour: 4:00 PM
+  category:
+  location: Fairgrounds
+- title: 2022-2023 CHOCTAW INDIAN PRINCESS
+  hour: 4:00 PM
+  category: INTRODUCTION OF
+  style: pageant
+  location: ÁYI̱PA VILLAGE
 - title: Pushmataha (10-13) Division&#58; Game 6
   hour: 5:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: ITTÁYYOKLA SOCIAL DANCERS
+  hour: 5:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dancegrounds
+- title: ITTI KÁNA HILHA ALHÍHA SOCIAL DANCERS
+  hour: 5:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Main Stage
 - title: Tulli Okchi Ishko (14-17) Division&#58; Game 5
   hour: 6:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: 2022 Choctaw Indian Princess Pageant
+  hour: 6:00 PM
+  category: Replay of
+  style: pageant
+  location: ÁYI̱PA VILLAGE
+- title: CHOCTAW TRIBAL SOCIAL DANCERS
+  hour: 7:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Main Stage
 - title: Ryan Hurd
   hour: 8:30 PM
   category: Live Entertainment
