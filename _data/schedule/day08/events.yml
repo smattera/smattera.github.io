@@ -7,7 +7,7 @@
   hour: 11:00 AM
   category: Social Dancing
   style: culture
-  location: Dancegrounds
+  location: Dance Grounds
 - title: Rock-It Robot
   hour: 11:00 AM
   category:
@@ -16,17 +16,17 @@
   hour: 11:45 AM
   category: INTRODUCTION OF
   style: pageant
-  location: Dancegrounds
+  location: Dance Grounds
 - title: HILHA IM ACHOKMA ALHÍHA
   hour: 12:00 PM
   category: Social Dancing
   style: culture
-  location: Dancegrounds
+  location: Dance Grounds
 - title: Visiting Princesses
   hour: 12:45 PM
   category: INTRODUCTION OF
   style: pageant
-  location: Dancegrounds
+  location: Dance Grounds
 - title: Iron Warrior&#58; Women's Time Trials Begin
   hour: 1:00 PM
   category: Competitions
@@ -45,12 +45,12 @@
   hour: 1:45 PM
   category:
   style: culture
-  location: Dancegrounds
+  location: Dance Grounds
 - title: TIAK HIKÍYA HIMITTOWA HILHA
   hour: 2:00 PM
   category: Choctaw Social Dancing
   style: culture
-  location: Dancegrounds
+  location: Dance Grounds
 - title: Stickball Demonstration
   hour: 2:00 PM
   category:
@@ -60,7 +60,7 @@
   hour: 2:45 PM
   category:
   style: culture
-  location: Dancegrounds
+  location: Dance Grounds
 - title: Iron Warrior&#58; Men's Time Trials Begin
   hour: 3:00 PM
   category: Competitions
@@ -75,7 +75,7 @@
   hour: 3:00 PM
   category: Choctaw Social Dancing
   style: culture
-  location: Dancegrounds
+  location: Dance Grounds
 - title: Rock-It Robot
   hour: 4:00 PM
   category:
@@ -94,7 +94,7 @@
   hour: 5:00 PM
   category: Choctaw Social Dancing
   style: culture
-  location: Dancegrounds
+  location: Dance Grounds
 - title: ITTI KÁNA HILHA ALHÍHA SOCIAL DANCERS
   hour: 5:00 PM
   category: Choctaw Social Dancing
@@ -105,7 +105,7 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: 2022 Choctaw Indian Princess Pageant
+- title: 2021 Choctaw Indian Princess Pageant
   hour: 6:00 PM
   category: Replay of
   style: pageant
@@ -124,3 +124,7 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: World Series Stickball Watch Party
+  hour: 10:15 PM
+  category:
+  location: ÁYI̱PA VILLAGE

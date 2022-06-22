@@ -7,27 +7,133 @@
   hour: 10:00 AM
   category: Choctaw Social Dancing
   style: culture
-  location: Dancegrounds
+  location: Dance Grounds
 - title: Tribal Member Cornhole Tournament
   hour: 10:00 AM
   category: Competitions
   style: competitions
   location: CCHS Gymnasium
-- title: Iron Warrior
+- title: ONE FEATHER SOCIAL DANCE GROUP
+  hour: 11:00 AM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dance Grounds
+- title: Rock-It Robot
+  hour: 11:00 AM
+  category:
+  location: Fairgrounds
+- title: 2022-2023 Choctaw Indian Princess
+  hour: 11:45 AM
+  category: Introduction Of
+  style: pageant
+  location: Dance Grounds
+- title: CHOCTAW TRADITIONAL SOCIAL DANCERS
+  hour: 12:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dance Grounds
+- title: Visiting Princesses
+  hour: 12:45 PM
+  category: INTRODUCTION OF
+  style: pageant
+  location: Dance Grounds
+- title: Iron Warrior&#58; Women's Time Trials Begin
   hour: 1:00 PM
   category: Competitions
   style: competitions
   location: In Front Of Exhibit Hall
+- title: Watermelon Eating Contest
+  hour: 1:00 PM
+  category: Competitions
+  style: competitions
+  location: ÁYI̱PA VILLAGE
+- title: WEST TENNESSEE CHOCTAW SOCIAL DANCERS
+  hour: 1:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dance Grounds
+- title: Rock-It Robot
+  hour: 1:00 PM
+  category:
+  location: Fairgrounds
+- title: Storytelling
+  hour: 1:45 PM
+  category: 
+  style: culture
+  location: Dance Grounds
+- title: CHAHTA ALLA CHIPOTA HICHA HIMITTOWA ALHÍHA
+  hour: 2:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dance Grounds
+- title: Stickball Demonstration
+  hour: 2:00 PM
+  category: 
+  style: culture
+  location: ÁYI̱PA VILLAGE
+- title: Storytelling
+  hour: 2:45 PM
+  category: 
+  style: culture
+  location: Dance Grounds
+- title: Iron Warrior&#58; Men's Time Trials Begin
+  hour: 3:00 PM
+  category: Competitions
+  style: competitions
+  location: In Front of Exhibit Hall
+- title: Frybread Making Demonstration
+  hour: 3:00 PM
+  category: 
+  style: culture
+  location: ÁYI̱PA VILLAGE
+- title: IN HONOR OF BILLY AMOS
+  hour: 3:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Dance Grounds
+- title: 2022-2023 Choctaw Indian Princess
+  hour: 4:00 PM
+  category: Introduction of
+  style: pageant
+  location: ÁYI̱PA VILLAGE
+- title: Rock-It Robot
+  hour: 4:00 PM
+  category:
+  location: Fairgrounds
 - title: Pushmataha (10-13) Division&#58; Championship
   hour: 5:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: HIMIFFOWA ALHÍHA SOCIAL DANCERS
+  hour: 5:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: ÁYI̱PA VILLAGE
+- title: KABOTCHA BÓLI DANCERS
+  hour: 5:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Main Stage
 - title: Tulli Okchi Ishko (14-17) Division&#58; Championship
   hour: 6:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: 2021 WSS Women's Championship Game
+  hour: 6:00 PM
+  category: Replay Of
+  location: ÁYI̱PA VILLAGE
+- title: TRI-COMMUNITY SOCIAL DANCERS
+  hour: 6:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Main Stage
+- title: OKLA HILHA HAPÍYA HOKIH
+  hour: 7:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Main Stage
 - title: Casting Crowns
   hour: 8:30 PM
   category: Live Entertainment
