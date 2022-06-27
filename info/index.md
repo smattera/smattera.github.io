@@ -6,6 +6,7 @@ meta: info
 <section class="diamond-bg7">
     <div class="container">
         <img src="../assets/img/info-banner.webp" class="img-fluid d-none d-md-block pb-5">
+        <img src="../assets/img/info-banner02.webp" class="img-fluid d-block d-md-none pb-5">
         <!--<img src="../assets/img/info-banner02.webp" class="img-fluid d-block d-md-none">-->
         <a href="../assets/pdf/2022 Fairgrounds Map.pdf" target="_blank">
             <img src="../assets/img/fairgrounds-map.png" class="img-fluid pb-5" alt="Events">
