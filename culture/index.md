@@ -5,6 +5,7 @@ meta: culture
 ---
 <section class="basket-bg">
   <div class="container">
+  <img src="../assets/img/culture-banner.webp" class="img-fluid d-none d-md-block">
     <h1 class="display-1 shadow-text lh-1">Cultural Activities</h1>
     <!--<img src="../assets/img/culture-banner.webp" class="img-fluid pb-5">-->
     <div class="card mb-3 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">

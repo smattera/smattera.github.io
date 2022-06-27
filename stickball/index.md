@@ -5,6 +5,7 @@ meta: stickball
 ---
 <section class="diamond-bg2 bebas">
   <div class="container">
+    <img src="../assets/img/stickball-banner.webp" class="img-fluid d-none d-md-block">
     <h1 class="display-1 shadow-text lh-1 mb-5">World Series Stickball</h1>
     <!--<img src="../assets/img/stickball-banner.webp" class="img-fluid">-->
     {% assign cachedNow = 'now' | date: '%F %T' %}
