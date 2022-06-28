@@ -8,7 +8,7 @@ meta: competitions
     <img src="../assets/img/competition-banner.webp" class="img-fluid d-none d-md-block">
     <!--<img src="../assets/img/competition-banner02.webp" class="img-fluid d-block d-md-none">-->
     <!-- <h1 class="display-1 shadow-text lh-1">Competitions</h1> -->
-    <div class="row row-cols-1 row-cols-xl-2 row-cols-xxl-3 g-4">
+    <div class="row row-cols-1 row-cols-xl-2 row-cols-xxl-3 g-4 pt-5">
 
       {% for card in site.data.competitions.cards %}
         <div class="col">
