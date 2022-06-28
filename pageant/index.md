@@ -5,8 +5,7 @@ meta: pageant
 ---
 <section class="diamond-bg5">
   <div class="container">
-    <img src="../assets/img/princess-banner.webp" class="img-fluid d-none d-md-block card-rose-border">
-    <h1 class="display-1 shadow-text lh-1">Choctaw Indian Princess Pageant</h1>
+    <img src="../assets/img/princess-banner.webp" class="img-fluid d-none d-md-block">
     <h2 class="display-2 shadow-text pt-5">2022 Contestants Coming Soon</h2>
     <h2 class="shadow-text pt-5">2021 Contestants</h2>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4 mt-1">

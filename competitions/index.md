@@ -7,9 +7,7 @@ meta: competitions
   <div class="container">
     <img src="../assets/img/competition-banner.webp" class="img-fluid d-none d-md-block">
     <img src="../assets/img/competition-banner02.webp" class="img-fluid d-block d-md-none">
-    <!-- <h1 class="display-1 shadow-text lh-1">Competitions</h1> -->
     <div class="row row-cols-1 row-cols-xl-2 row-cols-xxl-3 g-4 pt-5">
-
       {% for card in site.data.competitions.cards %}
         <div class="col">
           <div class="card card-red-border card-platinum text-dark h-100">
@@ -17,10 +15,6 @@ meta: competitions
             <div class="card-body">
               <p class="card-title">{{ card.title }}</p>
               <p class="card-text">{{ card.desc }}</p>
-              <!--{% if card.contact %}
-              <p class="card-text">For more information, please call {{ card.contact }} at 
-                <a href="tel:{{ card.phone | replace: '-', '' }}" class="text-nowrap">{{ card.phone }}</a></p>
-              {% endif %}-->
             </div>
             <div class="card-footer">
               {% if card.alert %}
@@ -40,8 +34,6 @@ meta: competitions
           </div>
         </div>
       {% endfor %}
-
     </div>
-
   </div>
 </section>
