@@ -5,8 +5,9 @@ meta: competitions
 ---
 <section class="diamond-bg6">
   <div class="container">
-    <h1 class="display-1 shadow-text lh-1">Competitions</h1>
-    <!--<img src="../assets/img/competition-banner.png" class="img-fluid pb-5">-->
+    <img src="../assets/img/competition-banner.webp" class="img-fluid d-none d-md-block">
+    <!--<img src="../assets/img/competition-banner02.webp" class="img-fluid d-block d-md-none">-->
+    <!-- <h1 class="display-1 shadow-text lh-1">Competitions</h1> -->
     <div class="row row-cols-1 row-cols-xl-2 row-cols-xxl-3 g-4">
 
       {% for card in site.data.competitions.cards %}
