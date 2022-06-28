@@ -6,6 +6,7 @@ meta: pageant
 <section class="diamond-bg5">
   <div class="container">
     <img src="../assets/img/princess-banner.webp" class="img-fluid d-none d-md-block">
+    <img src="../assets/img/princess-banner02.webp" class="img-fluid d-block d-md-none">
     <h2 class="display-2 shadow-text pt-5">2022 Contestants Coming Soon</h2>
     <h2 class="shadow-text pt-5">2021 Contestants</h2>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4 mt-1">
