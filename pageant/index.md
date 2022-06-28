@@ -12,11 +12,11 @@ meta: pageant
       {% for card in site.data.contestants.cards %}
       <div class="col">
         <div class="card mb-3 card-rose-border mx-auto" style="max-width: 540px;">
-          <div class="row g-0">
+          <div class="row g-0" style="background: linear-gradient(#969,#ffd,#fcc);">
             <div class="col-5" style="background: transparent;">
               <img src="/assets/img/contestants/{{ card.img }}.webp" class="img-fluid" alt="{{ card.name }}">
             </div>
-            <div class="col-7 d-flex align-items-center" style="background: linear-gradient(#969,#ffd,#fcc);">
+            <div class="col-7 d-flex align-items-center">
               <div class="card-body">
                 <p class="card-text h5 shadow-text">Contestant #{{ card.number }}</p>
                 <p class="card-text h4 shadow-text">{{ card.name }}</p>
