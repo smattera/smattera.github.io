@@ -6,6 +6,7 @@ meta: culture
 <section class="basket-bg">
   <div class="container">
   <img src="../assets/img/culture-banner.webp" class="img-fluid d-none d-md-block pb-5">
+  <img src="../assets/img/culture-banner02.webp" class="img-fluid d-block d-md-none pb-5">
     <div class="card mb-3 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
       <img src="../assets/img/logos/ayipa.webp" class="card-img-top" alt="Áyi̱pa Village">
       <div class="card-body text-center">
