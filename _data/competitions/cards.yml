@@ -45,7 +45,11 @@
 - image: lil-pageant
   title: Little Mr. & Miss. Choctaw Indian Fair Pageant
   desc: This year's Little Mr. & Miss. Choctaw Indian Fair Pageant will take place on Wednesday, July 13, 2022 at 1:00 PM. Participants will compete in their traditional attire. The age divisions are 1-2 yrs, 3-4 yrs, 5-7 yrs, and 8-10 yrs.
-  alert: Registration starts at 11:00 am on Wednesday, July 13, 2022 at Áyi̱pa Village.
+  alert: Deadline to enter is Monday, July 11, 2022 at 4:30 PM.
+  firstLink: ../assets/pdf/2022 Little Mr. & Miss CIF Pageant Flyer.pdf
+  firstAction: Download Flyer
+  secondLink: ../assets/pdf/2022 Little Mr. & Miss CIF Pageant Registration Form.pdf
+  secondAction: Registration Form
 
 - image: frybread
   title: Fry Bread Making Contest
