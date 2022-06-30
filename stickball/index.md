@@ -5,15 +5,14 @@ meta: stickball
 ---
 <section class="diamond-bg2 bebas">
   <div class="container">
-    <img src="../assets/img/stickball-banner.webp" class="img-fluid d-none d-md-block card-black-border">
-    <h1 class="display-1 shadow-text lh-1 mb-5">World Series Stickball</h1>
+    <img src="../assets/img/stickball-banner.webp" class="img-fluid d-none d-md-block">
     <!--<img src="../assets/img/stickball-banner.webp" class="img-fluid">-->
     {% assign cachedNow = 'now' | date: '%F %T' %}
     {% if cachedNow < '2022-06-06 18:00:00' %} 
       {% include countdown-timer.html title="Countdown to 2022 Bracket Day" end_date="June 6, 2022 18:00:00" border="black" %}
     {% endif %}
     <!--Men's Division-->
-    <h2 class="display-2 shadow-text">2022 Men's Division</h2>
+    <h2 class="display-2 shadow-text pt-5">2022 Men's Division</h2>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.mens.cards %}
       <div class="col">
