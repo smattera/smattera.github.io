@@ -18,6 +18,10 @@
   category: Choctaw Social Dancing
   style: culture
   location: Dance Grounds
+- title: Reptile Walk-Thru Experience Opens
+  hour: 11:00 AM
+  category:
+  location: O̱SSI COVE
 - title: Rock-It Robot
   hour: 11:00 AM
   category:
@@ -32,6 +36,14 @@
   category: Choctaw Social Dancing
   style: culture
   location: Dance Grounds
+- title: Michelle's Magical Poodle Show
+  hour: 12:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
+- title: Dinosaur Experience
+  hour: 12:30 PM
+  category:
+  location: O̱SSI COVE
 - title: Visiting Princesses
   hour: 12:45 PM
   category: INTRODUCTION OF
@@ -52,6 +64,10 @@
   category: Choctaw Social Dancing
   style: culture
   location: Dance Grounds
+- title: Scales, Tails & Teeth Show
+  hour: 1:00 PM
+  category:
+  location: O̱SSI COVE
 - title: Rock-It Robot
   hour: 1:00 PM
   category:
@@ -71,6 +87,10 @@
   category: 
   style: culture
   location: ÁYI̱PA VILLAGE
+- title: Birds & Exotics of the World Show
+  hour: 2:00 PM
+  category:
+  location: O̱SSI COVE
 - title: Storytelling
   hour: 2:45 PM
   category: 
@@ -91,15 +111,31 @@
   category: Choctaw Social Dancing
   style: culture
   location: Dance Grounds
+- title: Dinosaur Experience
+  hour: 3:00 PM
+  category:
+  location: O̱SSI COVE
+- title: Scales, Tails & Teeth Show
+  hour: 3:30 PM
+  category:
+  location: O̱SSI COVE
 - title: 2022-2023 Choctaw Indian Princess
   hour: 4:00 PM
   category: Introduction of
   style: pageant
   location: ÁYI̱PA VILLAGE
+- title: Michelle's Magical Poodle Show
+  hour: 4:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Rock-It Robot
   hour: 4:00 PM
   category:
   location: Fairgrounds
+- title: Birds & Exotics of the World Show
+  hour: 4:30 PM
+  category:
+  location: O̱SSI COVE
 - title: Pushmataha (10-13) Division&#58; Championship
   hour: 5:00 PM
   category: world series stickball
@@ -115,6 +151,10 @@
   category: Choctaw Social Dancing
   style: culture
   location: Main Stage
+- title: Dinosaur Experience
+  hour: 5:30 PM
+  category:
+  location: O̱SSI COVE
 - title: Tulli Okchi Ishko (14-17) Division&#58; Championship
   hour: 6:00 PM
   category: world series stickball
@@ -129,11 +169,23 @@
   category: Choctaw Social Dancing
   style: culture
   location: Main Stage
+- title: Reptile Walk-Thru Experience Closes
+  hour: 6:00 PM
+  category:
+  location: O̱SSI COVE
+- title: Scales, Tails & Teeth Show
+  hour: 6:00 PM
+  category:
+  location: O̱SSI COVE
 - title: OKLA HILHA HAPÍYA HOKIH
   hour: 7:00 PM
   category: Choctaw Social Dancing
   style: culture
   location: Main Stage
+- title: Birds & Exotics of the World Show
+  hour: 7:00 PM
+  category:
+  location: O̱SSI COVE
 - title: Casting Crowns
   hour: 8:30 PM
   category: Live Entertainment
