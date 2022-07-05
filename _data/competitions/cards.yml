@@ -54,7 +54,11 @@
 - image: frybread
   title: Fry Bread Making Contest
   desc: Contest is open to all individuals. There will be an on-site registration area so sign up and submit your fry bread. A panel of judges will review the submission and present awards for OVERALL BIGGEST, OVERALL FLUFFIEST, and OVERALL GOLDEN FRY BREAD.
+  firstLink: ../assets/pdf/2022 Fry Bread Making.pdf
+  firstAction: Download Flyer
 
 - image: watermelon
   title: Watermelon Eating Contest
   desc: Who can eat watermelon the fastest? One entry per participant, 20 participants per competition, two competitions per day. Contest is open to the public.
+  firstLink: ../assets/pdf/2022 Watermelon Eating Contest.pdf
+  firstAction: Download Flyer
