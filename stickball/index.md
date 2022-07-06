@@ -5,8 +5,8 @@ meta: stickball
 ---
 <section class="diamond-bg2 bebas">
   <div class="container">
-    <img src="../assets/img/stickball-banner.webp" class="img-fluid d-none d-md-block">
-    <img src="../assets/img/stickball-banner02.webp" class="img-fluid d-block d-md-none">
+    <img src="../assets/img/stickball-banner.webp" class="img-fluid d-none d-md-block img-shadow">
+    <img src="../assets/img/stickball-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
     {% assign cachedNow = 'now' | date: '%F %T' %}
     {% if cachedNow < '2022-06-06 18:00:00' %} 
       {% include countdown-timer.html title="Countdown to 2022 Bracket Day" end_date="June 6, 2022 18:00:00" border="black" %}

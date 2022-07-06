@@ -5,13 +5,13 @@ meta: info
 ---
 <section class="diamond-bg7">
     <div class="container">
-        <img src="../assets/img/info-banner.webp" class="img-fluid d-none d-md-block pb-5">
-        <img src="../assets/img/info-banner02.webp" class="img-fluid d-block d-md-none pb-5">
+        <img src="../assets/img/info-banner.webp" class="img-fluid d-none d-md-block img-shadow">
+        <img src="../assets/img/info-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
         <!--<img src="../assets/img/info-banner02.webp" class="img-fluid d-block d-md-none">-->
         <a href="../assets/pdf/2022 Fairgrounds Map.pdf" target="_blank">
-            <img src="../assets/img/fairgrounds-map.png" class="img-fluid pb-5" alt="Events">
+            <img src="../assets/img/fairgrounds-map.png" class="img-fluid pt-5" alt="Events">
         </a>
-        <div class="ratio ratio-16x9">
+        <div class="ratio ratio-16x9 pt-5">
             <iframe src="https://www.google.com/maps/d/embed?mid=1e6Nvl9pSDrBdsh-9WWbGf3-QLdrcyGsm&ehbc=2E312F"></iframe>
         </div>
     </div>

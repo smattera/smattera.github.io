@@ -920,3 +920,8 @@ header {
     font-size: 23px;
   }
 }
+
+.img-shadow {
+  -webkit-filter: drop-shadow(2px 2px 2px #222);
+  filter: drop-shadow(2px 2px 2px #222);
+}
