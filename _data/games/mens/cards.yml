@@ -3,10 +3,10 @@
   hour: 10:00 PM
   team1: beaver dam
   team1color: beaverdam
-  # team1score: 
+  team1score: 10
   team2: tvshkahomma
   team2color: tvshkahomma
-  # team2score: 
+  team2score: 3
 
 - game: 2
   date: Thu, Jul 07
@@ -44,8 +44,8 @@
   team1: pearl river
   team1color: pearlriver
   # team1score: 
-  team2: game 1 winner
-  # team2color: 
+  team2: beaver dam
+  team2color: beaverdam
   # team2score: 
 
 - game: 6
