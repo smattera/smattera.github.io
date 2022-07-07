@@ -43,12 +43,12 @@ meta: stickball
         </a>
       </div>
       {% endfor %}
-      <!--{% include modal/mens/game01.html %}
+      {% include modal/mens/game01.html %}
       {% include modal/mens/game02.html %}
       {% include modal/mens/game03.html %}
       {% include modal/mens/game04.html %}
       {% include modal/mens/game05.html %}
-      {% include modal/mens/game06.html %}
+      <!--{% include modal/mens/game06.html %}
       {% include modal/mens/game07.html %}
       {% include modal/mens/game08.html %}
       {% include modal/mens/game09.html %}

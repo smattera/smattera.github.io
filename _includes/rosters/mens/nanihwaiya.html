@@ -1,6 +1,6 @@
-<h5>TIAK HIKÍYA</h5>
+<h5>NANIH WAIYA</h5>
 <h6>COACHES: 
-    {% for coache in site.data.rosters.mens.tiakhikiya.coaches %}
+    {% for coache in site.data.rosters.mens.nanihwaiya.coaches %}
     {{ coache.name }}
     {% unless forloop.last %}
     ,&nbsp;
@@ -9,7 +9,7 @@
 </h6>
 <table class="table table-dark table-striped">
     <tbody>
-        {% for player in site.data.rosters.mens.tiakhikiya.players %}
+        {% for player in site.data.rosters.mens.nanihwaiya.players %}
             <tr>
                 <th scope="row">{{ player.num }}</th>
                 <td>{{ player.name }}</td>
