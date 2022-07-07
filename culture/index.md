@@ -7,7 +7,7 @@ meta: culture
   <div class="container">
   <img src="../assets/img/culture-banner.webp" class="img-fluid d-none d-md-block img-shadow">
   <img src="../assets/img/culture-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
-    <div class="card mb-3 pt-5 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
+    <div class="card mb-3 mt-5 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
       <img src="../assets/img/logos/ayipa.webp" class="card-img-top" alt="Áyi̱pa Village">
       <div class="card-body text-center">
         <div class="row row-cols-1 row-cols-md-3 g-3">
