@@ -48,6 +48,10 @@ meta: stickball
       {% include modal/mens/game03.html %}
       {% include modal/mens/game04.html %}
       {% include modal/mens/game05.html %}
+      {% include modal/mens/game06.html %}
+      {% include modal/mens/game07.html %}
+      {% include modal/mens/game08.html %}
+      {% include modal/mens/game09.html %}
     </div>
     <!--Women's Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Women's Division</h2>
@@ -114,6 +118,11 @@ meta: stickball
         </a>
       </div>
       {% endfor %}
+      {% include modal/mens35/game01.html %}
+      {% include modal/mens35/game02.html %}
+      {% include modal/mens35/game03.html %}
+      {% include modal/mens35/game04.html %}
+      {% include modal/mens35/game05.html %}
     </div>
     <!--Tulli Okchi Ishko (14-17) Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Tulli Okchi Ishko (14-17) Division</h2>
