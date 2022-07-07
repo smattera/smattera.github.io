@@ -10,7 +10,7 @@ meta: events
     <style>
       [class^="bi-geo-alt-fill"]::before, [class*="bi-geo-alt-fill"]::before { vertical-align: middle!important; }
     </style>
-    <h2 class="display-1 shadow-text pt-5">2022 Fair Schedule</h2>
+    <h2 class="display-2 shadow-text pt-5">2022 Fair Schedule</h2>
     {% assign cachedNow = 'now' | date: '%Y-%m-%d' %}
     <ul class="nav nav-pills nav-fill h5" id="myTab" role="tablist">
       {% include eventTabFirst.html day="dayOne" date="2022-07-06" %}

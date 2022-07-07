@@ -7,7 +7,7 @@ meta: pageant
   <div class="container">
     <img src="../assets/img/princess-banner.webp" class="img-fluid d-none d-md-block img-shadow">
     <img src="../assets/img/princess-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
-    <h2 class="shadow-text pt-5">2022 Contestants</h2>
+    <h2 class="display-2 shadow-text pt-5">2022 Contestants</h2>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4 mt-1">
       {% for card in site.data.contestants.cards %}
       <div class="col">
