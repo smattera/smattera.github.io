@@ -129,6 +129,11 @@ meta: stickball
         </a>
       </div>
       {% endfor %}
+      {% include modal/mens35/game01.html %}
+      {% include modal/mens35/game02.html %}
+      {% include modal/mens35/game03.html %}
+      {% include modal/mens35/game04.html %}
+      {% include modal/mens35/game05.html %}
     </div>
     <!--Tulli Okchi Ishko (14-17) Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Tulli Okchi Ishko (14-17) Division</h2>
