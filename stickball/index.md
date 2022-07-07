@@ -84,6 +84,7 @@ meta: stickball
           </div>
         </a>
       </div>
+      {% endfor %}
       {% include modal/womens/game01.html %}
       {% include modal/womens/game02.html %}
       {% include modal/womens/game03.html %}
@@ -95,7 +96,6 @@ meta: stickball
       {% include modal/womens/game09.html %}
       {% include modal/womens/game10.html %}
       {% include modal/womens/game11.html %}
-      {% endfor %}
     </div>
     <!--Men's (35+) Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Men's (35+) Division</h2>
