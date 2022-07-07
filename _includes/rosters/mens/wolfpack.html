@@ -1,69 +1,19 @@
 <h5>WOLFPACK</h5>
-<h6>COACHES: PETER SOCKEY, DAVE WILLIS, MERRILL VAUGHN, DERON WILSON</h6>
+<h6>COACHES: 
+    {% for coache in site.data.rosters.mens.wolfpack.coaches %}
+    {{ coache.name }}
+    {% unless forloop.last %}
+    ,&nbsp;
+    {% endunless %}
+    {% endfor %}
+</h6>
 <table class="table table-dark table-striped">
     <tbody>
-        <tr><th scope="row">0</th><td>JOSH COMBY</td></tr>
-        <tr><th scope="row">2</th><td>HARRINGTON ALLEN</td></tr>
-        <tr><th scope="row">3</th><td>CORDERO JACKSON</td></tr>
-        <tr><th scope="row">4</th><td>HOWARD LEWIS</td></tr>
-        <tr><th scope="row">5</th><td>JOSEPH GIBSON</td></tr>
-        <tr><th scope="row">6</th><td>ALLEN SOCKEY, JR.</td></tr>
-        <tr><th scope="row">7</th><td>MARCUTIO STOLIBY</td></tr>
-        <tr><th scope="row">8</th><td>ERIC YORK</td></tr>
-        <tr><th scope="row">9</th><td>TOKLOW YORK</td></tr>
-        <tr><th scope="row">10</th><td>POUL GIBSON</td></tr>
-        <tr><th scope="row">11</th><td>BRANDON LEWIS</td></tr>
-        <tr><th scope="row">12</th><td>CAMERON SOCKEY</td></tr>
-        <tr><th scope="row">13</th><td>CHRISTIAN SOCKEY</td></tr>
-        <tr><th scope="row">14</th><td>JOSH TUBBY</td></tr>
-        <tr><th scope="row">15</th><td>DION TUBBY</td></tr>
-        <tr><th scope="row">16</th><td>DARREN SMITH</td></tr>
-        <tr><th scope="row">17</th><td>BEN CUTLER</td></tr>
-        <tr><th scope="row">18</th><td>RYAN LEWIS, SR.</td></tr>
-        <tr><th scope="row">19</th><td>DARRIS ISAAC</td></tr>
-        <tr><th scope="row">20</th><td>JOHN C. DIXON</td></tr>
-        <tr><th scope="row">21</th><td>WARREN DIXON</td></tr>
-        <tr><th scope="row">22</th><td>ELIAS JOHNSON</td></tr>
-        <tr><th scope="row">24</th><td>RICKY DENSON, JR.</td></tr>
-        <tr><th scope="row">25</th><td>DAVION TUBBY</td></tr>
-        <tr><th scope="row">26</th><td>SKYLER TUBBY</td></tr>
-        <tr><th scope="row">27</th><td>HAROLD SOCKEY, JR.</td></tr>
-        <tr><th scope="row">28</th><td>CLIFTON JEFFERSON</td></tr>
-        <tr><th scope="row">29</th><td>MERRILL VAUGHN</td></tr>
-        <tr><th scope="row">30</th><td>JAYLON JACKSON</td></tr>
-        <tr><th scope="row">31</th><td>ROBIN WILLIS, JR.</td></tr>
-        <tr><th scope="row">32</th><td>NICK CARDIN</td></tr>
-        <tr><th scope="row">33</th><td>RICKY DENSON, SR.</td></tr>
-        <tr><th scope="row">34</th><td>WOLFGANG CHAPMAN</td></tr>
-        <tr><th scope="row">35</th><td>BRIAN JIM</td></tr>
-        <tr><th scope="row">36</th><td>IRA ANDERSON</td></tr>
-        <tr><th scope="row">37</th><td>LOHA HICKMAN</td></tr>
-        <tr><th scope="row">38</th><td>DAVE WILLIS</td></tr>
-        <tr><th scope="row">39</th><td>DALE SHANKLEFORD</td></tr>
-        <tr><th scope="row">40</th><td>ANDREW SOCKEY</td></tr>
-        <tr><th scope="row">41</th><td>CHANDLER SEXTON</td></tr>
-        <tr><th scope="row">42</th><td>AJ WESLEY</td></tr>
-        <tr><th scope="row">43</th><td>BRANDON JIM</td></tr>
-        <tr><th scope="row">44</th><td>BENNY MITCH</td></tr>
-        <tr><th scope="row">45</th><td>ELI HICKMAN</td></tr>
-        <tr><th scope="row">46</th><td>TERRELL BELL</td></tr>
-        <tr><th scope="row">47</th><td>WENSELY WESLEY</td></tr>
-        <tr><th scope="row">48</th><td>LENNY HALL</td></tr>
-        <tr><th scope="row">49</th><td>ROBERT COMBY</td></tr>
-        <tr><th scope="row">50</th><td>RANDALL JIM</td></tr>
-        <tr><th scope="row">51</th><td>JERRY LEWIS</td></tr>
-        <tr><th scope="row">52</th><td>TOMMY WILLIS</td></tr>
-        <tr><th scope="row">53</th><td>DAMIEN VAUGHN</td></tr>
-        <tr><th scope="row">54</th><td>RAYMOND COMBY</td></tr>
-        <tr><th scope="row">56</th><td>SETH ALLEN</td></tr>
-        <tr><th scope="row">57</th><td>JIMMY WILLIS</td></tr>
-        <tr><th scope="row">58</th><td>JONATHAN GONZALEZ</td></tr>
-        <tr><th scope="row">65</th><td>PETER SOCKEY</td></tr>
-        <tr><th scope="row">69</th><td>LARRY BILLY</td></tr>
-        <tr><th scope="row">82</th><td>BILLY GIBSON</td></tr>
-        <tr><th scope="row">84</th><td>JERREMIAH TUBBY</td></tr>
-        <tr><th scope="row">88</th><td>BRIAN COMBY</td></tr>
-        <tr><th scope="row">98</th><td>LEE SHUMAKE</td></tr>
-        <tr><th scope="row">99</th><td>DERON WILSON</td></tr>
+        {% for player in site.data.rosters.mens.wolfpack.players %}
+            <tr>
+                <th scope="row">{{ player.num }}</th>
+                <td>{{ player.name }}</td>
+            </tr>
+        {% endfor %}
     </tbody>
 </table>
