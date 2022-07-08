@@ -3,40 +3,40 @@
   hour: 6:00 PM
   team1: tiak hikíya ohóyo
   team1color: tiakhikiya
-  # team1score: 
+  team1score: 7
   team2: tucker alhíha
   team2color: tucker
-  # team2score: 
+  team2score: 0
 
 - game: 2
   date: Thu, Jul 07
   hour: 7:00 PM
   team1: nanih waiya ohóyo
   team1color: nanihwaiya
-  # team1score: 
+  team1score: 0
   team2: pearl river
   team2color: pearlriver
-  # team2score: 
+  team2score: 8
 
 - game: 3
   date: Thu, Jul 07
   hour: 8:00 PM
   team1: oka homma ohóyo
   team1color: okahomma
-  # team1score: 
+  team1score: 1
   team2: tvshkahomma ohóyo
   team2color: tvshkahomma
-  # team2score: 
+  team2score: 4
 
 - game: 4
   date: Thu, Jul 07
   hour: 9:00 PM
   team1: beaver dam
   team1color: beaverdam
-  # team1score: 
+  team1score: 1
   team2: natives
   team2color: natives
-  # team2score: 
+  team2score: 6
 
 - game: 5
   date: Fri, Jul 08
@@ -44,15 +44,15 @@
   team1: bók Čito ohóyo
   team1color: bokcito
   # team1score: 
-  team2: game 1 winner
-  # team2color: 
+  team2: tiak hikíya ohóyo
+  team2color: tiakhikiya
   # team2score: 
 
 - game: 6
   date: Fri, Jul 08
   hour: 8:00 PM
-  team1: game 2 winner
-  # team1color: 
+  team1: pearl river
+  team1color: pearlriver
   # team1score: 
   team2: tali ohóyo
   team2color: taliohoyo
@@ -64,15 +64,15 @@
   team1: Il Ittiba Hikíya
   team1color: ilittiba
   # team1score: 
-  team2: game 3 winner
-  # team2color: 
+  team2: tvshkahomma ohóyo
+  team2color: tvshkahomma
   # team2score: 
 
 - game: 8
   date: Sat, Jul 09
   hour: 8:00 PM
-  team1: game 4 winner
-  # team1color: 
+  team1: natives
+  team1color: natives
   # team1score: 
   team2: koni hata ohóyo
   team2color: konihata
