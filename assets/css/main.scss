@@ -40,12 +40,15 @@
 @import "utilities/api";
 // scss-docs-end import-stack
 
+@import url("https://p.typekit.net/p.css?s=1&k=hpv6xpd&ht=tk&f=13407&a=4834640&app=typekit&e=css");
+
 @font-face {
-  font-family: "Bebas Neue";
-  src: url("../fonts/bebasneue-regular-webfont.woff2") format("woff2"),
-    url("../fonts/bebasneue-regular-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
+font-family:"bebas-neue";
+src:url("https://use.typekit.net/af/f9d226/000000000000000077359f59/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/f9d226/000000000000000077359f59/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/f9d226/000000000000000077359f59/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;
+font-style:normal;
+font-weight:400;
+font-stretch:normal;
 }
 
 body {
@@ -72,42 +75,42 @@ a:hover {
 
 h1,
 .h1 {
-  font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+  font-family: "bebas-neue", Arial, Helvetica, sans-serif;
   font-size: 6rem;
   font-weight: normal;
 }
 
 h2,
 .h2 {
-  font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+  font-family: "bebas-neue", Arial, Helvetica, sans-serif;
   font-size: 4rem;
   font-weight: normal;
 }
 
 h3,
 .h3 {
-  font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+  font-family: "bebas-neue", Arial, Helvetica, sans-serif;
   font-size: 3rem;
   font-weight: normal;
 }
 
 h4,
 .h4 {
-  font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+  font-family: "bebas-neue", Arial, Helvetica, sans-serif;
   font-size: 2rem;
   font-weight: normal;
 }
 
 h5,
 .h5 {
-  font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+  font-family: "bebas-neue", Arial, Helvetica, sans-serif;
   font-size: 1.45rem;
   font-weight: normal;
 }
 
 h6,
 .h6 {
-  font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+  font-family: "bebas-neue", Arial, Helvetica, sans-serif;
   font-size: 1.25rem;
   font-weight: normal;
 }
@@ -438,7 +441,7 @@ header {
   mix-blend-mode: lighten;
 }
 .bebas {
-  font-family: "Bebas Neue", sans-serif;
+  font-family: "bebas-neue", sans-serif;
 }
 .shadow-text {
   text-shadow: 0 1px 0 #aaa, 0 2px 0 #a9a9a9, 0 3px 0 #999, 0 4px 0 #999999,
@@ -795,7 +798,7 @@ header {
 .timer {
   background: linear-gradient(#333, #800000);
   padding: 10px;
-  font-family: "Bebas Neue", arial;
+  font-family: "bebas-neue", arial;
 }
 .timer--expired {
   display: none;
