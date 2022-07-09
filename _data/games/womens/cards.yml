@@ -43,30 +43,30 @@
   hour: 7:00 PM
   team1: bók Čito ohóyo
   team1color: bokcito
-  # team1score: 
+  team1score: 0
   team2: tiak hikíya ohóyo
   team2color: tiakhikiya
-  # team2score: 
+  team2score: 2
 
 - game: 6
   date: Fri, Jul 08
   hour: 8:00 PM
   team1: pearl river
   team1color: pearlriver
-  # team1score: 
+  team1score: 5
   team2: tali ohóyo
   team2color: taliohoyo
-  # team2score: 
+  team2score: 0
 
 - game: 7
   date: Fri, Jul 08
   hour: 9:00 PM
   team1: Il Ittiba Hikíya
   team1color: ilittiba
-  # team1score: 
+  team1score: 1
   team2: tvshkahomma ohóyo
   team2color: tvshkahomma
-  # team2score: 
+  team2score: 3
 
 - game: 8
   date: Sat, Jul 09
@@ -81,18 +81,18 @@
 - game: 9
   date: Mon, Jul 11
   hour: 9:00 PM
-  team1: game 5 winner
-  # team1color: 
+  team1: tiak hikíya ohóyo
+  team1color: tiakhikiya
   # team1score: 
-  team2: game 6 winner
-  # team2color: 
+  team2: pearl river
+  team2color: pearlriver
   # team2score: 
 
 - game: 10
   date: Tue, Jul 12
   hour: 9:00 PM
-  team1: game 7 winner
-  # team1color: 
+  team1: tvshkahomma ohóyo
+  team1color: tvshkahomma
   # team1score: 
   team2: game 8 winner
   # team2color: 

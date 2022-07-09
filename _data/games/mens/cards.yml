@@ -23,10 +23,10 @@
   hour: 10:00 PM
   team1: warriors
   team1color: warriors
-  # team1score: 
+  team1score: 4
   team2: tucker
   team2color: tucker
-  # team2score: 
+  team2score: 6
 
 - game: 4
   date: Sat, Jul 09
@@ -64,8 +64,8 @@
   team1: game 5 winner
   # team1color: 
   # team1score: 
-  team2: game 3 winner
-  # team2color: 
+  team2: tucker
+  team2color: tucker 
   # team2score: 
 
 - game: 8
