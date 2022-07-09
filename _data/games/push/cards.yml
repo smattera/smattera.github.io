@@ -3,10 +3,10 @@
   hour: 6:00 PM
   team1: koni osi
   team1color: konihata
-  # team1score: 
+  team1score: 10
   team2: tiak hikíya osi
   team2color: tiakhikiya
-  # team2score: 
+  team2score: 3
 
 - game: 2
   date: Mon, Jul 11
@@ -41,8 +41,8 @@
 - game: 5
   date: Wed, Jul 13
   hour: 4:00 PM
-  team1: game 1 winner
-  # team1color: 
+  team1: koni osi
+  team1color: konihata
   # team1score: 
   team2: game 2 winner
   # team2color: 
