@@ -13,7 +13,7 @@ meta: stickball
     {% endif %}
     <!--Men's Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Men's Division</h2>
-    <h5 class="display-5 shadow-text">(Click teams to see rosters)</h5>
+    <h5 class="display-5 shadow-text">(Click games to see rosters)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.mens.cards %}
       <div class="col">
@@ -56,7 +56,7 @@ meta: stickball
     </div>
     <!--Women's Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Women's Division</h2>
-    <h5 class="display-5 shadow-text">(Click teams to see rosters)</h5>
+    <h5 class="display-5 shadow-text">(Click games to see rosters)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.womens.cards %}
       <div class="col">
@@ -101,7 +101,7 @@ meta: stickball
     </div>
     <!--Men's (35+) Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Men's (35+) Division</h2>
-    <h5 class="display-5 shadow-text">(Click teams to see rosters)</h5>
+    <h5 class="display-5 shadow-text">(Click games to see rosters)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.mens35.cards %}
       <div class="col">
