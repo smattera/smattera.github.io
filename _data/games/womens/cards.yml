@@ -73,10 +73,10 @@
   hour: 8:00 PM
   team1: natives
   team1color: natives
-  # team1score: 
+  team1score: 2
   team2: koni hata ohóyo
   team2color: konihata
-  # team2score: 
+  team2score: 4
 
 - game: 9
   date: Mon, Jul 11
@@ -94,8 +94,8 @@
   team1: tvshkahomma ohóyo
   team1color: tvshkahomma
   # team1score: 
-  team2: game 8 winner
-  # team2color: 
+  team2: koni hata ohóyo
+  team2color: konihata
   # team2score: 
 
 - game: 11

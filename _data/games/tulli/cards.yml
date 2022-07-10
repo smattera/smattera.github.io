@@ -3,10 +3,10 @@
   hour: 6:00 PM
   team1: bók Čito
   team1color: bokcito
-  # team1score: 
+  team1score: 6
   team2: beaver dam
   team2color: beaverdam
-  # team2score: 
+  team2score: 5
 
 - game: 2
   date: Mon, Jul 11
@@ -34,8 +34,8 @@
   team1: koni hata himitah
   team1color: konihata
   # team1score: 
-  team2: game 1 winner
-  # team2color: 
+  team2: bók Čito
+  team2color: bokcito
   # team2score: 
 
 - game: 5
