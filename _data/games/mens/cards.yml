@@ -43,10 +43,10 @@
   hour: 10:00 PM
   team1: pearl river
   team1color: pearlriver
-  # team1score: 
+  team1score: 3
   team2: beaver dam
   team2color: beaverdam
-  # team2score: 
+  team2score: 2
 
 - game: 6
   date: Tue, Jul 12
@@ -61,8 +61,8 @@
 - game: 7
   date: Wed, Jul 13
   hour: 10:15 PM
-  team1: game 5 winner
-  # team1color: 
+  team1: pearl river
+  team1color: pearlriver
   # team1score: 
   team2: tucker
   team2color: tucker 

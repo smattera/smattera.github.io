@@ -13,10 +13,10 @@
   hour: 6:00 PM
   team1: nanih waiya
   team1color: nanihwaiya
-  # team1score: 
+  team1score: 4
   team2: bók Čito
   team2color: bokcito
-  # team2score: 
+  team2score: 6
 
 - game: 3
   date: Tue, Jul 12
@@ -44,8 +44,8 @@
   team1: koni osi
   team1color: konihata
   # team1score: 
-  team2: game 2 winner
-  # team2color: 
+  team2: bók Čito
+  team2color: bokcito
   # team2score: 
 
 - game: 6
