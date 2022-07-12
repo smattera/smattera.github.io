@@ -5,7 +5,7 @@
   team1color: tiakhikiya
   team1score: 7
   team2: tucker alhíha
-  team2color: tucker
+  team2color: tuckeralhiha
   team2score: 0
 
 - game: 2
@@ -73,20 +73,20 @@
   hour: 8:00 PM
   team1: natives
   team1color: natives
-  # team1score: 
+  team1score: 2
   team2: koni hata ohóyo
   team2color: konihata
-  # team2score: 
+  team2score: 4
 
 - game: 9
   date: Mon, Jul 11
   hour: 9:00 PM
   team1: tiak hikíya ohóyo
   team1color: tiakhikiya
-  # team1score: 
+  team1score: 1
   team2: pearl river
   team2color: pearlriver
-  # team2score: 
+  team2score: 3
 
 - game: 10
   date: Tue, Jul 12
@@ -94,8 +94,8 @@
   team1: tvshkahomma ohóyo
   team1color: tvshkahomma
   # team1score: 
-  team2: game 8 winner
-  # team2color: 
+  team2: koni hata ohóyo
+  team2color: konihata
   # team2score: 
 
 - game: 11
@@ -104,6 +104,6 @@
   team1: game 10 winner
   # team1color: 
   # team1score: 
-  team2: game 9 winner
-  # team2color: 
+  team2: pearl river
+  team2color: pearlriver
   # team2score: 

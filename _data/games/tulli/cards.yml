@@ -3,20 +3,20 @@
   hour: 6:00 PM
   team1: bók Čito
   team1color: bokcito
-  # team1score: 
+  team1score: 6
   team2: beaver dam
   team2color: beaverdam
-  # team2score: 
+  team2score: 5
 
 - game: 2
   date: Mon, Jul 11
   hour: 7:00 PM
   team1: pearl river
   team1color: pearlriver
-  # team1score: 
+  team1score: 8
   team2: nanih waiya  
   team2color: nanihwaiya
-  # team2score: 
+  team2score: 0
 
 - game: 3
   date: Tue, Jul 12
@@ -34,15 +34,15 @@
   team1: koni hata himitah
   team1color: konihata
   # team1score: 
-  team2: game 1 winner
-  # team2color: 
+  team2: bók Čito
+  team2color: bokcito
   # team2score: 
 
 - game: 5
   date: Thu, Jul 14
   hour: 6:00 PM
-  team1: game 2 winner
-  # team1color: 
+  team1: pearl river
+  team1color: pearlriver
   # team1score: 
   team2: game 3 winner
   # team2color: 
