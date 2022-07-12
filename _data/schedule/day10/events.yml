@@ -146,12 +146,17 @@
   category: Choctaw Social Dancing
   style: culture
   location: Dance Grounds
+- title: Fani Lakna Social Dancers
+  hour: 5:00 PM
+  category: Choctaw Social Dancing
+  style: culture
+  location: Main Stage
 - title: Dinosaur Experience
   hour: 5:30 PM
   category:
   location: O̱SSI COVE
 - title: Closing Ceremonies
-  hour: 6:00 PM
+  hour: 5:30 PM
   category: 
   location: Main Stage
 - title: 2021 WSS Men's Championship Game
@@ -167,7 +172,7 @@
   category:
   location: O̱SSI COVE
 - title: MYSTIC WIND CHAHTA SOCIAL DANCERS
-  hour: 7:00 PM
+  hour: 6:30 PM
   category: Choctaw Social Dancing
   style: culture
   location: Main Stage
@@ -175,15 +180,41 @@
   hour: 7:00 PM
   category:
   location: O̱SSI COVE
-- title: Lady A
+- title: Rez Dawg
+  hour: 7:15 PM
+  category: Live Entertainment
+  location: Main Stage
+- title: Pushmataha (10-13) Division&#58; Championship
+  hour: 8:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
+- title: World Series Stickball Watch Party
+  hour: 8:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
+- title: Bret Michaels
   hour: 8:30 PM
   category: Live Entertainment
   location: Main Stage
+- title: Women's Division&#58; Championship
+  hour: 9:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
+- title: World Series Stickball Watch Party
+  hour: 9:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Men's Division&#58; Championship
   hour: 10:15 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: World Series Stickball Watch Party
+  hour: 10:15 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: The 2022 Choctaw Indian Fair officially closes
   hour: 2:00 AM
   category:

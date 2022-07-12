@@ -136,11 +136,6 @@
   hour: 4:30 PM
   category:
   location: O̱SSI COVE
-- title: Pushmataha (10-13) Division&#58; Championship
-  hour: 5:00 PM
-  category: world series stickball
-  style: stickball
-  location: Warrior Stadium
 - title: HIMIFFOWA ALHÍHA SOCIAL DANCERS
   hour: 5:00 PM
   category: Choctaw Social Dancing
@@ -155,11 +150,6 @@
   hour: 5:30 PM
   category:
   location: O̱SSI COVE
-- title: Tulli Okchi Ishko (14-17) Division&#58; Championship
-  hour: 6:00 PM
-  category: world series stickball
-  style: stickball
-  location: Warrior Stadium
 - title: 2021 WSS Women's Championship Game
   hour: 6:00 PM
   category: Replay Of
@@ -190,13 +180,21 @@
   hour: 8:30 PM
   category: Live Entertainment
   location: Main Stage
+- title: Tulli Okchi Ishko (14-17) Division&#58; Championship
+  hour: 10:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
+- title: World Series Stickball Watch Party
+  hour: 10:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Men's (35+) Division&#58; Championship
-  hour: 10:15 PM
+  hour: 11:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: Women's Division&#58; Championship
-  hour: 11:30 PM
-  category: world series stickball
-  style: stickball
-  location: Warrior Stadium
+- title: World Series Stickball Watch Party
+  hour: 11:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
