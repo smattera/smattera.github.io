@@ -180,10 +180,10 @@
   hour: 7:00 PM
   category:
   location: O̱SSI COVE
-- title: Rez Dawg
-  hour: 7:15 PM
-  category: Live Entertainment
-  location: Main Stage
+#- title: Rez Dawg
+#  hour: 7:15 PM
+#  category: Live Entertainment
+#  location: Main Stage
 - title: Pushmataha (10-13) Division&#58; Championship
   hour: 8:00 PM
   category: world series stickball
@@ -193,10 +193,10 @@
   hour: 8:00 PM
   category:
   location: ÁYI̱PA VILLAGE
-- title: Bret Michaels
-  hour: 8:30 PM
-  category: Live Entertainment
-  location: Main Stage
+#- title: Bret Michaels
+#  hour: 8:30 PM
+#  category: Live Entertainment
+#  location: Main Stage
 - title: Women's Division&#58; Championship
   hour: 9:00 PM
   category: world series stickball
