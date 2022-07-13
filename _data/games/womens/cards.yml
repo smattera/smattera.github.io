@@ -93,16 +93,16 @@
   hour: 9:00 PM
   team1: tvshkahomma ohóyo
   team1color: tvshkahomma
-  # team1score: 
+  team1score: 0
   team2: koni hata ohóyo
   team2color: konihata
-  # team2score: 
+  team2score: 2
 
 - game: 11
   date: Fri, Jul 15
   hour: 11:30 PM
-  team1: game 10 winner
-  # team1color: 
+  team1: koni hata ohóyo
+  team1color: konihata
   # team1score: 
   team2: pearl river
   team2color: pearlriver

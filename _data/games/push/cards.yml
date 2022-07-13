@@ -23,20 +23,20 @@
   hour: 5:00 PM
   team1: beaver dam
   team1color: beaverdam
-  # team1score: 
+  team1score: 10
   team2: fani lakna osi
   team2color: tucker
-  # team2score: 
+  team2score: 6
 
 - game: 4
   date: Tue, Jul 12
   hour: 7:00 PM
   team1: oka homma
   team1color: okahomma
-  # team1score: 
+  team1score: 0
   team2: pearl river
   team2color: pearlriver
-  # team2score: 
+  team2score: 14
 
 - game: 5
   date: Wed, Jul 13
@@ -51,11 +51,11 @@
 - game: 6
   date: Thu, Jul 14
   hour: 5:00 PM
-  team1: game 3 winner
-  # team1color: 
+  team1: beaver dam
+  team1color: beaverdam
   # team1score: 
-  team2: game 4 winner
-  # team2color: 
+  team2: pearl river
+  team2color: pearlriver
   # team2score: 
 
 - game: 7

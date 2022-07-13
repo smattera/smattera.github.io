@@ -33,10 +33,10 @@
   hour: 8:00 PM
   team1: tvshkahomma
   team1color: tvshkahomma
-  # team1score: 
+  team1score: 1
   team2: koni hata
   team2color: konihata
-  # team2score: 
+  team2score: 4
 
 - game: 5
   date: Fri, Jul 15
@@ -44,6 +44,6 @@
   team1: beaver dam
   team1color: beaverdam
   # team1score: 
-  team2: game 4 winner
-  # team2color: 
+  team2: koni hata
+  team2color: konihata
   # team2score: 
