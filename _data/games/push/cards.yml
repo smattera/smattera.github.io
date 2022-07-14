@@ -43,10 +43,10 @@
   hour: 4:00 PM
   team1: koni osi
   team1color: konihata
-  # team1score: 
+  team1score: 8
   team2: bók Čito
   team2color: bokcito
-  # team2score: 
+  team2score: 1
 
 - game: 6
   date: Thu, Jul 14
@@ -61,8 +61,8 @@
 - game: 7
   date: Sat, Jul 16
   hour: 8:00 PM
-  team1: game 5 winner
-  # team1color: 
+  team1: koni osi
+  team1color: konihata
   # team1score: 
   team2: game 6 winner
   # team2color: 

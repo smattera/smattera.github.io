@@ -33,10 +33,10 @@
   hour: 5:00 PM
   team1: koni hata himitah
   team1color: konihata
-  # team1score: 
+  team1score: 2
   team2: bók Čito
   team2color: bokcito
-  # team2score: 
+  team2score: 5
 
 - game: 5
   date: Thu, Jul 14
@@ -51,8 +51,8 @@
 - game: 6
   date: Fri, Jul 15
   hour: 10:00 PM
-  team1: game 4 winner
-  # team1color: 
+  team1: bók Čito
+  team1color: bokcito
   # team1score: 
   team2: game 5 winner
   # team2color: 
