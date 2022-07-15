@@ -73,17 +73,17 @@
   hour: 10:15 PM
   team1: bók Čito
   team1color: bokcito
-  # team1score: 
+  team1score: 3
   team2: koni hata
   team2color: konihata
-  # team2score: 
+  team2score: 1
 
 - game: 9
   date: Sat, Jul 16
   hour: 10:15 PM
-  team1: game 8 winner
-  # team1color: 
-  # team1score: 2
+  team1: bók Čito
+  team1color: bokcito
+  # team1score: 
   team2: pearl river
   team2color: pearlriver
   # team2score: 
