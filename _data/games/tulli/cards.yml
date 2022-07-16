@@ -12,7 +12,7 @@
   date: Mon, Jul 11
   hour: 7:00 PM
   team1: pearl river
-  team1color: pearlriver
+  team1color: pearlrivertulli
   team1score: 8
   team2: nanih waiya  
   team2color: nanihwaiya
@@ -42,7 +42,7 @@
   date: Thu, Jul 14
   hour: 6:00 PM
   team1: pearl river
-  team1color: pearlriver
+  team1color: pearlrivertulli
   team1score: 6
   team2: oka homma
   team2color: okahomma
@@ -55,5 +55,5 @@
   team1color: bokcito
   # team1score: 
   team2: pearl river
-  team2color: pearlriver
+  team2color: pearlrivertulli
   # team2score: 
