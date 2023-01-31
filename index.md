@@ -44,7 +44,7 @@ meta: home
 
 <section class="diamond-bg2">
   <div class="container">
-    <!--{% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 12, 2023 11:00:00" border="gold" %}-->
+    {% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 12, 2023 11:00:00" border="gold" %}
     <row class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-0 card-gold-border mt-5">
       <div class="col">
         <a href="/events/">
