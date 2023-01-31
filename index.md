@@ -24,13 +24,13 @@ meta: home
   <div class="container">
     <div class="row align-items-center">
       <div class="col-xl">
-        <img class="card-gold-border img-fluid" src="/assets/img/chiefprincess.webp" alt="Chief & Princess 2021"/>
+        <img class="card-gold-border img-fluid" src="/assets/img/chiefprincess.webp" alt="Chief & Princess 2022"/>
       </div>
       <div class="col-xl">
         <br class="d-xl-none"/>
         <h1 class="display-1 mb-0 shadow-text">Halito!</h1>
         <p class="lead my-1 mb-3">
-          Greetings from the Choctaw Indian Reservation. We invite you to join us <strong>July 13-16</strong> for our 72nd annual Choctaw Indian Fair. The fair takes place on our centuries-old homeland in beautiful Choctaw, Mississippi. We gather each July to celebrate our heritage and share our beautiful and vibrant culture with our friends and neighbors. This year’s fair theme is:
+          Greetings from the Choctaw Indian Reservation. We invite you to join us <strong>July 12-15</strong> for our 73rd annual Choctaw Indian Fair. The fair takes place on our centuries-old homeland in beautiful Choctaw, Mississippi. We gather each July to celebrate our heritage and share our beautiful and vibrant culture with our friends and neighbors. This year’s fair theme is:
         </p>
         <p class="h3 display-3 mb-0">"The Choctaw Spirit Lives On"</p>
         <p class="lead my-1 mb-3">
@@ -44,7 +44,7 @@ meta: home
 
 <section class="diamond-bg2">
   <div class="container">
-    <!--{% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 13, 2022 11:00:00" border="gold" %}-->
+    <!--{% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 12, 2023 11:00:00" border="gold" %}-->
     <row class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-0 card-gold-border mt-5">
       <div class="col">
         <a href="/events/">
