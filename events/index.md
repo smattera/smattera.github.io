@@ -5,6 +5,11 @@ meta: events
 ---
 <section class="diamond-bg">
   <div class="container">
+    <h2 class="display-2 shadow-text pt-5">2023 Fair Schedule<br>Coming Soon!</h2>
+  </div>
+</section>
+<!-- <section class="diamond-bg">
+  <div class="container">
     <img src="../assets/img/event-banner.webp" class="img-fluid d-none d-md-block img-shadow">
     <img src="../assets/img/event-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
     <style>
@@ -307,7 +312,7 @@ meta: events
       </div>
     </div>
   </div>
-</section>
+</section>-->
 
 <script>
   var triggerTabList = [].slice.call(document.querySelectorAll('#myTab a'))
