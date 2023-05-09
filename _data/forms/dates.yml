@@ -1,6 +1,3 @@
-# - date: May 2
-#   time: 6 PM
-#   event: Stickball Coaches Meeting @ Amphitheater
 # - date: May 6
 #   time: 1 PM
 #   event: Dance Group Entry Deadline @ CAP Office
@@ -10,9 +7,6 @@
 # - date: May 12
 #   time: 6:30 PM
 #   event: Dance Group Drawing @ Office of Economic Development
-# - date: May 16
-#   time: 4 PM
-#   event: Adult Stickball Team Entry Deadline @ Amphitheater
 # - date: May 19
 #   time: COB
 #   event: CIF T-Shirt Orders Deadline
@@ -82,15 +76,33 @@
 # - date: July 12
 #   time: 4:30 PM
 #   event: Exhibit Judging
+- date: April 3
+  time: 6:00 PM
+  event: Stickball Coaches Meeting
 - date: April 6
   time: 9:30 AM
   event: Fair Meeting (GM VIP)
 - date: May 11
   time: 10:00 AM
   event: Fair Meeting (GM VIP)
+- date: May 15
+  time: 4:00 PM
+  event: Adult Stickball Team Entry Deadline
 - date: May 25
   time: 10:00 AM
   event: Fair Meeting (GM VIP)
+- date: May 26
+  time: 12:00 PM
+  event: Princess Pageant Contestant Deadline
+- date: June 5
+  time: COB
+  event: Exhibition Games Registration Deadline
+- date: June 6
+  time: 12:00 PM
+  event: Princess Pageant Escort Deadline
+- date: June 6
+  time: COB
+  event: Food Concessions and Parking Services Bid Deadline
 - date: June 15
   time: 10:00 AM
   event: Fair Meeting (GM Orion)
