@@ -1,68 +1,68 @@
 - image: rezrun
   title: Rez Run
   desc: The run is held in Choctaw, MS and trails through the reservation of the Mississippi Choctaw and the Choctaw Indian fairgrounds. The Mississippi Band of Choctaw Indians proudly welcomes all runners and visitors to the 72nd Annual Choctaw Indian Fair.
-  contact: John Ferguson
-  phone: 601-650-1765
-  alert: Pre-register by July 1, 2022. Pre-registered competitors are guaranteed an official Rez Run t-shirt!
-  firstLink: https://raceroster.com/events/2022/60504/rez-run
+  contact: Nikki Comby
+  phone: 601-650-1527
+  alert: Pre-register by June 23, 2023. Pre-registered competitors are guaranteed an official Rez Run t-shirt!
+  firstLink: https://raceroster.com/events/2023/75580/rez-run
   firstAction: Register Online
-  secondLink: ../assets/pdf/2022 Rez Run Registration.pdf
+  secondLink: ../assets/pdf/2023 Rez Run Registration.pdf
   secondAction: Registration Form
 
-- image: ironwarrior
-  title: Iron Warrior
-  desc: Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order to be called the 2022 IRON WARRIOR!
-  contact: Sam Farve
-  phone: 601-656-0620
-  alert: Pre-register for $25 by June 24, 2022. Pre-registered competitors are guaranteed an official Iron Warrior t-shirt!
-  firstLink: ../assets/pdf/2022 Iron Warrior Flyer.pdf
-  firstAction: Download Flyer
-  secondLink: ../assets/pdf/2022 Iron Warrior Registration.pdf
-  secondAction: Registration Form
+# - image: ironwarrior
+#   title: Iron Warrior
+#   desc: Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order to be called the 2022 IRON WARRIOR!
+#   contact: Sam Farve
+#   phone: 601-656-0620
+#   alert: Pre-register for $25 by June 24, 2022. Pre-registered competitors are guaranteed an official Iron Warrior t-shirt!
+#   firstLink: ../assets/pdf/2022 Iron Warrior Flyer.pdf
+#   firstAction: Download Flyer
+#   secondLink: ../assets/pdf/2022 Iron Warrior Registration.pdf
+#   secondAction: Registration Form
 
-- image: cornhole
-  title: Cornhole Tournament
-  desc: Think you have good cornhole skills? Come to the Cornhole Tournament and compete against other players for cash prizes. Tribal Members can participate in their own Cornhole Tournament on Friday, July 15, 2022. On Saturday, July 16, 2022, everyone is invited to compete in the final Cornhole Tournament. Cash prizes for 1st, 2nd, and 3rd Place team!
-  firstLink: ../assets/pdf/CornholeTournamentRegistrationFriJuly2022.pdf
-  firstAction: Tribal Member Form
-  secondLink: ../assets/pdf/CornholeTournamentRegistrationSatJuly2022.pdf
-  secondAction: Registration Form
+# - image: cornhole
+#   title: Cornhole Tournament
+#   desc: Think you have good cornhole skills? Come to the Cornhole Tournament and compete against other players for cash prizes. Tribal Members can participate in their own Cornhole Tournament on Friday, July 15, 2022. On Saturday, July 16, 2022, everyone is invited to compete in the final Cornhole Tournament. Cash prizes for 1st, 2nd, and 3rd Place team!
+#   firstLink: ../assets/pdf/CornholeTournamentRegistrationFriJuly2022.pdf
+#   firstAction: Tribal Member Form
+#   secondLink: ../assets/pdf/CornholeTournamentRegistrationSatJuly2022.pdf
+#   secondAction: Registration Form
 
-- image: volleyball
-  title: Volleyball Tournament
-  desc: Join us for the first ever Choctaw Indian Fair Volleyball Tournament on July 8th and 9th at the Choctaw Central High School Gymnasium.
-  alert: Deadline to enter is Friday, July 1, 2022.
-  firstLink: ../assets/pdf/2022 Volleyball Tournament Flyer.pdf
-  firstAction: Download Flyer
-  secondLink: ../assets/pdf/2022 Volleyball Tournament Registration.pdf
-  secondAction: Registration Form
+# - image: volleyball
+#   title: Volleyball Tournament
+#   desc: Join us for the first ever Choctaw Indian Fair Volleyball Tournament on July 8th and 9th at the Choctaw Central High School Gymnasium.
+#   alert: Deadline to enter is Friday, July 1, 2022.
+#   firstLink: ../assets/pdf/2022 Volleyball Tournament Flyer.pdf
+#   firstAction: Download Flyer
+#   secondLink: ../assets/pdf/2022 Volleyball Tournament Registration.pdf
+#   secondAction: Registration Form
 
-- image: gospel-night
-  title: Gospel Night
-  desc: Gospel Night is the first concert of the Choctaw Indian Fair where Christian music groups and soloists perform at Áyi̱pa Village.
-  alert: Deadline to enter is Friday, July 8, 2022 at 4:00 PM.
-  secondLink: ../assets/pdf/2022 CIF Gospel Night Entry Form.pdf
-  secondAction: Registration Form
+# - image: gospel-night
+#   title: Gospel Night
+#   desc: Gospel Night is the first concert of the Choctaw Indian Fair where Christian music groups and soloists perform at Áyi̱pa Village.
+#   alert: Deadline to enter is Friday, July 8, 2022 at 4:00 PM.
+#   secondLink: ../assets/pdf/2022 CIF Gospel Night Entry Form.pdf
+#   secondAction: Registration Form
 
-- image: lil-pageant
-  title: Little Mr. & Miss. Choctaw Indian Fair Pageant
-  desc: This year's Little Mr. & Miss. Choctaw Indian Fair Pageant will take place on Wednesday, July 13, 2022 at 1:00 PM. Participants will compete in their traditional attire. The age divisions are 1-2 yrs, 3-4 yrs, 5-7 yrs, and 8-10 yrs.
-  alert: Deadline to enter is Monday, July 11, 2022 at 4:30 PM.
-  firstLink: ../assets/pdf/2022 Little Mr. & Miss CIF Pageant Flyer.pdf
-  firstAction: Download Flyer
-  secondLink: ../assets/pdf/2022 Little Mr. & Miss CIF Pageant Registration Form.pdf
-  secondAction: Registration Form
+# - image: lil-pageant
+#   title: Little Mr. & Miss. Choctaw Indian Fair Pageant
+#   desc: This year's Little Mr. & Miss. Choctaw Indian Fair Pageant will take place on Wednesday, July 13, 2022 at 1:00 PM. Participants will compete in their traditional attire. The age divisions are 1-2 yrs, 3-4 yrs, 5-7 yrs, and 8-10 yrs.
+#   alert: Deadline to enter is Monday, July 11, 2022 at 4:30 PM.
+#   firstLink: ../assets/pdf/2022 Little Mr. & Miss CIF Pageant Flyer.pdf
+#   firstAction: Download Flyer
+#   secondLink: ../assets/pdf/2022 Little Mr. & Miss CIF Pageant Registration Form.pdf
+#   secondAction: Registration Form
 
-- image: frybread
-  title: Fry Bread Making Contest
-  desc: Contest is open to all individuals. There will be an on-site registration area so sign up and submit your fry bread. A panel of judges will review the submission and present awards for OVERALL BIGGEST, OVERALL FLUFFIEST, and OVERALL GOLDEN FRY BREAD.
-  alert: There will be on-site registration from 12:00 - 2:30 PM on Saturday, July 16, 2022.
-  firstLink: ../assets/pdf/2022 Fry Bread Making.pdf
-  firstAction: Download Flyer
+# - image: frybread
+#   title: Fry Bread Making Contest
+#   desc: Contest is open to all individuals. There will be an on-site registration area so sign up and submit your fry bread. A panel of judges will review the submission and present awards for OVERALL BIGGEST, OVERALL FLUFFIEST, and OVERALL GOLDEN FRY BREAD.
+#   alert: There will be on-site registration from 12:00 - 2:30 PM on Saturday, July 16, 2022.
+#   firstLink: ../assets/pdf/2022 Fry Bread Making.pdf
+#   firstAction: Download Flyer
 
-- image: watermelon
-  title: Watermelon Eating Contest
-  desc: Who can eat watermelon the fastest? One entry per participant, 20 participants per competition, two competitions per day. Contest is open to the public.
-  alert: There will be on-site registration from 12:30 - 1:00 PM on Thursday, July 14 - Saturday, July 17, 2022
-  firstLink: ../assets/pdf/2022 Watermelon Eating Competition.pdf
-  firstAction: Download Flyer
+# - image: watermelon
+#   title: Watermelon Eating Contest
+#   desc: Who can eat watermelon the fastest? One entry per participant, 20 participants per competition, two competitions per day. Contest is open to the public.
+#   alert: There will be on-site registration from 12:30 - 1:00 PM on Thursday, July 14 - Saturday, July 17, 2022
+#   firstLink: ../assets/pdf/2022 Watermelon Eating Competition.pdf
+#   firstAction: Download Flyer
