@@ -1,13 +1,13 @@
-- image: rezrun
+- image: rezRun
   title: Rez Run
-  desc: The run is held in Choctaw, MS and trails through the reservation of the Mississippi Choctaw and the Choctaw Indian fairgrounds. The Mississippi Band of Choctaw Indians proudly welcomes all runners and visitors to the 72nd Annual Choctaw Indian Fair.
+  desc: The run is held in Choctaw, MS and trails through the reservation of the Mississippi Choctaw and the Choctaw Indian fairgrounds. The Mississippi Band of Choctaw Indians proudly welcomes all runners and visitors to the 73rd Edition of the Choctaw Indian Fair.
   contact: Nikki Comby
   phone: 601-650-1527
   alert: Pre-register by June 23, 2023. Pre-registered competitors are guaranteed an official Rez Run t-shirt!
   firstLink: https://raceroster.com/events/2023/75580/rez-run
   firstAction: Register Online
   secondLink: ../assets/pdf/2023 Rez Run Registration.pdf
-  secondAction: Registration Form
+  secondAction: Download Form
 
 # - image: ironwarrior
 #   title: Iron Warrior
@@ -20,13 +20,17 @@
 #   secondLink: ../assets/pdf/2022 Iron Warrior Registration.pdf
 #   secondAction: Registration Form
 
-# - image: cornhole
-#   title: Cornhole Tournament
-#   desc: Think you have good cornhole skills? Come to the Cornhole Tournament and compete against other players for cash prizes. Tribal Members can participate in their own Cornhole Tournament on Friday, July 15, 2022. On Saturday, July 16, 2022, everyone is invited to compete in the final Cornhole Tournament. Cash prizes for 1st, 2nd, and 3rd Place team!
-#   firstLink: ../assets/pdf/CornholeTournamentRegistrationFriJuly2022.pdf
-#   firstAction: Tribal Member Form
-#   secondLink: ../assets/pdf/CornholeTournamentRegistrationSatJuly2022.pdf
-#   secondAction: Registration Form
+- image: tribalCornhole
+  title: Tribal Member Cornhole Tournament
+  desc: Open to Tribal Affiliates. This year's Tribal Member Cornhole Tournament will have two divisions, Social Division and Competitive Division. Cash prizes for 1st, 2nd, and 3rd Place teams! Top 10 Teams in Competitive Division Advance for Free to Open Tourney!
+  firstLink: https://forms.office.com/r/GmU5rVbqA0
+  firstAction: Register Online
+
+- image: openCornhole
+  title: Open Cornhole Tournament
+  desc: Free Fair Admission with Team Entry Fee ($60). Bracket Style / Double Elimination. Cash prizes for 1st, 2nd, and 3rd Place teams! Come see Chase Rice in Concert at 8:30 PM!
+  firstLink: https://forms.office.com/r/dre886jmaJ
+  firstAction: Register Online
 
 # - image: volleyball
 #   title: Volleyball Tournament
@@ -37,12 +41,12 @@
 #   secondLink: ../assets/pdf/2022 Volleyball Tournament Registration.pdf
 #   secondAction: Registration Form
 
-# - image: gospel-night
-#   title: Gospel Night
-#   desc: Gospel Night is the first concert of the Choctaw Indian Fair where Christian music groups and soloists perform at Áyi̱pa Village.
-#   alert: Deadline to enter is Friday, July 8, 2022 at 4:00 PM.
-#   secondLink: ../assets/pdf/2022 CIF Gospel Night Entry Form.pdf
-#   secondAction: Registration Form
+- image: gospelNight
+  title: Gospel Night
+  desc: Gospel Night is the first concert of the Choctaw Indian Fair where Christian music groups and soloists perform at Áyi̱pa Village.
+  alert: Deadline to enter is Friday, July 6, 2023 at 4:00 PM.
+  firstLink: https://forms.office.com/r/VjdyU3SPyC
+  firstAction: Register Online
 
 # - image: lil-pageant
 #   title: Little Mr. & Miss. Choctaw Indian Fair Pageant
