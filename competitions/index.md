@@ -7,7 +7,6 @@ meta: competitions
   <div class="container">
     <img src="../assets/img/competition-banner.webp" class="img-fluid d-none d-md-block img-shadow">
     <img src="../assets/img/competition-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
-    <h2 class="display-2 shadow-text pt-5">2023 Competitions</h2>
     <div class="row row-cols-1 row-cols-xl-2 row-cols-xxl-3 g-4 pt-5">
       {% for card in site.data.competitions.cards %}
         <div class="col">

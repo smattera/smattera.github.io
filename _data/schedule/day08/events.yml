@@ -1,158 +1,158 @@
-# Thu, Jul 14, 2022
-- title: Gates Open
-  hour: 11:00 AM
-  category: 
-  location: Fairgrounds
-- title: BOGUE CHITTO SOCIAL DANCERS
-  hour: 11:00 AM
-  category: Social Dancing
-  style: culture
-  location: Dance Grounds
-- title: Reptile Walk-Thru Experience Opens
-  hour: 11:00 AM
-  category:
-  location: O̱SSI COVE
-- title: Rock-It Robot
-  hour: 11:00 AM
-  category:
-  location: Fairgrounds
-- title: 2022-2023 CHOCTAW INDIAN PRINCESS
-  hour: 11:45 AM
-  category: INTRODUCTION OF
-  style: pageant
-  location: Dance Grounds
-- title: HILHA IM ACHOKMA ALHÍHA
-  hour: 12:00 PM
-  category: Social Dancing
-  style: culture
-  location: Dance Grounds
-- title: Michelle's Magical Poodle Show
-  hour: 12:00 PM
-  category:
-  location: ÁYI̱PA VILLAGE
-- title: Visiting Princesses
-  hour: 12:45 PM
-  category: INTRODUCTION OF
-  style: pageant
-  location: Dance Grounds
-- title: Iron Warrior&#58; Women's Time Trials Begin
-  hour: 1:00 PM
-  category: Competitions
-  style: competitions
-  location: In Front Of Exhibit Hall
-- title: Watermelon Eating Contest
-  hour: 1:00 PM
-  category: Competitions
-  style: competitions
-  location: ÁYI̱PA VILLAGE
-- title: Rock-It Robot
-  hour: 1:00 PM
-  category:
-  location: Fairgrounds
-- title: Storytelling
-  hour: 1:45 PM
-  category:
-  style: culture
-  location: Dance Grounds
-- title: TIAK HIKÍYA HIMITTOWA HILHA
-  hour: 2:00 PM
-  category: Choctaw Social Dancing
-  style: culture
-  location: Dance Grounds
-- title: Stickball Demonstration
-  hour: 2:00 PM
-  category:
-  style: culture
-  location: ÁYI̱PA VILLAGE
-- title: Scales, Tails & Teeth Show
-  hour: 2:30 PM
-  category:
-  location: O̱SSI COVE
-- title: Storytelling
-  hour: 2:45 PM
-  category:
-  style: culture
-  location: Dance Grounds
-- title: Iron Warrior&#58; Men's Time Trials Begin
-  hour: 3:00 PM
-  category: Competitions
-  style: competitions
-  location: In Front Of Exhibit Hall
-- title: Frybread Making Demonstration
-  hour: 3:00 PM
-  category:
-  style: culture
-  location: ÁYI̱PA VILLAGE
-- title: BOGUE HOMA DANCE GROUP
-  hour: 3:00 PM
-  category: Choctaw Social Dancing
-  style: culture
-  location: Dance Grounds
-- title: Birds & Exotics of the World Show
-  hour: 3:30 PM
-  category:
-  location: O̱SSI COVE
-- title: Rock-It Robot
-  hour: 4:00 PM
-  category:
-  location: Fairgrounds
-- title: 2022-2023 CHOCTAW INDIAN PRINCESS
-  hour: 4:00 PM
-  category: INTRODUCTION OF
-  style: pageant
-  location: ÁYI̱PA VILLAGE
-- title: Scales, Tails & Teeth Show
-  hour: 4:30 PM
-  category:
-  location: O̱SSI COVE
-- title: Pushmataha (10-13) Division&#58; Game 6
-  hour: 5:00 PM
-  category: world series stickball
-  style: stickball
-  location: Warrior Stadium
-- title: ITTÁYYOKLA SOCIAL DANCERS
-  hour: 5:00 PM
-  category: Choctaw Social Dancing
-  style: culture
-  location: ÁYI̱PA VILLAGE
-- title: ITTI KÁNA HILHA ALHÍHA SOCIAL DANCERS
-  hour: 5:00 PM
-  category: Choctaw Social Dancing
-  style: culture
-  location: Main Stage
-- title: Birds & Exotics of the World Show
-  hour: 5:30 PM
-  category:
-  location: O̱SSI COVE
-- title: Tulli Okchi Ishko (14-17) Division&#58; Game 5
-  hour: 6:00 PM
-  category: world series stickball
-  style: stickball
-  location: Warrior Stadium
-- title: 2021 Choctaw Indian Princess Pageant
-  hour: 6:00 PM
-  category: Replay of
-  style: pageant
-  location: ÁYI̱PA VILLAGE
-- title: Reptile Walk-Thru Experience Opens
-  hour: 6:00 PM
-  category:
-  location: O̱SSI COVE
-- title: CHOCTAW TRIBAL SOCIAL DANCERS
-  hour: 7:00 PM
-  category: Choctaw Social Dancing
-  style: culture
-  location: Main Stage
-- title: Ryan Hurd
-  hour: 8:30 PM
-  category: Live Entertainment
-  location: Main Stage
-- title: Men's Division&#58; Game 8
-  hour: 10:15 PM
-  category: world series stickball
-  style: stickball
-  location: Warrior Stadium
-- title: World Series Stickball Watch Party
-  hour: 10:15 PM
-  category:
-  location: ÁYI̱PA VILLAGE
+# Thu, Jul 13, 2023
+# - title: Gates Open
+#   hour: 11:00 AM
+#   category: 
+#   location: Fairgrounds
+# - title: BOGUE CHITTO SOCIAL DANCERS
+#   hour: 11:00 AM
+#   category: Social Dancing
+#   style: culture
+#   location: Dance Grounds
+# - title: Reptile Walk-Thru Experience Opens
+#   hour: 11:00 AM
+#   category:
+#   location: O̱SSI COVE
+# - title: Rock-It Robot
+#   hour: 11:00 AM
+#   category:
+#   location: Fairgrounds
+# - title: 2022-2023 CHOCTAW INDIAN PRINCESS
+#   hour: 11:45 AM
+#   category: INTRODUCTION OF
+#   style: pageant
+#   location: Dance Grounds
+# - title: HILHA IM ACHOKMA ALHÍHA
+#   hour: 12:00 PM
+#   category: Social Dancing
+#   style: culture
+#   location: Dance Grounds
+# - title: Michelle's Magical Poodle Show
+#   hour: 12:00 PM
+#   category:
+#   location: ÁYI̱PA VILLAGE
+# - title: Visiting Princesses
+#   hour: 12:45 PM
+#   category: INTRODUCTION OF
+#   style: pageant
+#   location: Dance Grounds
+# - title: Iron Warrior&#58; Women's Time Trials Begin
+#   hour: 1:00 PM
+#   category: Competitions
+#   style: competitions
+#   location: In Front Of Exhibit Hall
+# - title: Watermelon Eating Contest
+#   hour: 1:00 PM
+#   category: Competitions
+#   style: competitions
+#   location: ÁYI̱PA VILLAGE
+# - title: Rock-It Robot
+#   hour: 1:00 PM
+#   category:
+#   location: Fairgrounds
+# - title: Storytelling
+#   hour: 1:45 PM
+#   category:
+#   style: culture
+#   location: Dance Grounds
+# - title: TIAK HIKÍYA HIMITTOWA HILHA
+#   hour: 2:00 PM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: Dance Grounds
+# - title: Stickball Demonstration
+#   hour: 2:00 PM
+#   category:
+#   style: culture
+#   location: ÁYI̱PA VILLAGE
+# - title: Scales, Tails & Teeth Show
+#   hour: 2:30 PM
+#   category:
+#   location: O̱SSI COVE
+# - title: Storytelling
+#   hour: 2:45 PM
+#   category:
+#   style: culture
+#   location: Dance Grounds
+# - title: Iron Warrior&#58; Men's Time Trials Begin
+#   hour: 3:00 PM
+#   category: Competitions
+#   style: competitions
+#   location: In Front Of Exhibit Hall
+# - title: Frybread Making Demonstration
+#   hour: 3:00 PM
+#   category:
+#   style: culture
+#   location: ÁYI̱PA VILLAGE
+# - title: BOGUE HOMA DANCE GROUP
+#   hour: 3:00 PM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: Dance Grounds
+# - title: Birds & Exotics of the World Show
+#   hour: 3:30 PM
+#   category:
+#   location: O̱SSI COVE
+# - title: Rock-It Robot
+#   hour: 4:00 PM
+#   category:
+#   location: Fairgrounds
+# - title: 2022-2023 CHOCTAW INDIAN PRINCESS
+#   hour: 4:00 PM
+#   category: INTRODUCTION OF
+#   style: pageant
+#   location: ÁYI̱PA VILLAGE
+# - title: Scales, Tails & Teeth Show
+#   hour: 4:30 PM
+#   category:
+#   location: O̱SSI COVE
+# - title: Pushmataha (10-13) Division&#58; Game 6
+#   hour: 5:00 PM
+#   category: world series stickball
+#   style: stickball
+#   location: Warrior Stadium
+# - title: ITTÁYYOKLA SOCIAL DANCERS
+#   hour: 5:00 PM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: ÁYI̱PA VILLAGE
+# - title: ITTI KÁNA HILHA ALHÍHA SOCIAL DANCERS
+#   hour: 5:00 PM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: Main Stage
+# - title: Birds & Exotics of the World Show
+#   hour: 5:30 PM
+#   category:
+#   location: O̱SSI COVE
+# - title: Tulli Okchi Ishko (14-17) Division&#58; Game 5
+#   hour: 6:00 PM
+#   category: world series stickball
+#   style: stickball
+#   location: Warrior Stadium
+# - title: 2021 Choctaw Indian Princess Pageant
+#   hour: 6:00 PM
+#   category: Replay of
+#   style: pageant
+#   location: ÁYI̱PA VILLAGE
+# - title: Reptile Walk-Thru Experience Opens
+#   hour: 6:00 PM
+#   category:
+#   location: O̱SSI COVE
+# - title: CHOCTAW TRIBAL SOCIAL DANCERS
+#   hour: 7:00 PM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: Main Stage
+# - title: Ryan Hurd
+#   hour: 8:30 PM
+#   category: Live Entertainment
+#   location: Main Stage
+# - title: Men's Division&#58; Game 8
+#   hour: 10:15 PM
+#   category: world series stickball
+#   style: stickball
+#   location: Warrior Stadium
+# - title: World Series Stickball Watch Party
+#   hour: 10:15 PM
+#   category:
+#   location: ÁYI̱PA VILLAGE

@@ -1,108 +1,108 @@
-# Wed, Jul 13, 2022
-- title: Gates Open
-  hour: 11:00 AM
-  category: 
-  location: Fairgrounds
-- title: Standing Pine Social Dancers
-  hour: 11:00 AM
-  category: Choctaw Social Dancing
-  style: culture
-  location: Dance Grounds
-- title: Rock-It Robot
-  hour: 11:00 AM
-  category:
-  location: Fairgrounds
-- title: 2021-2022 Choctaw Indian Princess Shemah Ladania Crosby
-  hour: 11:45 AM
-  category: Farewell Visit
-  style: pageant
-  location: Dance Grounds
-- title: Big Spring Creek "HILHA ALHĪA"
-  hour: 12:00 PM
-  category: Choctaw Social Dancing
-  style: culture
-  location: Dance Grounds
-- title: 2021-2022 Choctaw Indian Princess Shemah Ladania Crosby
-  hour: 12:30 PM
-  category: Farewell Visit
-  style: pageant
-  location: ÁYI̱PA VILLAGE
-- title: CHAHTA HILHA IK HAPIN KANIYO KIYA
-  hour: 1:00 PM
-  category: Choctaw Social Dancing
-  style: culture
-  location: Dance Grounds
-- title: Little Mr. & Miss. Choctaw Indian Fair Pageant
-  hour: 1:00 PM
-  category: Competitions
-  style: competitions
-  location: ÁYI̱PA VILLAGE
-- title: Rock-It Robot
-  hour: 1:00 PM
-  category:
-  location: Fairgrounds
-- title: Storytelling
-  hour: 1:45 PM
-  category:
-  style: culture
-  location: Dance Grounds
-- title: HILHÁCHI ALHÍHA
-  hour: 2:00 PM
-  category: Choctaw Social Dancing
-  style: culture
-  location: Dance Grounds
-- title: Storytelling
-  hour: 2:45 PM
-  category:
-  style: culture
-  location: Dance Grounds
-- title: CONEHATTA SOCIAL DANCERS
-  hour: 3:00 PM
-  category: Choctaw Social Dancing
-  style: culture
-  location: Dance Grounds
-- title: BÓK ČITO YOUTH SOCIAL DANCERS
-  hour: 4:00 PM
-  category: Choctaw Social Dancing
-  style: culture
-  location: Dance Grounds
-- title: Pushmataha (10-13) Division&#58; Game 5
-  hour: 4:00 PM
-  category: world series stickball
-  style: stickball
-  location: Warrior Stadium
-- title: Rock-It Robot
-  hour: 4:00 PM
-  category:
-  location: Fairgrounds
-- title: Tulli Okchi Ishko (14-17) Division&#58; Game 4
-  hour: 5:00 PM
-  category: world series stickball
-  style: stickball
-  location: Warrior Stadium
-- title: Opening Ceremonies
-  hour: 6:00 PM
-  category: 
-  location: Main Stage
-- title: Opening Ceremonies Watch Party
-  hour: 6:00 PM
-  category:
-  location: ÁYI̱PA VILLAGE
-- title: Choctaw Indian Princess Pageant
-  hour: 7:00 PM
-  category: 67th Annual
-  style: pageant
-  location: Main Stage
-- title: Choctaw Indian Princess Pageant Watch Party
-  hour: 7:00 PM
-  category: 67th Annual
-  location: ÁYI̱PA VILLAGE
-- title: Men's Division&#58; Game 7
-  hour: 10:15 PM
-  category: world series stickball
-  style: stickball
-  location: Warrior Stadium
-- title: World Series Stickball Watch Party
-  hour: 10:15 PM
-  category:
-  location: ÁYI̱PA VILLAGE
+# Wed, Jul 12, 2023
+# - title: Gates Open
+#   hour: 11:00 AM
+#   category: 
+#   location: Fairgrounds
+# - title: Standing Pine Social Dancers
+#   hour: 11:00 AM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: Dance Grounds
+# - title: Rock-It Robot
+#   hour: 11:00 AM
+#   category:
+#   location: Fairgrounds
+# - title: 2021-2022 Choctaw Indian Princess Shemah Ladania Crosby
+#   hour: 11:45 AM
+#   category: Farewell Visit
+#   style: pageant
+#   location: Dance Grounds
+# - title: Big Spring Creek "HILHA ALHĪA"
+#   hour: 12:00 PM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: Dance Grounds
+# - title: 2021-2022 Choctaw Indian Princess Shemah Ladania Crosby
+#   hour: 12:30 PM
+#   category: Farewell Visit
+#   style: pageant
+#   location: ÁYI̱PA VILLAGE
+# - title: CHAHTA HILHA IK HAPIN KANIYO KIYA
+#   hour: 1:00 PM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: Dance Grounds
+# - title: Little Mr. & Miss. Choctaw Indian Fair Pageant
+#   hour: 1:00 PM
+#   category: Competitions
+#   style: competitions
+#   location: ÁYI̱PA VILLAGE
+# - title: Rock-It Robot
+#   hour: 1:00 PM
+#   category:
+#   location: Fairgrounds
+# - title: Storytelling
+#   hour: 1:45 PM
+#   category:
+#   style: culture
+#   location: Dance Grounds
+# - title: HILHÁCHI ALHÍHA
+#   hour: 2:00 PM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: Dance Grounds
+# - title: Storytelling
+#   hour: 2:45 PM
+#   category:
+#   style: culture
+#   location: Dance Grounds
+# - title: CONEHATTA SOCIAL DANCERS
+#   hour: 3:00 PM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: Dance Grounds
+# - title: BÓK ČITO YOUTH SOCIAL DANCERS
+#   hour: 4:00 PM
+#   category: Choctaw Social Dancing
+#   style: culture
+#   location: Dance Grounds
+# - title: Pushmataha (10-13) Division&#58; Game 5
+#   hour: 4:00 PM
+#   category: world series stickball
+#   style: stickball
+#   location: Warrior Stadium
+# - title: Rock-It Robot
+#   hour: 4:00 PM
+#   category:
+#   location: Fairgrounds
+# - title: Tulli Okchi Ishko (14-17) Division&#58; Game 4
+#   hour: 5:00 PM
+#   category: world series stickball
+#   style: stickball
+#   location: Warrior Stadium
+# - title: Opening Ceremonies
+#   hour: 6:00 PM
+#   category: 
+#   location: Main Stage
+# - title: Opening Ceremonies Watch Party
+#   hour: 6:00 PM
+#   category:
+#   location: ÁYI̱PA VILLAGE
+# - title: Choctaw Indian Princess Pageant
+#   hour: 7:00 PM
+#   category: 67th Annual
+#   style: pageant
+#   location: Main Stage
+# - title: Choctaw Indian Princess Pageant Watch Party
+#   hour: 7:00 PM
+#   category: 67th Annual
+#   location: ÁYI̱PA VILLAGE
+# - title: Men's Division&#58; Game 7
+#   hour: 10:15 PM
+#   category: world series stickball
+#   style: stickball
+#   location: Warrior Stadium
+# - title: World Series Stickball Watch Party
+#   hour: 10:15 PM
+#   category:
+#   location: ÁYI̱PA VILLAGE
