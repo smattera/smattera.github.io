@@ -8,12 +8,6 @@ meta: events
     <img src="../assets/img/event-banner.webp" class="img-fluid d-none d-md-block img-shadow">
     <img src="../assets/img/event-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
     <h2 class="display-2 shadow-text pt-5">2023 Fair Schedule</h2>
-  </div>
-</section>
-<section class="diamond-bg">
-  <div class="container">
-    <img src="../assets/img/event-banner.webp" class="img-fluid d-none d-md-block img-shadow">
-    <img src="../assets/img/event-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
     <style>
       [class^="bi-geo-alt-fill"]::before, [class*="bi-geo-alt-fill"]::before { vertical-align: middle!important; }
     </style>
