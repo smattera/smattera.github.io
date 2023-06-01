@@ -24,7 +24,27 @@ meta: events
       {% include eventTab.html day="dayNine" date="2023-07-14" %}
       {% include eventTabLast.html day="dayTen" date="2023-07-15" %}
     </ul>
-    <div class="form-check form-check-inline">
+    <ul class="nav nav-pills nav-fill h6" role="tablist">
+      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
+        <a class="nav-link" data-filter="all" href="#">All</a>
+      </li>
+      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
+        <a class="nav-link" data-filter="card-culture" href="#">Culture</a>
+      </li>
+      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
+        <a class="nav-link" data-filter="card-family-fun" href="#">Family Fun</a>
+      </li>
+      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
+        <a class="nav-link" data-filter="card-stickball" href="#">Stickball</a>
+      </li>
+      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
+        <a class="nav-link" data-filter="card-pageant" href="#">Pageant</a>
+      </li>
+      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
+        <a class="nav-link" data-filter="card-competitions" href="#">Competitions</a>
+      </li>
+    </ul>
+    <!-- <div class="form-check form-check-inline">
       <input type="checkbox" class="form-check-input" id="card-culture">
       <label class="form-check-label" for="card-culture">Culture</label>
     </div>
@@ -43,31 +63,6 @@ meta: events
     <div class="form-check form-check-inline">
       <input type="checkbox" class="form-check-input" id="card-competitions">
       <label class="form-check-label" for="card-competitions">Competitions</label>
-    </div>
-    <!-- <div class="form-check form-check-inline">
-      <label class="form-check-label">
-        <input type="checkbox" class="form-check-input" id="card-culture">Culture
-      </label>
-    </div>
-    <div class="form-check form-check-inline">
-      <label class="form-check-label">
-        <input type="checkbox" class="form-check-input" id="card-family-fun">Family Fun
-      </label>
-    </div>
-    <div class="form-check form-check-inline">
-      <label class="form-check-label">
-        <input type="checkbox" class="form-check-input" id="card-stickball">Stickball
-      </label>
-    </div>
-    <div class="form-check form-check-inline">
-      <label class="form-check-label">
-        <input type="checkbox" class="form-check-input" id="card-pageant">Pageant
-      </label>
-    </div>
-    <div class="form-check form-check-inline">
-      <label class="form-check-label">
-        <input type="checkbox" class="form-check-input" id="card-competitions">Competitions
-      </label>
     </div> -->
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade{% if cachedNow <= '2023-07-05' %} show active{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">

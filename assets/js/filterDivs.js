@@ -1,33 +1,35 @@
-function filterDivs() {
-  const checkboxes = document.querySelectorAll('input[type="checkbox"]');
-  const divs = document.querySelectorAll('#myTabContent .card');
+function filterDivs(event) {
+  const filter = event.target.dataset.filter;
+  const divs = document.querySelectorAll('.card');
 
-  let checkedCount = 0;
-  let checkedId = '';
-
-  checkboxes.forEach(checkbox => {
-    if (checkbox.checked) {
-      checkedCount++;
-      checkedId = checkbox.id;
-    }
-  });
-
-  if (checkedCount === 0) {
+  if (filter === 'all') {
     divs.forEach(div => {
       div.style.display = 'block';
     });
   } else {
     divs.forEach(div => {
-      if(div.classList.contains(checkedId)) {
+      if (div.classList.contains(filter)) {
         div.style.display = 'block';
       } else {
         div.style.display = 'none';
       }
     });
   }
+
+  const filterLinks = document.querySelectorAll('.nav-link');
+  filterLinks.forEach(link => {
+    link.classList.remove('active');
+  });
+
+  event.target.classList.add('active');
 }
 
-const checkboxes = document.querySelectorAll('input[type="checkbox"]');
-checkboxes.forEach(checkbox => {
-  checkbox.addEventListener('change', filterDivs);
+const filterLinks = document.querySelectorAll('.nav-link');
+filterLinks.forEach(link => {
+  link.addEventListener('click', filterDivs);
 });
+
+// Initially show all cards
+const allLink = document.querySelector('a[data-filter="all"]');
+allLink.classList.add('active');
+filterDivs({ target: allLink });
