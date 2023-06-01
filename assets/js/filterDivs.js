@@ -1,6 +1,6 @@
 function filterDivs() {
   const checkboxes = document.querySelectorAll('input[type="checkbox"]');
-  const divs = document.querySelectorAll('.card');
+  const divs = document.querySelectorAll('#myTabContent .div .div .div .card');
 
   let checkedCount = 0;
   let checkedId = '';
