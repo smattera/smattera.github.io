@@ -4,12 +4,12 @@ function filterDivs(event) {
 
   if (filter === 'all') {
     divs.forEach(div => {
-      div.style.display = 'grid';
+      div.style.display = 'flex';
     });
   } else {
     divs.forEach(div => {
       if (div.classList.contains(filter)) {
-        div.style.display = 'grid';
+        div.style.display = 'flex';
       } else {
         div.style.display = 'none';
       }
