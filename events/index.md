@@ -24,13 +24,13 @@ meta: events
       {% include eventTab.html day="dayNine" date="2023-07-14" %}
       {% include eventTabLast.html day="dayTen" date="2023-07-15" %}
     </ul>
-    <div class="btn-group mb-3" role="group" aria-label="Filter Divs">
-      <button type="button" class="btn btn-outline-secondary active" data-filter="all">All</button>
-      <button type="button" class="btn btn-outline-secondary" data-filter="card-culture">Culture</button>
-      <button type="button" class="btn btn-outline-secondary" data-filter="card-family-fun">Family Fun</button>
-      <button type="button" class="btn btn-outline-secondary" data-filter="card-stickball">Stickball</button>
-      <button type="button" class="btn btn-outline-secondary" data-filter="card-pageant">Pageant</button>
-      <button type="button" class="btn btn-outline-secondary" data-filter="card-competitions">Competitions</button>
+    <div class="btn-group my-3 h2" role="group" aria-label="Filter Divs">
+      <button type="button" class="btn btn-lg btn-outline-secondary active" data-filter="all">All</button>
+      <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-culture">Culture</button>
+      <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-family-fun">Family Fun</button>
+      <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-stickball">Stickball</button>
+      <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-pageant">Pageant</button>
+      <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-competitions">Competitions</button>
     </div>
     <!-- <div class="form-check form-check-inline">
       <input type="checkbox" class="form-check-input" id="card-culture">
