@@ -4,12 +4,12 @@ function filterDivs(event) {
 
   if (filter === 'all') {
     divs.forEach(div => {
-      div.style.display = 'block';
+      div.style.display = 'grid';
     });
   } else {
     divs.forEach(div => {
       if (div.classList.contains(filter)) {
-        div.style.display = 'block';
+        div.style.display = 'grid';
       } else {
         div.style.display = 'none';
       }
