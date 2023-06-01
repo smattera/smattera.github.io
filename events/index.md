@@ -7,11 +7,10 @@ meta: events
   <div class="container">
     <img src="../assets/img/event-banner.webp" class="img-fluid d-none d-md-block img-shadow">
     <img src="../assets/img/event-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
-    <h2 class="display-2 shadow-text pt-5">2023 Fair Schedule</h2>
     <style>
       [class^="bi-geo-alt-fill"]::before, [class*="bi-geo-alt-fill"]::before { vertical-align: middle!important; }
     </style>
-    <h2 class="display-2 shadow-text pt-5">2022 Fair Schedule</h2>
+    <h2 class="display-2 shadow-text pt-5">2023 Fair Schedule</h2>
     {% assign cachedNow = 'now' | date: '%Y-%m-%d' %}
     <ul class="nav nav-pills nav-fill h5" id="myTab" role="tablist">
       {% include eventTabFirst.html day="dayOne" date="2023-07-05" %}
@@ -26,6 +25,26 @@ meta: events
       {% include eventTabLast.html day="dayTen" date="2023-07-15" %}
     </ul>
     <div class="form-check form-check-inline">
+      <input type="checkbox" class="form-check-input" id="card-culture">
+      <label class="form-check-label" for="card-culture">Culture</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" class="form-check-input" id="card-family-fun">
+      <label class="form-check-label" for="card-family-fun">Family Fun</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" class="form-check-input" id="card-stickball">
+      <label class="form-check-label" for="card-stickball">Stickball</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" class="form-check-input" id="card-pageant">
+      <label class="form-check-label" for="card-pageant">Pageant</label>
+    </div>
+    <div class="form-check form-check-inline">
+      <input type="checkbox" class="form-check-input" id="card-competitions">
+      <label class="form-check-label" for="card-competitions">Competitions</label>
+    </div>
+    <!-- <div class="form-check form-check-inline">
       <label class="form-check-label">
         <input type="checkbox" class="form-check-input" id="card-culture">Culture
       </label>
@@ -49,7 +68,7 @@ meta: events
       <label class="form-check-label">
         <input type="checkbox" class="form-check-input" id="card-competitions">Competitions
       </label>
-    </div>
+    </div> -->
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade{% if cachedNow <= '2023-07-05' %} show active{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
