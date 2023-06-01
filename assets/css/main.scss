@@ -394,6 +394,11 @@ header {
     background-color: #fea;
     border-color: #fea;
   }
+  &.active {
+    color: #333;
+    background-color: #fea;
+    border-color: #fea;
+  }
 }
 
 .btn-warning {
