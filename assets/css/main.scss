@@ -960,3 +960,7 @@ header {
   -webkit-filter: drop-shadow(2px 2px 4px #222);
   filter: drop-shadow(2px 2px 4px #222);
 }
+
+#myTabContent .card {
+  max-height: 500px;
+}
