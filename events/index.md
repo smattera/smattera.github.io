@@ -24,7 +24,7 @@ meta: events
       {% include eventTab.html day="dayNine" date="2023-07-14" %}
       {% include eventTabLast.html day="dayTen" date="2023-07-15" %}
     </ul>
-    <ul class="nav nav-pills nav-fill h6" role="tablist">
+    <ul class="nav nav-pills nav-fill h6">
       <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
         <a class="nav-link" data-filter="all" href="#">All</a>
       </li>
