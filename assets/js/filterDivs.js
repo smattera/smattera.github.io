@@ -16,20 +16,20 @@ function filterDivs(event) {
     });
   }
 
-  const filterLinks = document.querySelectorAll('.nav-link');
-  filterLinks.forEach(link => {
-    link.classList.remove('active');
+  const filterButtons = document.querySelectorAll('.btn');
+  filterButtons.forEach(button => {
+    button.classList.remove('active');
   });
 
   event.target.classList.add('active');
 }
 
-const filterLinks = document.querySelectorAll('.nav-link');
-filterLinks.forEach(link => {
-  link.addEventListener('click', filterDivs);
+const filterButtons = document.querySelectorAll('.btn');
+filterButtons.forEach(button => {
+  button.addEventListener('click', filterDivs);
 });
 
 // Initially show all cards
-const allLink = document.querySelector('a[data-filter="all"]');
-allLink.classList.add('active');
-filterDivs({ target: allLink });
+const allButton = document.querySelector('button[data-filter="all"]');
+allButton.classList.add('active');
+filterDivs({ target: allButton });

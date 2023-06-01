@@ -24,26 +24,14 @@ meta: events
       {% include eventTab.html day="dayNine" date="2023-07-14" %}
       {% include eventTabLast.html day="dayTen" date="2023-07-15" %}
     </ul>
-    <ul class="nav nav-pills nav-fill h6">
-      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
-        <a class="nav-link" data-filter="all" href="#">All</a>
-      </li>
-      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
-        <a class="nav-link" data-filter="card-culture" href="#">Culture</a>
-      </li>
-      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
-        <a class="nav-link" data-filter="card-family-fun" href="#">Family Fun</a>
-      </li>
-      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
-        <a class="nav-link" data-filter="card-stickball" href="#">Stickball</a>
-      </li>
-      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
-        <a class="nav-link" data-filter="card-pageant" href="#">Pageant</a>
-      </li>
-      <li class="nav-item" style="margin:5px;border:solid 1px #fea;border-radius:.25rem;">
-        <a class="nav-link" data-filter="card-competitions" href="#">Competitions</a>
-      </li>
-    </ul>
+    <div class="btn-group mb-3" role="group" aria-label="Filter Divs">
+      <button type="button" class="btn btn-primary active" data-filter="all">All</button>
+      <button type="button" class="btn btn-primary" data-filter="card-culture">Culture</button>
+      <button type="button" class="btn btn-primary" data-filter="card-family-fun">Family Fun</button>
+      <button type="button" class="btn btn-primary" data-filter="card-stickball">Stickball</button>
+      <button type="button" class="btn btn-primary" data-filter="card-pageant">Pageant</button>
+      <button type="button" class="btn btn-primary" data-filter="card-competitions">Competitions</button>
+    </div>
     <!-- <div class="form-check form-check-inline">
       <input type="checkbox" class="form-check-input" id="card-culture">
       <label class="form-check-label" for="card-culture">Culture</label>
