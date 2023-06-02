@@ -1,5 +1,4 @@
 ---
-permalink: /info/
-redirect_to:
-  - /map/
+title: Visitor Info
+redirect_to: https://www.choctawindianfair.com/map/
 ---
