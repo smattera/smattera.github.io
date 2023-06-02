@@ -6,7 +6,7 @@ redirect_from: /info/
 ---
 <section class="diamond-bg7">
     <div class="container">
-      <h1 class="display-1 shadow-text lh-1">2023 Fair Map</h1>
+      <h1 class="display-1 shadow-text lh-1">2022 Fair Map</h1>
       <a href="../assets/pdf/2022 Fairgrounds Map.pdf" target="_blank">
           <img src="../assets/img/fairgrounds-map.webp" class="img-fluid pt-5" alt="Events">
       </a>

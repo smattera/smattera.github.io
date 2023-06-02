@@ -3,6 +3,7 @@ layout: default
 title: Home
 meta: home
 ---
+
 <header>
   <!-- This div is  intentionally blank. It creates the transparent black overlay over the video which you can modify in the CSS -->
   <div class="overlay"></div>
@@ -45,59 +46,37 @@ meta: home
 <section class="diamond-bg2">
   <div class="container">
     {% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 12, 2023 11:00:00" border="gold" %}
-    <div class="m-4">
+    <div class="mt-4">
       <h2 class="display-2 shadow-text">Ticket Presale Starts On Monday, June 12, 2023</h2>
-    <div class="row row-cols-1 row-cols-lg-3 g-4">
-      <div class="col">
-        <div class="card bg-child border-white rounded-lg">
-          <div class="card-body">
-            <h2 class="display-1 fw-bold">Child Pass</h2>
-            <div class="border border-white rounded-lg mx-auto p-2 m-4">
-              AGES 5 & UNDER
+      <div class="row row-cols-1 row-cols-lg-3 g-4">
+        <div class="col">
+          <div class="card bg-child border border-white border-3 rounded-lg">
+            <div class="card-body">
+              <h2 class="fw-bold shadow-text">Child Pass</h2>
+              <div class="border border-white border-3 rounded-3 mx-auto p-2 m-4">
+                AGES 5 & UNDER
+              </div>
+              <h2 class="h1 fw-bold shadow-text">FREE</h2>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card bg-student border-white rounded-lg">
+            <div class="card-body">
+              <h5 class="card-title">Student Pass</h5>
+              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card bg-student border-white rounded-lg">
+            <div class="card-body">
+              <h5 class="card-title">Student Pass</h5>
+              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
           </div>
         </div>
       </div>
-      <div class="col">
-        <div class="card bg-student border-white rounded-lg">
-          <div class="card-body">
-            <h5 class="card-title">Student Pass</h5>
-            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card bg-student border-white rounded-lg">
-          <div class="card-body">
-            <h5 class="card-title">Student Pass</h5>
-            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-          </div>
-        </div>
-      </div>
     </div>
-    <!-- <div class="hero px-4 px-md-0">
-      <h2 class="font-weight-bold mb-4 text-center">Ticket Presale Starts On Monday, June 12, 2023</h2>
-      <div class="d-flex flex-column flex-lg-row justify-content-center align-items-center w-100 h-100 text-center">
-        <div class="bg-child rounded-md shadow-lg p-6 m-4 w-100 h-100">
-          <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Child Pass</h2>
-          <div class="border border-secondary rounded-lg mx-auto p-2 m-4 fs-2" style="text-shadow: 4px 4px 6px #333; box-shadow: 5px 5px 10px #333;">AGES 5 &amp; UNDER</div>
-          <h2 class="display-1 fw-bold py-10" style="text-shadow: 5px 5px 10px #333; font-size: 5rem;">FREE</h2>
-        </div>
-        <div class="bg-student rounded-md shadow-lg p-6 m-4 w-100 h-100">
-          <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Student Pass</h2>
-          <div class="border border-secondary rounded-lg mx-auto p-2 m-4 fs-2" style="text-shadow: 4px 4px 6px #333; box-shadow: 5px 5px 10px #333;">AGES 6 - 17</div>
-          <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Season $10</h2>
-          <hr class="rounded-lg my-4" style="border: 3px solid #fff; box-shadow: 3px 3px 6px #333;">
-          <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Day $7</h2>
-        </div>
-        <div class="bg-adult rounded-md shadow-lg p-6 m-4 w-100 h-100">
-          <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Adult Pass</h2>
-          <div class="border border-secondary rounded-lg mx-auto p-2 m-4 fs-2" style="text-shadow: 4px 4px 6px #333; box-shadow: 5px 5px 10px #333;">AGES 18 &amp; OVER</div>
-          <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Season $20</h2>
-          <hr class="rounded-lg my-4" style="border: 3px solid #fff; box-shadow: 3px 3px 6px #333;">
-          <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Day $12</h2>
-        </div>
-      </div>
-    </div> -->
   </div>
 </section>
