@@ -67,9 +67,9 @@ meta: home
               <div class="border border-white border-3 rounded-3 mx-auto p-2 m-4 h4">
                 AGES 6 - 17
               </div>
-              <h2 class="fw-bold shadow-text">Season $10</h2>
-              <hr>
-              <h2 class="fw-bold shadow-text">Day $7</h2>
+              <h3>Season $10</h3>
+              <hr class="border opacity-100 border-3 rounded-3">
+              <h3>Day $7</h3>
             </div>
           </div>
         </div>
@@ -80,9 +80,9 @@ meta: home
               <div class="border border-white border-3 rounded-3 mx-auto p-2 m-4 h4">
                 AGES 18 & OVER
               </div>
-              <h2 class="fw-bold shadow-text">Season $20</h2>
-              <hr>
-              <h2 class="fw-bold shadow-text">Day $12</h2>
+              <h3>Season $20</h3>
+              <hr class="border opacity-100 border-3 rounded-3">
+              <h3>Day $12</h3>
             </div>
           </div>
         </div>
