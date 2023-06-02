@@ -45,7 +45,37 @@ meta: home
 <section class="diamond-bg2">
   <div class="container">
     {% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 12, 2023 11:00:00" border="gold" %}
-    <div class="hero px-4 px-md-0">
+    <div class="m-4">
+      <h2 class="display-2 shadow-text">Ticket Presale Starts On Monday, June 12, 2023</h2>
+    <div class="row row-cols-1 row-cols-lg-3 g-4">
+      <div class="col">
+        <div class="card bg-child border-white rounded-lg">
+          <div class="card-body">
+            <h2 class="display-1 fw-bold">Child Pass</h2>
+            <div class="border border-white rounded-lg mx-auto p-2 m-4">
+              AGES 5 & UNDER
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card bg-student border-white rounded-lg">
+          <div class="card-body">
+            <h5 class="card-title">Student Pass</h5>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card bg-student border-white rounded-lg">
+          <div class="card-body">
+            <h5 class="card-title">Student Pass</h5>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="hero px-4 px-md-0">
       <h2 class="font-weight-bold mb-4 text-center">Ticket Presale Starts On Monday, June 12, 2023</h2>
       <div class="d-flex flex-column flex-lg-row justify-content-center align-items-center w-100 h-100 text-center">
         <div class="bg-child rounded-md shadow-lg p-6 m-4 w-100 h-100">
@@ -68,6 +98,6 @@ meta: home
           <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Day $12</h2>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </section>
