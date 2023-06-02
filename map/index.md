@@ -2,6 +2,8 @@
 layout: default
 title: Fair Map
 meta: map
+redirect_from:
+  - /info/index.md
 ---
 <section class="diamond-bg7">
     <div class="container">
