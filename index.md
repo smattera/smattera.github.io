@@ -53,7 +53,7 @@ meta: home
           <div class="card bg-child border border-white border-3 rounded-lg">
             <div class="card-body">
               <h2 class="fw-bold shadow-text">Child Pass</h2>
-              <div class="border border-white border-3 rounded-3 mx-auto p-2 m-4">
+              <div class="border border-white border-3 rounded-3 mx-auto p-2 m-4 h4">
                 AGES 5 & UNDER
               </div>
               <h2 class="h1 fw-bold shadow-text">FREE</h2>
@@ -61,18 +61,28 @@ meta: home
           </div>
         </div>
         <div class="col">
-          <div class="card bg-student border-white rounded-lg">
+          <div class="card bg-child border border-white border-3 rounded-lg">
             <div class="card-body">
-              <h5 class="card-title">Student Pass</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h2 class="fw-bold shadow-text">Student Pass</h2>
+              <div class="border border-white border-3 rounded-3 mx-auto p-2 m-4 h4">
+                AGES 6 - 17
+              </div>
+              <h2 class="fw-bold shadow-text">Season $10</h2>
+              <hr>
+              <h2 class="fw-bold shadow-text">Day $7</h2>
             </div>
           </div>
         </div>
         <div class="col">
-          <div class="card bg-student border-white rounded-lg">
+          <div class="card bg-child border border-white border-3 rounded-lg">
             <div class="card-body">
-              <h5 class="card-title">Student Pass</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h2 class="fw-bold shadow-text">Adult Pass</h2>
+              <div class="border border-white border-3 rounded-3 mx-auto p-2 m-4 h4">
+                AGES 18 & OVER
+              </div>
+              <h2 class="fw-bold shadow-text">Season $20</h2>
+              <hr>
+              <h2 class="fw-bold shadow-text">Day $12</h2>
             </div>
           </div>
         </div>
