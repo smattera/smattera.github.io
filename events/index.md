@@ -71,7 +71,7 @@ meta: events
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../info/" class="text-white" style="text-decoration: none;">
+              <a href="../map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -99,7 +99,7 @@ meta: events
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../info/" class="text-white" style="text-decoration: none;">
+              <a href="../map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -127,7 +127,7 @@ meta: events
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../info/" class="text-white" style="text-decoration: none;">
+              <a href="../map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -155,7 +155,7 @@ meta: events
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../info/" class="text-white" style="text-decoration: none;">
+              <a href="../map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -183,7 +183,7 @@ meta: events
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../info/" class="text-white" style="text-decoration: none;">
+              <a href="../map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -211,7 +211,7 @@ meta: events
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../info/" class="text-white" style="text-decoration: none;">
+              <a href="../map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -239,7 +239,7 @@ meta: events
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../info/" class="text-white" style="text-decoration: none;">
+              <a href="../map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -267,7 +267,7 @@ meta: events
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../info/" class="text-white" style="text-decoration: none;">
+              <a href="../map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -295,7 +295,7 @@ meta: events
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../info/" class="text-white" style="text-decoration: none;">
+              <a href="../map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
@@ -323,7 +323,7 @@ meta: events
                   <p class="h4">{{ event.title }}</p>
                 </a>
               </div>
-              <a href="../info/" class="text-white" style="text-decoration: none;">
+              <a href="../map/" class="text-white" style="text-decoration: none;">
                 <div class="card-footer pt-3">
                   <p class="h5"><i class="bi bi-geo-alt-fill"></i> {{ event.location }}</p>
                 </div>
