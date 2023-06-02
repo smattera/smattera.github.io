@@ -896,8 +896,8 @@ header {
 .bi-exclamation-circle-fill::before {
   content: "\f332";
 }
-.bi-compass::before {
-  content: "\f2d1";
+.bi-compass-fill::before {
+  content: "\f2d0";
 }
 .bi-facebook::before {
   content: "\f344";
@@ -971,4 +971,35 @@ header {
 
 #myTabContent .card {
   max-height: 500px;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: url("/weave02.svg") center repeat-x,
+  #212529;
+  background-blend-mode: lighten;
+}
+.hero h2 {
+  text-shadow: 0px 0px 8px #aaa;
+}
+.hero div div h2 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 600;
+}
+.hero div div div {
+  font-size: clamp(1rem, 5vw, 2rem);
+}
+.bg-child {
+  background: linear-gradient(midnightblue, purple, lightpink);
+}
+.bg-student {
+  background: linear-gradient(darkolivegreen, green, lightgreen);
+}
+.bg-adult {
+  background: linear-gradient(maroon, red, orange);
 }

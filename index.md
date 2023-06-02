@@ -46,7 +46,31 @@ meta: home
   <div class="container">
     {% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 12, 2023 11:00:00" border="gold" %}
     <row class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-0 card-gold-border mt-5">
-      <div class="col">
+      <div class="hero px-4 px-md-0">
+        <h2 class="font-weight-bold mb-4 text-center">Ticket Presale Starts On Monday, June 12, 2023</h2>
+        <div class="d-flex flex-column flex-lg-row justify-content-center align-items-center w-100 h-100 text-center">
+          <div class="bg-child rounded-md shadow-lg p-6 m-4 w-100 h-100">
+            <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Child Pass</h2>
+            <div class="border border-secondary rounded-lg mx-auto p-2 m-4 fs-2" style="text-shadow: 4px 4px 6px #333; box-shadow: 5px 5px 10px #333;">AGES 5 &amp; UNDER</div>
+            <h2 class="display-1 fw-bold py-10" style="text-shadow: 5px 5px 10px #333; font-size: 5rem;">FREE</h2>
+          </div>
+          <div class="bg-student rounded-md shadow-lg p-6 m-4 w-100 h-100">
+            <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Student Pass</h2>
+            <div class="border border-secondary rounded-lg mx-auto p-2 m-4 fs-2" style="text-shadow: 4px 4px 6px #333; box-shadow: 5px 5px 10px #333;">AGES 6 - 17</div>
+            <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Season $10</h2>
+            <hr class="rounded-lg my-4" style="border: 3px solid #fff; box-shadow: 3px 3px 6px #333;">
+            <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Day $7</h2>
+          </div>
+          <div class="bg-adult rounded-md shadow-lg p-6 m-4 w-100 h-100">
+            <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Adult Pass</h2>
+            <div class="border border-secondary rounded-lg mx-auto p-2 m-4 fs-2" style="text-shadow: 4px 4px 6px #333; box-shadow: 5px 5px 10px #333;">AGES 18 &amp; OVER</div>
+            <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Season $20</h2>
+            <hr class="rounded-lg my-4" style="border: 3px solid #fff; box-shadow: 3px 3px 6px #333;">
+            <h2 class="display-2 fw-bold" style="text-shadow: 5px 5px 10px #333;">Day $12</h2>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="col">
         <a href="/events/">
           <div class="card bg-transparent opaque">
             <img src="../assets/img/svg/Events.svg" alt="Events">
@@ -87,7 +111,7 @@ meta: home
             <img src="../assets/img/svg/Visitor Info.svg" alt="Visitor Info">
           </div>
         </a>
-      </div>
+      </div> -->
     </row>
   </div>
 </section>
