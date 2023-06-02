@@ -1,4 +1,4 @@
 ---
-title: Visitor Info
-redirect_to: "/info/"
+title: My amazing post
+redirect_to: /map/
 ---
