@@ -1,4 +1,4 @@
 ---
 title: Visitor Info
-redirect_to: "/info"
+redirect_to: "/info/"
 ---
