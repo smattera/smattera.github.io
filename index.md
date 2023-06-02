@@ -50,7 +50,7 @@ meta: home
       <h2 class="display-2 shadow-text">Ticket Presale Starts On Monday, June 12, 2023</h2>
       <div class="row row-cols-1 row-cols-lg-3 g-4">
         <div class="col">
-          <div class="card bg-child border border-white border-3 rounded-lg">
+          <div class="card h-100 bg-child border border-white border-3 rounded-lg">
             <div class="card-body">
               <h2 class="fw-bold shadow-text">Child Pass</h2>
               <div class="border border-white border-3 rounded-3 mx-auto p-2 m-4 h4">
@@ -61,7 +61,7 @@ meta: home
           </div>
         </div>
         <div class="col">
-          <div class="card bg-child border border-white border-3 rounded-lg">
+          <div class="card h-100 bg-student border border-white border-3 rounded-lg">
             <div class="card-body">
               <h2 class="fw-bold shadow-text">Student Pass</h2>
               <div class="border border-white border-3 rounded-3 mx-auto p-2 m-4 h4">
@@ -74,7 +74,7 @@ meta: home
           </div>
         </div>
         <div class="col">
-          <div class="card bg-child border border-white border-3 rounded-lg">
+          <div class="card h-100 bg-adult border border-white border-3 rounded-lg">
             <div class="card-body">
               <h2 class="fw-bold shadow-text">Adult Pass</h2>
               <div class="border border-white border-3 rounded-3 mx-auto p-2 m-4 h4">
