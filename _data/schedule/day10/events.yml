@@ -1,23 +1,23 @@
 # Sat, Jul 15, 2023
-# - title: Rez Run 2022
-#   hour: 7:00 AM
-#   category: Competitions
-#   style: competitions
-#   location: Warrior Stadium
-# - title: Gates Open
-#   hour: 10:00 AM
-#   category: 
-#   location: Fairgrounds
+- title: Rez Run 2022
+  hour: 7:00 AM
+  category: Competitions
+  style: competitions
+  location: Warrior Stadium
+- title: Gates Open
+  hour: 10:00 AM
+  category: 
+  location: Fairgrounds
 # - title: BAHCHA MALATA HILHA ALHÍHA
 #   hour: 10:00 AM
 #   category: Choctaw Social Dancing
 #   style: culture
 #   location: Dance Grounds
-# - title: Open Cornhole Tournament
-#   hour: 10:00 AM
-#   category: Competitions
-#   style: competitions
-#   location: CCHS Gymnasium
+- title: Open Cornhole Tournament
+  hour: 10:00 AM
+  category: Competitions
+  style: competitions
+  location: CCHS Gymnasium
 # - title: BOGUE CHITTO YOUTH DANCERS
 #   hour: 11:00 AM
 #   category: Choctaw Social Dancing
@@ -215,7 +215,11 @@
 #   hour: 10:15 PM
 #   category:
 #   location: ÁYI̱PA VILLAGE
-# - title: The 2022 Choctaw Indian Fair officially closes
-#   hour: 2:00 AM
-#   category:
-#   location: Fairgrounds
+- title: Midway Closes
+  hour: 1:00 AM
+  category: family-fun
+  location: fairgrounds
+- title: The 2022 Choctaw Indian Fair officially closes
+  hour: 2:00 AM
+  category:
+  location: Fairgrounds
