@@ -490,11 +490,11 @@ header {
     border: 10px solid;
     border-image-slice: 1;
     border-width: 5px;
-    border-image-source: linear-gradient(to bottom, #166534, #f3e8ff, #65a30d);
+    border-image-source: linear-gradient(to bottom, #65a30d, #f3e8ff, #166534);
     background: linear-gradient(#333, #800000);
   }
   .card-body {
-    background: linear-gradient(to bottom, #65a30d, #f3e8ff, #166534);
+    background: linear-gradient(to bottom, #166534, #f3e8ff, #65a30d);
   }
 }
 
