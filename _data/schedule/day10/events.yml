@@ -18,6 +18,17 @@
   category: Competitions
   style: competitions
   location: CCHS Gymnasium
+- title: Arts & Crafts Pavilion and Tent Opens
+  hour: 10:00 AM 
+  category: Culture
+  style: culture
+  location: Arts & Crafts Pavilion
+- title: Exhibit Hall Opens
+  hour: 10:00 AM 
+  category: Culture
+  style: culture
+  location: Exhibit Hall
+- title: Tʋshka Village Opens
 # - title: BOGUE CHITTO YOUTH DANCERS
 #   hour: 11:00 AM
 #   category: Choctaw Social Dancing
@@ -42,6 +53,11 @@
   category: family fun
   style: family
   location: Midway
+- title: Bug Walk-Thru Exhibit Opens
+  hour: 12:00 PM 
+  category: family fun
+  style: family
+  location: Shawi's Discovery Zone
 - title: Dinosaur Experience
   hour: 12:30 PM
   category: family fun
@@ -97,7 +113,7 @@
   hour: 1:30 PM
   category: family fun
   style: family
-  location: Info Center Parking Lot 
+  location: Shawi's Discovery Zone
 # - title: Visiting Princesses
 #   hour: 1:45 PM
 #   category: Introduction of
@@ -148,6 +164,11 @@
   category: family fun
   style: family
   location: O̱SSI COVE
+- title: Bug Blues Live Bug Show
+  hour: 3:30 PM
+  category: family fun
+  style: family
+  location: Shawi's Discovery Zone
 # - title: 2022-2023 Choctaw Indian Princess
 #   hour: 4:00 PM
 #   category: Introduction of
@@ -181,6 +202,11 @@
   category: family fun
   style: family
   location: O̱SSI COVE
+- title: Bug Blues Live Bug Show
+  hour: 5:30 PM
+  category: family fun
+  style: family
+  location: Shawi's Discovery Zone
 # - title: Closing Ceremonies
 #   hour: 5:30 PM
 #   category: 
@@ -234,6 +260,16 @@
 #   hour: 9:00 PM
 #   category:
 #   location: ÁYI̱PA VILLAGE
+- title: Arts & Crafts Pavilion and Tent Closes
+  hour: 9:00 PM
+  category: Culture
+  style: culture
+  location: Arts & Crafts Pavilion
+- title: Exhibit Hall Closes
+  hour: 9:00 PM 
+  category: Culture
+  style: culture
+  location: Exhibit Hall
 # - title: Men's Division&#58; Championship
 #   hour: 10:15 PM
 #   category: world series stickball
