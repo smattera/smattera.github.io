@@ -33,6 +33,11 @@
   category: Culture
   style: culture
   location: Tushka Village
+- title: Shawi's Discovery Zone Opens
+  hour: 10:00 AM
+  category: Family fun
+  style: family
+  location: Shawi's Discovery Zone
 # - title: BOGUE CHITTO YOUTH DANCERS
 #   hour: 11:00 AM
 #   category: Choctaw Social Dancing
@@ -43,10 +48,6 @@
   category: family fun
   style: family
   location: O̱SSI COVE
-# - title: Rock-It Robot
-#   hour: 11:00 AM
-#   category:
-#   location: Fairgrounds
 # - title: 2022-2023 Choctaw Indian Princess
 #   hour: 11:45 AM
 #   category: Introduction of
@@ -72,6 +73,11 @@
   category: family fun
   style: family
   location: O̱SSI COVE
+- title: Iron Warrior Begins
+  hour: 1:00 PM
+  category: Competitions
+  style: competitions
+  location: In Front Of Exhibit Hall
 # - title: NATIVE DANCE GROUP
 #   hour: 12:00 PM
 #   category: Choctaw Social Dancing
@@ -143,12 +149,7 @@
 #   category: 
 #   style: culture
 #   location: Dance Grounds
-# - title: Iron Warrior Men's Finals Begin
-#   hour: 3:00 PM
-#   category: Competitions
-#   style: competitions
-#   location: In Front Of Exhibit Hall
-# - title: Frybread Making Demonstration & Frybread Contest
+# - title: Frybread Making Demonstration
 #   hour: 3:00 PM
 #   category: Competitions
 #   style: competitions
@@ -173,6 +174,11 @@
   category: family fun
   style: family
   location: Shawi's Discovery Zone
+- title: Tushka Village Closes
+  hour: 4:00 PM
+  category: Culture
+  style: culture
+  location: Tushka Village
 # - title: 2022-2023 Choctaw Indian Princess
 #   hour: 4:00 PM
 #   category: Introduction of
@@ -182,15 +188,16 @@
 #   hour: 4:00 PM
 #   category:
 #   location: ÁYI̱PA VILLAGE
-# - title: Rock-It Robot
-#   hour: 4:00 PM
-#   category:
-#   location: Fairgrounds
 - title: Birds & Exotics of the World Show
   hour: 4:30 PM
   category: family fun
   style: family
   location: O̱SSI COVE
+- title: Shawi's Discovery Zone Closes
+  hour: 5:00 PM
+  category: Family fun
+  style: family
+  location: Shawi's Discovery Zone
 # - title: GENERATIONS SOCIAL DANCERS
 #   hour: 5:00 PM
 #   category: Choctaw Social Dancing
