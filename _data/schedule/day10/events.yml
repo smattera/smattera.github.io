@@ -23,10 +23,11 @@
 #   category: Choctaw Social Dancing
 #   style: culture
 #   location: Dance Grounds
-# - title: Reptile Walk-Thru Experience Opens
-#   hour: 11:00 AM
-#   category:
-#   location: O̱SSI COVE
+- title: Reptile Walk-Thru Experience Opens
+  hour: 11:00 AM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
 # - title: Rock-It Robot
 #   hour: 11:00 AM
 #   category:
@@ -36,6 +37,21 @@
 #   category: Introduction of
 #   style: pageant
 #   location: Dance Grounds
+- title: Midway Opens
+  hour: 12:00 PM
+  category: family fun
+  style: family
+  location: Midway
+- title: Dinosaur Experience
+  hour: 12:30 PM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
+- title: Scales, Tails, & Teeth
+  hour: 1:00 PM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
 # - title: NATIVE DANCE GROUP
 #   hour: 12:00 PM
 #   category: Choctaw Social Dancing
@@ -92,10 +108,11 @@
 #   category:
 #   style: culture
 #   location: ÁYI̱PA VILLAGE
-# - title: Birds & Exotics of the World Show
-#   hour: 2:00 PM
-#   category:
-#   location: O̱SSI COVE
+- title: Birds & Exotics of the World Show
+  hour: 2:00 PM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
 # - title: Storytelling
 #   hour: 2:45 PM
 #   category: 
@@ -116,14 +133,16 @@
 #   category: Choctaw Social Dancing
 #   style: culture
 #   location: Dance Grounds
-# - title: Dinosaur Experience
-#   hour: 3:00 PM
-#   category:
-#   location: O̱SSI COVE
-# - title: Scales, Tails & Teeth Show
-#   hour: 3:30 PM
-#   category:
-#   location: O̱SSI COVE
+- title: Dinosaur Experience
+  hour: 3:00 PM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
+- title: Scales, Tails, & Teeth
+  hour: 3:30 PM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
 # - title: 2022-2023 Choctaw Indian Princess
 #   hour: 4:00 PM
 #   category: Introduction of
@@ -137,10 +156,11 @@
 #   hour: 4:00 PM
 #   category:
 #   location: Fairgrounds
-# - title: Birds & Exotics of the World Show
-#   hour: 4:30 PM
-#   category:
-#   location: O̱SSI COVE
+- title: Birds & Exotics of the World Show
+  hour: 4:30 PM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
 # - title: GENERATIONS SOCIAL DANCERS
 #   hour: 5:00 PM
 #   category: Choctaw Social Dancing
@@ -151,10 +171,11 @@
 #   category: Choctaw Social Dancing
 #   style: culture
 #   location: Main Stage
-# - title: Dinosaur Experience
-#   hour: 5:30 PM
-#   category:
-#   location: O̱SSI COVE
+- title: Dinosaur Experience
+  hour: 5:30 PM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
 # - title: Closing Ceremonies
 #   hour: 5:30 PM
 #   category: 
@@ -167,19 +188,21 @@
 #   hour: 6:00 PM
 #   category:
 #   location: O̱SSI COVE
-# - title: Scales, Tails & Teeth Show
-#   hour: 6:00 PM
-#   category:
-#   location: O̱SSI COVE
+- title: Scales, Tails, & Teeth
+  hour: 6:00 PM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
 # - title: MYSTIC WIND CHAHTA SOCIAL DANCERS
 #   hour: 6:30 PM
 #   category: Choctaw Social Dancing
 #   style: culture
 #   location: Main Stage
-# - title: Birds & Exotics of the World Show
-#   hour: 7:00 PM
-#   category:
-#   location: O̱SSI COVE
+- title: Birds & Exotics of the World Show
+  hour: 7:00 PM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
 # - title: Rez Dawg
 #   hour: 7:15 PM
 #   category: Live Entertainment
@@ -219,8 +242,8 @@
   hour: 1:00 AM
   category: family fun
   style: family
-  location: fairgrounds
-- title: The 2022 Choctaw Indian Fair officially closes
+  location: Midway
+- title: Choctaw Indian Fair officially closes
   hour: 2:00 AM
   category:
   location: Fairgrounds
