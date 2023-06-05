@@ -1,17 +1,17 @@
 function filterDivs(event) {
   const filter = event.target.dataset.filter;
-  const divs = document.querySelectorAll('#myTabContent .card');
+  const cols = document.querySelectorAll('.col');
 
   if (filter === 'all') {
-    divs.forEach(div => {
-      div.style.display = 'flex';
+    cols.forEach(col => {
+      col.style.display = 'block';
     });
   } else {
-    divs.forEach(div => {
-      if (div.classList.contains(filter)) {
-        div.style.display = 'flex';
+    cols.forEach(col => {
+      if (col.classList.contains(filter)) {
+        col.style.display = 'block';
       } else {
-        div.style.display = 'none';
+        col.style.display = 'none';
       }
     });
   }
@@ -29,7 +29,7 @@ filterButtons.forEach(button => {
   button.addEventListener('click', filterDivs);
 });
 
-// Initially show all cards
+// Initially show all columns
 const allButton = document.querySelector('button[data-filter="all"]');
 allButton.classList.add('active');
 filterDivs({ target: allButton });

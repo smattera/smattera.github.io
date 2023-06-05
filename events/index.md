@@ -56,7 +56,7 @@ meta: events
       <div class="tab-pane fade{% if cachedNow <= '2023-07-05' %} show active{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% for event in site.data.schedule.day01.events %}
-          <div class="col">
+          <div class="col card-{{ event.style }}">
             {% if event.style %}<div class="card card-{{ event.style }} h-100">
             {% else %}<div class="card card-default h-100">
             {% endif %}

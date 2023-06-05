@@ -493,6 +493,9 @@ header {
     border-image-source: linear-gradient(to bottom, #166534, #f3e8ff, #65a30d);
     background: linear-gradient(#333, #800000);
   }
+  .card-body {
+    background: linear-gradient(to bottom, #65a30d, #f3e8ff, #166534);
+  }
 }
 
 .card-pageant {
