@@ -1,6 +1,6 @@
 function filterDivs(event) {
   const filter = event.target.dataset.filter;
-  const cols = document.querySelectorAll('.col');
+  const cols = document.querySelectorAll('#myTabContent .col');
 
   if (filter === 'all') {
     cols.forEach(col => {
