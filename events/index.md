@@ -27,7 +27,7 @@ meta: events
     <div class="btn-group my-3 h2" role="group" aria-label="Filter Divs">
       <button type="button" class="btn btn-lg btn-outline-secondary active" data-filter="all">All</button>
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-culture">Culture</button>
-      <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-family-fun">Family Fun</button>
+      <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-family">Family Fun</button>
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-stickball">Stickball</button>
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-pageant">Pageant</button>
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-competitions">Competitions</button>

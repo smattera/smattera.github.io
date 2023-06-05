@@ -484,6 +484,17 @@ header {
   }
 }
 
+.card-family {
+  .card-header,
+  .card-footer {
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 5px;
+    border-image-source: linear-gradient(to bottom, #166534, #f3e8ff, #65a30d);
+    background: linear-gradient(#333, #800000);
+  }
+}
+
 .card-pageant {
   .card-header,
   .card-footer {
