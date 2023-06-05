@@ -93,6 +93,11 @@
 #   hour: 1:00 PM
 #   category:
 #   location: Fairgrounds
+- title: Bug Blues Live Bug Show
+  hour: 1:30 PM
+  category: family fun
+  style: family
+  location: Info Center Parking Lot 
 # - title: Visiting Princesses
 #   hour: 1:45 PM
 #   category: Introduction of
