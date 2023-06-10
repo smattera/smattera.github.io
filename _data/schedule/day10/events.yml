@@ -1,5 +1,5 @@
 # Sat, Jul 15, 2023
-- title: Rez Run 2022
+- title: Rez Run
   hour: 7:00 AM
   category: Competitions
   style: competitions
@@ -83,14 +83,11 @@
 #   category: Choctaw Social Dancing
 #   style: culture
 #   location: Dance Grounds
-# - title: Michelle's Magical Poodle Show
-#   hour: 12:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
-# - title: Dinosaur Experience
-#   hour: 12:30 PM
-#   category:
-#   location: O̱SSI COVE
+- title: Michelle's Magical Poodle Show
+  hour: 12:00 PM
+  category: family fun
+  style: family
+  location: ÁYI̱PA VILLAGE
 # - title: Storytelling
 #   hour: 12:45 PM
 #   category: 
@@ -101,11 +98,11 @@
 #   category: Competitions
 #   style: competitions
 #   location: In Front Of Exhibit Hall
-# - title: Watermelon Eating Contest
-#   hour: 1:00 PM
-#   category: Competitions
-#   style: competitions
-#   location: ÁYI̱PA VILLAGE
+- title: Watermelon Eating Contest
+  hour: 1:00 PM
+  category: Competitions
+  style: competitions
+  location: ÁYI̱PA VILLAGE
 # - title: PEARL RIVER SOCIAL DANCERS
 #   hour: 1:00 PM
 #   category: Choctaw Social Dancing
@@ -144,16 +141,21 @@
   category: family fun
   style: family
   location: O̱SSI COVE
+- title: Trivia
+  hour: 2:00 PM
+  category: Competitions
+  style: competitions
+  location: ÁYI̱PA VILLAGE
 # - title: Storytelling
 #   hour: 2:45 PM
 #   category: 
 #   style: culture
 #   location: Dance Grounds
-# - title: Frybread Making Demonstration
-#   hour: 3:00 PM
-#   category: Competitions
-#   style: competitions
-#   location: ÁYI̱PA VILLAGE
+- title: Frybread Making Demonstration
+  hour: 3:00 PM
+  category: Culture
+  style: culture
+  location: ÁYI̱PA VILLAGE
 # - title: OKLAH ITTI KANÓMI
 #   hour: 3:00 PM
 #   category: Choctaw Social Dancing
@@ -184,10 +186,11 @@
 #   category: Introduction of
 #   style: pageant
 #   location: ÁYI̱PA VILLAGE
-# - title: Michelle's Magical Poodle Show
-#   hour: 4:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: Michelle's Magical Poodle Show
+  hour: 4:00 PM
+  category: family fun
+  style: family
+  location: ÁYI̱PA VILLAGE
 - title: Birds & Exotics of the World Show
   hour: 4:30 PM
   category: family fun
@@ -196,6 +199,11 @@
 - title: Shawi's Discovery Zone Closes
   hour: 5:00 PM
   category: Family fun
+  style: family
+  location: Shawi's Discovery Zone
+- title: Bug Walk-Thru Exhibit Closes
+  hour: 5:00 PM 
+  category: family fun
   style: family
   location: Shawi's Discovery Zone
 # - title: GENERATIONS SOCIAL DANCERS
@@ -222,14 +230,15 @@
 #   hour: 5:30 PM
 #   category: 
 #   location: Main Stage
-# - title: 2021 WSS Men's Championship Game
-#   hour: 6:00 PM
-#   category: Replay Of
-#   location: ÁYI̱PA VILLAGE
-# - title: Reptile Walk-Thru Experience Closes
-#   hour: 6:00 PM
-#   category:
-#   location: O̱SSI COVE
+- title: 2022 WSS Men's Championship Game
+  hour: 6:00 PM
+  category: Replay Of
+  location: ÁYI̱PA VILLAGE
+- title: Reptile Walk-Thru Experience Closes
+  hour: 6:00 PM
+  category: family fun
+  style: family
+  location: O̱SSI COVE
 - title: Scales, Tails, & Teeth
   hour: 6:00 PM
   category: family fun
@@ -258,10 +267,10 @@
 #   hour: 8:00 PM
 #   category:
 #   location: ÁYI̱PA VILLAGE
-# - title: Bret Michaels
-#   hour: 8:30 PM
-#   category: Live Entertainment
-#   location: Main Stage
+- title: Chase Rice in Concert
+  hour: 8:30 PM
+  category: Live Entertainment
+  location: Main Stage
 # - title: Women's Division&#58; Championship
 #   hour: 9:00 PM
 #   category: world series stickball
