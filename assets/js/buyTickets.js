@@ -12,5 +12,5 @@ function loadJS() {
 
 function changeLocation() {
   // Code to change the location
-  window.location.href = 'https://www.etix.com/ticket/p/6710779/choctaw-indian-fair-pearl-river-choctaw-indian-fair';
+  window.open('https://www.etix.com/ticket/p/6710779/choctaw-indian-fair-pearl-river-choctaw-indian-fair');
 }

@@ -47,7 +47,7 @@ meta: home
   <div class="container">
     {% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 12, 2023 11:00:00" border="gold" %}
     <div class="mt-4">
-      <h2 class="display-2 shadow-text">Ticket Presale Starts On Monday, June 12, 2023</h2>
+      <h2 class="display-2 shadow-text">2023 Ticket Prices</h2>
       <div class="row row-cols-1 row-cols-lg-3 g-4">
         <div class="col">
           <div class="card h-100 bg-child border border-white border-3 rounded-lg">
