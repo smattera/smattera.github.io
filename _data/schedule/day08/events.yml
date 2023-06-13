@@ -12,10 +12,6 @@
 #   hour: 11:00 AM
 #   category:
 #   location: O̱SSI COVE
-# - title: Rock-It Robot
-#   hour: 11:00 AM
-#   category:
-#   location: Fairgrounds
 # - title: 2022-2023 CHOCTAW INDIAN PRINCESS
 #   hour: 11:45 AM
 #   category: INTRODUCTION OF
@@ -45,10 +41,6 @@
 #   category: Competitions
 #   style: competitions
 #   location: ÁYI̱PA VILLAGE
-# - title: Rock-It Robot
-#   hour: 1:00 PM
-#   category:
-#   location: Fairgrounds
 # - title: Storytelling
 #   hour: 1:45 PM
 #   category:
@@ -59,11 +51,6 @@
 #   category: Choctaw Social Dancing
 #   style: culture
 #   location: Dance Grounds
-# - title: Stickball Demonstration
-#   hour: 2:00 PM
-#   category:
-#   style: culture
-#   location: ÁYI̱PA VILLAGE
 # - title: Scales, Tails & Teeth Show
 #   hour: 2:30 PM
 #   category:
@@ -92,10 +79,6 @@
 #   hour: 3:30 PM
 #   category:
 #   location: O̱SSI COVE
-# - title: Rock-It Robot
-#   hour: 4:00 PM
-#   category:
-#   location: Fairgrounds
 # - title: 2022-2023 CHOCTAW INDIAN PRINCESS
 #   hour: 4:00 PM
 #   category: INTRODUCTION OF

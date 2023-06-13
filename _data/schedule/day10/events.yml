@@ -63,6 +63,11 @@
   category: family fun
   style: family
   location: Shawi's Discovery Zone
+- title: Michelle's Magical Poodle Show
+  hour: 12:00 PM
+  category: family fun
+  style: family
+  location: ÁYI̱PA VILLAGE
 - title: Dinosaur Experience
   hour: 12:30 PM
   category: family fun
@@ -83,11 +88,6 @@
 #   category: Choctaw Social Dancing
 #   style: culture
 #   location: Dance Grounds
-- title: Michelle's Magical Poodle Show
-  hour: 12:00 PM
-  category: family fun
-  style: family
-  location: ÁYI̱PA VILLAGE
 # - title: Storytelling
 #   hour: 12:45 PM
 #   category: 
@@ -112,10 +112,6 @@
 #   hour: 1:00 PM
 #   category:
 #   location: O̱SSI COVE
-# - title: Rock-It Robot
-#   hour: 1:00 PM
-#   category:
-#   location: Fairgrounds
 - title: Bug Blues Live Bug Show
   hour: 1:30 PM
   category: family fun
@@ -131,11 +127,6 @@
 #   category: Choctaw Social Dancing
 #   style: culture
 #   location: Dance Grounds
-# - title: Stickball Demonstration
-#   hour: 2:00 PM
-#   category:
-#   style: culture
-#   location: ÁYI̱PA VILLAGE
 - title: Birds & Exotics of the World Show
   hour: 2:00 PM
   category: family fun
@@ -270,7 +261,7 @@
 - title: Chase Rice in Concert
   hour: 8:30 PM
   category: Live Entertainment
-  location: Main Stage
+  location: Main Stage Amphitheater
 # - title: Women's Division&#58; Championship
 #   hour: 9:00 PM
 #   category: world series stickball

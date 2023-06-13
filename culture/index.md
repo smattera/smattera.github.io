@@ -59,7 +59,7 @@ meta: culture
               <img src="../assets/img/shawi.webp" class="card-img-top" alt="Shawi">
               <div class="card-body text-dark">
                 <h5 class="card-title">OTHER FREE ACTIVITES</h5>
-                <p class="card-text">Other Shawi's Discovery Zone activities include: <strong>Bungee Trampoline, Bounce Houses, Rock Wall, Rock-It the Robot, and the CIF Kids Train</strong>.</p>
+                <p class="card-text">Other Shawi's Discovery Zone activities include: <strong>Bungee Trampoline, Bounce Houses, Rock Wall, and the CIF Kids Train</strong>.</p>
               </div>
             </div>
           </div>
