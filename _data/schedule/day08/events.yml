@@ -88,11 +88,11 @@
 #   hour: 4:30 PM
 #   category:
 #   location: O̱SSI COVE
-# - title: Pushmataha (10-13) Division&#58; Game 6
-#   hour: 5:00 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
+- title: Pushmataha Division&58; Game 7
+  hour: 5:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
 # - title: ITTÁYYOKLA SOCIAL DANCERS
 #   hour: 5:00 PM
 #   category: Choctaw Social Dancing
@@ -107,11 +107,11 @@
 #   hour: 5:30 PM
 #   category:
 #   location: O̱SSI COVE
-# - title: Tulli Okchi Ishko (14-17) Division&#58; Game 5
-#   hour: 6:00 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
+- title: Tulli Okchi Ishko (14-17) Division&#58; Game 6
+  hour: 6:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
 # - title: 2021 Choctaw Indian Princess Pageant
 #   hour: 6:00 PM
 #   category: Replay of
@@ -130,11 +130,11 @@
 #   hour: 8:30 PM
 #   category: Live Entertainment
 #   location: Main Stage
-# - title: Men's Division&#58; Game 8
-#   hour: 10:15 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
+- title: Men's Division&#58; Game 9
+  hour: 10:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
 # - title: World Series Stickball Watch Party
 #   hour: 10:15 PM
 #   category:

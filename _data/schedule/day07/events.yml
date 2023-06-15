@@ -58,11 +58,16 @@
 #   category: Choctaw Social Dancing
 #   style: culture
 #   location: Dance Grounds
-# - title: Pushmataha (10-13) Division&#58; Game 5
-#   hour: 4:00 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
+- title: Pushmataha Division&58; Game 6
+  hour: 4:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
+- title: Tulli Okchi Ishko Division&#58; Game 5
+  hour: 5:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
 # - title: Tulli Okchi Ishko (14-17) Division&#58; Game 4
 #   hour: 5:00 PM
 #   category: world series stickball
@@ -85,11 +90,11 @@
 #   hour: 7:00 PM
 #   category: 67th Annual
 #   location: ÁYI̱PA VILLAGE
-# - title: Men's Division&#58; Game 7
-#   hour: 10:15 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
+- title: Men's Division&#58; Game 8
+  hour: 10:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
 # - title: World Series Stickball Watch Party
 #   hour: 10:15 PM
 #   category:

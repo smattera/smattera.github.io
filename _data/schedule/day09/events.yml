@@ -234,19 +234,24 @@
   category: family fun
   style: family
   location: O̱SSI COVE
+- title: Pushmataha Division&58; Championship
+  hour: 8:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
+- title: World Series Stickball Watch Party
+  hour: 8:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 # - title: Casting Crowns
 #   hour: 8:30 PM
 #   category: Live Entertainment
 #   location: Main Stage
-# - title: Tulli Okchi Ishko (14-17) Division&#58; Championship
-#   hour: 10:00 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
-# - title: World Series Stickball Watch Party
-#   hour: 10:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: Tulli Okchi Ishko Division&#58; Championship
+  hour: 9:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
 - title: Arts & Crafts Pavilion and Tent Closes
   hour: 10:00 PM
   category: Culture
@@ -257,15 +262,11 @@
   category: Culture
   style: culture
   location: Exhibit Hall
-# - title: Men's (35+) Division&#58; Championship
-#   hour: 11:00 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
-# - title: World Series Stickball Watch Party
-#   hour: 11:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: Men's (35+) Division&#58; Championship
+  hour: 10:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
 - title: Midway Closes
   hour: 1:00 AM
   category: family fun

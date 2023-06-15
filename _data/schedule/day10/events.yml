@@ -93,11 +93,6 @@
 #   category: 
 #   style: culture
 #   location: Dance Grounds
-# - title: Iron Warrior Women's Finals Begin
-#   hour: 1:00 PM
-#   category: Competitions
-#   style: competitions
-#   location: In Front Of Exhibit Hall
 - title: Watermelon Eating Contest
   hour: 1:00 PM
   category: Competitions
@@ -249,28 +244,19 @@
 #   hour: 7:15 PM
 #   category: Live Entertainment
 #   location: Main Stage
-# - title: Pushmataha (10-13) Division&#58; Championship
-#   hour: 8:00 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
-# - title: World Series Stickball Watch Party
-#   hour: 8:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
 - title: Chase Rice in Concert
   hour: 8:30 PM
   category: Live Entertainment
   location: Main Stage Amphitheater
-# - title: Women's Division&#58; Championship
-#   hour: 9:00 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
-# - title: World Series Stickball Watch Party
-#   hour: 9:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: Women's Division&#58; Championship
+  hour: 9:00 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
+- title: World Series Stickball Watch Party
+  hour: 9:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Arts & Crafts Pavilion and Tent Closes
   hour: 9:00 PM
   category: Culture
@@ -281,15 +267,15 @@
   category: Culture
   style: culture
   location: Exhibit Hall
-# - title: Men's Division&#58; Championship
-#   hour: 10:15 PM
-#   category: world series stickball
-#   style: stickball
-#   location: Warrior Stadium
-# - title: World Series Stickball Watch Party
-#   hour: 10:15 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: Men's Division&#58; Championship
+  hour: 10:30 PM
+  category: world series stickball
+  style: stickball
+  location: Warrior Stadium
+- title: World Series Stickball Watch Party
+  hour: 10:30 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Midway Closes
   hour: 1:00 AM
   category: family fun
