@@ -3,78 +3,83 @@
   hour: 11:00 AM
   category: 
   location: Fairgrounds
-# - title: BOGUE CHITTO SOCIAL DANCERS
-#   hour: 11:00 AM
-#   category: Social Dancing
-#   style: culture
-#   location: Dance Grounds
+- title: GENERATION
+  hour: 11:00 AM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Reptile Walk-Thru Experience Opens
 #   hour: 11:00 AM
 #   category:
 #   location: O̱SSI COVE
-# - title: 2022-2023 CHOCTAW INDIAN PRINCESS
-#   hour: 11:45 AM
-#   category: INTRODUCTION OF
-#   style: pageant
-#   location: Dance Grounds
-# - title: HILHA IM ACHOKMA ALHÍHA
-#   hour: 12:00 PM
-#   category: Social Dancing
-#   style: culture
-#   location: Dance Grounds
+- title: INTRODUCTION OF 2023-2023 CHOCTAW INDIAN PRINCESS
+  hour: 11:45 AM
+  category: Pageant
+  style: pageant
+  location: Dance Grounds
+- title: PEARL RIVER SOCIAL DANCERS 
+  hour: 12:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Michelle's Magical Poodle Show
 #   hour: 12:00 PM
 #   category:
 #   location: ÁYI̱PA VILLAGE
-# - title: Visiting Princesses
-#   hour: 12:45 PM
-#   category: INTRODUCTION OF
-#   style: pageant
-#   location: Dance Grounds
-# - title: Iron Warrior&#58; Women's Time Trials Begin
-#   hour: 1:00 PM
-#   category: Competitions
-#   style: competitions
-#   location: In Front Of Exhibit Hall
-# - title: Watermelon Eating Contest
-#   hour: 1:00 PM
-#   category: Competitions
-#   style: competitions
-#   location: ÁYI̱PA VILLAGE
-# - title: Storytelling
-#   hour: 1:45 PM
-#   category:
-#   style: culture
-#   location: Dance Grounds
-# - title: TIAK HIKÍYA HIMITTOWA HILHA
-#   hour: 2:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: Introduction of Visiting Princesses
+  hour: 12:45 PM
+  category: Pageant
+  style: pageant
+  location: Dance Grounds
+- title: Iron Warrior&#58; Women's Time Trials Begin
+  hour: 1:00 PM
+  category: Competitions
+  style: competitions
+  location: In Front Of Exhibit Hall
+- title: Watermelon Eating Contest
+  hour: 1:00 PM
+  category: Competitions
+  style: competitions
+  location: ÁYI̱PA VILLAGE
+- title: Storytelling
+  hour: 1:45 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
+- title: CHOCTAW TRIBAL SOCIAL DANCERS
+  hour: 2:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
+- title: TRIVIA CONTEST
+  hour: 2:00 PM
+  category: Competitions
+  style: competitions
+  location: ÁYI̱PA VILLAGE
 # - title: Scales, Tails & Teeth Show
 #   hour: 2:30 PM
 #   category:
 #   location: O̱SSI COVE
-# - title: Storytelling
-#   hour: 2:45 PM
-#   category:
-#   style: culture
-#   location: Dance Grounds
-# - title: Iron Warrior&#58; Men's Time Trials Begin
-#   hour: 3:00 PM
-#   category: Competitions
-#   style: competitions
-#   location: In Front Of Exhibit Hall
-# - title: Frybread Making Demonstration
-#   hour: 3:00 PM
-#   category:
-#   style: culture
-#   location: ÁYI̱PA VILLAGE
-# - title: BOGUE HOMA DANCE GROUP
-#   hour: 3:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: Storytelling
+  hour: 2:45 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
+- title: Iron Warrior&#58; Men's Time Trials Begin
+  hour: 3:00 PM
+  category: Competitions
+  style: competitions
+  location: In Front Of Exhibit Hall
+- title: Frybread Making Demonstration
+  hour: 3:00 PM
+  category: Culture
+  style: culture
+  location: ÁYI̱PA VILLAGE
+- title: CHAHTA ALLA CHIPONTA HICHA HIMITTOWA ALHÍHA 
+  hour: 3:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Birds & Exotics of the World Show
 #   hour: 3:30 PM
 #   category:
@@ -93,16 +98,11 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-# - title: ITTÁYYOKLA SOCIAL DANCERS
-#   hour: 5:00 PM
-#   category: Culture
-#   style: culture
-#   location: ÁYI̱PA VILLAGE
-# - title: ITTI KÁNA HILHA ALHÍHA SOCIAL DANCERS
-#   hour: 5:00 PM
-#   category: Culture
-#   style: culture
-#   location: Main Stage
+- title: BOGUE CHITTO YOUTH SOCIAL DANCERS &#35;1
+  hour: 5:00 PM
+  category: Culture
+  style: culture
+  location: MAIN STAGE
 # - title: Birds & Exotics of the World Show
 #   hour: 5:30 PM
 #   category:
@@ -121,21 +121,26 @@
 #   hour: 6:00 PM
 #   category:
 #   location: O̱SSI COVE
-# - title: CHOCTAW TRIBAL SOCIAL DANCERS
-#   hour: 7:00 PM
-#   category: Culture
-#   style: culture
-#   location: Main Stage
-# - title: Ryan Hurd
-#   hour: 8:30 PM
-#   category: Live Entertainment
-#   location: Main Stage
+- title: HILHACHI ALHIHA 
+  hour: 6:00 PM
+  category: Culture
+  style: culture
+  location: Main Stage
+- title: BOGUE CHITTO YOUTH SOCIAL DANCERS &#35;2
+  hour: 7:00 PM
+  category: Culture
+  style: culture
+  location: Main Stage
+- title: Jeremy Camp in Concert
+  hour: 8:30 PM
+  category: 
+  location: Main Stage
 - title: Men's Division&#58; Game 9
   hour: 10:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-# - title: World Series Stickball Watch Party
-#   hour: 10:15 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: World Series Stickball Watch Party
+  hour: 10:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
