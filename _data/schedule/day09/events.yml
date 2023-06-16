@@ -5,7 +5,7 @@
   location: Fairgrounds
 # - title: HILHA CHO SOCIAL DANCERS
 #   hour: 10:00 AM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 - title: Tribal Member Cornhole Tournament
@@ -35,7 +35,7 @@
   location: Shawi's Discovery Zone
 # - title: ONE FEATHER SOCIAL DANCE GROUP
 #   hour: 11:00 AM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 - title: Reptile Walk-Thru Experience Opens
@@ -50,7 +50,7 @@
 #   location: Dance Grounds
 # - title: CHOCTAW TRADITIONAL SOCIAL DANCERS
 #   hour: 12:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 - title: Michelle's Magical Poodle Show
@@ -85,7 +85,7 @@
   location: ÁYI̱PA VILLAGE
 # - title: WEST TENNESSEE CHOCTAW SOCIAL DANCERS
 #   hour: 1:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 - title: Scales, Tails & Teeth Show
@@ -105,7 +105,7 @@
 #   location: Dance Grounds
 # - title: CHAHTA ALLA CHIPOTA HICHA HIMITTOWA ALHÍHA
 #   hour: 2:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 - title: Choctaw Indian Fair&#58; Trivia Edition
@@ -130,7 +130,7 @@
   location: ÁYI̱PA VILLAGE
 # - title: IN HONOR OF BILLY AMOS
 #   hour: 3:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 - title: Dinosaur Experience
@@ -174,12 +174,12 @@
   location: O̱SSI COVE
 # - title: HIMIFFOWA ALHÍHA SOCIAL DANCERS
 #   hour: 5:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: ÁYI̱PA VILLAGE
 # - title: KABOTCHA BÓLI DANCERS
 #   hour: 5:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Main Stage
 - title: Shawi's Discovery Zone Closes
@@ -211,7 +211,7 @@
   location: ÁYI̱PA VILLAGE
 # - title: TRI-COMMUNITY SOCIAL DANCERS
 #   hour: 6:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Main Stage
 - title: Reptile Walk-Thru Experience Closes
@@ -226,7 +226,7 @@
   location: O̱SSI COVE
 # - title: OKLA HILHA HAPÍYA HOKIH
 #   hour: 7:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Main Stage
 - title: Birds & Exotics of the World Show

@@ -1,8 +1,9 @@
 # Thu, Jul 06, 2023
-# - title: Midway Opens
-#   hour: 5:00 PM
-#   category:
-#   location: Midway
+- title: Midway Opens
+  hour: 5:00 PM
+  category: family fun
+  style: family
+  location: Midway
 - title: Pushmataha Division&#58; Game 1
   hour: 5:00 PM
   category: world series stickball
@@ -33,7 +34,8 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-# - title: Midway Closes
-#   hour: 12:00 AM
-#   category:
-#   location: Midway
+- title: Midway Closes
+  hour: 12:00 AM
+  category: family fun
+  style: family
+  location: Midway

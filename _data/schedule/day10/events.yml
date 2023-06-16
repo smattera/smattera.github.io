@@ -10,7 +10,7 @@
   location: Fairgrounds
 # - title: BAHCHA MALATA HILHA ALHÍHA
 #   hour: 10:00 AM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 - title: Open Cornhole Tournament
@@ -40,7 +40,7 @@
   location: Shawi's Discovery Zone
 # - title: BOGUE CHITTO YOUTH DANCERS
 #   hour: 11:00 AM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 - title: Reptile Walk-Thru Experience Opens
@@ -85,7 +85,7 @@
   location: In Front Of Exhibit Hall
 # - title: NATIVE DANCE GROUP
 #   hour: 12:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 # - title: Storytelling
@@ -100,7 +100,7 @@
   location: ÁYI̱PA VILLAGE
 # - title: PEARL RIVER SOCIAL DANCERS
 #   hour: 1:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 # - title: Scales, Tails & Teeth Show
@@ -119,7 +119,7 @@
 #   location: Dance Grounds
 # - title: PEARL RIVER YOUTH SOCIAL DANCERS
 #   hour: 2:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 - title: Birds & Exotics of the World Show
@@ -144,7 +144,7 @@
   location: ÁYI̱PA VILLAGE
 # - title: OKLAH ITTI KANÓMI
 #   hour: 3:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 - title: Dinosaur Experience
@@ -194,12 +194,12 @@
   location: Shawi's Discovery Zone
 # - title: GENERATIONS SOCIAL DANCERS
 #   hour: 5:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 # - title: Fani Lakna Social Dancers
 #   hour: 5:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Main Stage
 - title: Dinosaur Experience
@@ -232,7 +232,7 @@
   location: O̱SSI COVE
 # - title: MYSTIC WIND CHAHTA SOCIAL DANCERS
 #   hour: 6:30 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Main Stage
 - title: Birds & Exotics of the World Show

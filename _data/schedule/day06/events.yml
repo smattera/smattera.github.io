@@ -1,13 +1,14 @@
 # Tue, Jul 11, 2023
-# - title: Inter-Tribal Dancing
-#   hour: 4:30 PM
-#   category: Choctaw Social Dancing
-#   style: culture
-#   location: Dance Grounds
-# - title: Midway Opens (Family Night)
-#   hour: 5:00 PM
-#   category:
-#   location: Midway
+- title: Inter-Tribal Dancing
+  hour: 1:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
+- title: Midway Opens (Family Night)
+  hour: 5:00 PM
+  category: family fun
+  style: family
+  location: Midway
 - title: Gospel Night
   hour: 6:00 PM
   category: competitions
@@ -38,7 +39,8 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-# - title: Midway Closes
-#   hour: 12:00 AM
-#   category:
-#   location: Midway
+- title: Midway Closes
+  hour: 12:00 AM
+  category: family fun
+  style: family
+  location: Midway

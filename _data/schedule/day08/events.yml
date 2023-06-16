@@ -1,8 +1,8 @@
 # Thu, Jul 13, 2023
-# - title: Gates Open
-#   hour: 11:00 AM
-#   category: 
-#   location: Fairgrounds
+- title: Gates Open
+  hour: 11:00 AM
+  category: 
+  location: Fairgrounds
 # - title: BOGUE CHITTO SOCIAL DANCERS
 #   hour: 11:00 AM
 #   category: Social Dancing
@@ -48,7 +48,7 @@
 #   location: Dance Grounds
 # - title: TIAK HIKÍYA HIMITTOWA HILHA
 #   hour: 2:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 # - title: Scales, Tails & Teeth Show
@@ -72,7 +72,7 @@
 #   location: ÁYI̱PA VILLAGE
 # - title: BOGUE HOMA DANCE GROUP
 #   hour: 3:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Dance Grounds
 # - title: Birds & Exotics of the World Show
@@ -95,12 +95,12 @@
   location: Warrior Stadium
 # - title: ITTÁYYOKLA SOCIAL DANCERS
 #   hour: 5:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: ÁYI̱PA VILLAGE
 # - title: ITTI KÁNA HILHA ALHÍHA SOCIAL DANCERS
 #   hour: 5:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Main Stage
 # - title: Birds & Exotics of the World Show
@@ -123,7 +123,7 @@
 #   location: O̱SSI COVE
 # - title: CHOCTAW TRIBAL SOCIAL DANCERS
 #   hour: 7:00 PM
-#   category: Choctaw Social Dancing
+#   category: Culture
 #   style: culture
 #   location: Main Stage
 # - title: Ryan Hurd
