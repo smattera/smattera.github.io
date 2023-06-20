@@ -34,11 +34,11 @@
 
 - image: volleyball
   title: Volleyball Tournament
-  desc: Join us for the first ever Choctaw Indian Fair Volleyball Tournament on July 7th and 8th at the Choctaw Central High School Gymnasium.
-  alert: Deadline to enter is Friday, June 30, 2022.
-  firstLink: ../assets/pdf/2023 Volleyball Tournament Flyer.pdf
+  desc: Join us for the 2nd Annual Choctaw Indian Fair Volleyball Tournament on July 7th and 8th at the Choctaw Central High School Gymnasium.
+  alert: Deadline to enter is Friday, June 30, 2023.
+  firstLink: ../assets/pdf/2023 Volleyball Flyer.pdf
   firstAction: Download Flyer
-  secondLink: ../assets/pdf/2023 Volleyball Tournament Registration.pdf
+  secondLink: ../assets/pdf/2023 Volleyball Registration.pdf
   secondAction: Registration Form
 
 - image: gospelNight
