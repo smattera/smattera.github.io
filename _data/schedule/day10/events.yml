@@ -8,11 +8,11 @@
   hour: 10:00 AM
   category: 
   location: Fairgrounds
-# - title: BAHCHA MALATA HILHA ALHÍHA
-#   hour: 10:00 AM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: PEARL RIVER YOUTH DANCERS
+  hour: 10:00 AM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 - title: Open Cornhole Tournament
   hour: 10:00 AM
   category: Competitions
@@ -38,21 +38,31 @@
   category: Family fun
   style: family
   location: Shawi's Discovery Zone
-# - title: BOGUE CHITTO YOUTH DANCERS
-#   hour: 11:00 AM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: Storytelling
+  hour: 10:45 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
+- title: STANDING PINE SOCIAL DANCERS
+  hour: 11:00 AM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 - title: Reptile Walk-Thru Experience Opens
   hour: 11:00 AM
   category: family fun
   style: family
   location: O̱SSI COVE
-# - title: 2022-2023 Choctaw Indian Princess
-#   hour: 11:45 AM
-#   category: Introduction of
-#   style: pageant
-#   location: Dance Grounds
+- title: Introduction of 2022-2023 Choctaw Indian Princess
+  hour: 11:45 AM
+  category: Pageant
+  style: pageant
+  location: Dance Grounds
+- title: NATIVE DANCE GROUP
+  hour: 12:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 - title: Midway Opens
   hour: 12:00 PM
   category: family fun
@@ -73,36 +83,31 @@
   category: family fun
   style: family
   location: O̱SSI COVE
+- title: Introduction of Visiting Princesses
+  hour: 12:45 PM
+  category: Pageant
+  style: pageant
+  location: Dance Grounds
 - title: Scales, Tails, & Teeth
   hour: 1:00 PM
   category: family fun
   style: family
   location: O̱SSI COVE
-- title: Iron Warrior Begins
+- title: Iron Warrior Women's Finals Begins
   hour: 1:00 PM
   category: Competitions
   style: competitions
   location: In Front Of Exhibit Hall
-# - title: NATIVE DANCE GROUP
-#   hour: 12:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
-# - title: Storytelling
-#   hour: 12:45 PM
-#   category: 
-#   style: culture
-#   location: Dance Grounds
 - title: Watermelon Eating Contest
   hour: 1:00 PM
   category: Competitions
   style: competitions
   location: ÁYI̱PA VILLAGE
-# - title: PEARL RIVER SOCIAL DANCERS
-#   hour: 1:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: WEST TENNESSEE CHOCTAW SOCIAL DANCERS
+  hour: 1:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Scales, Tails & Teeth Show
 #   hour: 1:00 PM
 #   category:
@@ -112,41 +117,46 @@
   category: family fun
   style: family
   location: Shawi's Discovery Zone
-# - title: Visiting Princesses
-#   hour: 1:45 PM
-#   category: Introduction of
-#   style: pageant
-#   location: Dance Grounds
-# - title: PEARL RIVER YOUTH SOCIAL DANCERS
-#   hour: 2:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: Storytelling
+  hour: 1:45 PM 
+  category: Culture
+  style: culture
+  location: Dance Grounds
+- title: BOGUE HOMA SOCIAL DANCERS
+  hour: 2:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 - title: Birds & Exotics of the World Show
   hour: 2:00 PM
   category: family fun
   style: family
   location: O̱SSI COVE
-- title: Trivia
+- title: Trivia Contest
   hour: 2:00 PM
   category: Competitions
   style: competitions
   location: ÁYI̱PA VILLAGE
-# - title: Storytelling
-#   hour: 2:45 PM
-#   category: 
-#   style: culture
-#   location: Dance Grounds
+- title: Storytelling
+  hour: 2:45 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
+- title: Iron Warrior Men's Finals Begins
+  hour: 3:00 PM
+  category: Competitions
+  style: competitions
+  location: In Front Of Exhibit Hall
 - title: Frybread Making Demonstration
   hour: 3:00 PM
   category: Culture
   style: culture
   location: ÁYI̱PA VILLAGE
-# - title: OKLAH ITTI KANÓMI
-#   hour: 3:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: BÓK CHITO OKLAH HILHA ALHÍHA
+  hour: 3:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 - title: Dinosaur Experience
   hour: 3:00 PM
   category: family fun
@@ -162,16 +172,16 @@
   category: family fun
   style: family
   location: Shawi's Discovery Zone
+- title: BAHCHA MALA̱TA HILHA ALHÍHA
+  hour: 4:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 - title: Tushka Village Closes
   hour: 4:00 PM
   category: Culture
   style: culture
   location: Tushka Village
-# - title: 2022-2023 Choctaw Indian Princess
-#   hour: 4:00 PM
-#   category: Introduction of
-#   style: pageant
-#   location: ÁYI̱PA VILLAGE
 - title: Michelle's Magical Poodle Show
   hour: 4:00 PM
   category: family fun
@@ -192,16 +202,15 @@
   category: family fun
   style: family
   location: Shawi's Discovery Zone
-# - title: GENERATIONS SOCIAL DANCERS
-#   hour: 5:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
-# - title: Fani Lakna Social Dancers
-#   hour: 5:00 PM
-#   category: Culture
-#   style: culture
-#   location: Main Stage
+- title: OKA HOMMA ALLA ITTI̱ KA̱NA HILHA ALHÍHA
+  hour: 5:00 PM
+  category: Culture
+  style: culture
+  location: Main Stage
+# - title: Performance by ???
+#   hour: 5:00 PM 
+#   category: 
+#   location: ÁYI̱PA VILLAGE
 - title: Dinosaur Experience
   hour: 5:30 PM
   category: family fun
@@ -212,10 +221,10 @@
   category: family fun
   style: family
   location: Shawi's Discovery Zone
-# - title: Closing Ceremonies
-#   hour: 5:30 PM
-#   category: 
-#   location: Main Stage
+- title: Closing Ceremonies
+  hour: 6:00 PM
+  category: 
+  location: Main Stage
 - title: 2022 WSS Men's Championship Game
   hour: 6:00 PM
   category: Replay Of
@@ -230,20 +239,11 @@
   category: family fun
   style: family
   location: O̱SSI COVE
-# - title: MYSTIC WIND CHAHTA SOCIAL DANCERS
-#   hour: 6:30 PM
-#   category: Culture
-#   style: culture
-#   location: Main Stage
 - title: Birds & Exotics of the World Show
   hour: 7:00 PM
   category: family fun
   style: family
   location: O̱SSI COVE
-# - title: Rez Dawg
-#   hour: 7:15 PM
-#   category: Live Entertainment
-#   location: Main Stage
 - title: Chase Rice in Concert
   hour: 8:30 PM
   category: Live Entertainment
@@ -282,6 +282,6 @@
   style: family
   location: Midway
 - title: Choctaw Indian Fair officially closes
-  hour: 2:00 AM
+  hour: 1:00 AM
   category:
   location: Fairgrounds
