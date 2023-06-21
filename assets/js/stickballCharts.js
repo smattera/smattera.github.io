@@ -40,8 +40,8 @@ function createPieChart(canvasId, data) {
 
 const dataSets = {
   chart1: [
-    { value: 5, color: 'red' },
-    { value: 10, color: 'blue' }
+    { value: 5, color: '--beaver-dam' },
+    { value: 10, color: '--tvshkahomma' }
   ],
   chart2: [
     { value: 20, color: 'purple' },
@@ -65,8 +65,8 @@ document.addEventListener('DOMContentLoaded', () => {
       const canvasId = `${chartId}-canvas`;
       const canvas = document.createElement('canvas');
       canvas.id = canvasId;
-      canvas.width = 400;
-      canvas.height = 400;
+      canvas.width = auto;
+      canvas.height = auto;
       chartDiv.appendChild(canvas);
 
       const data = getDataForChart(chartId);
