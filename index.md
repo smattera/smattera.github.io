@@ -3,14 +3,41 @@ layout: default
 title: Home
 meta: home
 ---
+<script lang="ts">
+    let videos = [
+      "../assets/vid/OpeningCeremonies.mp4",
+      "../assets/vid/Princess.mp4",
+      "../assets/vid/Stickball.mp4",
+      "../assets/vid/Dancegrounds.mp4",
+      "../assets/vid/RezRun.mp4",
+      "../assets/vid/IronWarrior.mp4",
+      "../assets/vid/Midway.mp4",
+    ];
+    let currentVideo = 0;
+
+    function nextVideo() {
+      currentVideo = (currentVideo + 1) % videos.length;
+      document.getElementById("bgvid").src = videos[currentVideo];
+    }
+    
+    // Add an event listener for the 'ended' event
+    document.getElementById("bgvid").addEventListener('ended', nextVideo);
+    
+    // Set the initial video source
+    document.getElementById("bgvid").src = videos[currentVideo];
+  </script>
 
 <header>
   <!-- This div is  intentionally blank. It creates the transparent black overlay over the video which you can modify in the CSS -->
   <div class="overlay"></div>
   <!-- The HTML5 video element that will create the background video on the header -->
-  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-    <source src="/assets/img/CIFVideoWeb_1.mp4" type="video/mp4">
+  <video autoplay muted playsinline id="bgvid" class="relative z-n1 w-100 h-75 object-cover" style="top:0;left:0;">
+    <source src="" type="video/mp4">
   </video>
+
+  <!-- <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    <source src="/assets/img/CIFVideoWeb_1.mp4" type="video/mp4">
+  </video> -->
   <!-- The header content -->
   <div class="container h-100 d-block d-sm-none">
     <div class="d-flex h-100 text-center align-items-center">
