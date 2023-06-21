@@ -1,6 +1,6 @@
-const ctx = document.getElementById('mens-g1Chart');
+const ctx = document.getElementById('myChart');
 
-new CharacterData(ctx, {
+new Chart(ctx, {
   type: 'bar',
   data: {
     labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
