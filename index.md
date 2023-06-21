@@ -8,7 +8,7 @@ meta: home
   <!-- This div is  intentionally blank. It creates the transparent black overlay over the video which you can modify in the CSS -->
   <div class="overlay"></div>
   <!-- The HTML5 video element that will create the background video on the header -->
-  <video autoplay muted playsinline id="bgvid" class="relative z-n1 w-100 h-75 object-cover" style="top:0;left:0;">
+  <video autoplay muted playsinline id="bgvid">
     <source src="" type="video/mp4">
   </video>
 
@@ -97,13 +97,13 @@ meta: home
 
 <script lang="ts">
   let videos = [
-    "../assets/vid/OpeningCeremonies.mp4",
-    "../assets/vid/Princess.mp4",
-    "../assets/vid/Stickball.mp4",
-    "../assets/vid/Dancegrounds.mp4",
-    "../assets/vid/RezRun.mp4",
-    "../assets/vid/IronWarrior.mp4",
-    "../assets/vid/Midway.mp4",
+    "../assets/old/vid/OpeningCeremonies.mp4",
+    "../assets/old/vid/Princess.mp4",
+    "../assets/old/vid/Stickball.mp4",
+    "../assets/old/vid/Dancegrounds.mp4",
+    "../assets/old/vid/RezRun.mp4",
+    "../assets/old/vid/IronWarrior.mp4",
+    "../assets/old/vid/Midway.mp4",
   ];
   let currentVideo = 0;
 
