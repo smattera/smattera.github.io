@@ -3,6 +3,8 @@ layout: default
 title: Stickball
 meta: stickball
 ---
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="../assets/js/stickballCharts.js"></script>
 <section class="diamond-bg2 bebas">
   <div class="container">
     <img src="../assets/img/stickball-banner.webp" class="img-fluid d-none d-md-block img-shadow">
