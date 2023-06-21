@@ -16,13 +16,13 @@ meta: home
     <source src="/assets/img/CIFVideoWeb_1.mp4" type="video/mp4">
   </video> -->
   <!-- The header content -->
-  <div class="container h-100 d-block d-sm-none">
+  <!-- <div class="container h-100 d-block d-sm-none">
     <div class="d-flex h-100 text-center align-items-center">
       <div class="w-100 text-white">
         <img src="/assets/img/logos/fairlogo.webp" alt="Choctaw Indian Fair Logo" class="img-fluid">
       </div>
     </div>
-  </div>
+  </div> -->
 </header>
 
 <section class="diamond-bg">
