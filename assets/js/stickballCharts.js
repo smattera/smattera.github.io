@@ -40,8 +40,8 @@ function createPieChart(canvasId, data) {
 
 const dataSets = {
   chart1: [
-    { value: 5, color: '--beaver-dam' },
-    { value: 10, color: '--tvshkahomma' }
+    { value: 50, color: '--beaver-dam' },
+    { value: 50, color: '--chikashatoli' }
   ],
   chart2: [
     { value: 20, color: 'purple' },
