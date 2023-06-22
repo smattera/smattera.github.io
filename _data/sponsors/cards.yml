@@ -122,10 +122,10 @@
   url: https://www.andersonregional.org
   file: anderson
   alt: Anderson Regional Hospital
-# - level: bronze
-#   url: #
-#   file: appliedtech
-#   alt: Applied Technologies
+- level: bronze
+  url: https://www.atgconsults.com
+  file: appliedtech
+  alt: Applied Technology Group
 - level: bronze
   url: https://www.bcleanllc.com
   file: bclean
