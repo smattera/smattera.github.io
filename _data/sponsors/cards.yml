@@ -4,18 +4,18 @@
   file: pearlriver2
   alt: Pearl River Resort
   class: active
-- level: platinum
-  url: https://merchantsfoodservice.com
-  file: merchants
-  alt: Merchants Food Service
-- level: platinum
-  url: https://yates.doitbest.com
-  file: yates
-  alt: Yates
+# - level: platinum
+#   url: 
+#   file: fabi 
+#   alt: FABI (First American Bank)
 - level: platinum
   url: http://pryormorrow.com
   file: pryormorrow
   alt: Pryor Morrow
+- level: platinum
+  url: https://yates.doitbest.com
+  file: yates
+  alt: Yates
 - level: platinum
   url: https://www.trustmark.com
   file: trustmark
@@ -27,29 +27,21 @@
 
 # GOLD SPONSORS
 - level: gold
-  url: https://www.cspire.com
-  file: cspire
-  alt: C Spire
+  url: https://www.ajg.com
+  file: gallagher
+  alt: AJ Gallagher
 - level: gold
-  url: https://www.hnrsupply.com
-  file: hotelsupply
-  alt: Hotel & Restaurant Supply
-- level: gold
-  url: https://imperialdade.com
-  file: imperial
-  alt: Imperial Dade
+  url: https://www.bcbsms.com
+  file: bluecross
+  alt: Blue Cross Blue Shield
 - level: gold
   url: https://www.chahtaholdingroup.com/ikbi
   file: ikbi
   alt: IKBI
 - level: gold
-  url: https://www.key.com/personal/index.html
-  file: keybanc
-  alt: KeyBanc Capital Markets
-- level: gold
-#  url:
-  file: morton
-  alt: Morton Construction
+  url: https://www.performancefoodservice.com
+  file: performancefood
+  alt: Performance Food Services
 - level: gold
   url: http://www.pileum.com
   file: pileum
@@ -57,127 +49,71 @@
 
 # SILVER SPONSORS
 - level: silver
+  url: https://www.btlaw.com
+  file: btlaw
+  alt: Barnes & Thornburg
+- level: silver
   url: https://www.concept3lv.com
   file: concept3
   alt: Concept:3
 - level: silver
-  url: https://www.ecolab.com
-  file: ecolab
-  alt: Ecolab
+  url: https://www.cspire.com
+  file: cspire
+  alt: C Spire
 - level: silver
   url: http://edwards-electric.com
   file: edwards
   alt: Edwards Electric
 - level: silver
-  url: http://www.engservice.com
-  file: engservice
-  alt: Engineering Service
+  url: https://imperialdade.com
+  file: imperial
+  alt: Imperial Dade
 - level: silver
-  url: https://www.mclaininc.com
-  file: mclain
-  alt: McLain Plumbing
+  url: https://www.jcj.com
+  file: jcj
+  alt: JCJ Architecture
 - level: silver
-  url: https://www.ronnoco.com
-  file: ronnoco
-  alt: Ronnoco Beverage Solutions
-- level: silver
-  url: https://www.btlaw.com
-  file: btlaw
-  alt: Barnes & Thornburg
-- level: silver
-  url: https://www.benchmarkms.com
-  file: benchmark
-  alt: Benchmark Construction
-- level: silver
-  url: https://www.cricpa.com
-  file: cri
-  alt: Carr, Riggs & Ingram, LLC
-- level: silver
-  url: https://fintrustadvisors.com
-  file: fintrust
-  alt: Financial Trust
-- level: silver
-  url: http://www.glassworxllp.com
-  file: glassworx
-  alt: Glass Worx
+  url: https://www.key.com/personal/index.html
+  file: keybanc
+  alt: KeyBanc Capital Markets
 - level: silver
   url: https://www.keyimpactstrategies.com
   file: keyimpact
   alt: Key Impact Strategies
 - level: silver
+  url: https://www.mclaininc.com
+  file: mclain
+  alt: McLain Plumbing
+- level: silver
+#  url:
+  file: morton
+  alt: Morton Construction
+- level: silver
+  url: https://www.onedigital.com
+  file: onedigital
+  alt: One Digital
+- level: silver
   url: https://partridgepropane.com
   file: partridge
   alt: Partridge Propane
+- level: silver
+  url: https://rpagency.com
+  file: romphpou
+  alt: Romph Pou Agency
+- level: silver
+  url: https://www.ronnoco.com
+  file: ronnoco
+  alt: Ronnoco Beverage Solutions
 - level: silver
   url: https://www.thecitizensbankphila.com
   file: citizens
   alt: Citizens Bank
 - level: silver
-  url: https://www.bcbsms.com
-  file: bluecross
-  alt: Blue Cross Blue Shield
-- level: silver
-  url: https://rpagency.com
-  file: romphpou
-  alt: Romph Pou Agency
+  url: https://wd.cpa
+  file: wegmann
+  alt: Wegmann Dazet
 
 # BRONZE SPONSORS
-- level: bronze
-  url: http://www.becomminc.com
-  file: bne
-  alt: B&E Communications
-- level: bronze
-#  url:
-  file: bclean
-  alt: B Clean
-- level: bronze
-#  url:
-  file: erg
-  alt: Engineering Resource Group
-- level: bronze
-  url: http://www.interpestinc.com
-  file: interpest
-  alt: Interpest
-- level: bronze
-  url: https://www.jacksoncom.com
-  file: jacksoncomm
-  alt: Jackson Communications
-- level: bronze
-  url: https://www.mitchellsigns.com
-  file: mitchell
-  alt: Mitchell Signs
-- level: bronze
-  url: https://pmiconnect.com
-  file: pmi
-  alt: Purchasing Management International
-- level: bronze
-  url: https://www.ricoh-usa.com/en
-  file: ricoh
-  alt: Ricoh USA
-- level: bronze
-  url: https://www.robertsonproduce.com/
-  file: robertson
-  alt: Robertson Produce
-- level: bronze
-  url: https://www.normanroofing.com
-  file: normanroofing
-  alt: Norman Roofing
-- level: bronze
-  url: https://www.trane.com/index.html
-  file: trane
-  alt: Trane
-- level: bronze
-  url: https://www.usfoods.com
-  file: usfoods
-  alt: US Foods
-- level: bronze
-  url: https://www.venusgroup.com
-  file: venus
-  alt: Venus Group
-- level: bronze
-  url: https://www.woodfruitticher.com
-  file: woodfruit
-  alt: Wood Fruitticher
 - level: bronze
   url: https://www.aflac.com
   file: aflac
@@ -186,10 +122,18 @@
   url: https://www.andersonregional.org
   file: anderson
   alt: Anderson Regional Hospital
+# - level: bronze
+#   url: #
+#   file: appliedtech
+#   alt: Applied Technologies
 - level: bronze
-#  url:
-  file: bluemountain
-  alt: Blue Mountain Project Partners
+  url: http://www.becomminc.com
+  file: bne
+  alt: B&E Communications
+- level: bronze
+  url: https://www.benchmarkms.com
+  file: benchmark
+  alt: Benchmark Construction
 - level: bronze
   url: https://www.centerpointenergy.com/
   file: centerpoint
@@ -199,9 +143,17 @@
   file: dnw
   alt: D&W Tire & Muffler Center
 - level: bronze
+#  url:
+  file: erg
+  alt: Engineering Resource Group
+- level: bronze
 #  url: 
   file: gilmer
   alt: Gilmer Electric
+- level: bronze
+  url: http://www.interpestinc.com
+  file: interpest
+  alt: Interpest
 - level: bronze
   url: https://www.johnestephenschapel.com
   file: johnstephens
@@ -215,31 +167,124 @@
   file: msm
   alt: Mississippi Sports Medicine
 - level: bronze
+  url: https://www.mitchellsigns.com
+  file: mitchell
+  alt: Mitchell Signs
+- level: bronze
   url: https://www.neshobageneral.com
   file: neshobageneral
   alt: Neshoba General Hospital
+- level: bronze
+  url: https://meridian.newellpaper.com
+  file: newell
+  alt: Jackson Newell Paper Companies
 - level: bronze
   url: https://www.facebook.com/Peoples-Building-Services-LLC-102949338856733
   file: peoples
   alt: Peoples Building Services, LLC
 - level: bronze
-  url: http://www.pigglywiggly.com/store/16851-hwy-21-southsebastopolms
-  file: pigglywiggly
-  alt: Piggly Wiggly - Sebastopol
+  url: https://princeoil.com
+  file: princeoil
+  alt: Prince Oil
 - level: bronze
   url: https://www.gopurvis.com
   file: purvis
   alt: Purvis Business Machines
 - level: bronze
-  url: https://shankcomm.com
-  file: shank
-  alt: Shank Communications
+  url: https://www.robertsonproduce.com/
+  file: robertson
+  alt: Robertson Produce
+- level: bronze
+  url: https://www.statesystemsinc.com
+  file: ssi 
+  alt: State Systems Inc.
+- level: bronze
+  url: https://www.trane.com/index.html
+  file: trane
+  alt: Trane
+- level: bronze
+  url: https://www.normanroofing.com
+  file: normanroofing
+  alt: Norman Roofing
+- level: bronze
+  url: https://www.venusgroup.com
+  file: venus
+  alt: Venus Group
 - level: bronze
   url: https://www.facebook.com/williamsbrothersgeneralstore
   file: williamsbrothers
   alt: Williams Brothers
+- level: bronze
+  ur: https://www.petrey.com
+  file: petrey 
+  alt: W.L. Petrey
+- level: bronze
+  url: https://www.woodfruitticher.com
+  file: woodfruit
+  alt: Wood Fruitticher
+
 
 # PREVIOUS SPONSORS
+# - level: bronze
+# #  url:
+#   file: bclean
+#   alt: B Clean
+# - level: bronze
+#   url: https://www.jacksoncom.com
+#   file: jacksoncomm
+#   alt: Jackson Communications
+# - level: bronze
+#   url: https://pmiconnect.com
+#   file: pmi
+#   alt: Purchasing Management International
+# - level: bronze
+#   url: https://www.ricoh-usa.com/en
+#   file: ricoh
+#   alt: Ricoh USA
+# - level: bronze
+#   url: https://www.usfoods.com
+#   file: usfoods
+#   alt: US Foods
+# - level: bronze
+# #  url:
+#   file: bluemountain
+#   alt: Blue Mountain Project Partners
+# - level: bronze
+#   url: http://www.pigglywiggly.com/store/16851-hwy-21-southsebastopolms
+#   file: pigglywiggly
+#   alt: Piggly Wiggly - Sebastopol
+# - level: bronze
+#   url: https://shankcomm.com
+#   file: shank
+#   alt: Shank Communications
+# - level: silver
+#   url: https://www.ecolab.com
+#   file: ecolab
+#   alt: Ecolab
+# - level: silver
+#   url: http://www.engservice.com
+#   file: engservice
+#   alt: Engineering Service
+# - level: silver
+#   url: https://www.cricpa.com
+#   file: cri
+#   alt: Carr, Riggs & Ingram, LLC
+# - level: silver
+#   url: https://fintrustadvisors.com
+#   file: fintrust
+#   alt: Financial Trust
+# - level: silver
+#   url: http://www.glassworxllp.com
+#   file: glassworx
+#   alt: Glass Worx
+# - level: gold
+#   url: https://www.hnrsupply.com
+#   file: hotelsupply
+#   alt: Hotel & Restaurant Supply
+# - level: platinum
+#   url: https://merchantsfoodservice.com
+#   file: merchants
+#   alt: Merchants Food Service
 # - level: platinum
 #   url: http://www.engservice.com
 #   file: engineeringservice
@@ -248,10 +293,6 @@
 #   url: https://www.bancorpsouth.com/insurance
 #   file: bxs
 #   alt: BXS
-# - level: gold
-#   url: https://www.ajg.com
-#   file: gallagher
-#   alt: AJ Gallagher
 # - level: silver
 #   url: https://www.sunburstresults.com
 #   file: sunburst
