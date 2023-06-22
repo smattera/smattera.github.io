@@ -127,6 +127,10 @@
 #   file: appliedtech
 #   alt: Applied Technologies
 - level: bronze
+  url: https://www.bcleanllc.com
+  file: bclean
+  alt: B Clean
+- level: bronze
   url: http://www.becomminc.com
   file: bne
   alt: B&E Communications
@@ -225,10 +229,6 @@
 
 
 # PREVIOUS SPONSORS
-# - level: bronze
-# #  url:
-#   file: bclean
-#   alt: B Clean
 # - level: bronze
 #   url: https://www.jacksoncom.com
 #   file: jacksoncomm
