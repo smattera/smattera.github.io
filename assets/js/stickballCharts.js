@@ -39,14 +39,45 @@ function createPieChart(canvasId, data) {
 }
 
 const dataSets = {
-  chart1: [
+  mens01: [
     { value: 50, color: '#ff0000' },
     { value: 50, color: '#c5b4e3' }
   ],
-  chart2: [
-    { value: 20, color: 'purple' },
-    { value: 30, color: 'orange' },
-    { value: 50, color: 'yellow' }
+  mens02: [
+    { value: 50, color: '#ffffff' },
+    { value: 50, color: '#0000ff' }
+  ],
+  mens03: [
+    { value: 50, color: '#00ff00' },
+    { value: 50, color: 'rgba(255, 207, 62, 1)' }
+  ],
+  mens04: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  mens05: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  mens06: [
+    { value: 50, color: '#ff0000' },
+    { value: 50, color: '#c5b4e3' }
+  ],
+  mens07: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  mens08: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  mens09: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  mens10: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
   ],
   // Add more data sets as needed for other chart IDs
 };
@@ -56,7 +87,7 @@ function getDataForChart(chartId) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  const chartIds = ['chart1', 'chart2', 'chart3', 'chart4', 'chart5'];
+  const chartIds = ['mens01', 'mens02', 'mens03', 'mens04', 'mens05', 'mens06', 'mens07', 'mens08', 'mens09', 'mens10'];
 
   chartIds.forEach((chartId) => {
     const chartDiv = document.getElementById(chartId);
