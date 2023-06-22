@@ -13,7 +13,7 @@ meta: stickball
       {% include countdown-timer.html title="Countdown to 2022 Bracket Day" end_date="June 6, 2022 18:00:00" border="black" %}
     {% endif %}
     <!--Men's Division-->
-    <h2 class="display-2 shadow-text pt-5">2022 Men's Division</h2>
+    <h2 class="display-2 shadow-text pt-5">2023 Men's Division</h2>
     <h5 class="display-5 shadow-text">(Click games to see rosters)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.mens.cards %}
@@ -45,7 +45,7 @@ meta: stickball
         </a>
       </div>
       {% endfor %}
-      {% include modal/mens/game01.html %}
+      <!-- {% include modal/mens/game01.html %}
       {% include modal/mens/game02.html %}
       {% include modal/mens/game03.html %}
       {% include modal/mens/game04.html %}
@@ -53,7 +53,7 @@ meta: stickball
       {% include modal/mens/game06.html %}
       {% include modal/mens/game07.html %}
       {% include modal/mens/game08.html %}
-      {% include modal/mens/game09.html %}
+      {% include modal/mens/game09.html %} -->
     </div>
     <!--Women's Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Women's Division</h2>
