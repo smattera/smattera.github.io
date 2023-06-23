@@ -54,6 +54,7 @@ meta: stickball
       {% include modal/mens/game07.html %}
       {% include modal/mens/game08.html %}
       {% include modal/mens/game09.html %}
+      {% include modal/mens/game10.html %}
     </div>
     <!--Women's Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Women's Division</h2>

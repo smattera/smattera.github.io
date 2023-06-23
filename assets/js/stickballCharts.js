@@ -49,11 +49,11 @@ const dataSets = {
   ],
   mens03: [
     { value: 50, color: '#00ff00' },
-    { value: 50, color: 'var(--pearl-river)' }
+    { value: 50, color: '#ffcc33' }
   ],
   mens04: [
-    { value: 50, color: 'purple' },
-    { value: 50, color: 'orange' }
+    { value: 50, color: '#800000' },
+    { value: 50, color: '#000080' }
   ],
   mens05: [
     { value: 50, color: 'purple' },
