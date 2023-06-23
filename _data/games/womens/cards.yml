@@ -29,81 +29,81 @@
 #  team2score: 
 
 - game: 4
-  date: Thu, Jul 07
-  hour: 9:00 PM
-  team1: beaver dam
-  team1color: beaverdam
-#  team1score: 
-  team2: natives
-  team2color: natives
-#  team2score: 
-
-- game: 5
-  date: Fri, Jul 08
+  date: Fri, Jul 07
   hour: 7:00 PM
-  team1: bók Čito ohóyo
-  team1color: bokcito
-#  team1score: 
-  team2: tiak hikíya ohóyo
-  team2color: tiakhikiya
-#  team2score: 
-
-- game: 6
-  date: Fri, Jul 08
-  hour: 8:00 PM
-  team1: pearl river
-  team1color: pearlriver
-#  team1score: 
-  team2: tali ohóyo
-  team2color: taliohoyo
-#  team2score: 
-
-- game: 7
-  date: Fri, Jul 08
-  hour: 9:00 PM
-  team1: Il Ittiba Hikíya
-  team1color: ilittiba
-#  team1score: 
-  team2: tvshkahomma ohóyo
-  team2color: tvshkahomma
-#  team2score: 
-
-- game: 8
-  date: Sat, Jul 09
-  hour: 8:00 PM
-  team1: natives
-  team1color: natives
-#  team1score: 
-  team2: koni hata ohóyo
-  team2color: konihata
-#  team2score: 
-
-- game: 9
-  date: Mon, Jul 11
-  hour: 9:00 PM
-  team1: tiak hikíya ohóyo
-  team1color: tiakhikiya
-#  team1score: 
-  team2: pearl river
-  team2color: pearlriver
-#  team2score: 
-
-- game: 10
-  date: Tue, Jul 12
-  hour: 9:00 PM
   team1: tvshkahomma ohóyo
   team1color: tvshkahomma
 #  team1score: 
-  team2: koni hata ohóyo
-  team2color: konihata
+  team2: nanih waiya ohóyo
+  team2color: nanihwaiya
 #  team2score: 
 
-- game: 11
-  date: Sat, Jul 16
-  hour: 9:00 PM
-  team1: koni hata ohóyo
-  team1color: konihata
-#  team1score: 
-  team2: pearl river
-  team2color: pearlriver
-#  team2score: 
+# - game: 5
+#   date: Fri, Jul 08
+#   hour: 7:00 PM
+#   team1: bók Čito ohóyo
+#   team1color: bokcito
+# #  team1score: 
+#   team2: tiak hikíya ohóyo
+#   team2color: tiakhikiya
+# #  team2score: 
+
+# - game: 6
+#   date: Fri, Jul 08
+#   hour: 8:00 PM
+#   team1: pearl river
+#   team1color: pearlriver
+# #  team1score: 
+#   team2: tali ohóyo
+#   team2color: taliohoyo
+# #  team2score: 
+
+# - game: 7
+#   date: Fri, Jul 08
+#   hour: 9:00 PM
+#   team1: Il Ittiba Hikíya
+#   team1color: ilittiba
+# #  team1score: 
+#   team2: tvshkahomma ohóyo
+#   team2color: tvshkahomma
+# #  team2score: 
+
+# - game: 8
+#   date: Sat, Jul 09
+#   hour: 8:00 PM
+#   team1: natives
+#   team1color: natives
+# #  team1score: 
+#   team2: koni hata ohóyo
+#   team2color: konihata
+# #  team2score: 
+
+# - game: 9
+#   date: Mon, Jul 11
+#   hour: 9:00 PM
+#   team1: tiak hikíya ohóyo
+#   team1color: tiakhikiya
+# #  team1score: 
+#   team2: pearl river
+#   team2color: pearlriver
+# #  team2score: 
+
+# - game: 10
+#   date: Tue, Jul 12
+#   hour: 9:00 PM
+#   team1: tvshkahomma ohóyo
+#   team1color: tvshkahomma
+# #  team1score: 
+#   team2: koni hata ohóyo
+#   team2color: konihata
+# #  team2score: 
+
+# - game: 11
+#   date: Sat, Jul 16
+#   hour: 9:00 PM
+#   team1: koni hata ohóyo
+#   team1color: konihata
+# #  team1score: 
+#   team2: pearl river
+#   team2color: pearlriver
+# #  team2score: 
