@@ -88,8 +88,8 @@ const dataSets = {
     { value: 50, color: '#aaffdd' }
   ],
   womens03: [
-    { value: 50, color: 'purple' },
-    { value: 50, color: 'orange' }
+    { value: 50, color: '#0000ff' },
+    { value: 50, color: '#33cc33' }
   ],
   womens04: [
     { value: 50, color: 'purple' },
