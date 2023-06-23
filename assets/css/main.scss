@@ -318,6 +318,13 @@ header {
   border-image-source: linear-gradient(to bottom, #bff, #ffd, #069);
 }
 
+.card-green-border {
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-image-source: linear-gradient(to bottom, #dfd, #6a0, #163);
+}
+
 .opaque {
   color: #fff;
   &:hover {

@@ -7,7 +7,7 @@ meta: family-fun
   <div class="container">
     <img src="../assets/img/family-banner.webp" class="img-fluid d-none d-md-block img-shadow">
     <img src="../assets/img/family-banner02.webp" class="img-fluid d-block d-md-none img-shadow">
-    <div class="card mb-3 mt-5 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
+    <div class="card mb-3 mt-5 card-green-border" style="background: linear-gradient(#163, #6a0, #dfd);">
       <img src="../assets/img/logos/ayipa.webp" class="card-img-top" alt="Áyi̱pa Village">
       <div class="card-body text-center">
         <div class="row row-cols-1 row-cols-md-3 g-3">
@@ -41,7 +41,7 @@ meta: family-fun
         </div>
       </div>
     </div> <!-- End of Ayipa Village -->
-    <div class="card mb-3 card-blue-border" style="background: linear-gradient(#333,#069,#bff);">
+    <div class="card mb-3 card-green-border" style="background: linear-gradient(#163, #6a0, #dfd);">
       <img src="../assets/img/svg/shawi.svg" class="card-img-top" alt="Shawi's Discovery Zone">
       <div class="card-body text-center">
         <div class="row row-cols-1 row-cols-md-2 g-3">
