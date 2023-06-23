@@ -35,9 +35,17 @@
   file: bluecross
   alt: Blue Cross Blue Shield
 - level: gold
+  url: https://www.hnrsupply.com
+  file: hotelsupply
+  alt: Hotel & Restaurant Supply
+- level: gold
   url: https://www.chahtaholdingroup.com/ikbi
   file: ikbi
   alt: IKBI
+- level: gold
+  url: https://merchantsfoodservice.com
+  file: merchants
+  alt: Merchants Food Service
 - level: gold
   url: https://www.performancefoodservice.com
   file: performancefood
@@ -277,14 +285,6 @@
 #   url: http://www.glassworxllp.com
 #   file: glassworx
 #   alt: Glass Worx
-# - level: gold
-#   url: https://www.hnrsupply.com
-#   file: hotelsupply
-#   alt: Hotel & Restaurant Supply
-# - level: platinum
-#   url: https://merchantsfoodservice.com
-#   file: merchants
-#   alt: Merchants Food Service
 # - level: platinum
 #   url: http://www.engservice.com
 #   file: engineeringservice
