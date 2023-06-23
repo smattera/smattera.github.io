@@ -28,62 +28,72 @@
   team2color: okahomma
 #  team2score: 
 
-# - game: 4
-#   date: Sat, Jul 09
-#   hour: 10:00 PM
-#   team1: koni hata
-#   team1color: konihata
-#   team1score: 4
-#   team2: nanih waiya
-#   team2color: nanihwaiya
-#   team2score: 3
+- game: 4
+  date: Sat, Jul 08
+  hour: 9:00 PM
+  team1: warriors
+  team1color: warriors
+#  team1score: 
+  team2: pearl river
+  team2color: pearlriver
+#  team2score: 
 
-# - game: 5
-#   date: Mon, Jul 11
-#   hour: 10:00 PM
-#   team1: pearl river
-#   team1color: pearlriver
-#   team1score: 3
-#   team2: beaver dam
-#   team2color: beaverdam
-#   team2score: 2
+- game: 5
+  date: Sat, Jul 08
+  hour: 10:30 PM
+  team1: tvshkahomma
+  team1color: tvshkahomma
+#  team1score: 
+  team2: game 1 winner
+#  team2color: 
+#  team2score: 
 
-# - game: 6
-#   date: Tue, Jul 12
-#   hour: 10:00 PM
-#   team1: oka homma
-#   team1color: okahomma
-#   team1score: 1
-#   team2: bók Čito
-#   team2color: bokcito
-#   team2score: 7
+- game: 6
+  date: Mon, Jul 10
+  hour: 10:00 PM
+  team1: tucker
+  team1color: tucker
+#  team1score: 
+  team2: game 2 winner
+#  team2color: 
+#  team2score: 
 
-# - game: 7
-#   date: Wed, Jul 13
-#   hour: 10:15 PM
-#   team1: pearl river
-#   team1color: pearlriver
-#   team1score: 5
-#   team2: tucker
-#   team2color: tucker 
-#   team2score: 1
+- game: 7
+  date: Tue, Jul 11
+  hour: 10:00 PM
+  team1: nanih waiya
+  team1color: nanihwaiya
+#  team1score: 
+  team2: game 3 winner
+#  team2color: 
+#  team2score: 
 
-# - game: 8
-#   date: Thu, Jul 14
-#   hour: 10:15 PM
-#   team1: bók Čito
-#   team1color: bokcito
-#   team1score: 3
-#   team2: koni hata
-#   team2color: konihata
-#   team2score: 1
+- game: 8
+  date: Wed, Jul 12
+  hour: 10:00 PM
+  team1: game 5 winner
+#  team1color: 
+#  team1score: 
+  team2: game 4 winner
+#  team2color: 
+#  team2score: 
 
-# - game: 9
-#   date: Sat, Jul 16
-#   hour: 10:15 PM
-#   team1: bók Čito
-#   team1color: bokcito
-#   team1score: 3
-#   team2: pearl river
-#   team2color: pearlriver
-#   team2score: 2
+- game: 9
+  date: Thu, Jul 13
+  hour: 10:00 PM
+  team1: game 6 winner
+#  team1color: 
+#  team1score: 
+  team2: game 7 winner
+#  team2color: 
+#  team2score: 
+
+- game: 10
+  date: Sat, Jul 15
+  hour: 10:30 PM
+  team1: game 8 winner
+#  team1color: 
+#  team1score: 
+  team2: game 9 winner
+#  team2color: 
+#  team2score: 
