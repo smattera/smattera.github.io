@@ -57,7 +57,7 @@ meta: stickball
       {% include modal/mens/game10.html %}
     </div>
     <!--Women's Division-->
-    <h2 class="display-2 shadow-text pt-5">2022 Women's Division</h2>
+    <h2 class="display-2 shadow-text pt-5">2023 Women's Division</h2>
     <h5 class="display-5 shadow-text">(Click games to see rosters)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.womens.cards %}
@@ -100,6 +100,7 @@ meta: stickball
       {% include modal/womens/game09.html %}
       {% include modal/womens/game10.html %}
       {% include modal/womens/game11.html %}
+      {% include modal/womens/game12.html %}
     </div>
     <!--Men's (35+) Division-->
     <h2 class="display-2 shadow-text pt-5">2022 Men's (35+) Division</h2>

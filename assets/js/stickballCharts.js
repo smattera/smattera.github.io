@@ -79,6 +79,54 @@ const dataSets = {
     { value: 50, color: 'purple' },
     { value: 50, color: 'orange' }
   ],
+  womens01: [
+    { value: 50, color: '#000080' },
+    { value: 50, color: '#ff0000' }
+  ],
+  womens02: [
+    { value: 50, color: '#800000' },
+    { value: 50, color: '#aaffdd' }
+  ],
+  womens03: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  womens04: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  womens05: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  womens06: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  womens07: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  womens08: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  womens09: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  womens10: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  womens11: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
+  womens12: [
+    { value: 50, color: 'purple' },
+    { value: 50, color: 'orange' }
+  ],
   // Add more data sets as needed for other chart IDs
 };
 
@@ -87,7 +135,7 @@ function getDataForChart(chartId) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  const chartIds = ['mens01', 'mens02', 'mens03', 'mens04', 'mens05', 'mens06', 'mens07', 'mens08', 'mens09', 'mens10'];
+  const chartIds = ['mens01', 'mens02', 'mens03', 'mens04', 'mens05', 'mens06', 'mens07', 'mens08', 'mens09', 'mens10', 'womens01', 'womens02', 'womens03', 'womens04', 'womens05', 'womens06', 'womens07', 'womens08', 'womens09', 'womens10'];
 
   chartIds.forEach((chartId) => {
     const chartDiv = document.getElementById(chartId);
