@@ -1,22 +1,22 @@
 - game: 1
-  date: Thu, Jul 07
-  hour: 6:00 PM
-  team1: tiak hikíya ohóyo
-  team1color: tiakhikiya
-  team1score: 7
-  team2: tucker alhíha
-  team2color: tuckeralhiha
-  team2score: 0
+  date: Thu, Jul 06
+  hour: 7:00 PM
+  team1: pearl river
+  team1color: pearlriver
+#  team1score: 
+  team2: beaver dam
+  team2color: beaverdam
+#  team2score: 
 
 - game: 2
-  date: Thu, Jul 07
-  hour: 7:00 PM
-  team1: nanih waiya ohóyo
-  team1color: nanihwaiya
-  team1score: 0
-  team2: pearl river
-  team2color: pearlriver
-  team2score: 8
+  date: Thu, Jul 06
+  hour: 8:00 PM
+  team1: lady warriors
+  team1color: warriors
+#  team1score: 
+  team2: ohóyo bihhi áyásha
+  team2color: bihhiayasha
+#  team2score: 
 
 - game: 3
   date: Thu, Jul 07
