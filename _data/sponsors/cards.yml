@@ -4,10 +4,10 @@
   file: pearlriver2
   alt: Pearl River Resort
   class: active
-# - level: platinum
-#   url: 
-#   file: fabi 
-#   alt: FABI (First American Bank)
+- level: platinum
+  url: https://www.fabicash.com
+  file: fabi 
+  alt: FABI (First American Bank)
 - level: platinum
   url: http://pryormorrow.com
   file: pryormorrow
@@ -52,10 +52,6 @@
   url: https://www.btlaw.com
   file: btlaw
   alt: Barnes & Thornburg
-- level: silver
-  url: https://www.concept3lv.com
-  file: concept3
-  alt: Concept:3
 - level: silver
   url: https://www.cspire.com
   file: cspire
@@ -142,6 +138,10 @@
   url: https://www.centerpointenergy.com/
   file: centerpoint
   alt: Centerpoint Energy
+- level: bronze
+  url: https://www.concept3lv.com
+  file: concept3
+  alt: Concept:3
 - level: bronze
   url: https://www.facebook.com/DandWTireandMuffler/
   file: dnw
