@@ -7,16 +7,16 @@
   secondLink: ../assets/pdf/2023 Rez Run Registration.pdf
   secondAction: Download Form
 
-# - image: ironwarrior
-#   title: Iron Warrior
-#   desc: Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order to be called the 2022 IRON WARRIOR!
-#   contact: Sam Farve
-#   phone: 601-656-0620
-#   alert: Pre-register for $25 by June 24, 2022. Pre-registered competitors are guaranteed an official Iron Warrior t-shirt!
-#   firstLink: ../assets/pdf/2022 Iron Warrior Flyer.pdf
-#   firstAction: Download Flyer
-#   secondLink: ../assets/pdf/2022 Iron Warrior Registration.pdf
-#   secondAction: Registration Form
+- image: ironwarrior
+  title: Iron Warrior
+  desc: Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order to be called the 2022 IRON WARRIOR!
+  contact: Sam Farve
+  phone: 601-656-0620
+  alert: Pre-register for $25 by June 24, 2022. Pre-registered competitors are guaranteed an official Iron Warrior t-shirt!
+  firstLink: ../assets/pdf/2023 Iron Warrior Flyer.pdf
+  firstAction: Download Flyer
+  secondLink: ../assets/pdf/2023 Iron Warrior Registration.pdf
+  secondAction: Registration Form
 
 - image: tribalCornhole
   title: Tribal Member Tournament
