@@ -35,6 +35,10 @@
   file: bluecross
   alt: Blue Cross Blue Shield
 - level: gold
+  url: https://www.cricpa.com
+  file: cri
+  alt: Carr, Riggs & Ingram, LLC
+- level: gold
   url: https://www.hnrsupply.com
   file: hotelsupply
   alt: Hotel & Restaurant Supply
@@ -68,6 +72,10 @@
   url: http://edwards-electric.com
   file: edwards
   alt: Edwards Electric
+- level: silver
+  url: http://www.glassworxllp.com
+  file: glassworx
+  alt: Glass Worx
 - level: silver
   url: https://imperialdade.com
   file: imperial
@@ -130,6 +138,7 @@
   url: https://www.atgconsults.com
   file: appliedtech
   alt: Applied Technology Group
+# APM Construction
 - level: bronze
   url: https://www.bcleanllc.com
   file: bclean
@@ -274,17 +283,9 @@
 #   file: engservice
 #   alt: Engineering Service
 # - level: silver
-#   url: https://www.cricpa.com
-#   file: cri
-#   alt: Carr, Riggs & Ingram, LLC
-# - level: silver
 #   url: https://fintrustadvisors.com
 #   file: fintrust
 #   alt: Financial Trust
-# - level: silver
-#   url: http://www.glassworxllp.com
-#   file: glassworx
-#   alt: Glass Worx
 # - level: platinum
 #   url: http://www.engservice.com
 #   file: engineeringservice
