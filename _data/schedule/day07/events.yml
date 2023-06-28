@@ -72,7 +72,7 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: CHAHTA HILHA IK HAPI KANÍYO KIYA
+- title: CHAHTA HILHA IK HAPI̱ KANÍYO KIYA
   hour: 5:00 PM
   category: Culture
   style: culture
@@ -108,3 +108,7 @@
   hour: 10:00 PM
   category:
   location: ÁYI̱PA VILLAGE
+- title: Gates Close
+  hour: 12:00 AM
+  category: 
+  location: Fairgrounds
