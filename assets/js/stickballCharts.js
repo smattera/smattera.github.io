@@ -40,20 +40,20 @@ function createPieChart(canvasId, data) {
 
 const dataSets = {
   mens01: [
-    { value: 50, color: '#ff0000' },
-    { value: 50, color: '#c5b4e3' }
+    { value: 130, color: '#ff0000' },
+    { value: 0, color: '#c5b4e3' }
   ],
   mens02: [
-    { value: 50, color: '#ffffff' },
-    { value: 50, color: '#0000ff' }
+    { value: 93, color: '#ffffff' },
+    { value: 37, color: '#0000ff' }
   ],
   mens03: [
-    { value: 50, color: '#00ff00' },
-    { value: 50, color: '#ffcc33' }
+    { value: 3, color: '#00ff00' },
+    { value: 127, color: '#ffcc33' }
   ],
   mens04: [
-    { value: 50, color: '#800000' },
-    { value: 50, color: '#000080' }
+    { value: 4, color: '#800000' },
+    { value: 125, color: '#000080' }
   ],
   mens05: [
     { value: 50, color: 'purple' },
