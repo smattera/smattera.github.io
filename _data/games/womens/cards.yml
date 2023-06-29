@@ -38,25 +38,15 @@
   team2color: nanihwaiya
 #  team2score: 
 
-# - game: 5
-#   date: Fri, Jul 08
-#   hour: 7:00 PM
-#   team1: bók Čito ohóyo
-#   team1color: bokcito
-# #  team1score: 
-#   team2: tiak hikíya ohóyo
-#   team2color: tiakhikiya
-# #  team2score: 
-
-# - game: 6
-#   date: Fri, Jul 08
-#   hour: 8:00 PM
-#   team1: pearl river
-#   team1color: pearlriver
-# #  team1score: 
-#   team2: tali ohóyo
-#   team2color: taliohoyo
-# #  team2score: 
+- game: 5
+  date: Fri, Jul 07
+  hour: 8:00 PM
+  team1: oka homma ohóyo
+  team1color: okahomma
+#  team1score: 
+  team2: natives
+  team2color: natives
+#  team2score: 
 
 # - game: 7
 #   date: Fri, Jul 08
