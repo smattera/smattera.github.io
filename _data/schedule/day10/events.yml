@@ -225,10 +225,6 @@
   hour: 6:00 PM
   category: 
   location: Main Stage
-- title: 2022 WSS Men's Championship Game
-  hour: 6:00 PM
-  category: Replay Of
-  location: ÁYI̱PA VILLAGE
 - title: Reptile Walk-Thru Experience Closes
   hour: 6:00 PM
   category: family fun
@@ -239,6 +235,10 @@
   category: family fun
   style: family
   location: O̱SSI COVE
+- title: 2022 WSS Men's Championship Game
+  hour: 7:00 PM
+  category: Replay Of
+  location: ÁYI̱PA VILLAGE
 - title: Birds & Exotics of the World Show
   hour: 7:00 PM
   category: family fun
