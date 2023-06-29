@@ -88,16 +88,16 @@ const dataSets = {
     { value: 71, color: '#aaffdd' }
   ],
   womens03: [
-    { value: 50, color: '#0000ff' },
-    { value: 50, color: '#33cc33' }
+    { value: 123, color: '#0000ff' },
+    { value: 6, color: '#eaf205' }
   ],
   womens04: [
-    { value: 50, color: '#05C7F2' },
-    { value: 50, color: '#d3d3d3' }
+    { value: 118, color: '#05C7F2' },
+    { value: 11, color: '#d3d3d3' }
   ],
   womens05: [
-    { value: 50, color: 'purple' },
-    { value: 50, color: 'orange' }
+    { value: 45, color: '#ffcc33' },
+    { value: 83, color: '#b4d2ff' }
   ],
   womens06: [
     { value: 50, color: 'purple' },
