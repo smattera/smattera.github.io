@@ -61,10 +61,10 @@
   category: Competitions
   style: competitions
   location: ÁYI̱PA VILLAGE
-# - title: Scales, Tails & Teeth Show
-#   hour: 2:30 PM
-#   category:
-#   location: O̱SSI COVE
+- title: Scales, Tails & Teeth Show
+  hour: 2:30 PM
+  category:
+  location: O̱SSI COVE
 - title: Storytelling
   hour: 2:45 PM
   category: Culture
@@ -85,6 +85,11 @@
   category: Culture
   style: culture
   location: Dance Grounds
+- title: Midway Opens
+  hour: 3:00 PM
+  category: family fun
+  style: family
+  location: Midway
 # - title: Birds & Exotics of the World Show
 #   hour: 3:30 PM
 #   category:
@@ -94,15 +99,10 @@
   category: Culture
   style: culture
   location: Dance Grounds
-# - title: 2022-2023 CHOCTAW INDIAN PRINCESS
-#   hour: 4:00 PM
-#   category: INTRODUCTION OF
-#   style: pageant
-#   location: ÁYI̱PA VILLAGE
-# - title: Scales, Tails & Teeth Show
-#   hour: 4:30 PM
-#   category:
-#   location: O̱SSI COVE
+- title: Scales, Tails & Teeth Show
+  hour: 4:30 PM
+  category:
+  location: O̱SSI COVE
 - title: Pushmataha Division&#58; Game 7
   hour: 5:00 PM
   category: world series stickball
@@ -158,6 +158,11 @@
   hour: 10:00 PM
   category:
   location: ÁYI̱PA VILLAGE
+- title: Midway Closes
+  hour: 12:00 AM
+  category: family fun
+  style: family
+  location: Midway
 - title: Gates Close
   hour: 12:00 AM
   category: 
