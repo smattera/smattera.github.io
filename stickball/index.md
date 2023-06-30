@@ -103,7 +103,7 @@ meta: stickball
       {% include modal/womens/game12.html %}
     </div>
     <!--Men's (35+) Division-->
-    <h2 class="display-2 shadow-text pt-5">2022 Men's (35+) Division</h2>
+    <h2 class="display-2 shadow-text pt-5">2023 Men's (35+) Division</h2>
     <h5 class="display-5 shadow-text">(Click games to see more info)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.mens35.cards %}
@@ -141,7 +141,7 @@ meta: stickball
       {% include modal/mens35/game04.html %}
     </div>
     <!--Tulli Okchi Ishko (14-17) Division-->
-    <h2 class="display-2 shadow-text pt-5">2022 Tulli Okchi Ishko (14-17) Division</h2>
+    <h2 class="display-2 shadow-text pt-5">2023 Tulli Okchi Ishko (14-17) Division</h2>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.tulli.cards %}
       <div class="col">
