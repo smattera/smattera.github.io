@@ -40,20 +40,20 @@ function createPieChart(canvasId, data) {
 
 const dataSets = {
   mens01: [
-    { value: 130, color: '#ff0000' },
+    { value: 146, color: '#ff0000' },
     { value: 0, color: '#c5b4e3' }
   ],
   mens02: [
-    { value: 93, color: '#ffffff' },
-    { value: 37, color: '#0000ff' }
+    { value: 106, color: '#ffffff' },
+    { value: 40, color: '#0000ff' }
   ],
   mens03: [
-    { value: 3, color: '#00ff00' },
-    { value: 127, color: '#ffcc33' }
+    { value: 5, color: '#00ff00' },
+    { value: 141, color: '#ffcc33' }
   ],
   mens04: [
-    { value: 4, color: '#800000' },
-    { value: 125, color: '#000080' }
+    { value: 5, color: '#800000' },
+    { value: 139, color: '#000080' }
   ],
   mens05: [
     { value: 50, color: 'purple' },
@@ -80,24 +80,24 @@ const dataSets = {
     { value: 50, color: 'orange' }
   ],
   womens01: [
-    { value: 118, color: '#000080' },
-    { value: 11, color: '#ff0000' }
+    { value: 133, color: '#000080' },
+    { value: 12, color: '#ff0000' }
   ],
   womens02: [
-    { value: 58, color: '#800000' },
-    { value: 71, color: '#aaffdd' }
+    { value: 64, color: '#800000' },
+    { value: 81, color: '#aaffdd' }
   ],
   womens03: [
-    { value: 123, color: '#0000ff' },
+    { value: 139, color: '#0000ff' },
     { value: 6, color: '#eaf205' }
   ],
   womens04: [
-    { value: 118, color: '#05C7F2' },
-    { value: 11, color: '#d3d3d3' }
+    { value: 133, color: '#05C7F2' },
+    { value: 12, color: '#d3d3d3' }
   ],
   womens05: [
-    { value: 45, color: '#ffcc33' },
-    { value: 83, color: '#b4d2ff' }
+    { value: 51, color: '#ffcc33' },
+    { value: 93, color: '#b4d2ff' }
   ],
   womens06: [
     { value: 50, color: 'purple' },
