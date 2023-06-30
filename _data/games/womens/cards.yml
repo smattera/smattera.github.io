@@ -48,52 +48,72 @@
   team2color: natives
 #  team2score: 
 
-# - game: 7
-#   date: Fri, Jul 08
-#   hour: 9:00 PM
-#   team1: Il Ittiba Hikíya
-#   team1color: ilittiba
-# #  team1score: 
-#   team2: tvshkahomma ohóyo
-#   team2color: tvshkahomma
-# #  team2score: 
+- game: 6
+  date: Fri, Jul 07
+  hour: 9:00 PM
+  team1: tiak hikíya ohóyo
+  team1color: tiakhikiya
+#  team1score: 
+  team2: game 1 winner
+#  team2color: 
+#  team2score: 
 
-# - game: 8
-#   date: Sat, Jul 09
-#   hour: 8:00 PM
-#   team1: natives
-#   team1color: natives
-# #  team1score: 
-#   team2: koni hata ohóyo
-#   team2color: konihata
-# #  team2score: 
+- game: 7
+  date: Sat, Jul 08
+  hour: 6:00 PM
+  team1: game 2 winner
+#  team1color: 
+#  team1score: 
+  team2: game 3 winner
+#  team2color: 
+#  team2score: 
 
-# - game: 9
-#   date: Mon, Jul 11
-#   hour: 9:00 PM
-#   team1: tiak hikíya ohóyo
-#   team1color: tiakhikiya
-# #  team1score: 
-#   team2: pearl river
-#   team2color: pearlriver
-# #  team2score: 
+- game: 8
+  date: Sat, Jul 08
+  hour: 7:00 PM
+  team1: tucker alhíha
+  team1color: tuckeralhiha
+#  team1score: 
+  team2: game 4 winner
+#  team2color: 
+#  team2score: 
 
-# - game: 10
-#   date: Tue, Jul 12
-#   hour: 9:00 PM
-#   team1: tvshkahomma ohóyo
-#   team1color: tvshkahomma
-# #  team1score: 
-#   team2: koni hata ohóyo
-#   team2color: konihata
-# #  team2score: 
+- game: 9
+  date: Sat, Jul 08
+  hour: 8:00 PM
+  team1: bók čito ohóyo
+  team1color: bokcito
+#  team1score: 
+  team2: game 5 winner
+#  team2color: 
+#  team2score: 
 
-# - game: 11
-#   date: Sat, Jul 16
-#   hour: 9:00 PM
-#   team1: koni hata ohóyo
-#   team1color: konihata
-# #  team1score: 
-#   team2: pearl river
-#   team2color: pearlriver
-# #  team2score: 
+- game: 10
+  date: Mon, Jul 10
+  hour: 9:00 PM
+  team1: game 6 winner
+#  team1color: 
+#  team1score: 
+  team2: game 7 winner
+#  team2color: 
+#  team2score: 
+
+- game: 11
+  date: Tue, Jul 11
+  hour: 9:00 PM
+  team1: game 8 winner
+#  team1color: 
+#  team1score: 
+  team2: game 9 winner
+#  team2color: 
+#  team2score: 
+
+- game: 12
+  date: Sat, Jul 15
+  hour: 9:00 PM
+  team1: game 10 winner
+#  team1color: 
+#  team1score: 
+  team2: game 11 winner
+#  team2color: 
+#  team2score: 
