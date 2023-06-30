@@ -174,7 +174,7 @@ meta: stickball
       {% endfor %}
     </div>
     <!--Pushmataha (10-13) Division-->
-    <h2 class="display-2 shadow-text pt-5">2022 Pushmataha (10-13) Division</h2>
+    <h2 class="display-2 shadow-text pt-5">2023 Pushmataha (10-13) Division</h2>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.push.cards %}
       <div class="col">
