@@ -66,5 +66,10 @@ meta: family-fun
         </div>
       </div>
     </div> <!-- End of Shawi's Discovery Zone -->
+    <div class="card mb-3 card-green-border" style="background: linear-gradient(#163, #6a0, #dfd);">
+      <a href="../assets/img/carnival.png" target="_new">
+        <img src="../assets/img/carnival.webp" class="card-img-top" alt="Carnival Schedule">
+      </a>
+    </div>
   </div>
 </section>

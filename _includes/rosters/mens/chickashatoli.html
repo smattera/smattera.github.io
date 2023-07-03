@@ -1,0 +1,19 @@
+<h5>CHIKASHA TÓLI</h5>
+<h6>COACHES: 
+    {% for coache in site.data.rosters.mens.chickashatoli.coaches %}
+    {{ coache.name }}
+    {% unless forloop.last %}
+    ,&nbsp;
+    {% endunless %}
+    {% endfor %}
+</h6>
+<table class="table table-dark table-striped">
+    <tbody>
+        {% for player in site.data.rosters.mens.chickashatoli.players %}
+            <tr>
+                <th scope="row">{{ player.num }}</th>
+                <td>{{ player.name }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
