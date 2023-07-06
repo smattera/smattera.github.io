@@ -3,10 +3,10 @@
   hour: 10:00 PM
   team1: beaver dam
   team1color: beaverdam
-#  team1score: 
+  team1score: 12
   team2: chikasha tóli
   team2color: chikashatoli
-#  team2score: 
+  team2score: 1
 
 - game: 2
   date: Thu, Jul 06
@@ -44,8 +44,8 @@
   team1: tvshkahomma
   team1color: tvshkahomma
 #  team1score: 
-  team2: game 1 winner
-#  team2color: 
+  team2: beaver dam
+  team2color: beaverdam
 #  team2score: 
 
 - game: 6
