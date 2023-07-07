@@ -13,10 +13,10 @@
   hour: 10:00 PM
   team1: bók Čito
   team1color: bokcito
-#  team1score: 
+  team1score: 3
   team2: koni hata  
   team2color: konihata
-#  team2score: 
+  team2score: 4
 
 - game: 3
   date: Fri, Jul 07
@@ -54,8 +54,8 @@
   team1: tucker
   team1color: tucker
 #  team1score: 
-  team2: game 2 winner
-#  team2color: 
+  team2: koni hata
+  team2color: konihata 
 #  team2score: 
 
 - game: 7
