@@ -13,10 +13,10 @@
   hour: 5:00 PM
   team1: ittibátóli
   team1color: ittibatoli
-#  team1score: 
+  team1score: 1
   team2: tiak hikíya osi
   team2color: tiakhikiya
-#  team2score: 
+  team2score: 10
 
 - game: 3
   date: Sat, Jul 8
@@ -54,8 +54,8 @@
   team1: game 5 winner
 #  team1color: 
 #  team1score: 
-  team2: game 2 winner
-#  team2color: 
+  team2: tiak hikíya osi
+  team2color: tiakhikiya
 #  team2score: 
 
 - game: 7

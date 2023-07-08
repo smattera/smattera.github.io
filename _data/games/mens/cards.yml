@@ -23,10 +23,10 @@
   hour: 10:00 PM
   team1: wolf pack
   team1color: wolfpack
-#  team1score: 
+  team1score: 0
   team2: oka homma
   team2color: okahomma
-#  team2score: 
+  team2score: 20
 
 - game: 4
   date: Sat, Jul 08
@@ -64,8 +64,8 @@
   team1: nanih waiya
   team1color: nanihwaiya
 #  team1score: 
-  team2: game 3 winner
-#  team2color: 
+  team2: oka homma
+  team2color: okahomma
 #  team2score: 
 
 - game: 8

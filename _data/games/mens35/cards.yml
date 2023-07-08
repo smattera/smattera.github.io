@@ -3,10 +3,10 @@
   hour: 6:00 PM
   team1: beaver dam
   team1color: beaverdam
-#  team1score: 
+  team1score: 2
   team2: bók Čito
   team2color: bokcito
-#  team2score: 
+  team2score: 1
 
 - game: 2
   date: Mon, Jul 10
@@ -14,8 +14,8 @@
   team1: oka homma
   team1color: okahomma
 #  team1score: 
-  team2: game 1 winner
-#  team2color: 
+  team2: beaver dam
+  team2color: beaverdam
 #  team2score: 
 
 - game: 3

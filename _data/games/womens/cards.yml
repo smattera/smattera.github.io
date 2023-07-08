@@ -36,27 +36,27 @@
 #  team1score: 
   team2: nanih waiya ohóyo
   team2color: nanihwaiya
-#  team2score: 
+  team2score: W
 
 - game: 5
   date: Fri, Jul 07
   hour: 8:00 PM
   team1: oka homma ohóyo
   team1color: okahomma
-#  team1score: 
+  team1score: 0
   team2: natives
   team2color: natives
-#  team2score: 
+  team2score: 1
 
 - game: 6
   date: Fri, Jul 07
   hour: 9:00 PM
   team1: tiak hikíya ohóyo
   team1color: tiakhikiya
-#  team1score: 
+  team1score: 0
   team2: pearl river
   team2color: pearlriver
-#  team2score: 
+  team2score: 4
 
 - game: 7
   date: Sat, Jul 08
@@ -74,8 +74,8 @@
   team1: tucker alhíha
   team1color: tuckeralhiha
 #  team1score: 
-  team2: game 4 winner
-#  team2color: 
+  team2: nanih waiya ohóyo
+  team2color: nanihwaiya
 #  team2score: 
 
 - game: 9
@@ -84,15 +84,15 @@
   team1: bók Čito ohóyo
   team1color: bokcito
 #  team1score: 
-  team2: game 5 winner
-#  team2color: 
+  team2: natives
+  team2color: natives
 #  team2score: 
 
 - game: 10
   date: Mon, Jul 10
   hour: 9:00 PM
-  team1: game 6 winner
-#  team1color: 
+  team1: pearl river
+  team1color: pearlriver
 #  team1score: 
   team2: game 7 winner
 #  team2color: 
