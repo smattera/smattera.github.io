@@ -33,10 +33,10 @@
   hour: 7:00 PM
   team1: tvshkahomma ohóyo
   team1color: tvshkahomma
-#  team1score: 
+  team1score: W
   team2: nanih waiya ohóyo
   team2color: nanihwaiya
-  team2score: W
+#  team2score: 
 
 - game: 5
   date: Fri, Jul 07
