@@ -33,20 +33,20 @@
   hour: 9:00 PM
   team1: warriors
   team1color: warriors
-#  team1score: 
+  team1score: 1
   team2: pearl river
   team2color: pearlriver
-#  team2score: 
+  team2score: 9
 
 - game: 5
   date: Sat, Jul 08
   hour: 10:30 PM
   team1: tvshkahomma
   team1color: tvshkahomma
-#  team1score: 
+  team1score: 0
   team2: beaver dam
   team2color: beaverdam
-#  team2score: 
+  team2score: 7
 
 - game: 6
   date: Mon, Jul 10

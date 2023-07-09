@@ -13,10 +13,10 @@
   hour: 5:00 PM
   team1: pearl river
   team1color: pearlrivertulli
-#  team1score: 
+  team1score: 9
   team2: oka homma
   team2color: okahomma
-#  team2score: 
+  team2score: 0
 
 - game: 3
   date: Mon, Jul 10
