@@ -71,11 +71,11 @@
 - game: 8
   date: Wed, Jul 12
   hour: 10:00 PM
-  team1: game 5 winner
-#  team1color: 
+  team1: beaver dam
+  team1color: beaverdam
 #  team1score: 
-  team2: game 4 winner
-#  team2color: 
+  team2: pearl river
+  team2color: pearlriver
 #  team2score: 
 
 - game: 9

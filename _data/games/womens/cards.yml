@@ -94,18 +94,18 @@
   team1: pearl river
   team1color: pearlriver
 #  team1score: 
-  team2: game 7 winner
-#  team2color: 
+  team2: koni hata ohóyo
+  team2color: konihata
 #  team2score: 
 
 - game: 11
   date: Tue, Jul 11
   hour: 9:00 PM
-  team1: game 8 winner
-#  team1color: 
+  team1: tvshkahomma ohóyo
+  team1color: tvshkahomma
 #  team1score: 
-  team2: game 9 winner
-#  team2color: 
+  team2: natives
+  team2color: natives
 #  team2score: 
 
 - game: 12
