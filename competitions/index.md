@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Competitions
-meta: competitions
+meta: home
 ---
 <section class="diamond-bg6">
   <div class="container">
