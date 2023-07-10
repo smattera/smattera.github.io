@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pageant
-meta: pageant
+meta: home
 ---
 <section class="diamond-bg5">
   <div class="container">

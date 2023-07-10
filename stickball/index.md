@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stickball
-meta: stickball
+meta: home
 ---
 <script src="../assets/js/stickballCharts.js"></script>
 <section class="diamond-bg2 bebas">

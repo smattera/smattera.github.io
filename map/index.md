@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fair Map
-meta: map
+meta: home
 redirect_from: /info/
 ---
 <section class="diamond-bg7">

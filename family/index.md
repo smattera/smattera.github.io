@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Family Fun
-meta: family-fun
+meta: home
 ---
 <section class="diamond-bg7">
   <div class="container">

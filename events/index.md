@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Events
-meta: events
+meta: home
 ---
 <section class="diamond-bg">
   <div class="container">

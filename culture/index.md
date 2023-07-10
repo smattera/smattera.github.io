@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Culture
-meta: culture
+meta: home
 ---
 <section class="basket-bg">
   <div class="container">
