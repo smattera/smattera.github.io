@@ -23,10 +23,10 @@
   hour: 7:00 PM
   team1: ittibátóli
   team1color: ittibatoli
-#  team1score: 
+  team1score: 1
   team2: BÓK ČITO
   team2color: bokcito
-#  team2score: 
+  team2score: 8
 
 - game: 4
   date: Tue, Jul 11
@@ -51,8 +51,8 @@
 - game: 6
   date: Thu, Jul 13
   hour: 6:00 PM
-  team1: game 3 winner
-#  team1color: 
+  team1: BÓK ČITO
+  team1color: bokcito
 #  team1score: 
   team2: game 4 winner
 #  team2color: 

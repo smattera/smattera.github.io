@@ -33,10 +33,10 @@
   hour: 6:00 PM
   team1: oka homma
   team1color: okahomma
-#  team1score: 
+  team1score: 0
   team2: koni-osi
   team2color: konihata
-#  team2score: 
+  team2score: 10
 
 - game: 5
   date: Tue, Jul 11
@@ -64,8 +64,8 @@
   team1: beaver dam
   team1color: beaverdam
 #  team1score: 
-  team2: game 4 winner
-#  team2color: 
+  team2: koni-osi
+  team2color: konihata
 #  team2score: 
 
 - game: 8

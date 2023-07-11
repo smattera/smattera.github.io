@@ -13,10 +13,10 @@
   hour: 8:00 PM
   team1: oka homma
   team1color: okahomma
-#  team1score: 
+  team1score: 1
   team2: beaver dam
   team2color: beaverdam
-#  team2score: 
+  team2score: 2
 
 - game: 3
   date: Tue, Jul 11
@@ -31,8 +31,8 @@
 - game: 4
   date: Fri, Jul 14
   hour: 10:00 PM
-  team1: game 2 winner
-#  team1color: 
+  team1: beaver dam
+  team1color: beaverdam
 #  team1score: 
   team2: game 3 winner
 #  team2color: 

@@ -53,10 +53,10 @@
   hour: 10:00 PM
   team1: tucker
   team1color: tucker
-#  team1score: 
+  team1score: 0
   team2: koni hata
   team2color: konihata 
-#  team2score: 
+  team2score: 7
 
 - game: 7
   date: Tue, Jul 11
@@ -81,8 +81,8 @@
 - game: 9
   date: Thu, Jul 13
   hour: 10:00 PM
-  team1: game 6 winner
-#  team1color: 
+  team1: koni hata
+  team1color: konihata
 #  team1score: 
   team2: game 7 winner
 #  team2color: 
