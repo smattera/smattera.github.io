@@ -43,16 +43,16 @@
   hour: 6:00 PM
   team1: bók Čito
   team1color: bokcito
-#  team1score: 
+  team1score: 5
   team2: pearl river
   team2color: pearlriver
-#  team2score: 
+  team2score: 2
 
 - game: 6
   date: Wed, Jul 12
   hour: 4:00 PM
-  team1: game 5 winner
-#  team1color: 
+  team1: bók Čito
+  team1color: bokcito
 #  team1score: 
   team2: tiak hikíya osi
   team2color: tiakhikiya

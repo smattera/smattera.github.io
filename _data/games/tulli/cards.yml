@@ -33,10 +33,10 @@
   hour: 7:00 PM
   team1: tiak hikíya
   team1color: tiakhikiya
-#  team1score: 
+  team1score: 2
   team2: beaver dam
   team2color: beaverdam
-#  team2score: 
+  team2score: 3
 
 - game: 5
   date: Wed, Jul 12
@@ -54,8 +54,8 @@
   team1: BÓK ČITO
   team1color: bokcito
 #  team1score: 
-  team2: game 4 winner
-#  team2color: 
+  team2: beaver dam
+  team2color: beaverdam
 #  team2score: 
 
 - game: 7

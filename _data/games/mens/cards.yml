@@ -63,10 +63,10 @@
   hour: 10:00 PM
   team1: nanih waiya
   team1color: nanihwaiya
-#  team1score: 
+  team1score: 3
   team2: oka homma
   team2color: okahomma
-#  team2score: 
+  team2score: 4
 
 - game: 8
   date: Wed, Jul 12
@@ -84,8 +84,8 @@
   team1: koni hata
   team1color: konihata
 #  team1score: 
-  team2: game 7 winner
-#  team2color: 
+  team2: oka homma
+  team2color: okahomma
 #  team2score: 
 
 - game: 10

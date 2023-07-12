@@ -103,10 +103,10 @@
   hour: 9:00 PM
   team1: tvshkahomma ohóyo
   team1color: tvshkahomma
-#  team1score: 
+  team1score: 2
   team2: natives
   team2color: natives
-#  team2score: 
+  team2score: 0
 
 - game: 12
   date: Sat, Jul 15
@@ -114,6 +114,6 @@
   team1: koni hata ohóyo
   team1color: konihata
 #  team1score: 
-  team2: game 11 winner
-#  team2color: 
+  team2: tvshkahomma ohóyo
+  team2color: tvshkahomma
 #  team2score: 
