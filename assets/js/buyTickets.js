@@ -1,5 +1,5 @@
 function loadJSAndChangeLocation() {
-  loadJS();
+  // loadJS();
   changeLocation();
 }
 
