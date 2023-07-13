@@ -53,10 +53,10 @@
   hour: 4:00 PM
   team1: bók Čito
   team1color: bokcito
-#  team1score: 
+  team1score: 4
   team2: tiak hikíya osi
   team2color: tiakhikiya
-#  team2score: 
+  team2score: 3
 
 - game: 7
   date: Thu, Jul 13
@@ -71,8 +71,8 @@
 - game: 8
   date: Fri, Jul 14
   hour: 8:00 PM
-  team1: game 6 winner
-#  team1color: 
+  team1: bók Čito
+  team1color: bokcito
 #  team1score: 
   team2: game 7 winner
 #  team2color: 

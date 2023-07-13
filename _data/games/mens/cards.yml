@@ -73,10 +73,10 @@
   hour: 10:00 PM
   team1: beaver dam
   team1color: beaverdam
-#  team1score: 
+  team1score: 1
   team2: pearl river
   team2color: pearlriver
-#  team2score: 
+  team2score: 4
 
 - game: 9
   date: Thu, Jul 13
@@ -91,8 +91,8 @@
 - game: 10
   date: Sat, Jul 15
   hour: 10:30 PM
-  team1: game 8 winner
-#  team1color: 
+  team1: pearl river
+  team1color: pearlriver
 #  team1score: 
   team2: game 9 winner
 #  team2color: 

@@ -43,10 +43,10 @@
   hour: 5:00 PM
   team1: koni-hata himitah
   team1color: konihata
-#  team1score: 
+  team1score: 3
   team2: pearl river
   team2color: pearlrivertulli
-#  team2score: 
+  team2score: 1
 
 - game: 6
   date: Thu, Jul 13
@@ -61,8 +61,8 @@
 - game: 7
   date: Fri, Jul 14
   hour: 9:00 PM
-  team1: game 5 winner
-#  team1color: 
+  team1: koni-hata himitah
+  team1color: konihata
 #  team1score: 
   team2: game 6 winner
 #  team2color: 
