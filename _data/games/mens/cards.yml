@@ -83,10 +83,10 @@
   hour: 10:00 PM
   team1: koni hata
   team1color: konihata
-#  team1score: 
+  team1score: 5
   team2: oka homma
   team2color: okahomma
-#  team2score: 
+  team2score: 2
 
 - game: 10
   date: Sat, Jul 15
@@ -94,6 +94,6 @@
   team1: pearl river
   team1color: pearlriver
 #  team1score: 
-  team2: game 9 winner
-#  team2color: 
+  team2: koni hata
+  team2color: konihata
 #  team2score: 
