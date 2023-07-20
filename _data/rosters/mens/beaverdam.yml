@@ -1,6 +1,6 @@
 coaches:
-  - name: MARK WILLIS
-  - name: JAMES DENSON
+  - MARK WILLIS
+  - JAMES DENSON
 players:
   - num: 0
     name: KYLE HENRY
