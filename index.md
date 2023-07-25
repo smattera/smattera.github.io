@@ -97,13 +97,13 @@ meta: home
 
 <script lang="ts">
   let videos = [
-    "../assets/vid/old/OpeningCeremonies.mp4",
-    "../assets/vid/old/Princess.mp4",
-    "../assets/vid/old/Stickball.mp4",
-    "../assets/vid/old/Dancegrounds.mp4",
-    "../assets/vid/old/RezRun.mp4",
-    "../assets/vid/old/IronWarrior.mp4",
-    "../assets/vid/old/Midway.mp4",
+    "../assets/vid/OpeningCeremonies.mp4",
+    "../assets/vid/Princess.mp4",
+    "../assets/vid/Stickball.mp4",
+    "../assets/vid/Dancegrounds.mp4",
+    "../assets/vid/RezRun.mp4",
+    "../assets/vid/IronWarrior.mp4",
+    "../assets/vid/Midway.mp4",
   ];
   let currentVideo = 0;
 
