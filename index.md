@@ -49,7 +49,7 @@ meta: home
 
 <section class="diamond-bg2">
   <div class="container">
-    <!--{% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 10, 2024 11:00:00" border="gold" %}-->
+    {% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 10, 2024 11:00:00" border="gold" %}
     <div class="mt-4">
       <h2 class="display-2 shadow-text">2024 Ticket Prices</h2>
       <div class="row row-cols-1 row-cols-lg-3 g-4">
