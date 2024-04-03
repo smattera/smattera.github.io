@@ -1,74 +1,72 @@
 - image: rezRun
   title: Rez Run
-  desc: The run is held in Choctaw, MS and trails through the reservation of the Mississippi Choctaw and the Choctaw Indian fairgrounds. The Mississippi Band of Choctaw Indians proudly welcomes all runners and visitors to the 73rd Edition of the Choctaw Indian Fair.
-  alert: Pre-register by June 23, 2023. Pre-registered competitors are guaranteed an official Rez Run t-shirt!
-  firstLink: https://raceroster.com/events/2023/75580/rez-run
-  firstAction: Register Online
-  secondLink: ../assets/pdf/2023 Rez Run Registration.pdf
-  secondAction: Download Form
+  desc: The run is held in Choctaw, MS and trails through the reservation of the Mississippi Choctaw and the Choctaw Indian fairgrounds. The Mississippi Band of Choctaw Indians proudly welcomes all runners and visitors to the 74th Edition of the Choctaw Indian Fair.
+  alert: Details coming soon!
+  # firstLink: https://raceroster.com/events/2023/75580/rez-run
+  # firstAction: Register Online
+  # secondLink: ../assets/pdf/2023 Rez Run Registration.pdf
+  # secondAction: Download Form
 
 - image: ironwarrior
   title: Iron Warrior
-  desc: Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order to be called the 2022 IRON WARRIOR!
-  contact: Sam Farve
-  phone: 601-656-0620
-  alert: Pre-registration has been extended to Tuesday, July 11, 2023! Pre-registered competitors are guaranteed an official Iron Warrior t-shirt!
-  firstLink: ../assets/pdf/2023 Iron Warrior Flyer.pdf
-  firstAction: Download Flyer
-  secondLink: ../assets/pdf/2023 Iron Warrior Registration.pdf
-  secondAction: Registration Form
+  desc: Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order to be called the next IRON WARRIOR!
+  alert: Details coming soon!
+  # firstLink: ../assets/pdf/2023 Iron Warrior Flyer.pdf
+  # firstAction: Download Flyer
+  # secondLink: ../assets/pdf/2023 Iron Warrior Registration.pdf
+  # secondAction: Registration Form
 
 - image: tribalCornhole
   title: Tribal Member Tournament
   desc: Open to Tribal Affiliates. This year's Tribal Member Tournament will have two divisions, Social Division and Competitive Division. Cash prizes for 1st, 2nd, and 3rd Place teams! Top 10 Teams in Competitive Division Advance for Free to Open Tourney!
-  alert: Registration Deadline is Friday, July 7, 2023 by 12:00 PM!
-  firstLink: https://forms.office.com/r/GmU5rVbqA0
-  firstAction: Register Online
+  alert: Details coming soon!
+  # firstLink: https://forms.office.com/r/GmU5rVbqA0
+  # firstAction: Register Online
 
 - image: openCornhole
   title: Open Cornhole Tournament
   desc: Free Fair Admission with Team Entry Fee ($60). Bracket Style / Double Elimination. Cash prizes for 1st, 2nd, and 3rd Place teams! Come see Chase Rice in Concert at 8:30 PM!
-  alert: Team slots are limited so pre-register now!
-  firstLink: https://forms.office.com/r/dre886jmaJ
-  firstAction: Register Online
+  alert: Details coming soon!
+  # firstLink: https://forms.office.com/r/dre886jmaJ
+  # firstAction: Register Online
 
 - image: volleyball
   title: Volleyball Tournament
-  desc: Join us for the 2nd Annual Choctaw Indian Fair Volleyball Tournament on July 7th and 8th at the Choctaw Central High School Gymnasium.
-  alert: Deadline to enter is Friday, June 30, 2023.
-  firstLink: ../assets/pdf/2023 Volleyball Flyer.pdf
-  firstAction: Download Flyer
-  secondLink: ../assets/pdf/2023 Volleyball Registration.pdf
-  secondAction: Dowload Form
+  desc: Join us for the Choctaw Indian Fair Volleyball Tournament at the Choctaw Central High School Gymnasium.
+  alert: Details coming soon!
+  # firstLink: ../assets/pdf/2023 Volleyball Flyer.pdf
+  # firstAction: Download Flyer
+  # secondLink: ../assets/pdf/2023 Volleyball Registration.pdf
+  # secondAction: Dowload Form
 
 - image: gospelNight
   title: Gospel Night
   desc: Gospel Night is the first concert of the Choctaw Indian Fair where Christian music groups and soloists perform at Áyi̱pa Village.
-  alert: Deadline to enter is Friday, July 6, 2023 at 4:00 PM.
-  firstLink: https://forms.office.com/r/VjdyU3SPyC
-  firstAction: Register Online
+  alert: Details coming soon!
+  # firstLink: https://forms.office.com/r/VjdyU3SPyC
+  # firstAction: Register Online
 
 - image: bracketology
   title: Bracketology
-  desc: Bracketology is an exciting opportunity for WSS fans to predict the outcomes of the Men's WSS Tournament. Open to Tribal Members only.
-  alert: Deadline to enter is Wednesday, July 5, 2023 at 4:30 PM.
-  firstLink: https://forms.office.com/r/p7pJMrC9xE
-  firstAction: Register Online
+  desc: Bracketology is an exciting opportunity for WSS fans to predict the outcomes of the Men's WSS Tournament.
+  alert: Details coming soon!
+  # firstLink: https://forms.office.com/r/p7pJMrC9xE
+  # firstAction: Register Online
 
 - image: lil-pageant
   title: Little Mr. & Miss. Choctaw Indian Fair Pageant
-  desc: This year's Little Mr. & Miss. Choctaw Indian Fair Pageant will take place on Wednesday, July 12, 2023 at 1:00 PM. Participants will compete in their traditional attire. The age divisions are 0-23 mos, 2-4 yrs, and 5-8 yrs.
-  alert: Deadline to enter is July 7, 2023 at 4:30 PM. First 10 forms will be accepted in each division.
-  secondLink: ../assets/pdf/2023 Little Mr. & Miss CIF Pageant Registration Form.pdf
-  secondAction: Download Form
+  desc: At the Little Mr. & Miss. Choctaw Indian Fair Pageant, participants will compete in their traditional attire. The age divisions are 0-23 mos, 2-4 yrs, and 5-8 yrs.
+  alert: Details coming soon!
+  # secondLink: ../assets/pdf/2023 Little Mr. & Miss CIF Pageant Registration Form.pdf
+  # secondAction: Download Form
 
 - image: watermelon
   title: Watermelon Eating Contest
   desc: Who can eat watermelon the fastest? One entry per participant, 15 participants per competition. Contest is open to the public.
-  alert: There will be on-site registration from 12:30 - 1:00 PM on Thursday, July 12 - Saturday, July 15, 2023
+  alert: Details coming soon!
 #   firstLink: ../assets/pdf/2022 Watermelon Eating Competition.pdf
 #   firstAction: Download Flyer
 
 # - image: trivia
 #   title: Choctaw Indian Fair&#58; Trivia Edition
-#   desc: Open to the public. 
+#   desc: Open to the public.
