@@ -35,7 +35,7 @@ meta: home
         <br class="d-xl-none"/>
         <h1 class="display-1 mb-0 shadow-text">Halito!</h1>
         <p class="lead my-1 mb-3">
-          Greetings from the Choctaw Indian Reservation. We invite you to join us <strong>July 12-15</strong> for our 73rd annual Choctaw Indian Fair. The fair takes place on our centuries-old homeland in beautiful Choctaw, Mississippi. We gather each July to celebrate our heritage and share our beautiful and vibrant culture with our friends and neighbors. This year’s fair theme is:
+          Greetings from the Choctaw Indian Reservation. We invite you to join us <strong>July 10-13</strong> for our 74th annual Choctaw Indian Fair. The fair takes place on our centuries-old homeland in beautiful Choctaw, Mississippi. We gather each July to celebrate our heritage and share our beautiful and vibrant culture with our friends and neighbors. This year’s fair theme is:
         </p>
         <p class="h3 display-3 mb-0">"The Choctaw Spirit Lives On"</p>
         <p class="lead my-1 mb-3">
@@ -49,9 +49,9 @@ meta: home
 
 <section class="diamond-bg2">
   <div class="container">
-    <!--{% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 12, 2023 11:00:00" border="gold" %}-->
+    <!--{% include countdown-timer.html title="Countdown to the next Choctaw Indian Fair" end_date="July 10, 2024 11:00:00" border="gold" %}-->
     <div class="mt-4">
-      <h2 class="display-2 shadow-text">2023 Ticket Prices</h2>
+      <h2 class="display-2 shadow-text">2024 Ticket Prices</h2>
       <div class="row row-cols-1 row-cols-lg-3 g-4">
         <div class="col">
           <div class="card h-100 bg-child border border-white border-3 rounded-lg">
@@ -111,10 +111,10 @@ meta: home
     currentVideo = (currentVideo + 1) % videos.length;
     document.getElementById("bgvid").src = videos[currentVideo];
   }
-  
+
   // Add an event listener for the 'ended' event
   document.getElementById("bgvid").addEventListener('ended', nextVideo);
-  
+
   // Set the initial video source
   document.getElementById("bgvid").src = videos[currentVideo];
 </script>
