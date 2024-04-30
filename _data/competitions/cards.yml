@@ -11,10 +11,19 @@
   title: Iron Warrior
   desc: Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order to be called the next IRON WARRIOR!
   alert: Details coming soon!
-  # firstLink: ../assets/pdf/2023 Iron Warrior Flyer.pdf
+  firstLink: ../assets/pdf/2024 Iron Warrior Flyer.pdf
+  firstAction: Download Flyer
+  secondLink: ../assets/pdf/2024 Iron Warrior Registration.pdf
+  secondAction: Registration Form
+
+- image: volleyball
+  title: Volleyball Tournament
+  desc: Join us for the Choctaw Indian Fair Volleyball Tournament at the Choctaw Central High School Gymnasium.
+  alert: Details coming soon!
+  # firstLink: ../assets/pdf/2023 Volleyball Flyer.pdf
   # firstAction: Download Flyer
-  # secondLink: ../assets/pdf/2023 Iron Warrior Registration.pdf
-  # secondAction: Registration Form
+  # secondLink: ../assets/pdf/2023 Volleyball Registration.pdf
+  # secondAction: Dowload Form
 
 - image: tribalCornhole
   title: Tribal Member Tournament
@@ -29,15 +38,6 @@
   alert: Details coming soon!
   # firstLink: https://forms.office.com/r/dre886jmaJ
   # firstAction: Register Online
-
-- image: volleyball
-  title: Volleyball Tournament
-  desc: Join us for the Choctaw Indian Fair Volleyball Tournament at the Choctaw Central High School Gymnasium.
-  alert: Details coming soon!
-  # firstLink: ../assets/pdf/2023 Volleyball Flyer.pdf
-  # firstAction: Download Flyer
-  # secondLink: ../assets/pdf/2023 Volleyball Registration.pdf
-  # secondAction: Dowload Form
 
 - image: gospelNight
   title: Gospel Night
