@@ -1,7 +1,7 @@
 - image: rezRun
   title: Rez Run
   desc: The run is held in Choctaw, MS and trails through the reservation of the Mississippi Choctaw and the Choctaw Indian fairgrounds. The Mississippi Band of Choctaw Indians proudly welcomes all runners and visitors to the Choctaw Indian Fair.
-  alert: Pre-Registration is from April 5th to May 12th.
+  alert: Pre-Register by May 12th.
   firstLink: https://runsignup.com/Race/MS/Philadelphia/RezRun2014
   firstAction: Register Online
   secondLink: ../assets/pdf/2024 Rez Run Registration.pdf
@@ -10,7 +10,7 @@
 - image: ironwarrior
   title: Iron Warrior
   desc: Iron Warrior consists of obstacles such as the steel log, yoke carry, tire flip, and truck pull. In the end of the competition, the winner will have to endure eight total obstacles in order to be called the next IRON WARRIOR!
-  alert: Pre-Registration is $25.00. After June 11th, registration is $30.00.
+  alert: Pre-Register by June 11th.
   firstLink: ../assets/pdf/2024 Iron Warrior Flyer.pdf
   firstAction: Download Flyer
   secondLink: ../assets/pdf/2024 Iron Warrior Registration.pdf
