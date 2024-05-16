@@ -28,9 +28,11 @@
 - image: tribalCornhole
   title: Tribal Member Tournament
   desc: Open to Tribal Affiliates. This year's Tribal Member Tournament will have two divisions, Social Division and Competitive Division. Cash prizes for 1st, 2nd, and 3rd Place teams! Top 10 Teams in Competitive Division Advance for Free to Open Tourney!
-  alert: Details coming soon!
-  # firstLink: https://forms.office.com/r/GmU5rVbqA0
-  # firstAction: Register Online
+  alert: Pre-register by July 5, 2024
+  firstLink: ../assets/pdf/2024 Cornhole Tournament Competitive Form.pdf
+  firstAction: Competitive Form
+  secondLink: ../assets/pdf/2024 Cornhole Tournament Social Form.pdf
+  secondAction: Social Form
 
 - image: openCornhole
   title: Open Cornhole Tournament
