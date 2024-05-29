@@ -1,69 +1,59 @@
 - game: 1
-  date: Thu, Jul 06
+  date: Sat, Jul 06
   hour: 6:00 PM
-  team1: koni-hata himitah
-  team1color: konihata
-  team1score: 7
-  team2: nanih waiya
-  team2color: nanihwaiya
-  team2score: 0
+  team1: nanih waiya
+  team1color: nanihwaiya
+  # team1score:
+  team2: bók Čito
+  team2color: bokcito
+  # team2score:
 
 - game: 2
-  date: Sat, Jul 8
+  date: Mon, Jul 8
+  hour: 6:00 PM
+  team1: koni hata himitah
+  team1color: konihata
+  # team1score:
+  team2: tiak hikíya
+  team2color: tiakhikiya
+  # team2score:
+
+- game: 3
+  date: Tue, Jul 09
+  hour: 6:00 PM
+  team1: Beaver Dam
+  team1color: beaverdam
+  # team1score:
+  team2: ittibátóli
+  team2color: ittibatoli
+  # team2score:
+
+- game: 4
+  date: Wed, Jul 10
   hour: 5:00 PM
   team1: pearl river
   team1color: pearlrivertulli
-  team1score: 9
-  team2: oka homma
-  team2color: okahomma
-  team2score: 0
-
-- game: 3
-  date: Mon, Jul 10
-  hour: 7:00 PM
-  team1: ittibátóli
-  team1color: ittibatoli
-  team1score: 1
-  team2: BÓK ČITO
-  team2color: bokcito
-  team2score: 8
-
-- game: 4
-  date: Tue, Jul 11
-  hour: 7:00 PM
-  team1: tiak hikíya
-  team1color: tiakhikiya
-  team1score: 2
-  team2: beaver dam
-  team2color: beaverdam
-  team2score: 3
+  # team1score:
+  team2: game 1 winner
+  # team2color:
+  # team2score:
 
 - game: 5
-  date: Wed, Jul 12
-  hour: 5:00 PM
-  team1: koni-hata himitah
-  team1color: konihata
-  team1score: 3
-  team2: pearl river
-  team2color: pearlrivertulli
-  team2score: 1
+  date: Thu, Jul 11
+  hour: 6:00 PM
+  team1: game 2 winner
+  # team1color:
+  # team1score:
+  team2: game 3 winner
+  # team2color:
+  # team2score:
 
 - game: 6
-  date: Thu, Jul 13
-  hour: 6:00 PM
-  team1: BÓK ČITO
-  team1color: bokcito
-  team1score: 4
-  team2: beaver dam
-  team2color: beaverdam
-  team2score: 2
-
-- game: 7
-  date: Fri, Jul 14
+  date: Fri, Jul 12
   hour: 9:00 PM
-  team1: koni-hata himitah
-  team1color: konihata
-  team1score: 1
-  team2: BÓK ČITO
-  team2color: bokcito
-  team2score: 5
+  team1: game 4 winner
+  # team1color:
+  # team1score:
+  team2: game 5 winner
+  # team2color:
+  # team2score:

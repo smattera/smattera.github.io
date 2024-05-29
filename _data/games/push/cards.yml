@@ -1,79 +1,79 @@
 - game: 1
-  date: Thu, Jul 06
-  hour: 5:00 PM
-  team1: pearl river
-  team1color: pearlriver
-  team1score: 15
+  date: Thu, Jul 03
+  hour: 6:00 PM
+  team1: tiak hikíya osi
+  team1color: tiakhikiya
+  # team1score:
   team2: nanih waiya
   team2color: nanihwaiya
-  team2score: 5
+  # team2score:
 
 - game: 2
-  date: Fri, Jul 7
-  hour: 5:00 PM
+  date: Fri, Jul 5
+  hour: 6:00 PM
   team1: ittibátóli
   team1color: ittibatoli
-  team1score: 1
-  team2: tiak hikíya osi
-  team2color: tiakhikiya
-  team2score: 10
-
-- game: 3
-  date: Sat, Jul 8
-  hour: 4:00 PM
-  team1: beaver dam
-  team1color: beaverdam
-  team1score: 31
-  team2: warriors
-  team2color: warriors
-  team2score: 0
-
-- game: 4
-  date: Mon, Jul 10
-  hour: 6:00 PM
-  team1: oka homma
-  team1color: okahomma
-  team1score: 0
-  team2: koni-osi
-  team2color: konihata
-  team2score: 10
-
-- game: 5
-  date: Tue, Jul 11
-  hour: 6:00 PM
-  team1: bók Čito
-  team1color: bokcito
-  team1score: 5
-  team2: pearl river
-  team2color: pearlriver
-  team2score: 2
-
-- game: 6
-  date: Wed, Jul 12
-  hour: 4:00 PM
-  team1: bók Čito
-  team1color: bokcito
-  team1score: 4
-  team2: tiak hikíya osi
-  team2color: tiakhikiya
-  team2score: 3
-
-- game: 7
-  date: Thu, Jul 13
-  hour: 5:00 PM
-  team1: beaver dam
-  team1color: beaverdam
-  team1score: 4
-  team2: koni-osi
-  team2color: konihata
-  team2score: 2
-
-- game: 8
-  date: Fri, Jul 14
-  hour: 8:00 PM
-  team1: bók Čito
-  team1color: bokcito
-  team1score: 2
+  # team1score:
   team2: beaver dam
   team2color: beaverdam
-  team2score: 9
+  # team2score:
+
+- game: 3
+  date: Sat, Jul 6
+  hour: 5:00 PM
+  team1: lil unified
+  team1color: unified
+  # team1score:
+  team2: koni osi
+  team2color: konihata
+  # team2score:
+
+- game: 4
+  date: Mon, Jul 8
+  hour: 5:00 PM
+  team1: bók Čito
+  team1color: bokcito
+  # team1score:
+  team2: pearl river
+  team2color: pearlriver
+  # team2score:
+
+- game: 5
+  date: Tue, Jul 9
+  hour: 5:00 PM
+  team1: oka homma
+  team1color: okahomma
+  team1score:
+  team2: game 1 winner
+  # team2color:
+  # team2score:
+
+- game: 6
+  date: Wed, Jul 10
+  hour: 4:00 PM
+  team1: game 5 winner
+  # team1color:
+  # team1score:
+  team2: game 2 winner
+  # team2color:
+  # team2score:
+
+- game: 7
+  date: Thu, Jul 11
+  hour: 5:00 PM
+  team1: game 3 winner
+  # team1color:
+  # team1score:
+  team2: game 4 winner
+  # team2color:
+  # team2score:
+
+- game: 8
+  date: Fri, Jul 12
+  hour: 8:00 PM
+  team1: game 6 winner
+  # team1color:
+  # team1score:
+  team2: game 7 winner
+  # team2color:
+  # team2score:
