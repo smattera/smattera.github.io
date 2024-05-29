@@ -35,7 +35,7 @@
   team1color: warriors
   # team1score:
   team2: war party
-  # team2color:
+  team2color: warparty
   # team2score:
 
 - game: 5
@@ -51,8 +51,8 @@
 - game: 6
   date: Mon, Jul 08
   hour: 10:30 PM
-  team1: chickasha toli
-  team1color: chickashatoli
+  team1: chikasha toli
+  team1color: chikashatoli
   # team1score:
   team2: game 2 winner
   # team2color:
@@ -61,7 +61,7 @@
 - game: 7
   date: Tue, Jul 09
   hour: 9:00 PM
-  team1: bók čito
+  team1: bók Čito
   team1color: bokcito
   # team1score:
   team2: game 3 winner

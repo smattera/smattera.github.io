@@ -19,8 +19,8 @@ meta: home
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.mens.cards %}
       <div class="col">
-        <!--<a type="button" data-bs-toggle="modal" data-bs-target="#mens-g{{ card.game }}"
-          style="text-decoration: none;">-->
+        <a type="button" data-bs-toggle="modal" data-bs-target="#mens-g{{ card.game }}"
+          style="text-decoration: none;">
           <div class="row row-cols-3 g-1 p-1 card-black-border"
             style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
             <div class="col-4 card mt-0 position-relative {% if card.team1color %}card-{{ card.team1color }}
@@ -43,7 +43,7 @@ meta: home
                 style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
-        <!--</a>-->
+        </a>
       </div>
       {% endfor %}
       <!--{% include modal/mens/game01.html %}
@@ -63,8 +63,8 @@ meta: home
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.womens.cards %}
       <div class="col">
-        <!--<a type="button" data-bs-toggle="modal" data-bs-target="#womens-g{{ card.game }}"
-          style="text-decoration: none;">-->
+        <a type="button" data-bs-toggle="modal" data-bs-target="#womens-g{{ card.game }}"
+          style="text-decoration: none;">
           <div class="row row-cols-3 g-1 p-1 card-black-border"
             style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
             <div class="col-4 card mt-0 position-relative {% if card.team1color %}card-{{ card.team1color }}
@@ -87,7 +87,7 @@ meta: home
                 style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
-        <!--</a>-->
+        </a>
       </div>
       {% endfor %}
       <!--{% include modal/womens/game01.html %}
@@ -109,8 +109,8 @@ meta: home
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.mens35.cards %}
       <div class="col">
-        <!--<a type="button" data-bs-toggle="modal" data-bs-target="#mens35-g{{ card.game }}"
-          style="text-decoration: none;">-->
+        <a type="button" data-bs-toggle="modal" data-bs-target="#mens35-g{{ card.game }}"
+          style="text-decoration: none;">
           <div class="row row-cols-3 g-1 p-1 card-black-border"
             style="background: linear-gradient(to bottom, rgba(20,20,20,1), rgba(80,80,80,1));">
             <div class="col-4 card mt-0 position-relative {% if card.team1color %}card-{{ card.team1color }}
@@ -133,7 +133,7 @@ meta: home
                 style="background: transparent; font-size: 120px; border: none;line-height: 150px;">{% if card.team2score %}{{ card.team2score }}{% else %}<span class="icon-sticks"></span>{% endif %}</div>
             </div>
           </div>
-        <!--</a>-->
+        </a>
       </div>
       {% endfor %}
       <!--{% include modal/mens35/game01.html %}
