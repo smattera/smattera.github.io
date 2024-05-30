@@ -15,7 +15,7 @@ meta: home
     {% endif %}
     <!--Men's Division-->
     <h2 class="display-2 shadow-text pt-5">2024 Men's Division</h2>
-    <!--<h5 class="display-5 shadow-text">(Click games to see more info)</h5>-->
+    <h5 class="display-5 shadow-text">(Click games to see rosters)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.mens.cards %}
       <div class="col">
@@ -60,7 +60,7 @@ meta: home
     </div>
     <!--Women's Division-->
     <h2 class="display-2 shadow-text pt-5">2024 Women's Division</h2>
-    <!--<h5 class="display-5 shadow-text">(Click games to see more info)</h5>-->
+    <h5 class="display-5 shadow-text">(Click games to see rosters)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.womens.cards %}
       <div class="col">
@@ -101,8 +101,6 @@ meta: home
       {% include modal/womens/game08.html %}
       {% include modal/womens/game09.html %}
       {% include modal/womens/game10.html %}
-      {% include modal/womens/game11.html %}
-      {% include modal/womens/game12.html %}
     </div>
     <!--Men's (35+) Division-->
     <h2 class="display-2 shadow-text pt-5">2024 Men's (35+) Division</h2>
