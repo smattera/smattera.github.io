@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-meta: home
+meta: meta
 ---
 
 <header>
