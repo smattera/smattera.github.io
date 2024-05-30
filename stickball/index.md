@@ -62,7 +62,7 @@ meta: home
     <h2 class="display-2 shadow-text pt-5">2024 Women's Division</h2>
     <h5 class="display-5 shadow-text">(Click games to see rosters)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
-      {% for card in site.data.games.womens.cards %}
+      {% for card in site.data.games.womens.cards | inspect %}
       <div class="col">
         <a type="button" data-bs-toggle="modal" data-bs-target="#womens-g{{ card.game }}"
           style="text-decoration: none;">
