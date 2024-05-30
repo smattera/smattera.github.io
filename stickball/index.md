@@ -104,7 +104,7 @@ meta: home
     </div>
     <!--Men's (35+) Division-->
     <h2 class="display-2 shadow-text pt-5">2024 Men's (35+) Division</h2>
-    <!--<h5 class="display-5 shadow-text">(Click games to see more info)</h5>-->
+    <h5 class="display-5 shadow-text">(Click games to see more info)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.mens35.cards %}
       <div class="col">
