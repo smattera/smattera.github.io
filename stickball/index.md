@@ -183,6 +183,7 @@ meta: home
     </div>
     <!--Pushmataha (10-13) Division-->
     <h2 class="display-2 shadow-text pt-5">2024 Pushmataha (10-13) Division</h2>
+    <h5 class="display-5 shadow-text">(Click games to see rosters)</h5>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xxl-3 g-4">
       {% for card in site.data.games.push.cards %}
       <div class="col">
@@ -213,6 +214,14 @@ meta: home
         </a>
       </div>
       {% endfor %}
+      {% include modal/push/game01.html %}
+      {% include modal/push/game02.html %}
+      {% include modal/push/game03.html %}
+      {% include modal/push/game04.html %}
+      {% include modal/push/game05.html %}
+      {% include modal/push/game06.html %}
+      {% include modal/push/game07.html %}
+      {% include modal/push/game08.html %}
     </div>
   </div>
 </section>
