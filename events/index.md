@@ -5,7 +5,7 @@ meta: home
 ---
 
 <section class="diamond-bg">
-  <div class="container">
+  <div class="container container-banner">
     <style>
       [class^="bi-geo-alt-fill"]::before, [class*="bi-geo-alt-fill"]::before { vertical-align: middle!important; }
     </style>
@@ -343,7 +343,7 @@ meta: home
     var img = document.createElement("img");
     img.src = imgSrc;
     img.className = "img-fluid img-shadow";
-    document.querySelector(".container").prepend(img);
+    document.querySelector(".container-banner").prepend(img);
   });
   var triggerTabList = [].slice.call(document.querySelectorAll('#myTab a'))
   triggerTabList.forEach(function (triggerEl) {
