@@ -6,8 +6,6 @@ meta: home
 
 <section class="diamond-bg">
   <div class="container">
-    <img src="../assets/img/event-banner-01.jpg" class="img-fluid d-none d-md-block img-shadow">
-    <img src="../assets/img/event-banner-02.jpg" class="img-fluid d-block d-md-none img-shadow">
     <style>
       [class^="bi-geo-alt-fill"]::before, [class*="bi-geo-alt-fill"]::before { vertical-align: middle!important; }
     </style>
@@ -339,6 +337,14 @@ meta: home
 </section>
 
 <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var width = window.innerWidth;
+    var imgSrc = width >= 768 ? "../assets/img/event-banner-01.webp" : "../assets/img/event-banner-02.webp";
+    var img = document.createElement("img");
+    img.src = imgSrc;
+    img.className = "img-fluid img-shadow";
+    document.querySelector(".container").prepend(img);
+  });
   var triggerTabList = [].slice.call(document.querySelectorAll('#myTab a'))
   triggerTabList.forEach(function (triggerEl) {
     var tabTrigger = new bootstrap.Tab(triggerEl)
