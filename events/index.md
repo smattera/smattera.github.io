@@ -11,8 +11,8 @@ meta: home
     <style>
       [class^="bi-geo-alt-fill"]::before, [class*="bi-geo-alt-fill"]::before { vertical-align: middle!important; }
     </style>
-    <h2 class="display-2 shadow-text pt-5">2024 Fair Schedule Coming Soon!</h2>
-    <!--{% assign cachedNow = 'now' | date: '%Y-%m-%d' %}
+    <h2 class="display-2 shadow-text pt-5">2024 Fair Schedule</h2>
+    {% assign cachedNow = 'now' | date: '%Y-%m-%d' %}
     <ul class="nav nav-pills nav-fill h5" id="myTab" role="tablist">
       {% include eventTabFirst.html day="dayOne" date="2023-07-05" %}
       {% include eventTab.html day="dayTwo" date="2023-07-06" %}
@@ -32,8 +32,8 @@ meta: home
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-stickball">Stickball</button>
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-pageant">Pageant</button>
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-competitions">Competitions</button>
-    </div>-->
-    <!-- <div class="form-check form-check-inline">
+    </div>
+    <div class="form-check form-check-inline">
       <input type="checkbox" class="form-check-input" id="card-culture">
       <label class="form-check-label" for="card-culture">Culture</label>
     </div>
@@ -52,8 +52,8 @@ meta: home
     <div class="form-check form-check-inline">
       <input type="checkbox" class="form-check-input" id="card-competitions">
       <label class="form-check-label" for="card-competitions">Competitions</label>
-    </div> -->
-    <!--<div class="tab-content pt-3" id="myTabContent">
+    </div>
+    <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade{% if cachedNow <= '2023-07-05' %} show active{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
           {% for event in site.data.schedule.day01.events %}
@@ -334,7 +334,7 @@ meta: home
           {% endfor %}
         </div>
       </div>
-    </div>-->
+    </div>
   </div>
 </section>
 

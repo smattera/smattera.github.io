@@ -1,283 +1,283 @@
-# Fri, Jul 14, 2023
-- title: Gates Open
-  hour: 10:00 AM
-  category: 
-  location: Fairgrounds
-- title: CHOCTAW TRIBAL ELDERS SOCIAL DANCERS
-  hour: 10:00 AM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: Tribal Member Cornhole Tournament
-  hour: 10:00 AM
-  category: Competitions
-  style: competitions
-  location: CCHS Gymnasium
-- title: Arts & Crafts Pavilion and Tent Opens
-  hour: 10:00 AM 
-  category: Culture
-  style: culture
-  location: Arts & Crafts Pavilion
-- title: Exhibit Hall Opens
-  hour: 10:00 AM 
-  category: Culture
-  style: culture
-  location: Exhibit Hall
-- title: Tushka Village Opens
-  hour: 10:00 AM 
-  category: Culture
-  style: culture
-  location: Tushka Village
-- title: Shawi's Discovery Zone Opens
-  hour: 10:00 AM
-  category: Family fun
-  style: family
-  location: Shawi's Discovery Zone
-- title: Storytelling
-  hour: 10:45 AM 
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: Conehatta Development Club Social Dancers
-  hour: 11:00 AM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: Reptile Walk-Thru Experience Opens
-  hour: 11:00 AM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
-- title: Introduction of 2023-2024 Choctaw Indian Princess
-  hour: 11:45 AM
-  category: Pageant
-  style: pageant
-  location: Dance Grounds
-- title: CONEHATTA SOCIAL DANCERS
-  hour: 12:00 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: Michelle's Magical Poodle Show
-  hour: 12:00 PM
-  category: family fun
-  style: family
-  location: ÁYI̱PA VILLAGE
-- title: Bug Walk-Thru Exhibit Opens
-  hour: 12:00 PM 
-  category: family fun
-  style: family
-  location: Shawi's Discovery Zone
-- title: Dinosaur Experience
-  hour: 12:30 PM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
-- title: Introduction of Visiting Princesses
-  hour: 12:45 PM
-  category: Pageant
-  style: pageant
-  location: Dance Grounds
-- title: Iron Warrior Women's Time Trials Begins
-  hour: 1:00 PM
-  category: Competitions
-  style: competitions
-  location: In Front Of Exhibit Hall
-- title: Watermelon Eating Contest
-  hour: 1:00 PM
-  category: Competitions
-  style: competitions
-  location: ÁYI̱PA VILLAGE
-- title: TIAK HIKÍYA HIMITTOWA HILHA
-  hour: 1:00 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: Scales, Tails & Teeth Show
-  hour: 1:00 PM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
-- title: Bug Blues Live Bug Show
-  hour: 1:30 PM
-  category: family fun
-  style: family
-  location: Shawi's Discovery Zone
-- title: Storytelling
-  hour: 1:45 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: HILHA IM ACHOKMA ALHÍHA
-  hour: 2:00 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: Choctaw Indian Fair&#58; Trivia Edition
-  hour: 2:00 PM 
-  category: competitions
-  style: competitions
-  location: ÁYI̱PA VILLAGE
-- title: Birds & Exotics of the World Show
-  hour: 2:00 PM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
-- title: Storytelling
-  hour: 2:45 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: Frybread Making Demonstration
-  hour: 3:00 PM
-  category: culture
-  style: culture
-  location: ÁYI̱PA VILLAGE
-- title: Iron Warrior Men's Time Trials Begins
-  hour: 3:00 PM
-  category: Competitions
-  style: competitions
-  location: In Front Of Exhibit Hall
-- title: CHOCTAW TRADITIONAL SOCIAL DANCERS
-  hour: 3:00 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: Dinosaur Experience
-  hour: 3:00 PM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
-- title: Midway Opens
-  hour: 3:00 PM
-  category: family fun
-  style: family
-  location: Midway
-- title: Scales, Tails & Teeth Show
-  hour: 3:30 PM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
-- title: Bug Blues Live Bug Show
-  hour: 3:30 PM
-  category: family fun
-  style: family
-  location: Shawi's Discovery Zone
-- title: Michelle's Magical Poodle Show
-  hour: 4:00 PM
-  category: family fun
-  style: family
-  location: ÁYI̱PA VILLAGE
-- title: KABOTCHA BOLI
-  hour: 4:00 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: Tushka Village Closes
-  hour: 4:00 PM
-  category: Culture
-  style: culture
-  location: Tushka Village
-- title: Birds & Exotics of the World Show
-  hour: 4:30 PM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
-- title: Performance by Horizon
-  hour: 5:00 PM 
-  location: ÁYI̱PA VILLAGE
-- title: FANI LAKNA
-  hour: 5:00 PM
-  category: Culture
-  style: culture
-  location: Main Stage
-- title: Shawi's Discovery Zone Closes
-  hour: 5:00 PM
-  category: Family fun
-  style: family
-  location: Shawi's Discovery Zone
-- title: Bug Walk-Thru Exhibit Closes
-  hour: 5:00 PM 
-  category: family fun
-  style: family
-  location: Shawi's Discovery Zone
-- title: Dinosaur Experience
-  hour: 5:30 PM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
-- title: Bug Blues Live Bug Show
-  hour: 5:30 PM
-  category: family fun
-  style: family
-  location: Shawi's Discovery Zone
-- title: 2022 WSS Women's Championship Game
-  hour: 6:00 PM
-  category: Replay Of
-  location: ÁYI̱PA VILLAGE
-- title: BÓK CHITO HILHÁCHI ALHÍHA
-  hour: 6:00 PM
-  category: Culture
-  style: culture
-  location: Main Stage
-- title: Reptile Walk-Thru Experience Closes
-  hour: 6:00 PM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
-- title: Scales, Tails & Teeth Show
-  hour: 6:00 PM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
-- title: Firehouse in Concert
-  hour: 7:00 PM
-  category: Live Entertainment
-  location: Main Stage
-- title: Birds & Exotics of the World Show
-  hour: 7:00 PM
-  category: family fun
-  style: family
-  location: O̱SSI COVE
+# Fri, Jul 12, 2024
+# - title: Gates Open
+#   hour: 10:00 AM
+#   category:
+#   location: Fairgrounds
+# - title: CHOCTAW TRIBAL ELDERS SOCIAL DANCERS
+#   hour: 10:00 AM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: Tribal Member Cornhole Tournament
+#   hour: 10:00 AM
+#   category: Competitions
+#   style: competitions
+#   location: CCHS Gymnasium
+# - title: Arts & Crafts Pavilion and Tent Opens
+#   hour: 10:00 AM
+#   category: Culture
+#   style: culture
+#   location: Arts & Crafts Pavilion
+# - title: Exhibit Hall Opens
+#   hour: 10:00 AM
+#   category: Culture
+#   style: culture
+#   location: Exhibit Hall
+# - title: Tushka Village Opens
+#   hour: 10:00 AM
+#   category: Culture
+#   style: culture
+#   location: Tushka Village
+# - title: Shawi's Discovery Zone Opens
+#   hour: 10:00 AM
+#   category: Family fun
+#   style: family
+#   location: Shawi's Discovery Zone
+# - title: Storytelling
+#   hour: 10:45 AM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: Conehatta Development Club Social Dancers
+#   hour: 11:00 AM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: Reptile Walk-Thru Experience Opens
+#   hour: 11:00 AM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
+# - title: Introduction of 2023-2024 Choctaw Indian Princess
+#   hour: 11:45 AM
+#   category: Pageant
+#   style: pageant
+#   location: Dance Grounds
+# - title: CONEHATTA SOCIAL DANCERS
+#   hour: 12:00 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: Michelle's Magical Poodle Show
+#   hour: 12:00 PM
+#   category: family fun
+#   style: family
+#   location: ÁYI̱PA VILLAGE
+# - title: Bug Walk-Thru Exhibit Opens
+#   hour: 12:00 PM
+#   category: family fun
+#   style: family
+#   location: Shawi's Discovery Zone
+# - title: Dinosaur Experience
+#   hour: 12:30 PM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
+# - title: Introduction of Visiting Princesses
+#   hour: 12:45 PM
+#   category: Pageant
+#   style: pageant
+#   location: Dance Grounds
+# - title: Iron Warrior Women's Time Trials Begins
+#   hour: 1:00 PM
+#   category: Competitions
+#   style: competitions
+#   location: In Front Of Exhibit Hall
+# - title: Watermelon Eating Contest
+#   hour: 1:00 PM
+#   category: Competitions
+#   style: competitions
+#   location: ÁYI̱PA VILLAGE
+# - title: TIAK HIKÍYA HIMITTOWA HILHA
+#   hour: 1:00 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: Scales, Tails & Teeth Show
+#   hour: 1:00 PM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
+# - title: Bug Blues Live Bug Show
+#   hour: 1:30 PM
+#   category: family fun
+#   style: family
+#   location: Shawi's Discovery Zone
+# - title: Storytelling
+#   hour: 1:45 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: HILHA IM ACHOKMA ALHÍHA
+#   hour: 2:00 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: Choctaw Indian Fair&#58; Trivia Edition
+#   hour: 2:00 PM
+#   category: competitions
+#   style: competitions
+#   location: ÁYI̱PA VILLAGE
+# - title: Birds & Exotics of the World Show
+#   hour: 2:00 PM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
+# - title: Storytelling
+#   hour: 2:45 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: Frybread Making Demonstration
+#   hour: 3:00 PM
+#   category: culture
+#   style: culture
+#   location: ÁYI̱PA VILLAGE
+# - title: Iron Warrior Men's Time Trials Begins
+#   hour: 3:00 PM
+#   category: Competitions
+#   style: competitions
+#   location: In Front Of Exhibit Hall
+# - title: CHOCTAW TRADITIONAL SOCIAL DANCERS
+#   hour: 3:00 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: Dinosaur Experience
+#   hour: 3:00 PM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
+# - title: Midway Opens
+#   hour: 3:00 PM
+#   category: family fun
+#   style: family
+#   location: Midway
+# - title: Scales, Tails & Teeth Show
+#   hour: 3:30 PM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
+# - title: Bug Blues Live Bug Show
+#   hour: 3:30 PM
+#   category: family fun
+#   style: family
+#   location: Shawi's Discovery Zone
+# - title: Michelle's Magical Poodle Show
+#   hour: 4:00 PM
+#   category: family fun
+#   style: family
+#   location: ÁYI̱PA VILLAGE
+# - title: KABOTCHA BOLI
+#   hour: 4:00 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: Tushka Village Closes
+#   hour: 4:00 PM
+#   category: Culture
+#   style: culture
+#   location: Tushka Village
+# - title: Birds & Exotics of the World Show
+#   hour: 4:30 PM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
+# - title: Performance by Horizon
+#   hour: 5:00 PM
+#   location: ÁYI̱PA VILLAGE
+# - title: FANI LAKNA
+#   hour: 5:00 PM
+#   category: Culture
+#   style: culture
+#   location: Main Stage
+# - title: Shawi's Discovery Zone Closes
+#   hour: 5:00 PM
+#   category: Family fun
+#   style: family
+#   location: Shawi's Discovery Zone
+# - title: Bug Walk-Thru Exhibit Closes
+#   hour: 5:00 PM
+#   category: family fun
+#   style: family
+#   location: Shawi's Discovery Zone
+# - title: Dinosaur Experience
+#   hour: 5:30 PM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
+# - title: Bug Blues Live Bug Show
+#   hour: 5:30 PM
+#   category: family fun
+#   style: family
+#   location: Shawi's Discovery Zone
+# - title: 2022 WSS Women's Championship Game
+#   hour: 6:00 PM
+#   category: Replay Of
+#   location: ÁYI̱PA VILLAGE
+# - title: BÓK CHITO HILHÁCHI ALHÍHA
+#   hour: 6:00 PM
+#   category: Culture
+#   style: culture
+#   location: Main Stage
+# - title: Reptile Walk-Thru Experience Closes
+#   hour: 6:00 PM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
+# - title: Scales, Tails & Teeth Show
+#   hour: 6:00 PM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
+# - title: Firehouse in Concert
+#   hour: 7:00 PM
+#   category: Live Entertainment
+#   location: Main Stage
+# - title: Birds & Exotics of the World Show
+#   hour: 7:00 PM
+#   category: family fun
+#   style: family
+#   location: O̱SSI COVE
 - title: Pushmataha Division&#58; Championship
   hour: 8:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: World Series Stickball Watch Party
-  hour: 8:00 PM
-  category:
-  location: ÁYI̱PA VILLAGE
-- title: Bret Michaels in Concert
-  hour: 8:30 PM
-  category: Live Entertainment
-  location: Main Stage
+# - title: World Series Stickball Watch Party
+#   hour: 8:00 PM
+#   category:
+#   location: ÁYI̱PA VILLAGE
+# - title: Bret Michaels in Concert
+#   hour: 8:30 PM
+#   category: Live Entertainment
+#   location: Main Stage
 - title: Tulli Okchi Ishko Division&#58; Championship
   hour: 9:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: Arts & Crafts Pavilion and Tent Closes
-  hour: 10:00 PM
-  category: Culture
-  style: culture
-  location: Arts & Crafts Pavilion
-- title: Exhibit Hall Closes
-  hour: 10:00 PM 
-  category: Culture
-  style: culture
-  location: Exhibit Hall
+# - title: Arts & Crafts Pavilion and Tent Closes
+#   hour: 10:00 PM
+#   category: Culture
+#   style: culture
+#   location: Arts & Crafts Pavilion
+# - title: Exhibit Hall Closes
+#   hour: 10:00 PM
+#   category: Culture
+#   style: culture
+#   location: Exhibit Hall
 - title: Men's (35+) Division&#58; Championship
   hour: 10:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: Midway Closes
-  hour: 1:00 AM
-  category: family fun
-  style: family
-  location: Midway
-- title: Gates Close
-  hour: 12:00 AM
-  category: 
-  location: Fairgrounds
+# - title: Midway Closes
+#   hour: 1:00 AM
+#   category: family fun
+#   style: family
+#   location: Midway
+# - title: Gates Close
+#   hour: 12:00 AM
+#   category:
+#   location: Fairgrounds
