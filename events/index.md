@@ -33,7 +33,7 @@ meta: home
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-pageant">Pageant</button>
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-competitions">Competitions</button>
     </div>
-    <div class="form-check form-check-inline">
+    <!-- <div class="form-check form-check-inline">
       <input type="checkbox" class="form-check-input" id="card-culture">
       <label class="form-check-label" for="card-culture">Culture</label>
     </div>
@@ -52,7 +52,7 @@ meta: home
     <div class="form-check form-check-inline">
       <input type="checkbox" class="form-check-input" id="card-competitions">
       <label class="form-check-label" for="card-competitions">Competitions</label>
-    </div>
+    </div> -->
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade{% if cachedNow <= '2023-07-05' %} show active{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
