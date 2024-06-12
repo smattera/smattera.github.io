@@ -3,11 +3,11 @@
 #   hour: 10:00 AM
 #   category:
 #   location: Fairgrounds
-# - title: CHOCTAW TRIBAL ELDERS SOCIAL DANCERS
-#   hour: 10:00 AM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: CHOCTAW TRIBAL ELDERS SOCIAL DANCERS
+  hour: 10:00 AM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Tribal Member Cornhole Tournament
 #   hour: 10:00 AM
 #   category: Competitions
@@ -38,26 +38,26 @@
 #   category: Culture
 #   style: culture
 #   location: Dance Grounds
-# - title: Conehatta Development Club Social Dancers
-#   hour: 11:00 AM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: HAPPY FEET
+  hour: 11:00 AM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Reptile Walk-Thru Experience Opens
 #   hour: 11:00 AM
 #   category: family fun
 #   style: family
 #   location: O̱SSI COVE
-# - title: Introduction of 2023-2024 Choctaw Indian Princess
-#   hour: 11:45 AM
-#   category: Pageant
-#   style: pageant
-#   location: Dance Grounds
-# - title: CONEHATTA SOCIAL DANCERS
-#   hour: 12:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: Introduction of 2024-2025 Choctaw Indian Princess
+  hour: 11:45 AM
+  category: Pageant
+  style: pageant
+  location: Dance Grounds
+- title: CONEHATTA DEVELOPMENT CLUB SOCIAL DANCERS
+  hour: 12:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Michelle's Magical Poodle Show
 #   hour: 12:00 PM
 #   category: family fun
@@ -73,11 +73,11 @@
 #   category: family fun
 #   style: family
 #   location: O̱SSI COVE
-# - title: Introduction of Visiting Princesses
-#   hour: 12:45 PM
-#   category: Pageant
-#   style: pageant
-#   location: Dance Grounds
+- title: Introduction of Visiting Princesses
+  hour: 12:45 PM
+  category: Pageant
+  style: pageant
+  location: Dance Grounds
 # - title: Iron Warrior Women's Time Trials Begins
 #   hour: 1:00 PM
 #   category: Competitions
@@ -88,11 +88,11 @@
 #   category: Competitions
 #   style: competitions
 #   location: ÁYI̱PA VILLAGE
-# - title: TIAK HIKÍYA HIMITTOWA HILHA
-#   hour: 1:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: HAMÁYA HOMMA HILHA ALHÍHA
+  hour: 1:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Scales, Tails & Teeth Show
 #   hour: 1:00 PM
 #   category: family fun
@@ -108,11 +108,11 @@
 #   category: Culture
 #   style: culture
 #   location: Dance Grounds
-# - title: HILHA IM ACHOKMA ALHÍHA
-#   hour: 2:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: BÓK CHITO OKLA HILHA ALHÍHA
+  hour: 2:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Choctaw Indian Fair&#58; Trivia Edition
 #   hour: 2:00 PM
 #   category: competitions
@@ -138,11 +138,11 @@
 #   category: Competitions
 #   style: competitions
 #   location: In Front Of Exhibit Hall
-# - title: CHOCTAW TRADITIONAL SOCIAL DANCERS
-#   hour: 3:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: ITTIBÁ HILI
+  hour: 3:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Dinosaur Experience
 #   hour: 3:00 PM
 #   category: family fun
@@ -168,11 +168,11 @@
 #   category: family fun
 #   style: family
 #   location: ÁYI̱PA VILLAGE
-# - title: KABOTCHA BOLI
-#   hour: 4:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: KÍ HILHA “LETS DANCE”
+  hour: 4:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Tushka Village Closes
 #   hour: 4:00 PM
 #   category: Culture
@@ -186,11 +186,11 @@
 # - title: Performance by Horizon
 #   hour: 5:00 PM
 #   location: ÁYI̱PA VILLAGE
-# - title: FANI LAKNA
-#   hour: 5:00 PM
-#   category: Culture
-#   style: culture
-#   location: Main Stage
+- title: OKLAH CHAHTA HILHA HAPÍYA/ WE ARE CHOCTAW DANCERS
+  hour: 5:00 PM
+  category: Culture
+  style: culture
+  location: Main Stage
 # - title: Shawi's Discovery Zone Closes
 #   hour: 5:00 PM
 #   category: Family fun

@@ -3,39 +3,39 @@
 #   hour: 11:00 AM
 #   category:
 #   location: Fairgrounds
-# - title: GENERATION
-#   hour: 11:00 AM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: KÍ HILHA
+  hour: 11:00 AM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Reptile Walk-Thru Experience Opens
 #   hour: 11:00 AM
 #   category:
 #   location: O̱SSI COVE
-# - title: INTRODUCTION OF 2023-2024 CHOCTAW INDIAN PRINCESS
-#   hour: 11:45 AM
-#   category: Pageant
-#   style: pageant
-#   location: Dance Grounds
-# - title: PEARL RIVER SOCIAL DANCERS
-#   hour: 12:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: INTRODUCTION OF 2024-2025 CHOCTAW INDIAN PRINCESS
+  hour: 11:45 AM
+  category: Pageant
+  style: pageant
+  location: Dance Grounds
+- title: STANDING PINE SOCIAL DANCERS
+  hour: 12:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Michelle's Magical Poodle Show
 #   hour: 12:00 PM
 #   category:
 #   location: ÁYI̱PA VILLAGE
-# - title: Introduction of Visiting Princesses
-#   hour: 12:45 PM
-#   category: Pageant
-#   style: pageant
-#   location: Dance Grounds
-# - title: OKLAH CHAHTA HILHA HAPÍYA
-#   hour: 1:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: Introduction of Visiting Princesses
+  hour: 12:45 PM
+  category: Pageant
+  style: pageant
+  location: Dance Grounds
+- title: CHOCTAW TRIBAL SOCIAL DANCERS
+  hour: 1:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Iron Warrior&#58; Women's Time Trials Begin
 #   hour: 1:00 PM
 #   category: Competitions
@@ -51,11 +51,11 @@
 #   category: Culture
 #   style: culture
 #   location: Dance Grounds
-# - title: CHOCTAW TRIBAL SOCIAL DANCERS
-#   hour: 2:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: PUSHMATAHA HILHA ALHÍHA
+  hour: 2:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: TRIVIA CONTEST
 #   hour: 2:00 PM
 #   category: Competitions
@@ -80,11 +80,11 @@
 #   category: Culture
 #   style: culture
 #   location: ÁYI̱PA VILLAGE
-# - title: CHAHTA ALLA CHIPO̱NTA HICHA HIMITTOWA ALHÍHA
-#   hour: 3:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: EAGLESCRY SOCIAL DANCERS
+  hour: 3:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Midway Opens
 #   hour: 3:00 PM
 #   category: family fun
@@ -94,11 +94,11 @@
 #   hour: 3:30 PM
 #   category:
 #   location: O̱SSI COVE
-# - title: ACHAFFAH HAPÍYAH
-#   hour: 4:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: ITTAYYOKLA SOCIAL DANCERS
+  hour: 4:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Scales, Tails & Teeth Show
 #   hour: 4:30 PM
 #   category:
@@ -108,11 +108,11 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-# - title: BOGUE CHITTO YOUTH SOCIAL DANCERS &#35;1
-#   hour: 5:00 PM
-#   category: Culture
-#   style: culture
-#   location: MAIN STAGE
+- title: CONEHATTA SOCIAL DANCERS
+  hour: 5:00 PM
+  category: Culture
+  style: culture
+  location: MAIN STAGE
 # - title: Birds & Exotics of the World Show
 #   hour: 5:30 PM
 #   category:
@@ -140,11 +140,11 @@
 #   hour: 6:00 PM
 #   category:
 #   location: ÁYI̱PA VILLAGE
-# - title: BOGUE CHITTO YOUTH SOCIAL DANCERS &#35;2
-#   hour: 7:00 PM
-#   category: Culture
-#   style: culture
-#   location: Main Stage
+- title: FANI LAKNA
+  hour: 7:00 PM
+  category: Culture
+  style: culture
+  location: Main Stage
 # - title: Jeremy Camp in Concert
 #   hour: 8:30 PM
 #   category:

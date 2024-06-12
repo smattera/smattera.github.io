@@ -33,26 +33,6 @@ meta: home
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-pageant">Pageant</button>
       <button type="button" class="btn btn-lg btn-outline-secondary" data-filter="card-competitions">Competitions</button>
     </div>
-    <!-- <div class="form-check form-check-inline">
-      <input type="checkbox" class="form-check-input" id="card-culture">
-      <label class="form-check-label" for="card-culture">Culture</label>
-    </div>
-    <div class="form-check form-check-inline">
-      <input type="checkbox" class="form-check-input" id="card-family-fun">
-      <label class="form-check-label" for="card-family-fun">Family Fun</label>
-    </div>
-    <div class="form-check form-check-inline">
-      <input type="checkbox" class="form-check-input" id="card-stickball">
-      <label class="form-check-label" for="card-stickball">Stickball</label>
-    </div>
-    <div class="form-check form-check-inline">
-      <input type="checkbox" class="form-check-input" id="card-pageant">
-      <label class="form-check-label" for="card-pageant">Pageant</label>
-    </div>
-    <div class="form-check form-check-inline">
-      <input type="checkbox" class="form-check-input" id="card-competitions">
-      <label class="form-check-label" for="card-competitions">Competitions</label>
-    </div> -->
     <div class="tab-content pt-3" id="myTabContent">
       <div class="tab-pane fade{% if cachedNow <= '2024-07-02' %} show active{% endif %}" id="dayOne" role="tabpanel" aria-labelledby="dayOne-tab">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">

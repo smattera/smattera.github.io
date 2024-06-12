@@ -3,40 +3,40 @@
 #   hour: 11:00 AM
 #   category:
 #   location: Fairgrounds
-# - title: Happy Feet Social Dancers
-#   hour: 11:00 AM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: ONE FEATHER SOCIAL DANCE GROUP
+  hour: 11:00 AM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Registration Opens for Little Mr. & Miss CIF Pageant
 #   hour: 11:00 AM
 #   category: Competitions
 #   style: competitions
 #   location: ÁYI̱PA VILLAGE
-# - title: Farewell Visit for 2022-2023 Choctaw Indian Princess Cadence Raine Nickey
-#   hour: 11:45 AM
-#   category: Pageant
-#   style: pageant
-#   location: Dance Grounds
-# - title: HIMMIFFOWA ALHÍYA
-#   hour: 12:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: Farewell Visit for 2023-2024 Choctaw Indian Princess Nalani Luzmaria Thompson
+  hour: 11:45 AM
+  category: Pageant
+  style: pageant
+  location: Dance Grounds
+- title: BOYS & GIRLS CLUBS&#58; CHAHTA ALLA HILHA
+  hour: 12:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Performance by Christopher Hunter
 #   hour: 12:30 PM
 #   category:
 #   location: ÁYI̱PA VILLAGE
-# - title: Storytelling
-#   hour: 12:45 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
-# - title: BOGUE CHITTO SOCIAL DANCERS
-#   hour: 1:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: Introduction of Visiting Princesses
+  hour: 12:45 PM
+  category: Pageant
+  style: pageant
+  location: Dance Grounds
+- title: KONI HATA HIMMITA OKLA HILHA ALHÍHA
+  hour: 1:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Little Mr. & Miss Choctaw Indian Fair Pageant
 #   hour: 1:00 PM
 #   category: Competitions
@@ -47,41 +47,41 @@
 #   category: Culture
 #   style: culture
 #   location: Dance Grounds
-# - title: BIG CREEK SOCIAL DANCERS
-#   hour: 2:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: BÓK CHITO YOUTH SOCIAL DANCERS
+  hour: 2:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Storytelling
 #   hour: 2:45 PM
 #   category: Culture
 #   style: culture
 #   location: Dance Grounds
-# - title: ITTIBÁ HÍLI
-#   hour: 3:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: BAHCHA MALATA HILHA ALHÍHA
+  hour: 3:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 # - title: Midway Opens
 #   hour: 3:00 PM
 #   category: family fun
 #   style: family
 #   location: Midway
-# - title: MYSTIC WIND CHOCTAW SOCIAL DANCE GROUP
-#   hour: 4:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: CHAHTA ALLA YOUTH COUNCIL
+  hour: 4:00 PM
+  category: Culture
+  style: culture
+  location: Dance Grounds
 - title: Pushmataha Division&#58; Game 6
   hour: 4:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-# - title: CHAHTA HILHA IK HAPI̱ KANÍYO KIYA
-#   hour: 5:00 PM
-#   category: Culture
-#   style: culture
-#   location: Dance Grounds
+- title: John Levi Bell, Sr Social Dancers
+  hour: 5:00 PM
+  category: Culture
+  style: culture
+  location: Main Stage
 - title: Tulli Okchi Ishko Division&#58; Game 4
   hour: 5:00 PM
   category: world series stickball
