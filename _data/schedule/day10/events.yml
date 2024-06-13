@@ -4,10 +4,10 @@
 #   category: Competitions
 #   style: competitions
 #   location: Warrior Stadium
-# - title: Gates Open
-#   hour: 10:00 AM
-#   category:
-#   location: Fairgrounds
+- title: Gates Open
+  hour: 10:00 AM
+  category:
+  location: Fairgrounds
 - title: MYSTIC WIND CHAHTA SOCIAL DANCE GROUP
   hour: 10:00 AM
   category: Culture
@@ -281,7 +281,7 @@
 #   category: family fun
 #   style: family
 #   location: Midway
-# - title: Choctaw Indian Fair officially closes
-#   hour: 1:00 AM
-#   category:
-#   location: Fairgrounds
+- title: Choctaw Indian Fair officially closes
+  hour: 1:00 AM
+  category:
+  location: Fairgrounds

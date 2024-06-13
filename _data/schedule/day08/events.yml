@@ -1,8 +1,8 @@
 # Thu, Jul 11, 2024
-# - title: Gates Open
-#   hour: 11:00 AM
-#   category:
-#   location: Fairgrounds
+- title: Gates Open
+  hour: 11:00 AM
+  category:
+  location: Fairgrounds
 - title: KÍ HILHA
   hour: 11:00 AM
   category: Culture
@@ -22,10 +22,10 @@
   category: Culture
   style: culture
   location: Dance Grounds
-# - title: Michelle's Magical Poodle Show
-#   hour: 12:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: Michelle's Magical Poodle Show
+  hour: 12:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Introduction of Visiting Princesses
   hour: 12:45 PM
   category: Pageant
@@ -41,11 +41,11 @@
 #   category: Competitions
 #   style: competitions
 #   location: In Front Of Exhibit Hall
-# - title: Watermelon Eating Contest
-#   hour: 1:00 PM
-#   category: Competitions
-#   style: competitions
-#   location: ÁYI̱PA VILLAGE
+- title: Watermelon Eating Contest
+  hour: 1:00 PM
+  category: Competitions
+  style: competitions
+  location: ÁYI̱PA VILLAGE
 # - title: Storytelling
 #   hour: 1:45 PM
 #   category: Culture
@@ -56,11 +56,11 @@
   category: Culture
   style: culture
   location: Dance Grounds
-# - title: TRIVIA CONTEST
-#   hour: 2:00 PM
-#   category: Competitions
-#   style: competitions
-#   location: ÁYI̱PA VILLAGE
+- title: CIF TRIVIA CONTEST
+  hour: 2:00 PM
+  category: Competitions
+  style: competitions
+  location: ÁYI̱PA VILLAGE
 # - title: Scales, Tails & Teeth Show
 #   hour: 2:30 PM
 #   category:
@@ -75,11 +75,11 @@
 #   category: Competitions
 #   style: competitions
 #   location: In Front Of Exhibit Hall
-# - title: Frybread Making Demonstration
-#   hour: 3:00 PM
-#   category: Culture
-#   style: culture
-#   location: ÁYI̱PA VILLAGE
+- title: Frybread Making Demonstration
+  hour: 3:00 PM
+  category: Culture
+  style: culture
+  location: ÁYI̱PA VILLAGE
 - title: EAGLESCRY SOCIAL DANCERS
   hour: 3:00 PM
   category: Culture
@@ -99,6 +99,10 @@
   category: Culture
   style: culture
   location: Dance Grounds
+- title: Performance by HORIZON
+  hour: 4:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 # - title: Scales, Tails & Teeth Show
 #   hour: 4:30 PM
 #   category:
@@ -108,6 +112,10 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: Pushmataha Division&#58; Game 8 Watch Party
+  hour: 5:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: CONEHATTA SOCIAL DANCERS
   hour: 5:00 PM
   category: Culture
@@ -163,7 +171,7 @@
 #   category: family fun
 #   style: family
 #   location: Midway
-# - title: Gates Close
-#   hour: 12:00 AM
-#   category:
-#   location: Fairgrounds
+- title: Gates Close
+  hour: 12:00 AM
+  category:
+  location: Fairgrounds

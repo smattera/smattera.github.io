@@ -1,8 +1,8 @@
 # Fri, Jul 12, 2024
-# - title: Gates Open
-#   hour: 10:00 AM
-#   category:
-#   location: Fairgrounds
+- title: Gates Open
+  hour: 10:00 AM
+  category:
+  location: Fairgrounds
 - title: CHOCTAW TRIBAL ELDERS SOCIAL DANCERS
   hour: 10:00 AM
   category: Culture
@@ -277,7 +277,7 @@
 #   category: family fun
 #   style: family
 #   location: Midway
-# - title: Gates Close
-#   hour: 12:00 AM
-#   category:
-#   location: Fairgrounds
+- title: Gates Close
+  hour: 12:00 AM
+  category:
+  location: Fairgrounds

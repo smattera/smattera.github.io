@@ -1,18 +1,13 @@
 # Wed, Jul 10, 2024
-# - title: Gates Open
-#   hour: 11:00 AM
-#   category:
-#   location: Fairgrounds
+- title: Gates Open
+  hour: 11:00 AM
+  category:
+  location: Fairgrounds
 - title: ONE FEATHER SOCIAL DANCE GROUP
   hour: 11:00 AM
   category: Culture
   style: culture
   location: Dance Grounds
-# - title: Registration Opens for Little Mr. & Miss CIF Pageant
-#   hour: 11:00 AM
-#   category: Competitions
-#   style: competitions
-#   location: ÁYI̱PA VILLAGE
 - title: Farewell Visit for 2023-2024 Choctaw Indian Princess Nalani Luzmaria Thompson
   hour: 11:45 AM
   category: Pageant
@@ -23,10 +18,15 @@
   category: Culture
   style: culture
   location: Dance Grounds
-# - title: Performance by Christopher Hunter
-#   hour: 12:30 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: Registration Opens for Little Mr. & Miss CIF Pageant
+  hour: 12:00 PM
+  category: Competitions
+  style: competitions
+  location: ÁYI̱PA VILLAGE
+- title: Performance by NATIVE DREAMERZ
+  hour: 12:30 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Introduction of Visiting Princesses
   hour: 12:45 PM
   category: Pageant
@@ -37,11 +37,11 @@
   category: Culture
   style: culture
   location: Dance Grounds
-# - title: Little Mr. & Miss Choctaw Indian Fair Pageant
-#   hour: 1:00 PM
-#   category: Competitions
-#   style: competitions
-#   location: ÁYI̱PA VILLAGE
+- title: Little Mr. & Miss Choctaw Indian Fair Pageant
+  hour: 1:00 PM
+  category: Competitions
+  style: competitions
+  location: ÁYI̱PA VILLAGE
 # - title: Storytelling
 #   hour: 1:45 PM
 #   category: Culture
@@ -77,6 +77,10 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: Pushmataha Division&#58; Game 6 Watch Party
+  hour: 4:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: John Levi Bell, Sr Social Dancers
   hour: 5:00 PM
   category: Culture
@@ -87,38 +91,42 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-# - title: Opening Ceremonies
-#   hour: 6:00 PM
-#   category:
-#   location: Main Stage
-# - title: Opening Ceremonies Watch Party
-#   hour: 6:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
-# - title: 68th Choctaw Indian Princess Pageant
-#   hour: 7:00 PM
-#   category: Pageant
-#   style: pageant
-#   location: Main Stage
-# - title: Choctaw Indian Princess Pageant Watch Party
-#   hour: 7:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: Tulli Okchi Ishko Division&#58; Game 4 Watch Party
+  hour: 5:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
+- title: Opening Ceremonies
+  hour: 6:00 PM
+  category:
+  location: Main Stage
+- title: Opening Ceremonies Watch Party
+  hour: 6:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
+- title: 68th Choctaw Indian Princess Pageant
+  hour: 7:00 PM
+  category: Pageant
+  style: pageant
+  location: Main Stage
+- title: Choctaw Indian Princess Pageant Watch Party
+  hour: 7:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Men's Division&#58; Game 9
   hour: 10:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-# - title: World Series Stickball Watch Party
-#   hour: 10:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: Men's Divison&#58; Game 9 Watch Party
+  hour: 10:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 # - title: Midway Closes
 #   hour: 12:00 AM
 #   category: family fun
 #   style: family
 #   location: Midway
-# - title: Gates Close
-#   hour: 12:00 AM
-#   category:
-#   location: Fairgrounds
+- title: Gates Close
+  hour: 12:00 AM
+  category:
+  location: Fairgrounds
