@@ -35,18 +35,20 @@
   secondAction: Social Form
 
 - image: openCornhole
-  title: Open Cornhole Tournament
-  desc: Free Fair Admission with Team Entry Fee ($60). Bracket Style / Double Elimination. Cash prizes for 1st, 2nd, and 3rd Place teams!
-  alert: Details coming soon!
-  # firstLink: https://forms.office.com/r/dre886jmaJ
-  # firstAction: Register Online
+  title: Central MS Cornhole & Good Times Regional &#35;10
+  desc: Open to all ages and skill levels. Click the link below for more details.
+  alert: Registration starts at 8:45 AM on July 13, 2024
+  firstLink: https://www.facebook.com/events/1389799201735791
+  firstAction: More Details
 
 - image: gospelNight
   title: Gospel Night
   desc: Gospel Night is the first concert of the Choctaw Indian Fair where Christian music groups and soloists perform at Áyi̱pa Village.
   alert: Details coming soon!
-  # firstLink: https://forms.office.com/r/VjdyU3SPyC
-  # firstAction: Register Online
+  firstLink: ../assets/pdf/2024 Gospel Night Flyer.pdf
+  firstAction: Download Flyer
+  # secondLink: https://forms.office.com/r/VjdyU3SPyC
+  # secondAction: Register Online
 
 - image: bracketology
   title: Bracketology
