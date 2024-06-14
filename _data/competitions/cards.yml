@@ -47,8 +47,8 @@
   alert: Details coming soon!
   firstLink: ../assets/pdf/2024 Gospel Night Flyer.pdf
   firstAction: Download Flyer
-  # secondLink: https://forms.office.com/r/VjdyU3SPyC
-  # secondAction: Register Online
+  secondLink: ../assets/pdf/2024 Gospel Night Entry Form.pdf
+  secondAction: Download Form
 
 - image: bracketology
   title: Bracketology
