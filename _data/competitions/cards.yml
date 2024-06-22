@@ -53,9 +53,11 @@
 - image: bracketology
   title: Bracketology
   desc: Bracketology is an exciting opportunity for WSS fans to predict the outcomes of the Men's WSS Tournament.
-  alert: Details coming soon!
-  # firstLink: https://forms.office.com/r/p7pJMrC9xE
-  # firstAction: Register Online
+  alert: Register by June 28, 2024 @ 4:30 PM
+  firstLink: Men's Division
+  firstAction: https://woobox.com/gimjoi
+  secondLink: Women's Division
+  secondAction: https://woobox.com/z59hve
 
 - image: lil-pageant
   title: Little Mr. & Miss. Choctaw Indian Fair Pageant
