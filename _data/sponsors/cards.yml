@@ -1,63 +1,8 @@
-# PLATINUM SPONSORS
-- level: platinum
-  url: https://www.pearlriverresort.com
-  file: pearlriver2
-  alt: Pearl River Resort
-  class: active
-- level: platinum
-  url: https://www.fabicash.com
-  file: fabi
-  alt: FABI (First American Bank)
-- level: platinum
-  url: http://pryormorrow.com
-  file: pryormorrow
-  alt: Pryor Morrow
-- level: platinum
-  url: https://yates.doitbest.com
-  file: yates
-  alt: Yates
-- level: platinum
-  url: https://www.trustmark.com
-  file: trustmark
-  alt: Trustmark Bank
-- level: platinum
-  url: https://www.unum.com
-  file: sis
-  alt: Walt Schrimpf (SIS-UNUM)
-
 # GOLD SPONSORS
-- level: gold
-  url: https://www.ajg.com
-  file: gallagher
-  alt: AJ Gallagher
-- level: gold
-  url: https://www.bcbsms.com
-  file: bluecross
-  alt: Blue Cross Blue Shield
 - level: gold
   url: https://www.cricpa.com
   file: cri
   alt: Carr, Riggs & Ingram, LLC
-- level: gold
-  url: https://www.hnrsupply.com
-  file: hotelsupply
-  alt: Hotel & Restaurant Supply
-- level: gold
-  url: https://www.chahtaholdingroup.com/ikbi
-  file: ikbi
-  alt: IKBI
-- level: gold
-  url: https://merchantsfoodservice.com
-  file: merchants
-  alt: Merchants Food Service
-- level: gold
-  url: https://www.performancefoodservice.com
-  file: performancefood
-  alt: Performance Food Services
-- level: gold
-  url: http://www.pileum.com
-  file: pileum
-  alt: Pileum
 
 # SILVER SPONSORS
 - level: silver
