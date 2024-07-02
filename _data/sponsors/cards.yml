@@ -1,63 +1,8 @@
-# PLATINUM SPONSORS
-- level: platinum
-  url: https://www.pearlriverresort.com
-  file: pearlriver2
-  alt: Pearl River Resort
-  class: active
-- level: platinum
-  url: https://www.fabicash.com
-  file: fabi 
-  alt: FABI (First American Bank)
-- level: platinum
-  url: http://pryormorrow.com
-  file: pryormorrow
-  alt: Pryor Morrow
-- level: platinum
-  url: https://yates.doitbest.com
-  file: yates
-  alt: Yates
-- level: platinum
-  url: https://www.trustmark.com
-  file: trustmark
-  alt: Trustmark Bank
-- level: platinum
-  url: https://www.unum.com
-  file: sis
-  alt: Walt Schrimpf (SIS-UNUM)
-
 # GOLD SPONSORS
-- level: gold
-  url: https://www.ajg.com
-  file: gallagher
-  alt: AJ Gallagher
-- level: gold
-  url: https://www.bcbsms.com
-  file: bluecross
-  alt: Blue Cross Blue Shield
 - level: gold
   url: https://www.cricpa.com
   file: cri
   alt: Carr, Riggs & Ingram, LLC
-- level: gold
-  url: https://www.hnrsupply.com
-  file: hotelsupply
-  alt: Hotel & Restaurant Supply
-- level: gold
-  url: https://www.chahtaholdingroup.com/ikbi
-  file: ikbi
-  alt: IKBI
-- level: gold
-  url: https://merchantsfoodservice.com
-  file: merchants
-  alt: Merchants Food Service
-- level: gold
-  url: https://www.performancefoodservice.com
-  file: performancefood
-  alt: Performance Food Services
-- level: gold
-  url: http://www.pileum.com
-  file: pileum
-  alt: Pileum
 
 # SILVER SPONSORS
 - level: silver
@@ -97,7 +42,7 @@
   file: mclain
   alt: McLain Plumbing
 - level: silver
-#  url:
+  #  url:
   file: morton
   alt: Morton Construction
 - level: silver
@@ -164,11 +109,11 @@
   file: dnw
   alt: D&W Tire & Muffler Center
 - level: bronze
-#  url:
+  #  url:
   file: erg
   alt: Engineering Resource Group
 - level: bronze
-#  url: 
+  #  url:
   file: gilmer
   alt: Gilmer Electric
 - level: bronze
@@ -217,7 +162,7 @@
   alt: Robertson Produce
 - level: bronze
   url: https://www.statesystemsinc.com
-  file: ssi 
+  file: ssi
   alt: State Systems Inc.
 - level: bronze
   url: https://www.trane.com/index.html
@@ -237,14 +182,12 @@
   alt: Williams Brothers
 - level: bronze
   ur: https://www.petrey.com
-  file: petrey 
+  file: petrey
   alt: W.L. Petrey
 - level: bronze
   url: https://www.woodfruitticher.com
   file: woodfruit
   alt: Wood Fruitticher
-
-
 # PREVIOUS SPONSORS
 # - level: bronze
 #   url: https://www.jacksoncom.com
@@ -303,7 +246,7 @@
 #   file: kirk
 #   alt: Kirk Auto
 # - level: bronze
-# #  url: 
+# #  url:
 #   file: holisso
 #   alt: Holisso
 # - level: bronze

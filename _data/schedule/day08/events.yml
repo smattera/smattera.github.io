@@ -1,9 +1,9 @@
-# Thu, Jul 13, 2023
+# Thu, Jul 11, 2024
 - title: Gates Open
   hour: 11:00 AM
-  category: 
+  category:
   location: Fairgrounds
-- title: GENERATION
+- title: KÍ HILHA
   hour: 11:00 AM
   category: Culture
   style: culture
@@ -12,103 +12,111 @@
 #   hour: 11:00 AM
 #   category:
 #   location: O̱SSI COVE
-- title: INTRODUCTION OF 2023-2024 CHOCTAW INDIAN PRINCESS
+- title: INTRODUCTION OF 2024-2025 CHOCTAW INDIAN PRINCESS
   hour: 11:45 AM
   category: Pageant
   style: pageant
   location: Dance Grounds
-- title: PEARL RIVER SOCIAL DANCERS 
+- title: STANDING PINE SOCIAL DANCERS
   hour: 12:00 PM
   category: Culture
   style: culture
   location: Dance Grounds
-# - title: Michelle's Magical Poodle Show
-#   hour: 12:00 PM
-#   category:
-#   location: ÁYI̱PA VILLAGE
+- title: Michelle's Magical Poodle Show
+  hour: 12:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Introduction of Visiting Princesses
   hour: 12:45 PM
   category: Pageant
   style: pageant
   location: Dance Grounds
-- title: OKLAH CHAHTA HILHA HAPÍYA
+- title: CHOCTAW TRIBAL SOCIAL DANCERS
   hour: 1:00 PM
   category: Culture
   style: culture
   location: Dance Grounds
-- title: Iron Warrior&#58; Women's Time Trials Begin
-  hour: 1:00 PM
-  category: Competitions
-  style: competitions
-  location: In Front Of Exhibit Hall
+# - title: Iron Warrior&#58; Women's Time Trials Begin
+#   hour: 1:00 PM
+#   category: Competitions
+#   style: competitions
+#   location: In Front Of Exhibit Hall
 - title: Watermelon Eating Contest
   hour: 1:00 PM
   category: Competitions
   style: competitions
   location: ÁYI̱PA VILLAGE
-- title: Storytelling
-  hour: 1:45 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: CHOCTAW TRIBAL SOCIAL DANCERS
+# - title: Storytelling
+#   hour: 1:45 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+- title: PUSHMATAHA HILHA ALHÍHA
   hour: 2:00 PM
   category: Culture
   style: culture
   location: Dance Grounds
-- title: TRIVIA CONTEST
+- title: CIF TRIVIA CONTEST
   hour: 2:00 PM
   category: Competitions
   style: competitions
   location: ÁYI̱PA VILLAGE
-- title: Scales, Tails & Teeth Show
-  hour: 2:30 PM
-  category:
-  location: O̱SSI COVE
-- title: Storytelling
-  hour: 2:45 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: Iron Warrior&#58; Men's Time Trials Begin
-  hour: 3:00 PM
-  category: Competitions
-  style: competitions
-  location: In Front Of Exhibit Hall
+# - title: Scales, Tails & Teeth Show
+#   hour: 2:30 PM
+#   category:
+#   location: O̱SSI COVE
+# - title: Storytelling
+#   hour: 2:45 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+# - title: Iron Warrior&#58; Men's Time Trials Begin
+#   hour: 3:00 PM
+#   category: Competitions
+#   style: competitions
+#   location: In Front Of Exhibit Hall
 - title: Frybread Making Demonstration
   hour: 3:00 PM
   category: Culture
   style: culture
   location: ÁYI̱PA VILLAGE
-- title: CHAHTA ALLA CHIPO̱NTA HICHA HIMITTOWA ALHÍHA 
+- title: EAGLESCRY SOCIAL DANCERS
   hour: 3:00 PM
   category: Culture
   style: culture
   location: Dance Grounds
-- title: Midway Opens
-  hour: 3:00 PM
-  category: family fun
-  style: family
-  location: Midway
+# - title: Midway Opens
+#   hour: 3:00 PM
+#   category: family fun
+#   style: family
+#   location: Midway
 # - title: Birds & Exotics of the World Show
 #   hour: 3:30 PM
 #   category:
 #   location: O̱SSI COVE
-- title: ACHAFFAH HAPÍYAH
+- title: ITTAYYOKLA SOCIAL DANCERS
   hour: 4:00 PM
   category: Culture
   style: culture
   location: Dance Grounds
-- title: Scales, Tails & Teeth Show
-  hour: 4:30 PM
+- title: Performance by HORIZON
+  hour: 4:00 PM
   category:
-  location: O̱SSI COVE
+  location: ÁYI̱PA VILLAGE
+# - title: Scales, Tails & Teeth Show
+#   hour: 4:30 PM
+#   category:
+#   location: O̱SSI COVE
 - title: Pushmataha Division&#58; Game 7
   hour: 5:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: BOGUE CHITTO YOUTH SOCIAL DANCERS &#35;1
+- title: Pushmataha Division&#58; Game 8 Watch Party
+  hour: 5:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
+- title: CONEHATTA SOCIAL DANCERS
   hour: 5:00 PM
   category: Culture
   style: culture
@@ -117,7 +125,7 @@
 #   hour: 5:30 PM
 #   category:
 #   location: O̱SSI COVE
-- title: Tulli Okchi Ishko (14-17) Division&#58; Game 6
+- title: Tulli Okchi Ishko (14-17) Division&#58; Game 5
   hour: 6:00 PM
   category: world series stickball
   style: stickball
@@ -131,39 +139,39 @@
 #   hour: 6:00 PM
 #   category:
 #   location: O̱SSI COVE
-- title: HILHACHI ALHIHA 
-  hour: 6:00 PM
-  category: Culture
-  style: culture
-  location: Main Stage
-- title: Performance by Rez Dawgs
-  hour: 6:00 PM 
-  category: 
-  location: ÁYI̱PA VILLAGE
-- title: BOGUE CHITTO YOUTH SOCIAL DANCERS &#35;2
+# - title: HILHACHI ALHIHA
+#   hour: 6:00 PM
+#   category: Culture
+#   style: culture
+#   location: Main Stage
+# - title: Performance by Rez Dawgs
+#   hour: 6:00 PM
+#   category:
+#   location: ÁYI̱PA VILLAGE
+- title: FANI LAKNA
   hour: 7:00 PM
   category: Culture
   style: culture
   location: Main Stage
-- title: Jeremy Camp in Concert
-  hour: 8:30 PM
-  category: 
-  location: Main Stage
-- title: Men's Division&#58; Game 9
+# - title: Jeremy Camp in Concert
+#   hour: 8:30 PM
+#   category:
+#   location: Main Stage
+- title: Men's Division&#58; Game 10
   hour: 10:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: World Series Stickball Watch Party
-  hour: 10:00 PM
-  category:
-  location: ÁYI̱PA VILLAGE
-- title: Midway Closes
-  hour: 12:00 AM
-  category: family fun
-  style: family
-  location: Midway
+# - title: World Series Stickball Watch Party
+#   hour: 10:00 PM
+#   category:
+#   location: ÁYI̱PA VILLAGE
+# - title: Midway Closes
+#   hour: 12:00 AM
+#   category: family fun
+#   style: family
+#   location: Midway
 - title: Gates Close
   hour: 12:00 AM
-  category: 
+  category:
   location: Fairgrounds

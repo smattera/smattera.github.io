@@ -1,38 +1,38 @@
-# Wed, Jul 12, 2023
+# Wed, Jul 10, 2024
 - title: Gates Open
   hour: 11:00 AM
-  category: 
+  category:
   location: Fairgrounds
-- title: Happy Feet Social Dancers
+- title: ONE FEATHER SOCIAL DANCE GROUP
   hour: 11:00 AM
   category: Culture
   style: culture
   location: Dance Grounds
-- title: Registration Opens for Little Mr. & Miss CIF Pageant
-  hour: 11:00 AM
-  category: Competitions
-  style: competitions
-  location: ÁYI̱PA VILLAGE
-- title: Farewell Visit for 2022-2023 Choctaw Indian Princess Cadence Raine Nickey
+- title: Farewell Visit for 2023-2024 Choctaw Indian Princess Nalani Luzmaria Thompson
   hour: 11:45 AM
   category: Pageant
   style: pageant
   location: Dance Grounds
-- title: HIMMIFFOWA ALHÍYA 
+- title: BOYS & GIRLS CLUBS&#58; CHAHTA ALLA HILHA
   hour: 12:00 PM
   category: Culture
   style: culture
   location: Dance Grounds
-- title: Performance by Christopher Hunter
-  hour: 12:30 PM 
-  category: 
+- title: Registration Opens for Little Mr. & Miss CIF Pageant
+  hour: 12:00 PM
+  category: Competitions
+  style: competitions
   location: ÁYI̱PA VILLAGE
-- title: Storytelling
+- title: Performance by NATIVE DREAMERZ
+  hour: 12:30 PM
+  category:
+  location: ÁYI̱PA VILLAGE
+- title: Introduction of Visiting Princesses
   hour: 12:45 PM
-  category: Culture
-  style: culture
+  category: Pageant
+  style: pageant
   location: Dance Grounds
-- title: BOGUE CHITTO SOCIAL DANCERS 
+- title: KONI HATA HIMMITA OKLA HILHA ALHÍHA
   hour: 1:00 PM
   category: Culture
   style: culture
@@ -42,32 +42,32 @@
   category: Competitions
   style: competitions
   location: ÁYI̱PA VILLAGE
-- title: Storytelling
-  hour: 1:45 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: BIG CREEK SOCIAL DANCERS 
+# - title: Storytelling
+#   hour: 1:45 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+- title: BÓK CHITO YOUTH SOCIAL DANCERS
   hour: 2:00 PM
   category: Culture
   style: culture
   location: Dance Grounds
-- title: Storytelling
-  hour: 2:45 PM
-  category: Culture
-  style: culture
-  location: Dance Grounds
-- title: ITTIBÁ HÍLI
+# - title: Storytelling
+#   hour: 2:45 PM
+#   category: Culture
+#   style: culture
+#   location: Dance Grounds
+- title: BAHCHA MALATA HILHA ALHÍHA
   hour: 3:00 PM
   category: Culture
   style: culture
   location: Dance Grounds
-- title: Midway Opens
-  hour: 3:00 PM
-  category: family fun
-  style: family
-  location: Midway
-- title: MYSTIC WIND CHOCTAW SOCIAL DANCE GROUP 
+# - title: Midway Opens
+#   hour: 3:00 PM
+#   category: family fun
+#   style: family
+#   location: Midway
+- title: CHAHTA ALLA YOUTH COUNCIL
   hour: 4:00 PM
   category: Culture
   style: culture
@@ -77,19 +77,27 @@
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: CHAHTA HILHA IK HAPI̱ KANÍYO KIYA
+- title: Pushmataha Division&#58; Game 6 Watch Party
+  hour: 4:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
+- title: John Levi Bell, Sr Social Dancers
   hour: 5:00 PM
   category: Culture
   style: culture
-  location: Dance Grounds
-- title: Tulli Okchi Ishko Division&#58; Game 5
+  location: Main Stage
+- title: Tulli Okchi Ishko Division&#58; Game 4
   hour: 5:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
+- title: Tulli Okchi Ishko Division&#58; Game 4 Watch Party
+  hour: 5:00 PM
+  category:
+  location: ÁYI̱PA VILLAGE
 - title: Opening Ceremonies
   hour: 6:00 PM
-  category: 
+  category:
   location: Main Stage
 - title: Opening Ceremonies Watch Party
   hour: 6:00 PM
@@ -102,23 +110,23 @@
   location: Main Stage
 - title: Choctaw Indian Princess Pageant Watch Party
   hour: 7:00 PM
-  category: 
+  category:
   location: ÁYI̱PA VILLAGE
-- title: Men's Division&#58; Game 8
+- title: Men's Division&#58; Game 9
   hour: 10:00 PM
   category: world series stickball
   style: stickball
   location: Warrior Stadium
-- title: World Series Stickball Watch Party
+- title: Men's Divison&#58; Game 9 Watch Party
   hour: 10:00 PM
   category:
   location: ÁYI̱PA VILLAGE
-- title: Midway Closes
-  hour: 12:00 AM
-  category: family fun
-  style: family
-  location: Midway
+# - title: Midway Closes
+#   hour: 12:00 AM
+#   category: family fun
+#   style: family
+#   location: Midway
 - title: Gates Close
   hour: 12:00 AM
-  category: 
+  category:
   location: Fairgrounds
